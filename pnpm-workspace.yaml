@@ -1,0 +1,6 @@
+packages:
+  - "web"
+  - "data-pipelines"
+  - "packages/*"
+  - "vendor/*"
+
