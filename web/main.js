@@ -16,7 +16,9 @@ export async function loadCommon() {
   try {
     const idxRes = await fetch(`${DATA_BASE}/sightings_index.json`);
     if (idxRes.ok) SIGHTINGS_INDEX = await idxRes.json();
-  } catch {}
+  } catch (e) {
+    // Silently handle missing sightings index
+  }
 }
 
 function buildFuse(){
@@ -26,7 +28,23 @@ function buildFuse(){
 export function labelOf(sci){
   const e = COMMON_BY_SCI[sci];
   if (!e) return sciPretty(sci);
-  return `${e.common} (${sciPretty(sci)})`;
+  
+  // Extract clean English name from the verbose common name
+  const cleanName = extractCleanName(e.common);
+  return `${cleanName} (${sciPretty(sci)})`;
+}
+
+function extractCleanName(verboseName) {
+  // Remove German translations and subspecies info
+  // Look for the main English name before semicolons or brackets
+  const parts = verboseName.split(/[;[]/);
+  const mainPart = parts[0].trim();
+  
+  // Handle cases with multiple English names separated by commas
+  const englishNames = mainPart.split(',').map(name => name.trim());
+  
+  // Return the first clean English name (usually the most common one)
+  return englishNames[0];
 }
 
 export function sciPretty(sci){ return (sci || '').replace(/_/g, ' '); }
@@ -50,12 +68,22 @@ const selected = new Set();
 let selectionListeners = [];
 
 export function onSelectionChange(cb){ selectionListeners.push(cb); }
-function emitSelection(){ for (const cb of selectionListeners) cb(Array.from(selected)); renderSelectedPanel(); }
+function emitSelection(){ 
+  for (const cb of selectionListeners) {
+    cb(Array.from(selected));
+  }
+  renderSelectedPanel(); 
+}
 export function getSelection(){ return Array.from(selected); }
 
 export function toggleSpecies(sci){ if (selected.has(sci)) selected.delete(sci); else selected.add(sci); emitSelection(); }
 export function clearSelection(){ selected.clear(); emitSelection(); }
-export function selectAllSpecies(){ for (const e of COMMON.slice(0, 5)) selected.add(e.sci); emitSelection(); }
+export function selectAllSpecies(){ 
+  for (const e of COMMON) {
+    selected.add(e.sci);
+  }
+  emitSelection(); 
+}
 
 export function attachSearch() {
   const input = document.getElementById('search');
@@ -69,12 +97,14 @@ export function attachSearch() {
       const li = document.createElement('li');
       li.dataset.sci = e.sci;
       const idx = SIGHTINGS_INDEX.find(x => x.sci === e.sci);
-      const countBadge = idx ? `<span class="badge">${idx.count.toLocaleString()} sightings</span>` : '';
+      const countBadge = idx && idx.count ? `<span class="badge">${idx.count.toLocaleString()} sightings</span>` : '';
       const label = labelOf(e.sci);
+      const cleanName = label.split(' (')[0];
+      const sciName = sciPretty(e.sci);
       li.innerHTML = `
         <span class="swatch" style="background:${colorFor(e.sci)};"></span>
-        <span class="common">${label.split(' (')[0]}</span>
-        <span class="sci">(${sciPretty(e.sci)})</span>
+        <span class="common">${cleanName}</span>
+        <span class="sci">(${sciName})</span>
         ${countBadge}
       `;
       if (selected.has(e.sci)) li.classList.add('selected');
@@ -178,10 +208,13 @@ function renderSelectedPanel(){
   ul.innerHTML = '';
   for (const sci of selected) {
     const li = document.createElement('li');
+    const label = labelOf(sci);
+    const cleanName = label.split(' (')[0];
+    const sciName = sciPretty(sci);
     li.innerHTML = `
       <span class="swatch" style="background:${colorFor(sci)};"></span>
-      <span class="common">${labelOf(sci).split(' (')[0]}</span>
-      <span class="sci">(${sciPretty(sci)})</span>
+      <span class="common">${cleanName}</span>
+      <span class="sci">(${sciName})</span>
     `;
     ul.appendChild(li);
   }

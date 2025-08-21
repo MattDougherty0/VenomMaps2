@@ -16,6 +16,7 @@
     <header class="topbar">
       <div class="brand">VenomMaps (USA)</div>
       <input id="search" class="search" placeholder="Search by common or scientific name…" autocomplete="off" />
+      <button id="theme-toggle" class="theme-toggle">🌙 Dark</button>
     </header>
 
     <div class="layout">
@@ -30,7 +31,7 @@
         <ul id="nearby" class="results nearby" style="display:none"></ul>
         <div id="nearby-hint" class="hint" style="display:none">Pan/zoom the map to update.</div>
 
-        <div class="section-title" style="margin-top:16px;">Sightings</div>
+        <div class="section-title">Sightings</div>
         <div style="display:flex; align-items:center; gap:8px; margin: 6px 2px;">
           <label><input id="sightings-toggle" type="checkbox"> Show sightings</label>
           <span id="sightings-count" class="hint" style="margin-left:auto;"></span>
@@ -39,23 +40,25 @@
           <input id="heat-toggle" type="checkbox"> Historical heat (all records)
         </label>
         <div class="chips">
-          <button class="chip" data-days="all">All</button>
+          <button class="chip active" data-days="all">All</button>
           <button class="chip" data-days="7">7d</button>
           <button class="chip" data-days="30">30d</button>
           <button class="chip" data-days="90">90d</button>
           <button class="chip" data-days="365">1y</button>
         </div>
 
-        <div class="section-title" style="margin-top:16px; display:flex; align-items:center; justify-content:space-between;">
+        <div class="section-title">
           <span>Legend (selected species)</span>
           <button id="clear-selected" class="clear-btn" title="Clear all">Clear</button>
         </div>
         <ul id="legend" class="results selected-list"></ul>
 
-        <div class="section-title" style="margin-top:16px;">Performance</div>
-        <label style="display:flex; align-items:center; gap:8px;">
-          <input id="defer-ranges" type="checkbox" checked> Defer ranges while panning
-        </label>
+        <div class="performance-section">
+          <div class="section-title">Performance</div>
+          <label>
+            <input id="defer-ranges" type="checkbox" checked> Defer ranges while panning
+          </label>
+        </div>
       </aside>
 
       <main id="map"></main>
@@ -90,12 +93,7 @@
       const toggle = document.getElementById('sightings-toggle');
       toggle.addEventListener('change', () => setSightingsVisible(toggle.checked));
 
-      for (const btn of document.querySelectorAll('.chip')) {
-        btn.addEventListener('click', () => {
-          const v = btn.dataset.days;
-          setRecencyDays(v === 'all' ? null : parseInt(v, 10));
-        });
-      }
+
 
       const defer = document.getElementById('defer-ranges');
       defer.addEventListener('change', () => setDeferRanges(defer.checked));
@@ -106,6 +104,34 @@
         const { toggleHeatLayer } = await import('./map.js');
         toggleHeatLayer(heatToggle.checked, m);
       });
+
+      // Dark mode toggle
+      const themeToggle = document.getElementById('theme-toggle');
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+      updateThemeButton(savedTheme);
+      
+      themeToggle.addEventListener('click', () => {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+        updateThemeButton(newTheme);
+      });
+
+      function updateThemeButton(theme) {
+        themeToggle.textContent = theme === 'dark' ? '☀️ Light' : '🌙 Dark';
+      }
+
+      // Chip active states
+      for (const btn of document.querySelectorAll('.chip')) {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+          btn.classList.add('active');
+          const v = btn.dataset.days;
+          setRecencyDays(v === 'all' ? null : parseInt(v, 10));
+        });
+      }
     </script>
   </body>
   </html>

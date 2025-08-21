@@ -32,10 +32,15 @@ export function setSelection(arr) {
   hasSelection = Array.isArray(arr) && arr.length > 0;
   for (const [k, layer] of layers) { map.removeLayer(layer); }
   layers.clear();
-  if (!arr || !arr.length) { renderAllRanges(); return; }
+  if (!arr || !arr.length) {
+    renderAllRanges();
+    return;
+  }
   arr.forEach(async (sci) => {
     const geo = await loadGeoJSON(sci);
-    if (!geo) return;
+    if (!geo) {
+      return;
+    }
     const layer = L.geoJSON(geo, {
       style: { color: colorFor(sci), weight: 1.4, fillColor: colorFor(sci), fillOpacity: 0.15, smoothFactor: 1 },
       renderer: rangeRenderer
