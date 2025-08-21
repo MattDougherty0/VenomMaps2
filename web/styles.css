@@ -1,25 +1,5 @@
-/* CSS Variables for theming */
+/* CSS Variables for dark theme only */
 :root {
-  /* Light theme */
-  --bg-primary: #ffffff;
-  --bg-secondary: #f9fafb;
-  --bg-tertiary: #f3f4f6;
-  --text-primary: #111827;
-  --text-secondary: #374151;
-  --text-muted: #6b7280;
-  --border-primary: #e5e7eb;
-  --border-secondary: #d1d5db;
-  --accent-primary: #3b82f6;
-  --accent-secondary: #1d4ed8;
-  --success: #10b981;
-  --warning: #f59e0b;
-  --error: #ef4444;
-  --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-}
-
-/* Dark theme */
-[data-theme="dark"] {
   --bg-primary: #111827;
   --bg-secondary: #1f2937;
   --bg-tertiary: #374151;
@@ -77,22 +57,7 @@ body {
   letter-spacing: -0.025em;
 }
 
-.theme-toggle {
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-secondary);
-  border-radius: 8px;
-  padding: 8px 12px;
-  cursor: pointer;
-  color: var(--text-secondary);
-  font-size: 12px;
-  font-weight: 500;
-  transition: all 0.2s ease;
-}
 
-.theme-toggle:hover {
-  background: var(--bg-tertiary);
-  border-color: var(--border-primary);
-}
 
 .search { 
   flex: 1; 
@@ -371,8 +336,5 @@ label {
   outline-offset: 2px;
 }
 
-/* Animation for theme switching */
-* {
-  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
-}
+
 

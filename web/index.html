@@ -16,7 +16,7 @@
     <header class="topbar">
       <div class="brand">VenomMaps (USA)</div>
       <input id="search" class="search" placeholder="Search by common or scientific name…" autocomplete="off" />
-      <button id="theme-toggle" class="theme-toggle">🌙 Dark</button>
+
     </header>
 
     <div class="layout">
@@ -74,6 +74,9 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
     <script type="module">
+      // Always use dark theme
+      document.documentElement.setAttribute('data-theme', 'dark');
+      
       import { attachSearch, loadCommon, attachNearby, attachSelectedPanel, onSelectionChange, selectAllSpecies } from './main.js';
       import { initMap, setSelection, onMapMove, getViewBounds, getMap, setDeferRanges } from './map.js';
       import { initSightings, setSightingsVisible, setRecencyDays } from './sightings.js';
@@ -105,23 +108,7 @@
         toggleHeatLayer(heatToggle.checked, m);
       });
 
-      // Dark mode toggle
-      const themeToggle = document.getElementById('theme-toggle');
-      const savedTheme = localStorage.getItem('theme') || 'light';
-      document.documentElement.setAttribute('data-theme', savedTheme);
-      updateThemeButton(savedTheme);
-      
-      themeToggle.addEventListener('click', () => {
-        const currentTheme = document.documentElement.getAttribute('data-theme');
-        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        document.documentElement.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
-        updateThemeButton(newTheme);
-      });
 
-      function updateThemeButton(theme) {
-        themeToggle.textContent = theme === 'dark' ? '☀️ Light' : '🌙 Dark';
-      }
 
       // Chip active states
       for (const btn of document.querySelectorAll('.chip')) {
