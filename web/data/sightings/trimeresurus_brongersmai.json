@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.959679,
+          -1.499877
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_brongersmai",
+        "latitude": -1.499877,
+        "longitude": 98.959679,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1457584646",
+        "database_recorded_species": "Trimeresurus brongersmai",
+        "database_recorded_subspecies": "Trimeresurus brongersmai",
+        "taxonomy_updated_species": "Trimeresurus_brongersmai",
+        "taxonomy_updated_subspecies2": "Trimeresurus_brongersmai",
+        "final_species": "Trimeresurus_brongersmai",
+        "final_subspecies": "Trimeresurus_brongersmai",
+        "accuracy_m": 31446,
+        "country": "Indonesia",
+        "locality": "ID; Sumatera Barat; NA",
+        "voucher": "iNaturalist:Observations:5113060",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

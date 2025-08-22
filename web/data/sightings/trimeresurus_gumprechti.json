@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.731697,
+          19.698601
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gumprechti",
+        "latitude": 19.698601,
+        "longitude": 104.731697,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895452941",
+        "database_recorded_species": "Trimeresurus gumprechti",
+        "database_recorded_subspecies": "Trimeresurus gumprechti",
+        "taxonomy_updated_species": "Trimeresurus_gumprechti",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gumprechti",
+        "final_species": "Trimeresurus_gumprechti",
+        "final_subspecies": "Trimeresurus_gumprechti",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Nghe An; Pu Hoat Proposed Nature Reserve, Huoi Linh Stream",
+        "voucher": "NCSM:Herp:79773",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.739998,
+          19.700001
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gumprechti",
+        "latitude": 19.700001,
+        "longitude": 104.739998,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895452990",
+        "database_recorded_species": "Trimeresurus gumprechti",
+        "database_recorded_subspecies": "Trimeresurus gumprechti",
+        "taxonomy_updated_species": "Trimeresurus_gumprechti",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gumprechti",
+        "final_species": "Trimeresurus_gumprechti",
+        "final_subspecies": "Trimeresurus_gumprechti",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Nghe An; Pu Hoat Proposed Nature Reserve",
+        "voucher": "NCSM:Herp:79772",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.419197,
+          18.42
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gumprechti",
+        "latitude": 18.42,
+        "longitude": 104.419197,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895454074",
+        "database_recorded_species": "Trimeresurus gumprechti",
+        "database_recorded_subspecies": "Trimeresurus gumprechti",
+        "taxonomy_updated_species": "Trimeresurus_gumprechti",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gumprechti",
+        "final_species": "Trimeresurus_gumprechti",
+        "final_subspecies": "Trimeresurus_gumprechti",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Bolikhamxai; Nam Kading National Protected Area, 547 m elevation",
+        "voucher": "NCSM:Herp:80937",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

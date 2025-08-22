@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54338,
+          -9.011809
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_katangensis",
+        "latitude": -9.011809,
+        "longitude": 26.54338,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05132",
+        "database_recorded_species": "Atheris katangensis",
+        "database_recorded_subspecies": "Atheris katangensis",
+        "taxonomy_updated_species": "Atheris_katangensis",
+        "taxonomy_updated_subspecies2": "Atheris_katangensis",
+        "final_species": "Atheris_katangensis",
+        "final_subspecies": "Atheris_katangensis",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Upemba National Park, Democratic Republic of Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

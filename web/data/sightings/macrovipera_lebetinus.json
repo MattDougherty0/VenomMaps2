@@ -1,0 +1,4823 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.954922,
+          35.42937
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.42937,
+        "longitude": 46.954922,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1143519214",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "IR; Kordestan; NA",
+        "voucher": "iNaturalist:Observations:1601878",
+        "issue": "TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.729722,
+          40.1125
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.1125,
+        "longitude": 44.729722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211737689",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; NA; Garni",
+        "voucher": "ROM:Reptiles and Amphibians:21915",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.412,
+          39.008
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 39.008,
+        "longitude": 46.412,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769255",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Sunik; Shikahohg State Nature Reserve",
+        "voucher": "ROM:Reptiles and Amphibians:44292",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.412,
+          39.008
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 39.008,
+        "longitude": 46.412,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769294",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Sunik; Shikahohg State Nature Reserve",
+        "voucher": "ROM:Reptiles and Amphibians:44291",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.98,
+          35.03
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.03,
+        "longitude": 33.98,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317734809",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "CY; Famagusta; Paralimni",
+        "voucher": "USNM:Amphibians & Reptiles:166471",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3478,
+          35.4614
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.4614,
+        "longitude": 44.3478,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321153898",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iraq",
+        "locality": "IQ; Kirkuk Governorate; Kirkuk Air Force Base",
+        "voucher": "USNM:Amphibians & Reptiles:561812",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.367428,
+          34.884469
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.884469,
+        "longitude": 32.367428,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1890704521",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 7912,
+        "country": "Cyprus",
+        "locality": "CY; Paphos; NA",
+        "voucher": "iNaturalist:Observations:15182655",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.464367,
+          35.003333
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.003333,
+        "longitude": 32.464367,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_216113779",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "CY; NA; shortly after Steni on the roads to Polis",
+        "voucher": "SMF:Collection Herpetology:89088",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.37774,
+          41.448092
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.448092,
+        "longitude": 45.37774,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2243013225",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 488,
+        "country": "Georgia",
+        "locality": "GE; Kakheti; NA",
+        "voucher": "iNaturalist:Observations:25223136",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.774592,
+          34.723062
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.723062,
+        "longitude": 32.774592,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2244324462",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 3589,
+        "country": "Cyprus",
+        "locality": "CY; Limassol; NA",
+        "voucher": "iNaturalist:Observations:25610010",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.830371,
+          34.91983
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.91983,
+        "longitude": 32.830371,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2273327727",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 28762,
+        "country": "Cyprus",
+        "locality": "CY; Limassol; NA",
+        "voucher": "iNaturalist:Observations:27782763",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.968994,
+          34.572589
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.572589,
+        "longitude": 32.968994,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2283228695",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 67,
+        "country": "Akrotiri and Dhekelia",
+        "locality": "CY; Akrotiri; NA",
+        "voucher": "iNaturalist:Observations:28443774",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.355256,
+          41.473862
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.473862,
+        "longitude": 45.355256,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2350431330",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 78,
+        "country": "Georgia",
+        "locality": "GE; Kakheti; NA",
+        "voucher": "iNaturalist:Observations:30830386",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.422597,
+          37.46375
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.46375,
+        "longitude": 56.422597,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429328205",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 7774,
+        "country": "Iran",
+        "locality": "IR; North Khorasan; NA",
+        "voucher": "iNaturalist:Observations:33694278",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.616382,
+          34.861224
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.861224,
+        "longitude": 32.616382,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429417928",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 488,
+        "country": "Cyprus",
+        "locality": "CY; Paphos; NA",
+        "voucher": "iNaturalist:Observations:34003372",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.944931,
+          34.707585
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.707585,
+        "longitude": 32.944931,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429463717",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 28790,
+        "country": "Cyprus",
+        "locality": "CY; Akrotiri; NA",
+        "voucher": "iNaturalist:Observations:34061233",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.974219,
+          37.15026
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.15026,
+        "longitude": 57.974219,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429625927",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina cernovi",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_cernovi",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 1052,
+        "country": "Iran",
+        "locality": "IR; North Khorasan; NA",
+        "voucher": "iNaturalist:Observations:34506436",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.897295,
+          39.076201
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 39.076201,
+        "longitude": 46.897295,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2456562014",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 200,
+        "country": "Iran",
+        "locality": "IR; East Azarbaijan; NA",
+        "voucher": "iNaturalist:Observations:35581468",
+        "issue": "TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.92907,
+          38.9009
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.9009,
+        "longitude": 46.92907,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2456572508",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 1000,
+        "country": "Iran",
+        "locality": "IR; East Azarbaijan; NA",
+        "voucher": "iNaturalist:Observations:35620314",
+        "issue": "TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.74,
+          38.01
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.01,
+        "longitude": 57.74,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2549107460",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "TM; Ahal Welayaty; Germab",
+        "voucher": "NA:ZISP:ZISP 8482",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.63,
+          37.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.95,
+        "longitude": 66.63,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2549107461",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "TM; Lebap Welayaty; Khodja-Pil",
+        "voucher": "NA:ZISP:ZISP 10761, 1",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.74,
+          38.01
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.01,
+        "longitude": 57.74,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2549107493",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "TM; Ahal Welayaty; Germab",
+        "voucher": "NA:ZISP:ZISP 6476",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.408928,
+          34.776558
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.776558,
+        "longitude": 32.408928,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2580237946",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 244,
+        "country": "Cyprus",
+        "locality": "CY; Paphos; NA",
+        "voucher": "iNaturalist:Observations:40173186",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.137128,
+          36.02361
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.02361,
+        "longitude": 44.137128,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802588618",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 28592,
+        "country": "Iraq",
+        "locality": "IQ; Arbil; NA",
+        "voucher": "iNaturalist:Observations:45870306",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.650423,
+          34.742452
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.742452,
+        "longitude": 32.650423,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832091231",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 999,
+        "country": "Cyprus",
+        "locality": "CY; NA; Cyprus",
+        "voucher": "NA:Observations:OBS.42053482",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84238,
+          34.675308
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.675308,
+        "longitude": 32.84238,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2838673503",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 50,
+        "country": "Akrotiri and Dhekelia",
+        "locality": "CY; NA; Cyprus - Limassol",
+        "voucher": "NA:Observations:OBS.47263584",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.381194,
+          41.239613
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.239613,
+        "longitude": 46.381194,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2840282875",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 25,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Dedoplis Tskaro",
+        "voucher": "NA:Observations:OBS.137876586",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.551865,
+          34.723114
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.723114,
+        "longitude": 32.551865,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841154552",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 100,
+        "country": "Cyprus",
+        "locality": "CY; NA; Cyprus - Paphos",
+        "voucher": "NA:Observations:OBS.61485763",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.736283,
+          35.044631
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.044631,
+        "longitude": 32.736283,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841477679",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 10,
+        "country": "Cyprus",
+        "locality": "CY; NA; Cyprus - Nicosia",
+        "voucher": "NA:Observations:OBS.157709946",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.366711,
+          41.23635
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.23635,
+        "longitude": 46.366711,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841816211",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 25,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Dedoplis Tskaro",
+        "voucher": "NA:Observations:OBS.140266852",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.540569,
+          41.210823
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.210823,
+        "longitude": 46.540569,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2843745699",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 25,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Dedoplis Tskaro",
+        "voucher": "NA:Observations:OBS.137876187",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.28578,
+          41.87353
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.87353,
+        "longitude": 48.28578,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851056705",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 197,
+        "country": "Russia",
+        "locality": "RU; Dagestan; NA",
+        "voucher": "iNaturalist:Observations:55716520",
+        "issue": "TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.233508,
+          41.908203
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.908203,
+        "longitude": 48.233508,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2898296093",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Dagestan; NA",
+        "voucher": "iNaturalist:Observations:62472434",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.233508,
+          41.908203
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.908203,
+        "longitude": 48.233508,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2898329058",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Dagestan; NA",
+        "voucher": "iNaturalist:Observations:62472435",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.233033,
+          41.91147
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.91147,
+        "longitude": 48.233033,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988346880",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 5,
+        "country": "Russia",
+        "locality": "RU; Dagestan; NA",
+        "voucher": "iNaturalist:Observations:64794532",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90788,
+          36.725977
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.725977,
+        "longitude": 44.90788,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3005129167",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 244,
+        "country": "Iraq",
+        "locality": "IQ; Arbil; NA",
+        "voucher": "iNaturalist:Observations:66699286",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.223969,
+          42.994424
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 42.994424,
+        "longitude": 47.223969,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008528646",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 122,
+        "country": "Russia",
+        "locality": "RU; Dagestan; NA",
+        "voucher": "iNaturalist:Observations:66751444",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.116802,
+          43.030642
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 43.030642,
+        "longitude": 47.116802,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113624507",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 15,
+        "country": "Russia",
+        "locality": "RU; Dagestan; NA",
+        "voucher": "iNaturalist:Observations:78345321",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.108938,
+          43.040775
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 43.040775,
+        "longitude": 47.108938,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3118321888",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 200,
+        "country": "Russia",
+        "locality": "RU; Dagestan; NA",
+        "voucher": "iNaturalist:Observations:78891374",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.564151,
+          35.684266
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.684266,
+        "longitude": 52.564151,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314348321",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 244,
+        "country": "Iran",
+        "locality": "IR; Tehran; NA",
+        "voucher": "iNaturalist:Observations:84183434",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.303394,
+          38.941706
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.941706,
+        "longitude": 46.303394,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314397430",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Syunik; NA",
+        "voucher": "iNaturalist:Observations:75834871",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.960978,
+          36.258872
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.258872,
+        "longitude": 43.960978,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314464164",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 100,
+        "country": "Iraq",
+        "locality": "IQ; Arbil; NA",
+        "voucher": "iNaturalist:Observations:83981502",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.019181,
+          34.396405
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.396405,
+        "longitude": 47.019181,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333162883",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 61,
+        "country": "Iran",
+        "locality": "IR; Kermanshah; NA",
+        "voucher": "iNaturalist:Observations:88440425",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44,
+          33
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33,
+        "longitude": 44,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476497569",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 301,
+        "country": "Iraq",
+        "locality": "IQ; NA; Iraq:Havdian",
+        "voucher": "MCZ:Herp:R-58875",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          35
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35,
+        "longitude": 33,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476680371",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 167343,
+        "country": "Cyprus",
+        "locality": "CY; NA; Cyprus",
+        "voucher": "MCZ:Herp:R-28649",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.404911,
+          37.650656
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.650656,
+        "longitude": 58.404911,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543529744",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "TM; Ahal Prov.; Gaudan [37 42 N, 58 24 E]",
+        "voucher": "CAS:HERP:179735",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.360831,
+          37.299181
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.299181,
+        "longitude": 62.360831,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543686168",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "TM; Mary Prov.; Jolotan",
+        "voucher": "CAS:HERP:94492",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.549283,
+          40.140697
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.140697,
+        "longitude": 44.549283,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891072105",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": 12,
+        "country": "Armenia",
+        "locality": "AM; Erevan; NA",
+        "voucher": "iNaturalist:Observations:54951",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.498954,
+          40.187792
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.187792,
+        "longitude": 44.498954,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891072117",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Erevan; NA",
+        "voucher": "iNaturalist:Observations:54848",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.08964,
+          37.915366
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.915366,
+        "longitude": 58.08964,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00352",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Firjuza, Ahal, Turkmenistan",
+        "voucher": "CAS 179700",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.08964,
+          37.915366
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.915366,
+        "longitude": 58.08964,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00353",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Firjuza, Ahal, Turkmenistan",
+        "voucher": "CAS 179700",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.08964,
+          37.915366
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.915366,
+        "longitude": 58.08964,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00354",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Firjuza, Ahal, Turkmenistan",
+        "voucher": "CAS 179700",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.359,
+          37.29203
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.29203,
+        "longitude": 62.359,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00406",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Jolotan, Mary, Turkmenistan",
+        "voucher": "CAS 94492",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.359,
+          37.29203
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.29203,
+        "longitude": 62.359,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00407",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Jolotan, Mary, Turkmenistan",
+        "voucher": "CAS 94492",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.359,
+          37.29203
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.29203,
+        "longitude": 62.359,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00408",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Jolotan, Mary, Turkmenistan",
+        "voucher": "CAS 94492",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.89484,
+          37.776012
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.776012,
+        "longitude": 58.89484,
+        "date": "",
+        "source": "Tuniyev, B et al. 1998. Report on fauna of amphibians and reptiles from esatern kopet dag in turkmenistan",
+        "ID": "Martins06892",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus cernovi",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_cernovi",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Yashlyk, Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.97581,
+          37.02933
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.02933,
+        "longitude": 37.97581,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins06893",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus euphratica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_euphratica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Birecik, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.14528,
+          34.016389
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.016389,
+        "longitude": 44.14528,
+        "date": "",
+        "source": "Schmidt, KP. 1939. Reptiles and amphibians from southwestern asia. Zoological series of field museum of natural history, 24: 49-92",
+        "ID": "Martins06894",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus euphratica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_euphratica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iraq",
+        "locality": "Balad Sinjar, Iraq",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.88177,
+          35.148342
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.148342,
+        "longitude": 32.88177,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06895",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Pentageia, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.88177,
+          35.148342
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.148342,
+        "longitude": 32.88177,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06896",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Pentageia, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.94935,
+          35.117943
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.117943,
+        "longitude": 32.94935,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06897",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Angolemi, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.94935,
+          35.117943
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.117943,
+        "longitude": 32.94935,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06898",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Angolemi, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00061,
+          35.342589
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.342589,
+        "longitude": 33.00061,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06899",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Kormakitis, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00061,
+          35.342589
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.342589,
+        "longitude": 33.00061,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06900",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Kormakitis, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.02262,
+          34.70713
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.70713,
+        "longitude": 33.02262,
+        "date": "",
+        "source": "Herrmann, HW et al. 1992. Phylogeny and systematics of viperine snkaes. III resurrection of the genus Macrovipera (Reuss 1927) as suggested by biochemical evidence. Amphibia-Reptilia 13:375-392",
+        "ID": "Martins06901",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "Limassol, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.29249,
+          35.213387
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.213387,
+        "longitude": 33.29249,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06904",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞nyeli, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.29249,
+          35.213387
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.213387,
+        "longitude": 33.29249,
+        "date": "",
+        "source": "Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., N. Ka‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ot, M. Z. Yildiz, I. SAS, B. Akman,  D. Yal‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´inkaya, and S. Gucel. 2008. North-Western Journal of Zoology, 4(1):139-149.",
+        "ID": "Martins06905",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞nyeli, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.42986,
+          35.126413
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.126413,
+        "longitude": 33.42986,
+        "date": "",
+        "source": "Ananjeva et al. 2006.The reptiles of northern eurasia. taxonomic diversity, distribution, conservation status.",
+        "ID": "Martins06906",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "Cyprus Island",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.42986,
+          35.126413
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.126413,
+        "longitude": 33.42986,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins06907",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "Cyprus Island",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3064,
+          36.0772
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.0772,
+        "longitude": 36.3064,
+        "date": "",
+        "source": "Teyni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, A. 1987. Observations herpetologiques en Turquie. Iere partie. Bull. Soc. Herp. Fr. 43:9-18",
+        "ID": "Martins06912",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Altinozu (Kale), Prov. Hatay, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.38332,
+          37.06622
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.06622,
+        "longitude": 37.38332,
+        "date": "",
+        "source": "Herrmann, HW et al. 1992. Phylogeny and systematics of viperine snkaes. III resurrection of the genus Macrovipera (Reuss 1927) as suggested by biochemical evidence. Amphibia-Reptilia 13:375-392",
+        "ID": "Martins06913",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Gaziantep, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.458,
+          38.1358
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.1358,
+        "longitude": 39.458,
+        "date": "",
+        "source": "Teyni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, A. 1987. Observations herpetologiques en Turquie. Iere partie. Bull. Soc. Herp. Fr. 43:9-19",
+        "ID": "Martins06917",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Cermik Sud, Prov. Urfa, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          39.7025
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 39.7025,
+        "longitude": 44.3,
+        "date": "",
+        "source": "Herrmann, HW et al. 1992. Phylogeny and systematics of viperine snkaes. III resurrection of the genus Macrovipera (Reuss 1927) as suggested by biochemical evidence. Amphibia-Reptilia 13:375-392",
+        "ID": "Martins06923",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ararat, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.62456,
+          37.455235
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.455235,
+        "longitude": 45.62456,
+        "date": "",
+        "source": "ALIREZA, A ET AL. 2014. Biodiversity of the hypesaline urmia lake national park (NW Iran). Diversity, 6:102-132.",
+        "ID": "Martins06924",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Urmia Lake, Capsian Sea, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.00417,
+          33.708889
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.708889,
+        "longitude": 46.00417,
+        "date": "",
+        "source": "FATHINIA, B ET AL. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Animal Biosystematics 6: 9-23.",
+        "ID": "Martins06925",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Bina-Bijar, Ilam Province, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.16472,
+          33.122222
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.122222,
+        "longitude": 46.16472,
+        "date": "",
+        "source": "FATHINIA, B ET AL. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Animal Biosystematics 6: 9-23.",
+        "ID": "Martins06926",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Mehran, Ilam Province, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42278,
+          33.6375
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.6375,
+        "longitude": 46.42278,
+        "date": "",
+        "source": "FATHINIA, B ET AL. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Animal Biosystematics 6: 9-23.",
+        "ID": "Martins06928",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Ilam, Ilam Province, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.74785,
+          33.693835
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.693835,
+        "longitude": 46.74785,
+        "date": "",
+        "source": "FATHINIA, B ET AL. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Animal Biosystematics 6: 9-23.",
+        "ID": "Martins06929",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Shirvan-Chardavol, Ilam Province, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.05618,
+          42.504585
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 42.504585,
+        "longitude": 47.05618,
+        "date": "",
+        "source": "Tuniyev, BS. 1995. On the mediterranean influence on the formation of herpetofauna of the caucasian isthmus and its main xerophylous refugia. Russian Journal of Herpetology, 2: 95-119.",
+        "ID": "Martins06930",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "Daghestan, Russia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.26778,
+          32.694167
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 32.694167,
+        "longitude": 47.26778,
+        "date": "",
+        "source": "FATHINIA, B ET AL. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Animal Biosystematics 6: 9-23.",
+        "ID": "Martins06931",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Dehloran, Ilam Province, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.37611,
+          33.139722
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.139722,
+        "longitude": 47.37611,
+        "date": "",
+        "source": "FATHINIA, B ET AL. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Animal Biosystematics 6: 9-23.",
+        "ID": "Martins06932",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Darreshahr, Ilam Province, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.41972,
+          32.9925
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 32.9925,
+        "longitude": 47.41972,
+        "date": "",
+        "source": "FATHINIA, B ET AL. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Animal Biosystematics 6: 9-23.",
+        "ID": "Martins06933",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Abdanan, Ilam Province, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.37,
+          38.07
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.07,
+        "longitude": 57.37,
+        "date": "",
+        "source": "Schammakov, S et al. 1993. Herpetogeographical map of Turkmenistan. Asiatic Herpetological Research 5: 127-136",
+        "ID": "Martins06938",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Kopetdag Mountains,  Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.50963,
+          37.897252
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.897252,
+        "longitude": 58.50963,
+        "date": "",
+        "source": "Herrmann, HW et al. 1992. Phylogeny and systematics of viperine snkaes. III resurrection of the genus Macrovipera (Reuss 1927) as suggested by biochemical evidence. Amphibia-Reptilia 13:375-392",
+        "ID": "Martins06939",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Ashchabad, Kopet-Dagh, USSR",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5,
+          37.383333
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.383333,
+        "longitude": 60.5,
+        "date": "",
+        "source": "Schammakov, S et al. 1993. Herpetogeographical map of Turkmenistan. Asiatic Herpetological Research 5: 127-136",
+        "ID": "Martins06940",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Tedzher-Hauzhan Complex (Tedzhen Valley and Hauzkhan Massif),  Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.33179,
+          36.735544
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.735544,
+        "longitude": 62.33179,
+        "date": "",
+        "source": "Schammakov, S et al. 1993. Herpetogeographical map of Turkmenistan. Asiatic Herpetological Research 5: 127-136",
+        "ID": "Martins06941",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Murgab Valley,  Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.88143,
+          36.745897
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.745897,
+        "longitude": 63.88143,
+        "date": "",
+        "source": "Schammakov, S et al. 1993. Herpetogeographical map of Turkmenistan. Asiatic Herpetological Research 5: 127-136",
+        "ID": "Martins06942",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Badghyz and Karabil Hills,  Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.1267,
+          38.757028
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.757028,
+        "longitude": 64.1267,
+        "date": "",
+        "source": "Schammakov, S et al. 1993. Herpetogeographical map of Turkmenistan. Asiatic Herpetological Research 5: 127-136",
+        "ID": "Martins06943",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus turanica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_turanica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Amu Darya Valley,  Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0001,
+          35.342548
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.342548,
+        "longitude": 33.0001,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B. et al. 2009. Taxonomic notes on the snkaes of northern cyprus with observations on their morphologies and ecologies. Animal Biology 59:1-30.",
+        "ID": "Martins06952",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Koruc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´am-Kyrenia, cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.02262,
+          35.296492
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.296492,
+        "longitude": 33.02262,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B. et al. 2009. Taxonomic notes on the snkaes of northern cyprus with observations on their morphologies and ecologies. Animal Biology 59:1-30.",
+        "ID": "Martins06953",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Tepebas‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´i-Kyrenia, cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.31494,
+          35.265094
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.265094,
+        "longitude": 33.31494,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B. et al. 2009. Taxonomic notes on the snkaes of northern cyprus with observations on their morphologies and ecologies. Animal Biology 59:1-30.",
+        "ID": "Martins06955",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Dikemn, Cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9425,
+          35.115
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.115,
+        "longitude": 33.9425,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B. et al. 2009. Taxonomic notes on the snkaes of northern cyprus with observations on their morphologies and ecologies. Animal Biology 59:1-30.",
+        "ID": "Martins06956",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Famagusta, cyprus",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.15047,
+          36.2936
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.2936,
+        "longitude": 36.15047,
+        "date": "",
+        "source": "Mermer, A., B. Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, and K. ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´ek. 2012. Extreme cases of colour pattern and size in Levantine Viper, Macrovipera lebetina (L., 1758) from the West of Euphrates Basin (Southern Anatolia, Turkey). Biharean Biologist, 6(1):70-71.",
+        "ID": "Martins06957",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Dikmece, Hatay, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.15047,
+          36.2936
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.2936,
+        "longitude": 36.15047,
+        "date": "",
+        "source": "Mermer, A., B. Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, and K. ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´ek. 2012. Extreme cases of colour pattern and size in Levantine Viper, Macrovipera lebetina (L., 1758) from the West of Euphrates Basin (Southern Anatolia, Turkey). Biharean Biologist, 6(1):70-71.",
+        "ID": "Martins06958",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Dikmece, Hatay, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51667,
+          40.183333
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.183333,
+        "longitude": 44.51667,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins06959",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "Yeveran, Armenia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75423,
+          41.700536
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.700536,
+        "longitude": 44.75423,
+        "date": "",
+        "source": "Bosch & Bischoff. 2004. Remarks on the herpetofauna of the caucasian republic of georgia, with special reference to the lacertidae. Podarcis 5(2):28-57.",
+        "ID": "Martins06960",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Georgia",
+        "locality": "Turtle Lake, Tbilisi, Georgia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.78333,
+          41.716667
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 41.716667,
+        "longitude": 44.78333,
+        "date": "",
+        "source": "KUZIMIN, NL & KUZIMIN. 1996. Amphibien und Reptilien in Sta‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†dten - ein\r\r\r\r\r\r\nSituationsbericht aus der fru‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†heren UdSSR. Herpetofauna 18(103): 28-32",
+        "ID": "Martins06961",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Georgia",
+        "locality": "Tbilisi, Georgia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31293,
+          38.695401
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.695401,
+        "longitude": 48.31293,
+        "date": "",
+        "source": "Bunyatova, SN et al 2012. Ecological analysis of reptiles (testudinae, sauria, serpente) in Talysh. ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√ü‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨¬•‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢¬¨¬®‚àö√º‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ¬¨¬®¬¨¬µ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚àû‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨√Ü‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨‚Ñ¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨‚Ñ¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√á ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√¢√†‚àö‚â†¬¨¬®¬¨¬©‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨‚Ñ¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ª‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√¢√†‚àö‚â†¬¨¬®¬¨¬©‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√á ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√†¬¥‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ¬¨¬®¬¨¬µ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√¢√†‚àö‚â†¬¨¬®¬¨¬©‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚àû‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨‚Ñ¢ ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨√Ü‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨√Ü‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√†¬¥‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨√Ü‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√†¬¥ ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨‚Ñ¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨‚Ñ¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö√ë¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ¬¨¬®¬¨¬µ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨√Ü‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨√Ü ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√¢√†‚àö‚â†¬¨¬®¬¨¬©‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂¬¨‚Ñ¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚àö√ú‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢. 2012. ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂¬¨¬Æ¬¨¬®¬¨¬Æ¬¨¬®¬¨¬¢. 14, No 1 (Centro Cientifico Samara da Academia de Ciencias da Russia)",
+        "ID": "Martins06962",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Azerbaijan",
+        "locality": "Talish mountains, Arzebaijan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5837,
+          29.591768
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 29.591768,
+        "longitude": 52.5837,
+        "date": "",
+        "source": "Sclater, WL. 1891. LIst of snakes in the Indian museum.",
+        "ID": "Martins06963",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Shiraz, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32778,
+          29.198889
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 29.198889,
+        "longitude": 54.32778,
+        "date": "",
+        "source": "Sclater, WL. 1891. LIst of snakes in the Indian museum.",
+        "ID": "Martins06964",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Niriz, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.37,
+          38.07
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.07,
+        "longitude": 57.37,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W. et al. 2008. A nesting of vipers: phylogeny and historical biogeography of the viperidae (squamata: serpentes). Molecular Phylogenetics and Evolution 49: 445-459.",
+        "ID": "Martins06966",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Kopet Dagh, Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.37,
+          38.07
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.07,
+        "longitude": 57.37,
+        "date": "",
+        "source": "Fenwick et al. 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers. J zool syst evol res 50:59-66",
+        "ID": "Martins06967",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Kopet Dagh, Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.37,
+          38.07
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 38.07,
+        "longitude": 57.37,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-104",
+        "ID": "Martins06968",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Kopet Dagh, Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.99975,
+          37.833768
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.833768,
+        "longitude": 57.99975,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins06969",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Kopetdag Gershi, Turkmeinstan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.99975,
+          37.833768
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.833768,
+        "longitude": 57.99975,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins06970",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Kopetdag Gershi, Turkmeinstan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.00508,
+          37.861414
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.861414,
+        "longitude": 58.00508,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W.; L. Peppin C. E.; Pook, D. E. Walker. 2008. A nesting of vipers: phylogeny and historical biogeography of the Viperidae (Squamata: Serpentes). Moleclar Phylogenetics and Evolution, 49: 445-459.",
+        "ID": "Martins06971",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "Kopet Dagh, Turkmenistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.91848,
+          34.730564
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.730564,
+        "longitude": 61.91848,
+        "date": "",
+        "source": "Sclater, WL. 1891. LIst of snakes in the Indian museum.",
+        "ID": "Martins06972",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Afghanistan",
+        "locality": "Sang Kotal, Afghanistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.99909,
+          40.416409
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.416409,
+        "longitude": 66.99909,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W.; L. Peppin C. E.; Pook, D. E. Walker. 2008. A nesting of vipers: phylogeny and historical biogeography of the Viperidae (Squamata: Serpentes). Moleclar Phylogenetics and Evolution, 49: 445-459.",
+        "ID": "Martins06973",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Uzbekistan",
+        "locality": "Nuratau, Uzbekistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.00134,
+          40.415242
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.415242,
+        "longitude": 67.00134,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins06974",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Uzbekistan",
+        "locality": "Khrebet Nuratau, Uzbekistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.00134,
+          40.415242
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.415242,
+        "longitude": 67.00134,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins06975",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Uzbekistan",
+        "locality": "Khrebet Nuratau, Uzbekistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.02043,
+          40.411049
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.411049,
+        "longitude": 67.02043,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W. et al. 2008. A nesting of vipers: phylogeny and historical biogeography of the viperidae (squamata: serpentes). Molecular Phylogenetics and Evolution 49: 445-459.",
+        "ID": "Martins06976",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Uzbekistan",
+        "locality": "Nuratau, Uzbekistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.02043,
+          40.411049
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.411049,
+        "longitude": 67.02043,
+        "date": "",
+        "source": "Fenwick et al. 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers. J zool syst evol res 50:59-66",
+        "ID": "Martins06977",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Uzbekistan",
+        "locality": "Nuratau, Uzbekistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.44778,
+          34.434167
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 34.434167,
+        "longitude": 70.44778,
+        "date": "",
+        "source": "Leviton, AE & Anderson, SC. 1970. The amphibians and reptiles of afhanistan, a checklist and key to the herpetofauna. Proceedings of the california academyof sciences, 28:163-206.",
+        "ID": "Martins06978",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Afghanistan",
+        "locality": "Jalalabad, Afghanistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.73423,
+          40.123698
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.123698,
+        "longitude": 44.73423,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08427",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "Garni, Armenia",
+        "voucher": "ROM 21915",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.73423,
+          40.123698
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.123698,
+        "longitude": 44.73423,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08428",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "Garni, Armenia",
+        "voucher": "ROM 21915",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.73423,
+          40.123698
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 40.123698,
+        "longitude": 44.73423,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08429",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "Garni, Armenia",
+        "voucher": "ROM 21915",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42278,
+          33.637498
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.637498,
+        "longitude": 46.42278,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08566",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Ilam, Ilam, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42278,
+          33.637498
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.637498,
+        "longitude": 46.42278,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08567",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Ilam, Ilam, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.26778,
+          32.694167
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 32.694167,
+        "longitude": 47.26778,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08568",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Dehloran, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.26778,
+          32.694167
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 32.694167,
+        "longitude": 47.26778,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08569",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Dehloran, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.41964,
+          32.992449
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 32.992449,
+        "longitude": 47.41964,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08570",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Abdanan, Ilam, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.41964,
+          32.992449
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 32.992449,
+        "longitude": 47.41964,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08571",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Abdanan, Ilam, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.16472,
+          33.122222
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.122222,
+        "longitude": 46.16472,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08572",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Mehran, Ilam, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.16472,
+          33.122222
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.122222,
+        "longitude": 46.16472,
+        "date": "",
+        "source": "Fathinia, B, N. Rastegar-Pouyani, H. Darvishnia, and M/ Rajabizadeh. 2010. The snake fauna of Ilam Province, southwestern Iran. Iranian Journal of Biosystematics, 6(1):9-23.",
+        "ID": "Martins08573",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Mehran, Ilam, Iran",
+        "voucher": "RUZM",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32133,
+          37
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37,
+        "longitude": 35.32133,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09152",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Adana, Adana, Turkey",
+        "voucher": "USNM 142154",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32133,
+          37
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37,
+        "longitude": 35.32133,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09153",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Adana, Adana, Turkey",
+        "voucher": "USNM 142154",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32133,
+          37
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37,
+        "longitude": 35.32133,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09154",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Adana, Adana, Turkey",
+        "voucher": "USNM 142154",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.32389,
+          37.475311
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.475311,
+        "longitude": 57.32389,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09164",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Bojnurd, Khurasan, Iran",
+        "voucher": "USNM 149394",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.32389,
+          37.475311
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.475311,
+        "longitude": 57.32389,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09165",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Bojnurd, Khurasan, Iran",
+        "voucher": "USNM 149394",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.32389,
+          37.475311
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.475311,
+        "longitude": 57.32389,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09166",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Bojnurd, Khurasan, Iran",
+        "voucher": "USNM 149394",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.98317,
+          35.033216
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.033216,
+        "longitude": 33.98317,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09407",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "Paralimni, Chipre",
+        "voucher": "USNM 166471",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.98317,
+          35.033216
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.033216,
+        "longitude": 33.98317,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09408",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "Paralimni, Chipre",
+        "voucher": "USNM 166471",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.98317,
+          35.033216
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.033216,
+        "longitude": 33.98317,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09409",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Cyprus",
+        "locality": "Paralimni, Chipre",
+        "voucher": "USNM 166471",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25186,
+          33.26998
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.26998,
+        "longitude": 76.25186,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09437",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "Kashmir Valley, Kashmir, India",
+        "voucher": "USNM 20882",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25186,
+          33.26998
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.26998,
+        "longitude": 76.25186,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09438",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "Kashmir Valley, Kashmir, India",
+        "voucher": "USNM 20882",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25186,
+          33.26998
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 33.26998,
+        "longitude": 76.25186,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09439",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "Kashmir Valley, Kashmir, India",
+        "voucher": "USNM 20882",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.23307,
+          37.114008
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.114008,
+        "longitude": 41.23307,
+        "date": "",
+        "source": "Tok, C.V., D. Cihan, and D. Ayaz. 2002. A new record of Macrovipera lebetina obtusa (Viperidae) from south-eastern Anatolia. Zoology in the Middle East 25:23-26.",
+        "ID": "Martins10340",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Bah‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´eba‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö√∫‚Äö√†√∂‚Äö√¢‚Ä†¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±, Nusaybin, Mardin, Turkey",
+        "voucher": "ZDEU 12/2001",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.23307,
+          37.114008
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 37.114008,
+        "longitude": 41.23307,
+        "date": "",
+        "source": "Tok, C.V., D. Cihan, and D. Ayaz. 2002. A new record of Macrovipera lebetina obtusa (Viperidae) from south-eastern Anatolia. Zoology in the Middle East 25:23-26.",
+        "ID": "Martins10341",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus obtusa",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_obtusa",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Bah‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´eba‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö√∫‚Äö√†√∂‚Äö√¢‚Ä†¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±, Nusaybin, Mardin, Turkey",
+        "voucher": "ZDEU 12/2001",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0001,
+          35.342548
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.342548,
+        "longitude": 33.0001,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., M. K. Atat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•r, A. Budak, H. Bahar, M. Z. Yildiz, N. Alpagut-Keskin. 2009. Taxonomic notes on the snakes or Northern Cyprus, with observations on their morphologies and ecologies. Animal Biology, 59:1-30.",
+        "ID": "Martins10342",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Koru‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´am, Cyprus",
+        "voucher": "ZDEU 123/1992",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0001,
+          35.342548
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.342548,
+        "longitude": 33.0001,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., M. K. Atat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•r, A. Budak, H. Bahar, M. Z. Yildiz, N. Alpagut-Keskin. 2009. Taxonomic notes on the snakes or Northern Cyprus, with observations on their morphologies and ecologies. Animal Biology, 59:1-30.",
+        "ID": "Martins10343",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Koru‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´am, Cyprus",
+        "voucher": "ZDEU 123/1992",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.91924,
+          35.114912
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.114912,
+        "longitude": 33.91924,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., M. K. Atat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•r, A. Budak, H. Bahar, M. Z. Yildiz, N. Alpagut-Keskin. 2009. Taxonomic notes on the snakes or Northern Cyprus, with observations on their morphologies and ecologies. Animal Biology, 59:1-30.",
+        "ID": "Martins10344",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Gazimagusa, Famagusta, Cyprus",
+        "voucher": "ZDEU 187/1984",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.91925,
+          35.114912
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.114912,
+        "longitude": 33.91925,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., M. K. Atat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•r, A. Budak, H. Bahar, M. Z. Yildiz, N. Alpagut-Keskin. 2009. Taxonomic notes on the snakes or Northern Cyprus, with observations on their morphologies and ecologies. Animal Biology, 59:1-30.",
+        "ID": "Martins10345",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Gazimagusa, Famagusta, Cyprus",
+        "voucher": "ZDEU 187/1984",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.06289,
+          35.347498
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.347498,
+        "longitude": 33.06289,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., M. K. Atat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•r, A. Budak, H. Bahar, M. Z. Yildiz, N. Alpagut-Keskin. 2009. Taxonomic notes on the snakes or Northern Cyprus, with observations on their morphologies and ecologies. Animal Biology, 59:1-30.",
+        "ID": "Martins10346",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Ge‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´itk‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞y, Cyprus",
+        "voucher": "ZDEU 38/1995",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.06289,
+          35.347498
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 35.347498,
+        "longitude": 33.06289,
+        "date": "",
+        "source": "G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, B., M. K. Atat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•r, A. Budak, H. Bahar, M. Z. Yildiz, N. Alpagut-Keskin. 2009. Taxonomic notes on the snakes or Northern Cyprus, with observations on their morphologies and ecologies. Animal Biology, 59:1-30.",
+        "ID": "Martins10347",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Northern Cyprus",
+        "locality": "Ge‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´itk‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞y, Cyprus",
+        "voucher": "ZDEU 38/1995",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83854,
+          36.07515
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.07515,
+        "longitude": 32.83854,
+        "date": "",
+        "source": "Mermer, A., B. Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, and K. ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´ek. 2012. Extreme cases of colour pattern and size in Levantine Viper, Macrovipera lebetina (L., 1758) from the West of Euphrates Basin (Southern Anatolia, Turkey). Biharean Biologist, 6(1):70-71.",
+        "ID": "Martins10374",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus euphratica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_euphratica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Anamur, Mersin, Turkey",
+        "voucher": "ZMHRU, 2010/62",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83854,
+          36.07515
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_lebetinus",
+        "latitude": 36.07515,
+        "longitude": 32.83854,
+        "date": "",
+        "source": "Mermer, A., B. Go‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´men, and K. ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´ek. 2012. Extreme cases of colour pattern and size in Levantine Viper, Macrovipera lebetina (L., 1758) from the West of Euphrates Basin (Southern Anatolia, Turkey). Biharean Biologist, 6(1):70-71.",
+        "ID": "Martins10375",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus euphratica",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_euphratica",
+        "final_species": "Macrovipera_lebetinus",
+        "final_subspecies": "Macrovipera_lebetinus",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Anamur, Mersin, Turkey",
+        "voucher": "ZMHRU, 2010/62",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

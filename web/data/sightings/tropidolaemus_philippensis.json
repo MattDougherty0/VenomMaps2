@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.272,
+          7.3697
+        ]
+      },
+      "properties": {
+        "scientificName": "Tropidolaemus_philippensis",
+        "latitude": 7.3697,
+        "longitude": 124.272,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318090307",
+        "database_recorded_species": "Tropidolaemus philippensis",
+        "database_recorded_subspecies": "Tropidolaemus philippensis",
+        "taxonomy_updated_species": "Tropidolaemus_philippensis",
+        "taxonomy_updated_subspecies2": "Tropidolaemus_philippensis",
+        "final_species": "Tropidolaemus_philippensis",
+        "final_subspecies": "Tropidolaemus_philippensis",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Mindanao Island; Parang",
+        "voucher": "USNM:Amphibians & Reptiles:38893",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.370731,
+          8.218293
+        ]
+      },
+      "properties": {
+        "scientificName": "Tropidolaemus_philippensis",
+        "latitude": 8.218293,
+        "longitude": 124.370731,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1807324685",
+        "database_recorded_species": "Tropidolaemus philippensis",
+        "database_recorded_subspecies": "Tropidolaemus philippensis",
+        "taxonomy_updated_species": "Tropidolaemus_philippensis",
+        "taxonomy_updated_subspecies2": "Tropidolaemus_philippensis",
+        "final_species": "Tropidolaemus_philippensis",
+        "final_subspecies": "Tropidolaemus_philippensis",
+        "accuracy_m": 38340,
+        "country": "Philippines",
+        "locality": "PH; Lanao del Norte; NA",
+        "voucher": "iNaturalist:Observations:9774257",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.060433,
+          6.992233
+        ]
+      },
+      "properties": {
+        "scientificName": "Tropidolaemus_philippensis",
+        "latitude": 6.992233,
+        "longitude": 122.060433,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686679727",
+        "database_recorded_species": "Tropidolaemus philippensis",
+        "database_recorded_subspecies": "Tropidolaemus philippensis",
+        "taxonomy_updated_species": "Tropidolaemus_philippensis",
+        "taxonomy_updated_subspecies2": "Tropidolaemus_philippensis",
+        "final_species": "Tropidolaemus_philippensis",
+        "final_subspecies": "Tropidolaemus_philippensis",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Zamboanga City \"Province\"; Pasonanca Natural Park, Tumaga River",
+        "voucher": "KU:KUH:315211",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.060433,
+          6.992233
+        ]
+      },
+      "properties": {
+        "scientificName": "Tropidolaemus_philippensis",
+        "latitude": 6.992233,
+        "longitude": 122.060433,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686685590",
+        "database_recorded_species": "Tropidolaemus philippensis",
+        "database_recorded_subspecies": "Tropidolaemus philippensis",
+        "taxonomy_updated_species": "Tropidolaemus_philippensis",
+        "taxonomy_updated_subspecies2": "Tropidolaemus_philippensis",
+        "final_species": "Tropidolaemus_philippensis",
+        "final_subspecies": "Tropidolaemus_philippensis",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Zamboanga City \"Province\"; Zamboanga City; Barangay Pasanonca, Sitio canucutan; Pasanonca Natural Park",
+        "voucher": "KU:KUH:315210",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.060433,
+          6.992233
+        ]
+      },
+      "properties": {
+        "scientificName": "Tropidolaemus_philippensis",
+        "latitude": 6.992233,
+        "longitude": 122.060433,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687015725",
+        "database_recorded_species": "Tropidolaemus philippensis",
+        "database_recorded_subspecies": "Tropidolaemus philippensis",
+        "taxonomy_updated_species": "Tropidolaemus_philippensis",
+        "taxonomy_updated_subspecies2": "Tropidolaemus_philippensis",
+        "final_species": "Tropidolaemus_philippensis",
+        "final_subspecies": "Tropidolaemus_philippensis",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Zamboanga City \"Province\"; Pasonanca Natural Park, Tumaga River",
+        "voucher": "KU:KUH:315212",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0655,
+          7.0074
+        ]
+      },
+      "properties": {
+        "scientificName": "Tropidolaemus_philippensis",
+        "latitude": 7.0074,
+        "longitude": 122.0655,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_729691449",
+        "database_recorded_species": "Tropidolaemus philippensis",
+        "database_recorded_subspecies": "Tropidolaemus philippensis",
+        "taxonomy_updated_species": "Tropidolaemus_philippensis",
+        "taxonomy_updated_subspecies2": "Tropidolaemus_philippensis",
+        "final_species": "Tropidolaemus_philippensis",
+        "final_subspecies": "Tropidolaemus_philippensis",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Zamboanga City \"Province\"; Pasonanca Natural Park; Sitio Muruk; Bituti Outpost",
+        "voucher": "KU:KUH:334672",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0655,
+          7.0074
+        ]
+      },
+      "properties": {
+        "scientificName": "Tropidolaemus_philippensis",
+        "latitude": 7.0074,
+        "longitude": 122.0655,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_729699922",
+        "database_recorded_species": "Tropidolaemus philippensis",
+        "database_recorded_subspecies": "Tropidolaemus philippensis",
+        "taxonomy_updated_species": "Tropidolaemus_philippensis",
+        "taxonomy_updated_subspecies2": "Tropidolaemus_philippensis",
+        "final_species": "Tropidolaemus_philippensis",
+        "final_subspecies": "Tropidolaemus_philippensis",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Zamboanga City \"Province\"; Pasonanca Natural Park; Sitio Muruk; Dos Rio's Outpost",
+        "voucher": "KU:KUH:334671",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

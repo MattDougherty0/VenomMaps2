@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.57584,
+          28.69995
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_estebanensis",
+        "latitude": 28.69995,
+        "longitude": -112.57584,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211765315",
+        "database_recorded_species": "Crotalus estebanensis",
+        "database_recorded_subspecies": "Crotalus estebanensis",
+        "taxonomy_updated_species": "Crotalus_estebanensis",
+        "taxonomy_updated_subspecies2": "Crotalus_estebanensis",
+        "final_species": "Crotalus_estebanensis",
+        "final_subspecies": "Crotalus_estebanensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Baja California Norte; Isla San Esteban",
+        "voucher": "ROM:Reptiles and Amphibians:38479",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.558333,
+          28.675
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_estebanensis",
+        "latitude": 28.675,
+        "longitude": -112.558333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894920497",
+        "database_recorded_species": "Crotalus molossus",
+        "database_recorded_subspecies": "Crotalus molossus estebanensis",
+        "taxonomy_updated_species": "Crotalus_estebanensis",
+        "taxonomy_updated_subspecies2": "Crotalus_estebanensis",
+        "final_species": "Crotalus_estebanensis",
+        "final_subspecies": "Crotalus_estebanensis",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Sonora; SAN ESTEBAN, ISLA, SE",
+        "voucher": "MVZ-UCB:MVZ:14020",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.591667,
+          28.708333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_estebanensis",
+        "latitude": 28.708333,
+        "longitude": -112.591667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894920501",
+        "database_recorded_species": "Crotalus molossus",
+        "database_recorded_subspecies": "Crotalus molossus estebanensis",
+        "taxonomy_updated_species": "Crotalus_estebanensis",
+        "taxonomy_updated_subspecies2": "Crotalus_estebanensis",
+        "final_species": "Crotalus_estebanensis",
+        "final_subspecies": "Crotalus_estebanensis",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Sonora; SAN ESTEBAN, ISLA",
+        "voucher": "FC-UNAM:MZFC:4123",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.57,
+          28.7199999992043
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_estebanensis",
+        "latitude": 28.7199999992043,
+        "longitude": -112.57,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_44985772",
+        "database_recorded_species": "Crotalus molossus",
+        "database_recorded_subspecies": "Crotalus molossus estebanensis",
+        "taxonomy_updated_species": "Crotalus_estebanensis",
+        "taxonomy_updated_subspecies2": "Crotalus_estebanensis",
+        "final_species": "Crotalus_estebanensis",
+        "final_subspecies": "Crotalus_estebanensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Sonora; Isla San Esteban",
+        "voucher": "SDNHM:Herps:26792",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.57,
+          28.7199999992043
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_estebanensis",
+        "latitude": 28.7199999992043,
+        "longitude": -112.57,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_45075497",
+        "database_recorded_species": "Crotalus estebanensis",
+        "database_recorded_subspecies": "Crotalus estebanensis",
+        "taxonomy_updated_species": "Crotalus_estebanensis",
+        "taxonomy_updated_subspecies2": "Crotalus_estebanensis",
+        "final_species": "Crotalus_estebanensis",
+        "final_subspecies": "Crotalus_estebanensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Sonora; Isla San Esteban",
+        "voucher": "SDNHM:Herps:49968",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.57584,
+          28.69995
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_estebanensis",
+        "latitude": 28.69995,
+        "longitude": -112.57584,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV21112",
+        "database_recorded_species": "Crotalus estebanensis",
+        "database_recorded_subspecies": "Crotalus estebanensis",
+        "taxonomy_updated_species": "Crotalus_estebanensis",
+        "taxonomy_updated_subspecies2": "Crotalus_estebanensis",
+        "final_species": "Crotalus_estebanensis",
+        "final_subspecies": "Crotalus_estebanensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.57,
+          28.72
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_estebanensis",
+        "latitude": 28.72,
+        "longitude": -112.57,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV21113",
+        "database_recorded_species": "Crotalus estebanensis",
+        "database_recorded_subspecies": "Crotalus estebanensis",
+        "taxonomy_updated_species": "Crotalus_estebanensis",
+        "taxonomy_updated_subspecies2": "Crotalus_estebanensis",
+        "final_species": "Crotalus_estebanensis",
+        "final_subspecies": "Crotalus_estebanensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

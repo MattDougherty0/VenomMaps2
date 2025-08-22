@@ -1,0 +1,1919 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.28,
+          -14.786
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.786,
+        "longitude": -39.28,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037382",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Itabuna; NA",
+        "voucher": "IBSP29284",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.28,
+          -14.786
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.786,
+        "longitude": -39.28,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037383",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Itabuna; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1828,
+          -14.7086
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.7086,
+        "longitude": -39.1828,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037384",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Ilheus; NA",
+        "voucher": "IBSP3008",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1828,
+          -14.7086
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.7086,
+        "longitude": -39.1828,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037385",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Ilheus; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2432999999999,
+          -14.5116999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.5116999999999,
+        "longitude": -39.2432999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037386",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Conceicao; URUCUCA",
+        "voucher": "CZGB 1433",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2432999999999,
+          -14.5116999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.5116999999999,
+        "longitude": -39.2432999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037387",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Conceicao; URUCUCA",
+        "voucher": "CZGB 5471",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2432999999999,
+          -14.5116999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.5116999999999,
+        "longitude": -39.2432999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037388",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; URUCUCA; Conceicao",
+        "voucher": "CZGB1433",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2432999999999,
+          -14.5116999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.5116999999999,
+        "longitude": -39.2432999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037389",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; URUCUCA; Conceicao",
+        "voucher": "CZGB5471",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2432999999999,
+          -14.5116999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.5116999999999,
+        "longitude": -39.2432999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037390",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; URUCUCAConceicao; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2432999999999,
+          -14.5116999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.5116999999999,
+        "longitude": -39.2432999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037391",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; URUCUCAConceicao; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2488999999999,
+          -14.2489
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.2489,
+        "longitude": -39.2488999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037392",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; MARAU; Sao Jose",
+        "voucher": "CZGB5351",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2488999999999,
+          -14.2489
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.2489,
+        "longitude": -39.2488999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037393",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; MARAUSao Jose; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2488999999999,
+          -14.2489
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.2489,
+        "longitude": -39.2488999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037394",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Sao Jose; MARAU",
+        "voucher": "CZGB 5351",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2575,
+          -14.0119
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.0119,
+        "longitude": -39.2575,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037395",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; Camamu",
+        "voucher": "CZGB 1171",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2147,
+          -13.9847
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9847,
+        "longitude": -39.2147,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037396",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; Marimbondo",
+        "voucher": "CZGB 4532",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.3125,
+          -13.9539
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9539,
+        "longitude": -39.3125,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037397",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; Flor de Ouro",
+        "voucher": "CZGB 4316",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037398",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; Camamu",
+        "voucher": "CZGB1171",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037399",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; Camamu",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037400",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; CAMAMU; Flor de Ouro",
+        "voucher": "CZGB4316",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037401",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; CAMAMU; Manjerona",
+        "voucher": "MZUESC5104",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037402",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; CAMAMU; Manjerona",
+        "voucher": "MZUESC5924",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037403",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; CAMAMU; Marimbondo",
+        "voucher": "CZGB4532",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037404",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; CAMAMUFlor de Ouro",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037405",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; CAMAMUManjerona",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037406",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; CAMAMUManjerona",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1,
+          -13.9332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9332999999999,
+        "longitude": -39.1,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037407",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; CAMAMUMarimbondo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4836,
+          -13.9289
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9289,
+        "longitude": -39.4836,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037408",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; IBIRAPITANGA; Paineiras",
+        "voucher": "CZGB5125",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4836,
+          -13.9289
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9289,
+        "longitude": -39.4836,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037409",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; IBIRAPITANGAPaineiras; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4836,
+          -13.9289
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9289,
+        "longitude": -39.4836,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037410",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Paineiras; IBIRAPITANGA",
+        "voucher": "CZGB 5125",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.3008,
+          -13.9197
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9197,
+        "longitude": -39.3008,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037411",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; IGRAPIUNA; Sao Jose",
+        "voucher": "MZUESC1478",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.3008,
+          -13.9197
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9197,
+        "longitude": -39.3008,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037412",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; IGRAPIUNASao Jose; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.3008,
+          -13.9197
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9197,
+        "longitude": -39.3008,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037413",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Sao Jose; IGRAPIUNA",
+        "voucher": "MZUESC1478",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2580999999999,
+          -13.9169
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9169,
+        "longitude": -39.2580999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037414",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; Manjerona",
+        "voucher": "MZUESC5104",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2580999999999,
+          -13.9169
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9169,
+        "longitude": -39.2580999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037415",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; Camamu; Manjerona",
+        "voucher": "MZUESC5924",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037416",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; IGRAPIUNA; Santo Antonio",
+        "voucher": "MZUESC5125",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037417",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; IGRAPIUNA; Santo Antonio",
+        "voucher": "MZUESC5814",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037418",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; IGRAPIUNA; Santo Antonio",
+        "voucher": "MZUESC6241",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037419",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; IGRAPIUNASanto Antonio; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037420",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; IGRAPIUNASanto Antonio; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037421",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; IGRAPIUNASanto Antonio; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037422",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Santo Antonio; IGRAPIUNA",
+        "voucher": "MZUESC5125",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037423",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Santo Antonio; IGRAPIUNA",
+        "voucher": "MZUESC5814",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2556,
+          -13.9044
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9044,
+        "longitude": -39.2556,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037424",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Santo Antonio; IGRAPIUNA",
+        "voucher": "MZUESC6241",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4667,
+          -13.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9,
+        "longitude": -39.4667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037425",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Florestal; IBIRAPITANGA",
+        "voucher": "CZGB 5345",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4667,
+          -13.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9,
+        "longitude": -39.4667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037426",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; IBIRAPITANGA; Florestal",
+        "voucher": "CZGB5345",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4667,
+          -13.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.9,
+        "longitude": -39.4667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037427",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; IBIRAPITANGAFlorestal; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2310999999999,
+          -13.8393999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.8393999999999,
+        "longitude": -39.2310999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037428",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; IGRAPIUNA; Michellin",
+        "voucher": "MZUESC3942",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2310999999999,
+          -13.8393999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.8393999999999,
+        "longitude": -39.2310999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037429",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; IGRAPIUNAMichellin; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2310999999999,
+          -13.8393999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.8393999999999,
+        "longitude": -39.2310999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037430",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Michellin; IGRAPIUNA",
+        "voucher": "MZUESC3942",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2006,
+          -13.7703
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.7703,
+        "longitude": -39.2006,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037431",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; California; ITUBERA",
+        "voucher": "CZGB 9509",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2006,
+          -13.7703
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.7703,
+        "longitude": -39.2006,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037432",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; ITUBERA; California",
+        "voucher": "CZGB9509",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2006,
+          -13.7703
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.7703,
+        "longitude": -39.2006,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037433",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; ITUBERACalifornia; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.6640999999999,
+          -13.1228
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.1228,
+        "longitude": -39.6640999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037434",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Timbo; UBAIRA",
+        "voucher": "MZUESC6762",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.6640999999999,
+          -13.1228
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -13.1228,
+        "longitude": -39.6640999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037435",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; UBAIRATimbo; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.52,
+          -12.94
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -12.94,
+        "longitude": -39.52,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037436",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BA; ELISIO MEDRADO; Reserva Particular Jequitiba",
+        "voucher": "CZGB9431",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.52,
+          -12.94
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -12.94,
+        "longitude": -39.52,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037437",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; ELISIO MEDRADORPPN Jequitiba; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.52,
+          -12.94
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -12.94,
+        "longitude": -39.52,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037438",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; RPPN Jequitiba; ELISIO MEDRADO",
+        "voucher": "CZGB 9431",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.045977,
+          -14.793056
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_pirajai",
+        "latitude": -14.793056,
+        "longitude": -39.045977,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10841",
+        "database_recorded_species": "Bothrops pirajai",
+        "database_recorded_subspecies": "Bothrops pirajai",
+        "taxonomy_updated_species": "Bothrops_pirajai",
+        "taxonomy_updated_subspecies2": "Bothrops_pirajai",
+        "final_species": "Bothrops_pirajai",
+        "final_subspecies": "Bothrops_pirajai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

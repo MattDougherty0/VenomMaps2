@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31135,
+          45.980543
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_walser",
+        "latitude": 45.980543,
+        "longitude": 8.31135,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265839507",
+        "database_recorded_species": "Vipera walser",
+        "database_recorded_subspecies": "Vipera walser",
+        "taxonomy_updated_species": "Vipera_walser",
+        "taxonomy_updated_subspecies2": "Vipera_walser",
+        "final_species": "Vipera_walser",
+        "final_subspecies": "Vipera_walser",
+        "accuracy_m": 27095,
+        "country": "Italy",
+        "locality": "IT; Piemonte; NA",
+        "voucher": "iNaturalist:Observations:26664803",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": "NA",
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NO_DISTRIBUTION_AVAILABLE; ADDITIONAL_CHECKS_NEEDED"
+      }
+    }
+  ]
+}

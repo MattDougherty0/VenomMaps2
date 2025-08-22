@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48423,
+          28.977094
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_polisi",
+        "latitude": 28.977094,
+        "longitude": -113.48423,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2639",
+        "database_recorded_species": "Crotalus polisi",
+        "database_recorded_subspecies": "Crotalus polisi",
+        "taxonomy_updated_species": "Crotalus_polisi",
+        "taxonomy_updated_subspecies2": "Crotalus_polisi",
+        "final_species": "Crotalus_polisi",
+        "final_subspecies": "Crotalus_polisi",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0416",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48423,
+          28.977094
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_polisi",
+        "latitude": 28.977094,
+        "longitude": -113.48423,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2640",
+        "database_recorded_species": "Crotalus polisi",
+        "database_recorded_subspecies": "Crotalus polisi",
+        "taxonomy_updated_species": "Crotalus_polisi",
+        "taxonomy_updated_subspecies2": "Crotalus_polisi",
+        "final_species": "Crotalus_polisi",
+        "final_subspecies": "Crotalus_polisi",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0417",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48423,
+          28.977094
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_polisi",
+        "latitude": 28.977094,
+        "longitude": -113.48423,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0659",
+        "database_recorded_species": "Crotalus polisi",
+        "database_recorded_subspecies": "Crotalus polisi",
+        "taxonomy_updated_species": "Crotalus_polisi",
+        "taxonomy_updated_subspecies2": "Crotalus_polisi",
+        "final_species": "Crotalus_polisi",
+        "final_subspecies": "Crotalus_polisi",
+        "accuracy_m": 10,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48423,
+          28.977094
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_polisi",
+        "latitude": 28.977094,
+        "longitude": -113.48423,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0660",
+        "database_recorded_species": "Crotalus polisi",
+        "database_recorded_subspecies": "Crotalus polisi",
+        "taxonomy_updated_species": "Crotalus_polisi",
+        "taxonomy_updated_subspecies2": "Crotalus_polisi",
+        "final_species": "Crotalus_polisi",
+        "final_subspecies": "Crotalus_polisi",
+        "accuracy_m": 10,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48423,
+          28.977094
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_polisi",
+        "latitude": 28.977094,
+        "longitude": -113.48423,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0661",
+        "database_recorded_species": "Crotalus polisi",
+        "database_recorded_subspecies": "Crotalus polisi",
+        "taxonomy_updated_species": "Crotalus_polisi",
+        "taxonomy_updated_subspecies2": "Crotalus_polisi",
+        "final_species": "Crotalus_polisi",
+        "final_subspecies": "Crotalus_polisi",
+        "accuracy_m": 10,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4787,
+          28.9707
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_polisi",
+        "latitude": 28.9707,
+        "longitude": -113.4787,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV38385",
+        "database_recorded_species": "Crotalus polisi",
+        "database_recorded_subspecies": "Crotalus polisi",
+        "taxonomy_updated_species": "Crotalus_polisi",
+        "taxonomy_updated_subspecies2": "Crotalus_polisi",
+        "final_species": "Crotalus_polisi",
+        "final_subspecies": "Crotalus_polisi",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2777 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.02368,
+          18.62756
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.62756,
+        "longitude": -97.02368,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2305",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 5,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0217",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.02489,
+          18.67367
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.67367,
+        "longitude": -97.02489,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2306",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 3,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0218",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.014306,
+          18.685207
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.685207,
+        "longitude": -97.014306,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2351",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 10,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0263",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.10138,
+          18.77121
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.77121,
+        "longitude": -97.10138,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2373",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0286",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.025,
+          18.6736111
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.6736111,
+        "longitude": -97.025,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT1166",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 10,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5500365242526,
+          17.5673811437504
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.5673811437504,
+        "longitude": -96.5500365242526,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361263",
+        "database_recorded_species": "Atropoides mexicanus",
+        "database_recorded_subspecies": "Atropoides mexicanus",
+        "taxonomy_updated_species": "Metlapilcoatlus_mexicanus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_mexicanus",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Vista Hermosa, Comaltepec, Ixtl‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40070",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 4.483023,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3667026501712,
+          17.7173774164579
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.7173774164579,
+        "longitude": -96.3667026501712,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061374946",
+        "database_recorded_species": "Atropoides mexicanus",
+        "database_recorded_subspecies": "Atropoides mexicanus",
+        "taxonomy_updated_species": "Metlapilcoatlus_mexicanus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_mexicanus",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; district Comaltepec, Vista Hermosa",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:52382",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 4.483023,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.271111,
+          21.143889
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.143889,
+        "longitude": -99.271111,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1418009880",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Queretaro; 1.6 km al Noreste de Joya del Maguey",
+        "voucher": "CIB-UAEH:NO APLICA:CIB-UAEH-1347",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3075,
+          19.99778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.99778,
+        "longitude": -97.3075,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893319978",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Puebla; Rancho Las Margaritas",
+        "voucher": "IBUNAM:CNAR:2305",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3075,
+          19.99778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.99778,
+        "longitude": -97.3075,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893323732",
+        "database_recorded_species": "Atropoides mexicanus",
+        "database_recorded_subspecies": "Atropoides mexicanus mexicanum",
+        "taxonomy_updated_species": "Metlapilcoatlus_mexicanus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_mexicanus",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Puebla; rancho Las Margaritas",
+        "voucher": "IBUNAM:CNAR:5097",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.483023,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894444,
+          18.979444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.979444,
+        "longitude": -96.894444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784001",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Matlaquiahuitl",
+        "voucher": "IBUNAM:CNAR:20804",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894444,
+          18.979444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.979444,
+        "longitude": -96.894444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784013",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Matlaquiahuitl",
+        "voucher": "IBUNAM:CNAR:20798",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894444,
+          18.979444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.979444,
+        "longitude": -96.894444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784022",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Matlaquiahuitl",
+        "voucher": "IBUNAM:CNAR:20799",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894444,
+          18.979444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.979444,
+        "longitude": -96.894444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784030",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Matlaquiahuitl",
+        "voucher": "IBUNAM:CNAR:20800",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894444,
+          18.979444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.979444,
+        "longitude": -96.894444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784040",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Matlaquiahuitl",
+        "voucher": "IBUNAM:CNAR:20802",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894444,
+          18.979444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.979444,
+        "longitude": -96.894444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784049",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Matlaquiahuitl",
+        "voucher": "IBUNAM:CNAR:20803",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.894444,
+          18.979444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.979444,
+        "longitude": -96.894444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784058",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Matlaquiahuitl",
+        "voucher": "IBUNAM:CNAR:20801",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.375,
+          17.725
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.725,
+        "longitude": -96.375,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911915",
+        "database_recorded_species": "Atropoides mexicanus",
+        "database_recorded_subspecies": "Atropoides mexicanus mexicanus",
+        "taxonomy_updated_species": "Metlapilcoatlus_mexicanus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_mexicanus",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; IXTLAN, COMALTEPEC, VISTA HERMOSA",
+        "voucher": "UCM:UCM:40070",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.483023,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.880007,
+          19.212503
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.212503,
+        "longitude": -96.880007,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894929233",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 3100,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; FINCA MIRADOR, N OF HUATUSCO",
+        "voucher": "NMNH-SI:USNM:6371",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.158333,
+          18.875
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.875,
+        "longitude": -97.158333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894929385",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Orizaba",
+        "voucher": "NMNH-SI:USNM:61993-997",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.675,
+          20.658333
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.658333,
+        "longitude": -98.675,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894958823",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Hidalgo; Zacualtipan",
+        "voucher": "ANSP:ANSP:14768",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.675,
+          20.658333
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.658333,
+        "longitude": -98.675,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894958849",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Hidalgo; Zacualtipan",
+        "voucher": "ANSP:ANSP:7245-249",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.008333,
+          20.225
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.225,
+        "longitude": -98.008333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894958863",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Puebla; NECAXA, RIO NECAXA",
+        "voucher": "UMMZ:UMMZ:63942",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.327227,
+          17.690002
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.690002,
+        "longitude": -96.327227,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894958896",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; SIERRA DE JUAREZ, ALREDEDORES DE METATES",
+        "voucher": "FC-UNAM:MZFC:2228",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.533611,
+          19.968889
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.968889,
+        "longitude": -97.533611,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895048885",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Puebla; XOCOYOLO, CERCA DEL PUEBLO",
+        "voucher": "EB-BUAP:EBUAP:453",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.989998,
+          21.385279
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.385279,
+        "longitude": -98.989998,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629138483",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; Xilitla region",
+        "voucher": "LSU:LSU:319",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.975,
+          19.158333
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.158333,
+        "longitude": -96.975,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630243720",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Huatusco",
+        "voucher": "NHM:NHM:95.3.15.21",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.991667,
+          21.391667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.391667,
+        "longitude": -98.991667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630300763",
+        "database_recorded_species": "Atropoides mexicanus",
+        "database_recorded_subspecies": "Atropoides mexicanus mexicanus",
+        "taxonomy_updated_species": "Metlapilcoatlus_mexicanus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_mexicanus",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; Xilitla",
+        "voucher": "KU:KUH:24034",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.483023,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.130054495111,
+          18.9206478435137
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.9206478435137,
+        "longitude": -97.130054495111,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476719935",
+        "database_recorded_species": "Atropoides nummifer",
+        "database_recorded_subspecies": "Atropoides nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Veracruz; Mexico: below village of La Perla, at S base of Orizaba, Veracruz [VERBATIM ELEVATION:5000ft]",
+        "voucher": "MCZ:Herp:R-67589",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.92,
+          16.93
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 16.93,
+        "longitude": -95.92,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07276",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71,
+          16.94
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 16.94,
+        "longitude": -95.71,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07277",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.08333333,
+          17.41666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.41666667,
+        "longitude": -96.08333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07278",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55003652,
+          17.56738414
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.56738414,
+        "longitude": -96.55003652,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07279",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33,
+          17.69
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.69,
+        "longitude": -96.33,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07280",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.31,
+          17.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.7,
+        "longitude": -96.31,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07281",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.366,
+          17.716
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.716,
+        "longitude": -96.366,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07282",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.36670265,
+          17.71737742
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.71737742,
+        "longitude": -96.36670265,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07283",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71785,
+          18.1484
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.1484,
+        "longitude": -96.71785,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07284",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.11055556,
+          18.85194444
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.85194444,
+        "longitude": -97.11055556,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07285",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15,
+          18.866
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.866,
+        "longitude": -97.15,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07286",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1300545,
+          18.92064784
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.92064784,
+        "longitude": -97.1300545,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07287",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.965,
+          19.15
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.15,
+        "longitude": -96.965,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07288",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.92,
+          19.62
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.62,
+        "longitude": -96.92,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07289",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.53361111,
+          19.96888889
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.96888889,
+        "longitude": -97.53361111,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07290",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.534,
+          19.969
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.969,
+        "longitude": -97.534,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07291",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98,
+          20.216
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.216,
+        "longitude": -98,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07292",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.99,
+          20.23
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.23,
+        "longitude": -97.99,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07293",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.66666667,
+          20.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.65,
+        "longitude": -98.66666667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07294",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.666,
+          20.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.65,
+        "longitude": -98.666,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07295",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.42,
+          21.14
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.14,
+        "longitude": -98.42,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07296",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.271,
+          21.144
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.144,
+        "longitude": -99.271,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07297",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.983,
+          21.383
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.383,
+        "longitude": -98.983,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07298",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9675,
+          21.39694
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.39694,
+        "longitude": -98.9675,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07299",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.96760665,
+          21.39746842
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.39746842,
+        "longitude": -98.96760665,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07300",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.66114792,
+          17.97711032
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.97711032,
+        "longitude": -96.66114792,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07301",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.97380815,
+          17.32947646
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.32947646,
+        "longitude": -95.97380815,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07302",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.95810301,
+          17.40229546
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.40229546,
+        "longitude": -95.95810301,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07303",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.00098172,
+          17.71001955
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.71001955,
+        "longitude": -96.00098172,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07304",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.09642378,
+          17.80157625
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.80157625,
+        "longitude": -96.09642378,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07305",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.24586536,
+          17.75381049
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 17.75381049,
+        "longitude": -96.24586536,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07306",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.34962,
+          19.842295
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.842295,
+        "longitude": -97.34962,
+        "date": "",
+        "source": "Jadin, R. C.; J. H. Townsend; T. A. Castoe; J. A. Campbell. 2012. Cryptic diversity in disjunct populations of Middle American Montane Pitivipers: a systematic reassessment of Cerrophidion godmani. Zoologica Scripta, 41(5): 455-470.",
+        "ID": "Martins00854",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Andr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©s, Tziaulan, Puebla, Mexico",
+        "voucher": "ENS 10515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.34961,
+          19.842294
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.842294,
+        "longitude": -97.34961,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, 163: 943-958.",
+        "ID": "Martins00855",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Adres Tziaulan, Puebla, Mexico",
+        "voucher": "ENS 10515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3493,
+          19.861124
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.861124,
+        "longitude": -97.3493,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins00856",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Andres Teziutlan, Puebla, Mexico",
+        "voucher": "ENS 10515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.34966,
+          19.842189
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.842189,
+        "longitude": -97.34966,
+        "date": "",
+        "source": "Castoe, T. A., M. M. Sasa, C. L. Parkinson. 2005. Modeling nucleotide evolution at the mesoscale: The phylogeny of the Neotropical pitvipers of the Porthidium group (Viperidae: Crotalinae). Molecular Phylogenetics and Evolution, 37:881-898.",
+        "ID": "Martins00867",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Andr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©s, Teziutl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Puebla, Mexico",
+        "voucher": "ENS-10515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.34963,
+          19.842204
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.842204,
+        "longitude": -97.34963,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins00868",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Andres Teziutlan, Puebla, Mexico",
+        "voucher": "ENS-10515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.98266,
+          19.047119
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.047119,
+        "longitude": -96.98266,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins00870",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Ixhuatlan del Caf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Veracruz, Mexico",
+        "voucher": "ENS-10523",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.34963,
+          19.842204
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.842204,
+        "longitude": -97.34963,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00907",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Andres Tziaulan, Puebla, Mexico",
+        "voucher": "ENS‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü10515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.98417,
+          19.050936
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.050936,
+        "longitude": -96.98417,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00911",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Ixhuatlan del Caf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Veracruz, Mexico",
+        "voucher": "ENS‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü10523",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.97661,
+          19.072827
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.072827,
+        "longitude": -96.97661,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00912",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Ixhuatlan del Caf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Veracruz, Mexico",
+        "voucher": "ENS‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü10523",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.99116,
+          21.383159
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.383159,
+        "longitude": -98.99116,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02490",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Xilitla, San Luis Potos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Mexico",
+        "voucher": "LSU 318-19",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.99116,
+          21.383159
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.383159,
+        "longitude": -98.99116,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02491",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Xilitla, San Luis Potos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Mexico",
+        "voucher": "LSU 318-19",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.52337,
+          20.017644
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.017644,
+        "longitude": -97.52337,
+        "date": "",
+        "source": "Canseco-Marquez, L., and M. G. G. Mayen. 2006. Herpetofauna del Municipio de Cuetzalan del Progreso, Puebla. In: Ram‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†rez-Bautista, A., L. Canseco-Marquez, F. Mendoza-Quijano (Eds), Inventarios Herpetofaun‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†sticos de Mexico: Avances em el conocimiento de su biodiversidad. Publicaciones de la Sociedad Herpetol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gica Mexicana, Distrito Federal, M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©xico.",
+        "ID": "Martins05197",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cuetzalan del Progreso, Puebla, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71294,
+          16.942195
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 16.942195,
+        "longitude": -95.71294,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09128",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Lucas Camotl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Oaxaca, Mexico",
+        "voucher": "USNM 123709, 123712",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71294,
+          16.942195
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 16.942195,
+        "longitude": -95.71294,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09129",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Lucas Camotl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Oaxaca, Mexico",
+        "voucher": "USNM 123709, 123712",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.10027,
+          18.849804
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.849804,
+        "longitude": -97.10027,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09801",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Orizaba, Veracruz, Mexico",
+        "voucher": "USNM 61994-97",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.10027,
+          18.849804
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 18.849804,
+        "longitude": -97.10027,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09802",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Orizaba, Veracruz, Mexico",
+        "voucher": "USNM 61994-97",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41811,
+          21.143739
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.143739,
+        "longitude": -98.41811,
+        "date": "",
+        "source": "Smith, E. N. & J. A. Ferrari-Castro. 2008. A New species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos and the Sierra La Muralla, Honduras. Zootaxa, p: 57-68.",
+        "ID": "Martins09925",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Huejutla, Hidago, Mexico",
+        "voucher": "UTA R-24842‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü43",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41805,
+          21.143753
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.143753,
+        "longitude": -98.41805,
+        "date": "",
+        "source": "Smith, E. N. and J. A. Ferrari-Castro. 2008. A new species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos nad the Sierra la Muralla, Honduras. Zootaxa, 1948:57-68.",
+        "ID": "Martins09926",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Huejutla, Hidalgo, Mexico",
+        "voucher": "UTA R-24842‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü43",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.98417,
+          19.050936
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.050936,
+        "longitude": -96.98417,
+        "date": "",
+        "source": "Smith, E. N. & J. A. Ferrari-Castro. 2008. A New species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos and the Sierra La Muralla, Honduras. Zootaxa, p: 57-68.",
+        "ID": "Martins10039",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Ixhuatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n del Caf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Veracruz, Mexico",
+        "voucher": "UTA R-51731",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.98407,
+          19.050658
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 19.050658,
+        "longitude": -96.98407,
+        "date": "",
+        "source": "Smith, E. N. and J. A. Ferrari-Castro. 2008. A new species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos nad the Sierra la Muralla, Honduras. Zootaxa, 1948:57-68.",
+        "ID": "Martins10040",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Ixhuatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n del Caf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Veracruz, Mexico",
+        "voucher": "UTA R-51731",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41811,
+          21.143739
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.143739,
+        "longitude": -98.41811,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins10101",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Huejutla, Hidalgo, Mexico",
+        "voucher": "UTA-R-24842",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41823,
+          21.145082
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.145082,
+        "longitude": -98.41823,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10140",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Huejutla, Hidalgo, Mexico",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü24842",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41811,
+          21.143739
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 21.143739,
+        "longitude": -98.41811,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10141",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Huejutla, Hidalgo, Mexico",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü24842",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.65926,
+          20.989584
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_nummifer",
+        "latitude": 20.989584,
+        "longitude": -98.65926,
+        "date": "",
+        "source": "Ram‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†rez-Bautista, A.; U. Hern‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™ndez-Salinas, F. Mendiza-Quijano; R. Cruz-Elizalde; B. P/ Stephenson; V. D. Vite-Silva; A. Leyte-Manrique. 2010. Lista anotada de los anfibios y reptiles del estado de Hidalgo, Mexico. Universidade Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢nima del Estado de Hidalgo, Comisi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Nacional para el conocimiento y uso de la biodiversidad.",
+        "ID": "Martins10194",
+        "database_recorded_species": "Metlapilcoatlus nummifer",
+        "database_recorded_subspecies": "Metlapilcoatlus nummifer",
+        "taxonomy_updated_species": "Metlapilcoatlus_nummifer",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_nummifer",
+        "final_species": "Metlapilcoatlus_nummifer",
+        "final_subspecies": "Metlapilcoatlus_nummifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Quetzaltzongo, Hidalgo, Mexico",
+        "voucher": "UTM N 532192-2314613",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.400011,
+          -10.575024
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.575024,
+        "longitude": -75.400011,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302154477",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": 4623,
+        "country": "Peru",
+        "locality": "PE; Pasco; NA",
+        "voucher": "iNaturalist:Observations:65217877",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.135437,
+          -11.086747
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -11.086747,
+        "longitude": -75.135437,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476797715",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": 57090,
+        "country": "Peru",
+        "locality": "PE; Jun‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n; Chanchamaya,Dept.Junin,Peru",
+        "voucher": "MCZ:Herp:R-45906",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.135437,
+          -11.086747
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -11.086747,
+        "longitude": -75.135437,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10810",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3982,
+          -10.58883
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.58883,
+        "longitude": -75.3982,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02525",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "LSU 41037",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3982,
+          -10.58883
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.58883,
+        "longitude": -75.3982,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02526",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "LSU 41037",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3982,
+          -10.58883
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.58883,
+        "longitude": -75.3982,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02527",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "LSU 41037",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.335,
+          -11.061944
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -11.061944,
+        "longitude": -75.335,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins03074",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "La Merced, Junin, Per‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢",
+        "voucher": "MCZ45906 and FMNH68597",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.335,
+          -11.061944
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -11.061944,
+        "longitude": -75.335,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins03075",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "La Merced, Junin, Per‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢",
+        "voucher": "MCZ45906 and FMNH68597",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48309,
+          -10.583697
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.583697,
+        "longitude": -75.48309,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03103",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chontabamba, Pasco, Peru",
+        "voucher": "MHNJP 23415, 24748, 25317",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48309,
+          -10.583697
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.583697,
+        "longitude": -75.48309,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03104",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chontabamba, Pasco, Peru",
+        "voucher": "MHNJP 23415, 24748, 25317",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.94127,
+          -10.292871
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.292871,
+        "longitude": -74.94127,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03119",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Puerto Bermudez, Pasco, Peru",
+        "voucher": "MHNJP 25312, 25311",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.94127,
+          -10.292871
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -10.292871,
+        "longitude": -74.94127,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03120",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Puerto Bermudez, Pasco, Peru",
+        "voucher": "MHNJP 25312, 25311",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6426248108585,
+          -14.100517575669
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -14.100517575669,
+        "longitude": -69.6426248108585,
+        "date": "",
+        "source": "Campbell & Lamar 2004 Georeferenced",
+        "ID": "VM00037",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5527324347769,
+          -12.9237446524191
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_oligolepis",
+        "latitude": -12.9237446524191,
+        "longitude": -69.5527324347769,
+        "date": "",
+        "source": "Campbell & Lamar 2004 Georeferenced",
+        "ID": "VM00038",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_oligolepis",
+        "final_subspecies": "Bothrops_oligolepis",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

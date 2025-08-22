@@ -1,0 +1,1127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8667,
+          -9.0833
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -9.0833,
+        "longitude": -75.8667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476710169",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": 7601,
+        "country": "Peru",
+        "locality": "PE; Huanuco; Peru,Huanaco Dept Leoncio Prov.,Prado,Dtto.Hermilio Valdizan La Dioisoria [VERBATIM ELEVATION:1500-1600m]",
+        "voucher": "MCZ:Herp:R-156347",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8667,
+          -9.0833
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -9.0833,
+        "longitude": -75.8667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10303",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77,
+          -9.08
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -9.08,
+        "longitude": -75.77,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10809",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.435264,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44722,
+          -5.223774
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -5.223774,
+        "longitude": -79.44722,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins00213",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Huancabamba, Piura, Peru",
+        "voucher": "BMNH 1946.1.19.51",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44722,
+          -5.223774
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -5.223774,
+        "longitude": -79.44722,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins00214",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Huancabamba, Piura, Peru",
+        "voucher": "BMNH 1946.1.19.51",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.71377,
+          -3.132846
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -3.132846,
+        "longitude": -71.71377,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins00662",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Tarma, Loreto, Peru.",
+        "voucher": "CM 373",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.71377,
+          -3.132846
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -3.132846,
+        "longitude": -71.71377,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins00663",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Tarma, Loreto, Peru.",
+        "voucher": "CM 373",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74194,
+          -3.205585
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -3.205585,
+        "longitude": -71.74194,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00664",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Tarma, Loreto, Peru",
+        "voucher": "CM 373",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.435264,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74194,
+          -3.205585
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -3.205585,
+        "longitude": -71.74194,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00665",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Tarma, Loreto, Peru",
+        "voucher": "CM 373",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.435264,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74194,
+          -3.205585
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -3.205585,
+        "longitude": -71.74194,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00666",
+        "database_recorded_species": "Bothrops oligolepis",
+        "database_recorded_subspecies": "Bothrops oligolepis",
+        "taxonomy_updated_species": "Bothrops_oligolepis",
+        "taxonomy_updated_subspecies2": "Bothrops_oligolepis",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Tarma, Loreto, Peru",
+        "voucher": "CM 373",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.435264,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24104,
+          -9.922705
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -9.922705,
+        "longitude": -76.24104,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins01144",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Junin, Hu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nuco, Peru.",
+        "voucher": "FMNH 59205",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24104,
+          -9.922705
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -9.922705,
+        "longitude": -76.24104,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins01145",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Junin, Hu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nuco, Peru.",
+        "voucher": "FMNH 59205",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39507,
+          -10.580641
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.580641,
+        "longitude": -75.39507,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins02565",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "LSUMZ 41037",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39507,
+          -10.580641
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.580641,
+        "longitude": -75.39507,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins02566",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "LSUMZ 41037",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39885,
+          -10.589656
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.589656,
+        "longitude": -75.39885,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins02571",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "LSUMZ, 41037",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39885,
+          -10.589656
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.589656,
+        "longitude": -75.39885,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins02572",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "LSUMZ, 41037",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99136,
+          -8.996095
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -8.996095,
+        "longitude": -75.99136,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins02730",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Leoncio Prado, Hu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nuco, Peru.",
+        "voucher": "MCZ 156347",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99136,
+          -8.996095
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -8.996095,
+        "longitude": -75.99136,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins02731",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Leoncio Prado, Hu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nuco, Peru.",
+        "voucher": "MCZ 156347",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99374,
+          -8.997605
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -8.997605,
+        "longitude": -75.99374,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02830",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Leoncio Prado, Huanuco, Peru",
+        "voucher": "MCZ R-156347",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99374,
+          -8.997605
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -8.997605,
+        "longitude": -75.99374,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02831",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Leoncio Prado, Huanuco, Peru",
+        "voucher": "MCZ R-156347",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99374,
+          -8.997605
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -8.997605,
+        "longitude": -75.99374,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02832",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Leoncio Prado, Huanuco, Peru",
+        "voucher": "MCZ R-156347",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57,
+          -10.73
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.73,
+        "longitude": -75.57,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03087",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Manto, Peru",
+        "voucher": "MHNJP 18010, 19043",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57,
+          -10.73
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.73,
+        "longitude": -75.57,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03088",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Manto, Peru",
+        "voucher": "MHNJP 18010, 19043",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5252,
+          -11.218031
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -11.218031,
+        "longitude": -75.5252,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03089",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Huacapistana, Junin, Peru",
+        "voucher": "MHNJP 2003, 2252",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5252,
+          -11.218031
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -11.218031,
+        "longitude": -75.5252,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03090",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Huacapistana, Junin, Peru",
+        "voucher": "MHNJP 2003, 2252",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.63649,
+          -11.254107
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -11.254107,
+        "longitude": -74.63649,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03091",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Satipo, Junin, Peru",
+        "voucher": "MHNJP 2005",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.63649,
+          -11.254107
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -11.254107,
+        "longitude": -74.63649,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03092",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Satipo, Junin, Peru",
+        "voucher": "MHNJP 2005",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99742,
+          -9.295189
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -9.295189,
+        "longitude": -75.99742,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03095",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Tingo Mar‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Huanuco, Peru",
+        "voucher": "MHNJP 2088",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99742,
+          -9.295189
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -9.295189,
+        "longitude": -75.99742,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03096",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Tingo Mar‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Huanuco, Peru",
+        "voucher": "MHNJP 2088",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48309,
+          -10.583697
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.583697,
+        "longitude": -75.48309,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03105",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chontabamba, Pasco, Peru",
+        "voucher": "MHNJP 23680, 24744",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48309,
+          -10.583697
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.583697,
+        "longitude": -75.48309,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03106",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chontabamba, Pasco, Peru",
+        "voucher": "MHNJP 23680, 24744",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39849,
+          -10.590308
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.590308,
+        "longitude": -75.39849,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03113",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "MHNJP 24747",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39849,
+          -10.590308
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -10.590308,
+        "longitude": -75.39849,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03114",
+        "database_recorded_species": "Bothrops chloromelas",
+        "database_recorded_subspecies": "Bothrops chloromelas",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Oxapampa, Pasco, Peru",
+        "voucher": "MHNJP 24747",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2655976789976,
+          -3.75585230912325
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_chloromelas",
+        "latitude": -3.75585230912325,
+        "longitude": -73.2655976789976,
+        "date": "",
+        "source": "Doan pers. comm./Georeferenced Campbell & Lamar 2004",
+        "ID": "VM00034",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrops_chloromelas",
+        "taxonomy_updated_subspecies2": "Bothrops_chloromelas",
+        "final_species": "Bothrops_chloromelas",
+        "final_subspecies": "Bothrops_chloromelas",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

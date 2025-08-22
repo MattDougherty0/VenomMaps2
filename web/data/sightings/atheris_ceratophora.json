@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.594984,
+          -4.878325
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.878325,
+        "longitude": 38.594984,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236846468",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": 31394,
+        "country": "Tanzania",
+        "locality": "TZ; Tanga; NA",
+        "voucher": "iNaturalist:Observations:22378907",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.544473,
+          -4.84072
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.84072,
+        "longitude": 38.544473,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236846558",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": 31394,
+        "country": "Tanzania",
+        "locality": "TZ; Tanga; NA",
+        "voucher": "iNaturalist:Observations:22378883",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.483333,
+          -4.816666
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.816666,
+        "longitude": 38.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3314773076",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mazumbai, West Usambara Mountains",
+        "voucher": "NHMD:HP:876514",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.859082,
+          -7.805556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -7.805556,
+        "longitude": 36.859082,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3320897111",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": 31302,
+        "country": "Tanzania",
+        "locality": "TZ; Morogoro; NA",
+        "voucher": "iNaturalist:Observations:84822571",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.483333,
+          -4.816667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.816667,
+        "longitude": 38.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462382483",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mazumbai Estate, W.Usambara Mts",
+        "voucher": "ZMUC:Squamata:ZMUC-R68233",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.483333,
+          -4.816667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.816667,
+        "longitude": 38.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462385297",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mazumbai, West Usambara Mountains",
+        "voucher": "ZMUC:Squamata:ZMUC-R68311",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.916667,
+          -7.833333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -7.833333,
+        "longitude": 36.916667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462392746",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mwanihana Forest, Udzungwa Mts",
+        "voucher": "ZMUC:Squamata:ZMUC-R68234",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.483333,
+          -4.816667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.816667,
+        "longitude": 38.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462393616",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mazumbai, West Usambara Mountains",
+        "voucher": "ZMUC:Squamata:ZMUC-R68310",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.483333,
+          -4.816667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.816667,
+        "longitude": 38.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462394386",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mazumbai, West Usambara Mountains",
+        "voucher": "ZMUC:Squamata:ZMUC-R68304",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          -4.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.75,
+        "longitude": 38.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476675129",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": 58937.4,
+        "country": "Tanzania",
+        "locality": "TZ; Tanga; Kizerui, Usambara Mtns",
+        "voucher": "MCZ:Herp:R-23465",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.616667,
+          -8.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -8.6,
+        "longitude": 35.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543523164",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": 15040.96,
+        "country": "Tanzania",
+        "locality": "TZ; Iringa Region; Lulando",
+        "voucher": "CAS:HERP:173812",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.83332,
+          -7.83331
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -7.83331,
+        "longitude": 36.83332,
+        "date": "",
+        "source": "Rasmussen, J. B., and K. M. Howell. 1982. The current status of the rare Usambara Mountain Forest Viper, Atheris ceratophorus Werner, 1895, including a probable new record of A. nitschei rungweensis Bogert, 1940, and a discussion of its validity (Reptilia, Serpentes, Viperidae). Amphibia-Reptilia, 3:269-277.",
+        "ID": "Martins05109",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "Mwanihana Forest Reserve, Tanzania",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.83332222,
+          -7.833091667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -7.833091667,
+        "longitude": 36.83332222,
+        "date": "",
+        "source": "Emmrich, D. 1997. New Data for the Rare Horned Bush-Viper, Atheris ceratophora, WERNER, 1895. Mitteilungen aus dem Zoologischen Museum in Berlin, 73(1):131-151.",
+        "ID": "Martins05110",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "Mwanihana Forest Reserve, Tanzania",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          -4.816666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_ceratophora",
+        "latitude": -4.816666667,
+        "longitude": 38.5,
+        "date": "",
+        "source": "Emmrich, D. 1997. New Data for the Rare Horned Bush-Viper, Atheris ceratophora, WERNER, 1895. Mitteilungen aus dem Zoologischen Museum in Berlin, 73(1):131-151.",
+        "ID": "Martins05116",
+        "database_recorded_species": "Atheris ceratophora",
+        "database_recorded_subspecies": "Atheris ceratophora",
+        "taxonomy_updated_species": "Atheris_ceratophora",
+        "taxonomy_updated_subspecies2": "Atheris_ceratophora",
+        "final_species": "Atheris_ceratophora",
+        "final_subspecies": "Atheris_ceratophora",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "Mazumbai Forest reserve, Tanz‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬¢nia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

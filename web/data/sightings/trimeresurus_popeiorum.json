@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.48,
+          16.32
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 16.32,
+        "longitude": 98.48,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056809269",
+        "database_recorded_species": "Trimeresurus fucatus",
+        "database_recorded_subspecies": "Trimeresurus fucatus popeorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Kayin; Taok Plateau; Tenasserim",
+        "voucher": "NHMUK:ZOO:1924.5.20.38",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9847,
+          18.7903
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.7903,
+        "longitude": 98.9847,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321175427",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai; Chiengmai (= Chiang Mai)",
+        "voucher": "USNM:Amphibians & Reptiles:101531",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.05,
+          19.271
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 19.271,
+        "longitude": 98.05,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453167301",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 50,
+        "country": "Thailand",
+        "locality": "TH; Mae Hong Son; NA",
+        "voucher": "iNaturalist:Observations:4425604",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.5,
+          18.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.6,
+        "longitude": 98.5,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2432630652",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Thailand",
+        "locality": "TH; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.535545,
+          18.538037
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.538037,
+        "longitude": 98.535545,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2573930563",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 12,
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai; NA",
+        "voucher": "iNaturalist:Observations:38503638",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.59982,
+          18.540957
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.540957,
+        "longitude": 98.59982,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2574104043",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 4,
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai; NA",
+        "voucher": "iNaturalist:Observations:38265915",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.50103,
+          18.555232
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.555232,
+        "longitude": 98.50103,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2576270667",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 9549,
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai; NA",
+        "voucher": "iNaturalist:Observations:39352359",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.440671,
+          19.015349
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 19.015349,
+        "longitude": 99.440671,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626533217",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 15701,
+        "country": "Thailand",
+        "locality": "TH; Chiang Rai; NA",
+        "voucher": "iNaturalist:Observations:46582515",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.049604,
+          19.271213
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 19.271213,
+        "longitude": 98.049604,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836285782",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 25,
+        "country": "Thailand",
+        "locality": "TH; NA; Thailand - Namtok Mae Surin NP",
+        "voucher": "NA:Observations:OBS.125830467",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.794111,
+          18.764535
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.764535,
+        "longitude": 98.794111,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3018027656",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 8466,
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai; NA",
+        "voucher": "iNaturalist:Observations:67391432",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.085996,
+          19.127118
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 19.127118,
+        "longitude": 99.085996,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3031754602",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 21885,
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai; NA",
+        "voucher": "iNaturalist:Observations:68500535",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.491188,
+          18.585312
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.585312,
+        "longitude": 98.491188,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3067901545",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 7926,
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai; NA",
+        "voucher": "iNaturalist:Observations:26262155",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.221833,
+          21.6379
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 21.6379,
+        "longitude": 102.221833,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070494309",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Ph‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√Ñ¬¢ngsali; NA",
+        "voucher": "iNaturalist:Observations:96551",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.107666,
+          16.100577
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 16.100577,
+        "longitude": 99.107666,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333371130",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": 488,
+        "country": "Thailand",
+        "locality": "TH; Kamphaeng Phet; NA",
+        "voucher": "iNaturalist:Observations:88654010",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.20775,
+          20.923694
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 20.923694,
+        "longitude": 95.20775,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543602213",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Mandalay Div.; Kyaukpadaung Township, Popa Mountain Park, between Ye-nge Camp and Taung Twin Chaung Camp, 20 55 25.3 N, 95 12 27.9 E",
+        "voucher": "CAS:HERP:244957",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.61825,
+          25.476139
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 25.476139,
+        "longitude": 95.61825,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543602214",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Sagaing Div.; Khandi Township, Htamanthi Wildlife Sanctuary, hill N side of Nat E-Su stream, 25 28 34.1 N, 95 37 05.7 E",
+        "voucher": "CAS:HERP:244958",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.899467,
+          18.83745
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 18.83745,
+        "longitude": 98.899467,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686696792",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Thailand",
+        "locality": "TH; Chiang Mai Province; Chiang Mai University Highland Research Station",
+        "voucher": "KU:KUH:328583",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.991699,
+          19.7491
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 19.7491,
+        "longitude": 101.991699,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895452706",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Louangphabang; Tad Kuang Si Provincial Protected Area, 513 m elevation",
+        "voucher": "NCSM:Herp:79514",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.991699,
+          19.7491
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 19.7491,
+        "longitude": 101.991699,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895452722",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Louangphabang; Tad Kuang Si Provincial Protected Area, 513 m elevation",
+        "voucher": "NCSM:Herp:79513",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.878799,
+          21.3267
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 21.3267,
+        "longitude": 101.878799,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895453885",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Phongsali; Nam Lan Conservation Area, Ban Na Ten Village, Houay Fak Nai Stream, 685 m elevation",
+        "voucher": "NCSM:Herp:80734",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.878098,
+          21.327101
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_popeiorum",
+        "latitude": 21.327101,
+        "longitude": 101.878098,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895453902",
+        "database_recorded_species": "Trimeresurus popeiorum",
+        "database_recorded_subspecies": "Trimeresurus popeiorum",
+        "taxonomy_updated_species": "Trimeresurus_popeiorum",
+        "taxonomy_updated_subspecies2": "Trimeresurus_popeiorum",
+        "final_species": "Trimeresurus_popeiorum",
+        "final_subspecies": "Trimeresurus_popeiorum",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Phongsali; Nam Lan Conservation Area, Ban Na Ten Village, Houay Fak Nai Stream",
+        "voucher": "NCSM:Herp:80735",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

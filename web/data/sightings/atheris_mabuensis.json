@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40389,
+          -16.286667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_mabuensis",
+        "latitude": -16.286667,
+        "longitude": 36.40389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2234227467",
+        "database_recorded_species": "Atheris mabuensis",
+        "database_recorded_subspecies": "Atheris mabuensis",
+        "taxonomy_updated_species": "Atheris_mabuensis",
+        "taxonomy_updated_subspecies2": "Atheris_mabuensis",
+        "final_species": "Atheris_mabuensis",
+        "final_subspecies": "Atheris_mabuensis",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "MZ; NA; Mount Mabu",
+        "voucher": "NA:PEM:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.037914,
+          -15.411083
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_mabuensis",
+        "latitude": -15.411083,
+        "longitude": 37.037914,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2234227601",
+        "database_recorded_species": "Atheris mabuensis",
+        "database_recorded_subspecies": "Atheris mabuensis",
+        "taxonomy_updated_species": "Atheris_mabuensis",
+        "taxonomy_updated_subspecies2": "Atheris_mabuensis",
+        "final_species": "Atheris_mabuensis",
+        "final_subspecies": "Atheris_mabuensis",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "MZ; Zambezia; Khara Forest",
+        "voucher": "NA:PEM:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40389,
+          -16.286667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_mabuensis",
+        "latitude": -16.286667,
+        "longitude": 36.40389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2234227630",
+        "database_recorded_species": "Atheris mabuensis",
+        "database_recorded_subspecies": "Atheris mabuensis",
+        "taxonomy_updated_species": "Atheris_mabuensis",
+        "taxonomy_updated_subspecies2": "Atheris_mabuensis",
+        "final_species": "Atheris_mabuensis",
+        "final_subspecies": "Atheris_mabuensis",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "MZ; NA; Mount Mabu",
+        "voucher": "NA:PEM:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40389,
+          -16.286667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_mabuensis",
+        "latitude": -16.286667,
+        "longitude": 36.40389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2234227673",
+        "database_recorded_species": "Atheris mabuensis",
+        "database_recorded_subspecies": "Atheris mabuensis",
+        "taxonomy_updated_species": "Atheris_mabuensis",
+        "taxonomy_updated_subspecies2": "Atheris_mabuensis",
+        "final_species": "Atheris_mabuensis",
+        "final_subspecies": "Atheris_mabuensis",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "MZ; NA; Mount Mabu",
+        "voucher": "NA:PEM:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40388889,
+          -16.28666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_mabuensis",
+        "latitude": -16.28666667,
+        "longitude": 36.40388889,
+        "date": "",
+        "source": "Branch, W. R. and J. Bayliss. 2009. A new species of Atheris (Serpentes: Viperidae) from northern Mozambique. Zootaxa, 2113:41-54.",
+        "ID": "Martins05133",
+        "database_recorded_species": "Atheris mabuensis",
+        "database_recorded_subspecies": "Atheris mabuensis",
+        "taxonomy_updated_species": "Atheris_mabuensis",
+        "taxonomy_updated_subspecies2": "Atheris_mabuensis",
+        "final_species": "Atheris_mabuensis",
+        "final_subspecies": "Atheris_mabuensis",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "Main Forest Camp, Mount Mabu, Mozambique",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03513889,
+          -15.41108333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_mabuensis",
+        "latitude": -15.41108333,
+        "longitude": 37.03513889,
+        "date": "",
+        "source": "Branch, W. R. and J. Bayliss. 2009. A new species of Atheris (Serpentes: Viperidae) from northern Mozambique. Zootaxa, 2113:41-54.",
+        "ID": "Martins05134",
+        "database_recorded_species": "Atheris mabuensis",
+        "database_recorded_subspecies": "Atheris mabuensis",
+        "taxonomy_updated_species": "Atheris_mabuensis",
+        "taxonomy_updated_subspecies2": "Atheris_mabuensis",
+        "final_species": "Atheris_mabuensis",
+        "final_subspecies": "Atheris_mabuensis",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "Manho Forest, Mount Namuli, Zambezia Province, Mozambique",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

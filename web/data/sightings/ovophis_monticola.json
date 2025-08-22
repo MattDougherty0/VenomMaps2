@@ -1,0 +1,632 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.331292,
+          27.056539
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 27.056539,
+        "longitude": 88.331292,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039477635",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": 3036,
+        "country": "India",
+        "locality": "IN; West Bengal State; Takdah",
+        "voucher": "YPM:VZ:YPM HERR 006289",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.331292,
+          27.056539
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 27.056539,
+        "longitude": 88.331292,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039478463",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": 3036,
+        "country": "India",
+        "locality": "IN; West Bengal State; Takdah",
+        "voucher": "YPM:VZ:YPM HERR 006288",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.05,
+          26.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 26.8,
+        "longitude": 98.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055666946",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Kachin; Naurayang Ga, N. Burma",
+        "voucher": "NHMUK:ZOO:1974.918",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.05,
+          26.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 26.8,
+        "longitude": 98.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056505975",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Kachin; 4500 ft, Naurayang Ga, 26¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™48'N 98¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™03'E, N. Burma",
+        "voucher": "NHMUK:ZOO:1974.918",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.64361,
+          21.45361
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 21.45361,
+        "longitude": 105.64361,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145537505",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": 2001,
+        "country": "Vietnam",
+        "locality": "VN; Vinh Phuc; Tam Dao, Vinh Yen District",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:226627",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211764445",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39387",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211764484",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39388",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211765519",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39386",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.665737,
+          25.31356
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 25.31356,
+        "longitude": 92.665737,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1944411576",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": 61,
+        "country": "India",
+        "locality": "IN; Meghalaya; NA",
+        "voucher": "iNaturalist:Observations:18390996",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.493614,
+          27.504168
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 27.504168,
+        "longitude": 90.493614,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236917656",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "Bhutan",
+        "locality": "BT; Trongsa; NA",
+        "voucher": "iNaturalist:Observations:22646733",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.083831,
+          27.267181
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 27.267181,
+        "longitude": 88.083831,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2269231016",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": 122,
+        "country": "India",
+        "locality": "IN; Sikkim; NA",
+        "voucher": "iNaturalist:Observations:26948490",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.70594,
+          22.957405
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 22.957405,
+        "longitude": 103.70594,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2963926467",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": 4,
+        "country": "China",
+        "locality": "CN; Yunnan; NA",
+        "voucher": "iNaturalist:Observations:61877721",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.381329,
+          27.047019
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 27.047019,
+        "longitude": 88.381329,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3044732096",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": 203,
+        "country": "India",
+        "locality": "IN; West Bengal; NA",
+        "voucher": "iNaturalist:Observations:69547326",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.659667,
+          26.002167
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 26.002167,
+        "longitude": 98.659667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543568985",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; Yunnan Prov.; W slope of Gaoligong Shan, Nu Jiang Reserve, near Pianma, 26 00 07.8 N, 98 39 34.8 E",
+        "voucher": "CAS:HERP:215050",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.8531,
+          25.852548
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 25.852548,
+        "longitude": 98.8531,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00412",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Nu Jiang Prefecture, Yunnan, China",
+        "voucher": "CAS215050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.8531,
+          25.852548
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 25.852548,
+        "longitude": 98.8531,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00413",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Nu Jiang Prefecture, Yunnan, China",
+        "voucher": "CAS215050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.85406,
+          25.852333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 25.852333,
+        "longitude": 98.85406,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00414",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Nujianga, Yunnan, China",
+        "voucher": "CAS215050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.85406,
+          25.852333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 25.852333,
+        "longitude": 98.85406,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00415",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Nujianga, Yunnan, China",
+        "voucher": "CAS215050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.86565,
+          25.897127
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_monticola",
+        "latitude": 25.897127,
+        "longitude": 98.86565,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00416",
+        "database_recorded_species": "Ovophis monticola",
+        "database_recorded_subspecies": "Ovophis monticola",
+        "taxonomy_updated_species": "Ovophis_monticola",
+        "taxonomy_updated_subspecies2": "Ovophis_monticola",
+        "final_species": "Ovophis_monticola",
+        "final_subspecies": "Ovophis_monticola",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Nu Jiand Prefecture, Yunnan, China",
+        "voucher": "CAS215050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

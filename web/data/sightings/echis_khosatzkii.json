@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.460902,
+          17.086576
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_khosatzkii",
+        "latitude": 17.086576,
+        "longitude": 54.460902,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265841416",
+        "database_recorded_species": "Echis khosatzkii",
+        "database_recorded_subspecies": "Echis khosatzkii",
+        "taxonomy_updated_species": "Echis_khosatzkii",
+        "taxonomy_updated_subspecies2": "Echis_khosatzkii",
+        "final_species": "Echis_khosatzkii",
+        "final_subspecies": "Echis_khosatzkii",
+        "accuracy_m": 7186,
+        "country": "Oman",
+        "locality": "OM; Dhofar; NA",
+        "voucher": "iNaturalist:Observations:26667872",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8902,
+          17.2427
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_khosatzkii",
+        "latitude": 17.2427,
+        "longitude": 53.8902,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543608978",
+        "database_recorded_species": "Echis khosatzkii",
+        "database_recorded_subspecies": "Echis khosatzkii",
+        "taxonomy_updated_species": "Echis_khosatzkii",
+        "taxonomy_updated_subspecies2": "Echis_khosatzkii",
+        "final_species": "Echis_khosatzkii",
+        "final_subspecies": "Echis_khosatzkii",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Dhofar Gov.; 34.9 km NW (by air) of Salalah, Wadi Uyun, 17 14 33.72 N, 53 53 24.72 E",
+        "voucher": "CAS:HERP:251087",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

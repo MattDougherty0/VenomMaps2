@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.641479,
+          41.275161
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_darevskii",
+        "latitude": 41.275161,
+        "longitude": 43.641479,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265839362",
+        "database_recorded_species": "Vipera darevskii",
+        "database_recorded_subspecies": "Vipera darevskii",
+        "taxonomy_updated_species": "Vipera_darevskii",
+        "taxonomy_updated_subspecies2": "Vipera_darevskii",
+        "final_species": "Vipera_darevskii",
+        "final_subspecies": "Vipera_darevskii",
+        "accuracy_m": 27816,
+        "country": "Georgia",
+        "locality": "GE; Samtskhe-Javakheti; NA",
+        "voucher": "iNaturalist:Observations:26666297",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.996365,
+          41.178567
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_darevskii",
+        "latitude": 41.178567,
+        "longitude": 43.996365,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891072436",
+        "database_recorded_species": "Vipera darevskii",
+        "database_recorded_subspecies": "Vipera darevskii",
+        "taxonomy_updated_species": "Vipera_darevskii",
+        "taxonomy_updated_subspecies2": "Vipera_darevskii",
+        "final_species": "Vipera_darevskii",
+        "final_subspecies": "Vipera_darevskii",
+        "accuracy_m": 27847,
+        "country": "Georgia",
+        "locality": "AM; Shirak; NA",
+        "voucher": "iNaturalist:Observations:55731",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.95917,
+          41.156389
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_darevskii",
+        "latitude": 41.156389,
+        "longitude": 43.95917,
+        "date": "",
+        "source": "Ananjeva, N.B. et al. 2009. Study of the present status of amphibians and reptiles populations for updating the red data book of armenia and the IUCN red list. IN: Zazanashvilli & Mallon. Status and protection of globally threatened species in the caucasus. WWF, Tbilisi",
+        "ID": "Martins08219",
+        "database_recorded_species": "Vipera darevskii",
+        "database_recorded_subspecies": "Vipera darevskii",
+        "taxonomy_updated_species": "Vipera_darevskii",
+        "taxonomy_updated_subspecies2": "Vipera_darevskii",
+        "final_species": "Vipera_darevskii",
+        "final_subspecies": "Vipera_darevskii",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "mount Achkasar, Ashots district, Armenia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

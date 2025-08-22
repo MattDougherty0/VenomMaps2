@@ -1,0 +1,1523 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.545288,
+          -4.332581
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -4.332581,
+        "longitude": 39.545288,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453430287",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 15492,
+        "country": "Kenya",
+        "locality": "KE; Kwale; NA",
+        "voucher": "iNaturalist:Observations:5120234",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.789851,
+          -1.279947
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.279947,
+        "longitude": 31.789851,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236847429",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 977,
+        "country": "Tanzania",
+        "locality": "TZ; Kagera; NA",
+        "voucher": "iNaturalist:Observations:22381187",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.536,
+          -0.3593
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -0.3593,
+        "longitude": 42.536,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2239896",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Somalia",
+        "locality": "SO; Jubbada Hoose; Kismaayo",
+        "voucher": "NRM:NRM-Herps:2331",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1322,
+          -1.8834
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.8834,
+        "longitude": 40.1322,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2412487823",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "KE; NA; Tana River Primate National Reserve, Mchelelo Forest Camp",
+        "voucher": "NMK:HERP:S4132",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.816667,
+          -2.466667
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.466667,
+        "longitude": 29.816667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024561417",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Rwanda",
+        "locality": "RW; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:11182",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.733333,
+          -2.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.6,
+        "longitude": 29.733333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024565786",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 1000,
+        "country": "Rwanda",
+        "locality": "RW; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:11180",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.733333,
+          -2.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.6,
+        "longitude": 29.733333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024567396",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 1000,
+        "country": "Rwanda",
+        "locality": "RW; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:11179",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234473,
+          -1.055682
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.055682,
+        "longitude": 35.234473,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3044869943",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 27,
+        "country": "Kenya",
+        "locality": "KE; Narok; NA",
+        "voucher": "iNaturalist:Observations:70028633",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.051292,
+          0.409895
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.409895,
+        "longitude": 33.051292,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3118253620",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; Mukono; NA",
+        "voucher": "iNaturalist:Observations:78676799",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -1.083333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.083333,
+        "longitude": 31.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3314768894",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Minziro Forest Reserve, Bukoba District",
+        "voucher": "NHMD:HP:876523",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -1.083333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.083333,
+        "longitude": 31.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462382654",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Minziro Forest Reserve, Bukoba District",
+        "voucher": "ZMUC:Squamata:ZMUC-R68302",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -1.083333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.083333,
+        "longitude": 31.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462383896",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Minziro Forest Reserve, Bukoba District",
+        "voucher": "ZMUC:Squamata:ZMUC-R68300",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -1.083333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.083333,
+        "longitude": 31.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462384750",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Minziro Forest Reserve, Bukoba District",
+        "voucher": "ZMUC:Squamata:ZMUC-R68303",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -1.083333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.083333,
+        "longitude": 31.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462392167",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Minziro Forest Reserve, Bukoba District",
+        "voucher": "ZMUC:Squamata:ZMUC-R68299",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -1.083333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.083333,
+        "longitude": 31.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462394426",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Minziro Forest Reserve, Bukoba District",
+        "voucher": "ZMUC:Squamata:ZMUC-R68301",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.683333,
+          -2.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.416667,
+        "longitude": 40.683333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476493767",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 15488.33,
+        "country": "Kenya",
+        "locality": "KE; Coast; Peccatoni, nr Witu",
+        "voucher": "MCZ:Herp:R-40759",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.768768,
+          5.199448
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 5.199448,
+        "longitude": 31.768768,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476497390",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 3036,
+        "country": "South Sudan",
+        "locality": "SS; NA; Mongalla,Sudan",
+        "voucher": "MCZ:Herp:R-53515",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.466667,
+          1.483333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 1.483333,
+        "longitude": 35.466667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476633612",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 9857.23,
+        "country": "Kenya",
+        "locality": "KE; Rift Valley; Sigor:NW Kenya",
+        "voucher": "MCZ:Herp:R-97240",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670247",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40757",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.183333,
+          -2.180833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.180833,
+        "longitude": 40.183333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670352",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4045.89,
+        "country": "Kenya",
+        "locality": "KE; NA; Ngatana, Tana River",
+        "voucher": "MCZ:Herp:R-40761",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.183333,
+          -2.180833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.180833,
+        "longitude": 40.183333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670353",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4045.89,
+        "country": "Kenya",
+        "locality": "KE; NA; Ngatana, Tana River",
+        "voucher": "MCZ:Herp:R-40762",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.183333,
+          -2.180833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.180833,
+        "longitude": 40.183333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670354",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4045.89,
+        "country": "Kenya",
+        "locality": "KE; NA; Ngatana, Tana River",
+        "voucher": "MCZ:Herp:R-40763",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.183333,
+          -2.180833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.180833,
+        "longitude": 40.183333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670458",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4045.89,
+        "country": "Kenya",
+        "locality": "KE; NA; Ngatana, Tana River",
+        "voucher": "MCZ:Herp:R-40766",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.183333,
+          -2.180833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.180833,
+        "longitude": 40.183333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670459",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4045.89,
+        "country": "Kenya",
+        "locality": "KE; NA; Ngatana, Tana River",
+        "voucher": "MCZ:Herp:R-40767",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.183333,
+          -2.180833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -2.180833,
+        "longitude": 40.183333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670563",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4045.89,
+        "country": "Kenya",
+        "locality": "KE; NA; Ngatana, Tana River",
+        "voucher": "MCZ:Herp:R-40770",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.583333,
+          0.166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.166667,
+        "longitude": 34.583333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476682273",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 95916.1,
+        "country": "Kenya",
+        "locality": "KE; Western; Yale River,KC",
+        "voucher": "MCZ:Herp:R-18241",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.768768,
+          5.199448
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 5.199448,
+        "longitude": 31.768768,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476696539",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 3036,
+        "country": "South Sudan",
+        "locality": "SS; NA; Mongalla,Sudan",
+        "voucher": "MCZ:Herp:R-53516",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.768768,
+          5.199448
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 5.199448,
+        "longitude": 31.768768,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476696541",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 3036,
+        "country": "South Sudan",
+        "locality": "SS; NA; Mongalla,Sudan",
+        "voucher": "MCZ:Herp:R-53518",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.823947,
+          4.487619
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 4.487619,
+        "longitude": 32.823947,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476696542",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 16594,
+        "country": "South Sudan",
+        "locality": "SS; NA; Terangare, 20 miles east of Torit",
+        "voucher": "MCZ:Herp:R-53519",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.823947,
+          4.487619
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 4.487619,
+        "longitude": 32.823947,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476696543",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 16594,
+        "country": "South Sudan",
+        "locality": "SS; NA; Terangare, 20 miles east of Torit",
+        "voucher": "MCZ:Herp:R-53520",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.573737,
+          4.858972
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 4.858972,
+        "longitude": 31.573737,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476698344",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 8194,
+        "country": "South Sudan",
+        "locality": "SS; NA; Juba,Sudan",
+        "voucher": "MCZ:Herp:R-53514",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.466667,
+          -0.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -0.2,
+        "longitude": 35.466667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476723649",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 7765.08,
+        "country": "Kenya",
+        "locality": "KE; Rift Valley; Lumbwa",
+        "voucher": "MCZ:Herp:R-68878",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.466667,
+          1.483333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 1.483333,
+        "longitude": 35.466667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543476234",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 3868.87,
+        "country": "Kenya",
+        "locality": "KE; Rift Valley Prov.; Kipsigo near Sigor",
+        "voucher": "CAS:HERP:131575",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.116667,
+          -0.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -0.1,
+        "longitude": 35.116667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543487183",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 7716.82,
+        "country": "Kenya",
+        "locality": "KE; Nyanza Prov.; Chemelil",
+        "voucher": "CAS:HERP:141429",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4915915920562,
+          0.332080521007055
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.332080521007055,
+        "longitude": 34.4915915920562,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543487194",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4512.60999999997,
+        "country": "Kenya",
+        "locality": "KE; Western Prov.; Mumias",
+        "voucher": "CAS:HERP:141439",
+        "issue": "COORDINATE_REPROJECTED;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4915915920562,
+          0.332080521007055
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.332080521007055,
+        "longitude": 34.4915915920562,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543487203",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 4512.60999999997,
+        "country": "Kenya",
+        "locality": "KE; Western Prov.; Mumias",
+        "voucher": "CAS:HERP:141447",
+        "issue": "COORDINATE_REPROJECTED;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.116667,
+          -0.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -0.1,
+        "longitude": 35.116667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543494503",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 7716.82,
+        "country": "Kenya",
+        "locality": "KE; Nyanza Prov.; Chemelil",
+        "voucher": "CAS:HERP:148017",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.116667,
+          -0.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -0.1,
+        "longitude": 35.116667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543494504",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 7716.82,
+        "country": "Kenya",
+        "locality": "KE; Nyanza Prov.; Chemelil",
+        "voucher": "CAS:HERP:148018",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6945,
+          0.4335
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.4335,
+        "longitude": 42.6945,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543500525",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 3300,
+        "country": "Somalia",
+        "locality": "SO; NA; Lower Juba River, near Mareri, Juba Sugar Project",
+        "voucher": "CAS:HERP:153437",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6945,
+          0.4335
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.4335,
+        "longitude": 42.6945,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543500533",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 3300,
+        "country": "Somalia",
+        "locality": "SO; NA; Lower Juba River, near Mareri, Juba Sugar Project",
+        "voucher": "CAS:HERP:153444",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6945,
+          0.4335
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 0.4335,
+        "longitude": 42.6945,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543500534",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 3300,
+        "country": "Somalia",
+        "locality": "SO; NA; Lower Juba River, near Mareri, Juba Sugar Project",
+        "voucher": "CAS:HERP:153445",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.133333,
+          -0.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -0.033333,
+        "longitude": 30.133333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543729598",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": 14477.69,
+        "country": "Uganda",
+        "locality": "UG; NA; Kasenyi",
+        "voucher": "CAS:SUR:21719",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;AMBIGUOUS_COLLECTION",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.74114,
+          -1.27754
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.27754,
+        "longitude": 29.74114,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02777",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Nyakabande, Uganda",
+        "voucher": "MCZ 48492-3",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.74114,
+          -1.27754
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": -1.27754,
+        "longitude": 29.74114,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02778",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Nyakabande, Uganda",
+        "voucher": "MCZ 48492-3",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55,
+          6.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 6.033333,
+        "longitude": 37.55,
+        "date": "",
+        "source": "Largen, M. J., and J. B. Rasmussen. 1993. Catalogue of the snakes of Ethiopia (Reptilia, Serpentes), including identification keys. Tropical Zoology, 6:313-434.",
+        "ID": "Martins06004",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Ethiopia",
+        "locality": "Arba Minch, Ethiopia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55,
+          6.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_resimus",
+        "latitude": 6.033333,
+        "longitude": 37.55,
+        "date": "",
+        "source": "Largen, M. J., and J. B. Rasmussen. 1993. Catalogue of the snakes of Ethiopia (Reptilia, Serpentes), including identification keys. Tropical Zoology, 6:313-434.",
+        "ID": "Martins06005",
+        "database_recorded_species": "Causus resimus",
+        "database_recorded_subspecies": "Causus resimus",
+        "taxonomy_updated_species": "Causus_resimus",
+        "taxonomy_updated_subspecies2": "Causus_resimus",
+        "final_species": "Causus_resimus",
+        "final_subspecies": "Causus_resimus",
+        "accuracy_m": "NA",
+        "country": "Ethiopia",
+        "locality": "Arba Minch, Ethiopia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

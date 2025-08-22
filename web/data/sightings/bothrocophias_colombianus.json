@@ -1,0 +1,797 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.255833,
+          3.850278
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.850278,
+        "longitude": -76.255833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954230",
+        "database_recorded_species": "Bothrops rhombeatus",
+        "database_recorded_subspecies": "Bothrops rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": 734,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "Universidad del Valle:UVC:UVC-10831",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.140782,
+          3.865627
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.865627,
+        "longitude": -76.140782,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954242",
+        "database_recorded_species": "Bothrops rhombeatus",
+        "database_recorded_subspecies": "Bothrops rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": 17364,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "Universidad del Valle:UVC:UVC-7437",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.231036,
+          3.561157
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.561157,
+        "longitude": -76.231036,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954259",
+        "database_recorded_species": "Bothrops rhombeatus",
+        "database_recorded_subspecies": "Bothrops rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": 34472,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "Universidad del Valle:UVC:UVC-13463",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.417376,
+          6.963208
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 6.963208,
+        "longitude": -75.417376,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1930061400",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": 3036,
+        "country": "Colombia",
+        "locality": "CO; Antioquia; Yarumal",
+        "voucher": "Universidad de La Salle (La Salle):MLS-ofi:1832",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5,
+          7
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 7,
+        "longitude": -75.5,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07692",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.255833,
+          3.850278
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.850278,
+        "longitude": -76.255833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10873",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus_rhombeatus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.231036,
+          3.561157
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.561157,
+        "longitude": -76.231036,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10874",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus_rhombeatus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.140782,
+          3.865627
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.865627,
+        "longitude": -76.140782,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10875",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus_rhombeatus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61684,
+          2.450169
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.450169,
+        "longitude": -76.61684,
+        "date": "",
+        "source": "Folleco-Fernandes, A. J. 2010. Taxonom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del complejo Bothrops asper (Serpentes: Viperidae) en el sudoeste de Colombia. Revalidaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la especie Bothrops rhombeatus (Garc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a 1896) y descripci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n  de una nueva especie. Revista Novedades Colombianas, 10(1):33-70.",
+        "ID": "Martins03153",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus_rhombeatus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Popayan, Cauca, Colombia",
+        "voucher": "MHNUC-SE000126",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61684,
+          2.450169
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.450169,
+        "longitude": -76.61684,
+        "date": "",
+        "source": "Folleco-Fernandes, A. J. 2010. Taxonom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del complejo Bothrops asper (Serpentes: Viperidae) en el sudoeste de Colombia. Revalidaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la especie Bothrops rhombeatus (Garc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a 1896) y descripci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n  de una nueva especie. Revista Novedades Colombianas, 10(1):33-70.",
+        "ID": "Martins03154",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus rhombeatus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus_rhombeatus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Popayan, Cauca, Colombia",
+        "voucher": "MHNUC-SE000126",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98728,
+          2.11234
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.11234,
+        "longitude": -76.98728,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05639",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Pat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98728,
+          2.11234
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.11234,
+        "longitude": -76.98728,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05640",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Pat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80578,
+          2.455775
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.455775,
+        "longitude": -76.80578,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05641",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "El Tambo, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80578,
+          2.455775
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.455775,
+        "longitude": -76.80578,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05642",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "El Tambo, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74143,
+          2.261279
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.261279,
+        "longitude": -76.74143,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05643",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Rosas, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74143,
+          2.261279
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.261279,
+        "longitude": -76.74143,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05644",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Rosas, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64519,
+          3.016664
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.016664,
+        "longitude": -76.64519,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05645",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenos Aires, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64519,
+          3.016664
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 3.016664,
+        "longitude": -76.64519,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05646",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenos Aires, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6339,
+          2.76028
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.76028,
+        "longitude": -76.6339,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05647",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Morales, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6339,
+          2.76028
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.76028,
+        "longitude": -76.6339,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05648",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Morales, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63333,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.633333,
+        "longitude": -76.63333,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05649",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Cajibio, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63333,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.633333,
+        "longitude": -76.63333,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05650",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Cajibio, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61667,
+          2.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.45,
+        "longitude": -76.61667,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05651",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Popay‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61667,
+          2.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_colombianus",
+        "latitude": 2.45,
+        "longitude": -76.61667,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05652",
+        "database_recorded_species": "Bothrocophias colombianus",
+        "database_recorded_subspecies": "Bothrocophias colombianus",
+        "taxonomy_updated_species": "Bothrocophias_colombianus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_colombianus",
+        "final_species": "Bothrocophias_colombianus",
+        "final_subspecies": "Bothrocophias_colombianus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Popay‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Cauca, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

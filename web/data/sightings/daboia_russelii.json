@@ -1,0 +1,4559 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.578239,
+          13.068624
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.068624,
+        "longitude": 77.578239,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1668900795",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 159,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:8270679",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.963366,
+          23.174777
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 23.174777,
+        "longitude": 87.963366,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1802794623",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; West Bengal; NA",
+        "voucher": "iNaturalist:Observations:9419822",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.578232,
+          13.067921
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.067921,
+        "longitude": 77.578232,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880480009",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:13448821",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.858151,
+          18.533051
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 18.533051,
+        "longitude": 73.858151,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1883512754",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 11154,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:14305661",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.388553,
+          18.701228
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 18.701228,
+        "longitude": 73.388553,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1891307417",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 7623,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:15313234",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.654742,
+          21.27024
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.27024,
+        "longitude": 81.654742,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1913667418",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 5577,
+        "country": "India",
+        "locality": "IN; Chhattisgarh; NA",
+        "voucher": "iNaturalist:Observations:16517396",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.873054,
+        "longitude": 80.771797,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1914238025",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 283665,
+        "country": "Sri Lanka",
+        "locality": "LK; Matale; NA",
+        "voucher": "iNaturalist:Observations:16929189",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.424295,
+          18.441969
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 18.441969,
+        "longitude": 73.424295,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1986569740",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 66,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:19394231",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.668457,
+          7.293288
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.293288,
+        "longitude": 80.668457,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2235546291",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:21957552",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.334955,
+          8.281222
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 8.281222,
+        "longitude": 81.334955,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236288192",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; Trincomalee; NA",
+        "voucher": "iNaturalist:Observations:22313895",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.539172,
+          7.280684
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.280684,
+        "longitude": 80.539172,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2242982475",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 8,
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:25090110",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.317,
+          19.88
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.88,
+        "longitude": 75.317,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2250627437",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Maharashtra; Marathwada, Aurangabad",
+        "voucher": "NA:NA:AS28",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.944918,
+          19.178537
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.178537,
+        "longitude": 72.944918,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2273269958",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 57,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:27542150",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.171128,
+          10.56402
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 10.56402,
+        "longitude": 76.171128,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294406854",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 889,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:19876301",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.580766,
+          13.079683
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.079683,
+        "longitude": 77.580766,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294526373",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 2202,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:28935834",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.729721,
+          20.498547
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 20.498547,
+        "longitude": 75.729721,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294623874",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 526,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:29301367",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.749554,
+          19.804194
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.804194,
+        "longitude": 72.749554,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423105186",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:32856992",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.924921,
+          8.002356
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 8.002356,
+        "longitude": 80.924921,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423172188",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 793,
+        "country": "Sri Lanka",
+        "locality": "LK; Polonnaruwa; NA",
+        "voucher": "iNaturalist:Observations:33133261",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.438382,
+          26.062286
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 26.062286,
+        "longitude": 76.438382,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429342245",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1,
+        "country": "India",
+        "locality": "IN; Rajasthan; NA",
+        "voucher": "iNaturalist:Observations:33744257",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.652153,
+          21.196514
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.196514,
+        "longitude": 81.652153,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429346451",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Chhattisgarh; NA",
+        "voucher": "iNaturalist:Observations:33756025",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7,
+          7.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.3,
+        "longitude": 80.7,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2432601652",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.494302,
+          12.851027
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.851027,
+        "longitude": 77.494302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2444959832",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:34685196",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.494302,
+          12.851027
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.851027,
+        "longitude": 77.494302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2444999955",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:34685194",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.494302,
+          12.851027
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.851027,
+        "longitude": 77.494302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2445020123",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:34685192",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.494302,
+          12.851027
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.851027,
+        "longitude": 77.494302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2445024800",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:34685197",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.494302,
+          12.851027
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.851027,
+        "longitude": 77.494302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2445027147",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:34685191",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.388553,
+          16.466627
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 16.466627,
+        "longitude": 73.388553,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2447907023",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 3617,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:34688550",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.579348,
+          13.065612
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.065612,
+        "longitude": 77.579348,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2460109020",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 66,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:35780166",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.251401,
+          22.530502
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 22.530502,
+        "longitude": 88.251401,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2542914577",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 132,
+        "country": "India",
+        "locality": "IN; West Bengal; NA",
+        "voucher": "iNaturalist:Observations:37129040",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.848618,
+          6.913233
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.913233,
+        "longitude": 79.848618,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2550123228",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 231,
+        "country": "Sri Lanka",
+        "locality": "LK; Colombo; NA",
+        "voucher": "iNaturalist:Observations:37335686",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.223766,
+          12.707832
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.707832,
+        "longitude": 80.223766,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2563574032",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1367,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:37907685",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.804227,
+          18.263386
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 18.263386,
+        "longitude": 74.804227,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2576404942",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 7401,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:39532252",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.870667,
+          26.809293
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 26.809293,
+        "longitude": 80.870667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2634133652",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 29798,
+        "country": "India",
+        "locality": "IN; Uttar Pradesh; NA",
+        "voucher": "iNaturalist:Observations:47993763",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.860672,
+          26.841022
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 26.841022,
+        "longitude": 80.860672,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2634531640",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 29798,
+        "country": "India",
+        "locality": "IN; Uttar Pradesh; NA",
+        "voucher": "iNaturalist:Observations:47991045",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.588286,
+          13.08083
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.08083,
+        "longitude": 77.588286,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802608689",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 172,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:48739083",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.122062,
+          12.921125
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.921125,
+        "longitude": 80.122062,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2803104551",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 203,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:49565355",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.723233,
+          22.969958
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 22.969958,
+        "longitude": 83.723233,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2814151588",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6790,
+        "country": "India",
+        "locality": "IN; Chhattisgarh; NA",
+        "voucher": "iNaturalist:Observations:48090023",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.206641,
+          10.272471
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 10.272471,
+        "longitude": 77.206641,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2814222662",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 31199,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:48255141",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.830024,
+          11.078946
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 11.078946,
+        "longitude": 79.830024,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2818726591",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 526,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:52555075",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.194492,
+          12.620782
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.620782,
+        "longitude": 80.194492,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826386281",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 3123,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:54502911",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94458,
+          19.233765
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.233765,
+        "longitude": 72.94458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826464604",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1509,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:54717670",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94458,
+          19.233765
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.233765,
+        "longitude": 72.94458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826492125",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1509,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:55123239",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94458,
+          19.233765
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.233765,
+        "longitude": 72.94458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826523635",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1509,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:54738786",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94458,
+          19.233765
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.233765,
+        "longitude": 72.94458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850531004",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1509,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:55268373",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.521129,
+          19.148073
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.148073,
+        "longitude": 73.521129,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850572989",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 261,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:55256687",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.208818,
+          12.774862
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.774862,
+        "longitude": 76.208818,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850594079",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:55304146",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.786565,
+          12.944151
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.944151,
+        "longitude": 75.786565,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850611186",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1302,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:55365107",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.161844,
+          15.479776
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 15.479776,
+        "longitude": 74.161844,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850683814",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:55769946",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.830024,
+          11.078946
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 11.078946,
+        "longitude": 79.830024,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850771427",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 526,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:56238414",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.648499,
+          12.268585
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.268585,
+        "longitude": 76.648499,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850793101",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 96,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:56663998",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.502593,
+          10.032119
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 10.032119,
+        "longitude": 77.502593,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850860834",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 120,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:55782273",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.153348,
+          11.678976
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 11.678976,
+        "longitude": 78.153348,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850929353",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 2,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:56827659",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94458,
+          19.233765
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.233765,
+        "longitude": 72.94458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850934017",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1509,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:55253754",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.100389,
+          13.003323
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.003323,
+        "longitude": 76.100389,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850944144",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 5900,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:55365467",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.808624,
+          18.485932
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 18.485932,
+        "longitude": 73.808624,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851000979",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 31,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:55244866",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.455709,
+          26.018522
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 26.018522,
+        "longitude": 76.455709,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851081161",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 2081,
+        "country": "India",
+        "locality": "IN; Rajasthan; NA",
+        "voucher": "iNaturalist:Observations:56722160",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851089502",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:55608320",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94458,
+          19.233765
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.233765,
+        "longitude": 72.94458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851187547",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1509,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:55613512",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.830145,
+          21.342011
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.342011,
+        "longitude": 70.830145,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2862679314",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 122,
+        "country": "India",
+        "locality": "IN; Gujarat; NA",
+        "voucher": "iNaturalist:Observations:59031474",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.830024,
+          11.078946
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 11.078946,
+        "longitude": 79.830024,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864817189",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 526,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:59453745",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.742402,
+          16.561151
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 16.561151,
+        "longitude": 80.742402,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864846324",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Andhra Pradesh; NA",
+        "voucher": "iNaturalist:Observations:59684564",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.957868,
+          19.403314
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 19.403314,
+        "longitude": 72.957868,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2868288007",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 5655,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:60411640",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.577524,
+          13.067591
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.067591,
+        "longitude": 77.577524,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2883130920",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:61658923",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6,
+          7.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.3,
+        "longitude": 80.6,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2979249866",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92,
+          25.19
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 25.19,
+        "longitude": 92,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2979500950",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "BD; NA; NA",
+        "voucher": "NA:NA:DUZM_S051",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.688758,
+          21.255603
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.255603,
+        "longitude": 81.688758,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2980849538",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6,
+        "country": "India",
+        "locality": "IN; Chhattisgarh; NA",
+        "voucher": "iNaturalist:Observations:61798949",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.773042,
+          15.549008
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 15.549008,
+        "longitude": 73.773042,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988334076",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 8,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:64950018",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.039443,
+          13.174033
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.174033,
+        "longitude": 78.039443,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2992846070",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 200,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:66020645",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.578598,
+          13.064815
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.064815,
+        "longitude": 77.578598,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2999072736",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:66143822",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.854951,
+          12.020489
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.020489,
+        "longitude": 79.854951,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039136959",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:68801726",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.841788,
+          15.528145
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 15.528145,
+        "longitude": 73.841788,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039427041",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 65,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:69399240",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.32282,
+          9.57737
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 9.57737,
+        "longitude": 76.32282,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3061616797",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 244,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:71194908",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.134886,
+          12.897012
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.897012,
+        "longitude": 79.134886,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3067724105",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 31057,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:71944667",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.601509,
+          8.87015
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 8.87015,
+        "longitude": 76.601509,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3068008331",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 2,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:61369301",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.471315,
+          13.655403
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.655403,
+        "longitude": 79.471315,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070462545",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 104,
+        "country": "India",
+        "locality": "IN; Andhra Pradesh; NA",
+        "voucher": "iNaturalist:Observations:72078041",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.466488,
+          12.885083
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.885083,
+        "longitude": 77.466488,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3079515156",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 12,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:70946465",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.458386,
+          12.89047
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.89047,
+        "longitude": 77.458386,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3079578054",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 18,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:68719067",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.009052,
+          12.578825
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.578825,
+        "longitude": 76.009052,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3079641195",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 70,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:70559254",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.463086,
+          12.881701
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.881701,
+        "longitude": 77.463086,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090520833",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 56,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:61300474",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.462608,
+          12.881304
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.881304,
+        "longitude": 77.462608,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090529805",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 49,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:61200433",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.465893,
+          12.88935
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.88935,
+        "longitude": 77.465893,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090533904",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 22,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:64291302",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.47782,
+          12.9005
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.9005,
+        "longitude": 77.47782,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090537929",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 46,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:66519089",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.577166,
+          13.070401
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.070401,
+        "longitude": 77.577166,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090552820",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 454,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:57012886",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.441,
+          12.827997
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.827997,
+        "longitude": 77.441,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090570913",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:67873649",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.471452,
+          12.904242
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.904242,
+        "longitude": 77.471452,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090590776",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:53883720",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.31204,
+          12.936361
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.936361,
+        "longitude": 77.31204,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090602852",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:66883119",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4649,
+          12.884
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.884,
+        "longitude": 77.4649,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090612813",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:56907241",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.582141,
+          13.073592
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.073592,
+        "longitude": 77.582141,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090709376",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 36,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:13418980",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.465056,
+          12.884208
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.884208,
+        "longitude": 77.465056,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090717810",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 22,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:56221356",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.034027,
+          13.016956
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.016956,
+        "longitude": 78.034027,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090765921",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 31045,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:68637158",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.463368,
+          12.884888
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.884888,
+        "longitude": 77.463368,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090796818",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 352,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:59579888",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.463476,
+          12.883851
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.883851,
+        "longitude": 77.463476,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090811935",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:68632090",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.464541,
+          12.884311
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.884311,
+        "longitude": 77.464541,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090831879",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:66521623",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.464185,
+          12.882466
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.882466,
+        "longitude": 77.464185,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090836810",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:53883045",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.440519,
+          12.890394
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.890394,
+        "longitude": 77.440519,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090857789",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:53885206",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.406049,
+          21.509028
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.509028,
+        "longitude": 71.406049,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3097034929",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 122,
+        "country": "India",
+        "locality": "IN; Gujarat; NA",
+        "voucher": "iNaturalist:Observations:74334352",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.939479,
+          8.623508
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 8.623508,
+        "longitude": 76.939479,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3097216591",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:74821614",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.374985,
+          21.444817
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.444817,
+        "longitude": 71.374985,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3097311130",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Gujarat; NA",
+        "voucher": "iNaturalist:Observations:74498333",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.761704,
+          13.065001
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.065001,
+        "longitude": 77.761704,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3109176299",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 26,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:75513490",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.463216,
+          12.883884
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.883884,
+        "longitude": 77.463216,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3112608784",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 11,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:77600849",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.767352,
+          23.187135
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 23.187135,
+        "longitude": 88.767352,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113654305",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 233,
+        "country": "India",
+        "locality": "IN; West Bengal; NA",
+        "voucher": "iNaturalist:Observations:78202695",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.398629,
+          21.502902
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.502902,
+        "longitude": 71.398629,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3117872767",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 488,
+        "country": "India",
+        "locality": "IN; Gujarat; NA",
+        "voucher": "iNaturalist:Observations:78806706",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.862491,
+          18.743701
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 18.743701,
+        "longitude": 72.862491,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3117878810",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "NA",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:78824505",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.985968,
+          11.237838
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 11.237838,
+        "longitude": 76.985968,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3118483460",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 31148,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:79287553",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.394963,
+          21.897398
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.897398,
+        "longitude": 83.394963,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3124574752",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 4077,
+        "country": "India",
+        "locality": "IN; Chhattisgarh; NA",
+        "voucher": "iNaturalist:Observations:79750801",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.001988,
+          22.977157
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 22.977157,
+        "longitude": 87.001988,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3124912097",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 7,
+        "country": "India",
+        "locality": "IN; West Bengal; NA",
+        "voucher": "iNaturalist:Observations:80491026",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.303389,
+          7.312196
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.312196,
+        "longitude": 80.303389,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3131095852",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.593626,
+          12.8949
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.8949,
+        "longitude": 77.593626,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307452925",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 209,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:82642807",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.355699,
+          11.927137
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 11.927137,
+        "longitude": 75.355699,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314602389",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 209,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:84161314",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.744484,
+          13.425333
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.425333,
+        "longitude": 77.744484,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3320867981",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:84693207",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.465119,
+          12.885056
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.885056,
+        "longitude": 77.465119,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3320930846",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:84577865",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.683591,
+          20.170246
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 20.170246,
+        "longitude": 85.683591,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3320984398",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 219,
+        "country": "India",
+        "locality": "IN; Odisha; NA",
+        "voucher": "iNaturalist:Observations:85091341",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.46539,
+          12.885186
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.885186,
+        "longitude": 77.46539,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3321179826",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:84576144",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.464108,
+          12.882455
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.882455,
+        "longitude": 77.464108,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3321239314",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:84989796",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.338865,
+          13.5513
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.5513,
+        "longitude": 77.338865,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3330455074",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:87687613",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.693685,
+          12.963276
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 12.963276,
+        "longitude": 77.693685,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333045249",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 206,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:88821146",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.135779,
+          18.28922
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 18.28922,
+        "longitude": 73.135779,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333132825",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 57,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:88378486",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.113307,
+          6.859123
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.859123,
+        "longitude": 80.113307,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3335495552",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 6,
+        "country": "Sri Lanka",
+        "locality": "LK; Colombo; NA",
+        "voucher": "iNaturalist:Observations:90009408",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.270718,
+          13.083082
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.083082,
+        "longitude": 80.270718,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3335522535",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 21079,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:90029065",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.248357,
+          13.084622
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 13.084622,
+        "longitude": 80.248357,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476652675",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 50000,
+        "country": "India",
+        "locality": "IN; NA; Madras",
+        "voucher": "MCZ:Herp:R-18405",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.416667,
+          27.333333
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 27.333333,
+        "longitude": 88.416667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476675085",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 301,
+        "country": "India",
+        "locality": "IN; NA; Southern,India",
+        "voucher": "MCZ:Herp:R-46627",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.728027,
+          7.847962
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.847962,
+        "longitude": 80.728027,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476677853",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 247659,
+        "country": "Sri Lanka",
+        "locality": "LK; NA; Ceylon",
+        "voucher": "MCZ:Herp:R-4039",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79,
+          20
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 20,
+        "longitude": 79,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476678501",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1682200,
+        "country": "India",
+        "locality": "IN; NA; India",
+        "voucher": "MCZ:Herp:R-4193",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.688214,
+          22.067092
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 22.067092,
+        "longitude": 81.688214,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543719306",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Chhattisgarh; Mungeli",
+        "voucher": "CAS:SUR:12456",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;AMBIGUOUS_COLLECTION",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.965264,
+          22.197267
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 22.197267,
+        "longitude": 82.965264,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543719307",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Chhattisgarh; Bisrampur",
+        "voucher": "CAS:SUR:12457",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;AMBIGUOUS_COLLECTION",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.16667,
+          21.33333
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 21.33333,
+        "longitude": 83.16667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_621069756",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": 1875288,
+        "country": "India",
+        "locality": "IN; NA; India",
+        "voucher": "SMNS:Herpetologie:4743",
+        "issue": "COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.23291,
+          8.569151
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 8.569151,
+        "longitude": 81.23291,
+        "date": "",
+        "source": "Taylor, E.H. 1950. The snakes of Ceylon. The University of Kansas, Science Bulletin, 33(14):519-603.",
+        "ID": "Martins00844",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Trincomalee, Sri Lanka",
+        "voucher": "EHT-HMS 30679",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.23291,
+          8.569151
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 8.569151,
+        "longitude": 81.23291,
+        "date": "",
+        "source": "Taylor, E.H. 1950. The snakes of Ceylon. The University of Kansas, Science Bulletin, 33(14):519-603.",
+        "ID": "Martins00845",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Trincomalee, Sri Lanka",
+        "voucher": "EHT-HMS 30679",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.68443,
+          32.068169
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 32.068169,
+        "longitude": 73.68443,
+        "date": "",
+        "source": "Feroze, A., S. A. Malik, and W. C. Paltrick. 2010, Phylogenetic relationships of medically important vipers of Pakistan inferred from Cytochrome b sequences. The Journal of Animal and Plant Sciences, 20(3):147-157.",
+        "ID": "Martins06766",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Pakistan",
+        "locality": "Hafizabad, Punjab, Pakistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.68443,
+          32.068169
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 32.068169,
+        "longitude": 73.68443,
+        "date": "",
+        "source": "Feroze, A., S. A. Malik, and W. C. Paltrick. 2010, Phylogenetic relationships of medically important vipers of Pakistan inferred from Cytochrome b sequences. The Journal of Animal and Plant Sciences, 20(3):147-157.",
+        "ID": "Martins06767",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Pakistan",
+        "locality": "Hafizabad, Punjab, Pakistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.96437,
+          6.579311
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.579311,
+        "longitude": 79.96437,
+        "date": "",
+        "source": "Botejue, W.M.S. and J. Wattavidanage. 2012. Herpetofaunal diversity and distribution in Kalugala proposed forest reserve, western province of Sri Lanka. Amphibian and reptile Conservation, 5(2):65-80.",
+        "ID": "Martins06768",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kalutara, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.96437,
+          6.579311
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.579311,
+        "longitude": 79.96437,
+        "date": "",
+        "source": "Botejue, W.M.S. and J. Wattavidanage. 2012. Herpetofaunal diversity and distribution in Kalugala proposed forest reserve, western province of Sri Lanka. Amphibian and reptile Conservation, 5(2):65-80.",
+        "ID": "Martins06769",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kalutara, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21808,
+          6.033606
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.033606,
+        "longitude": 80.21808,
+        "date": "",
+        "source": "Karunarathna, D.M.S.S. and A.A.T. Amarasinghe. 2012. Reptile diversity in Beraliya Mukalana Proposed forest Reserve, Galle District, Sri Lanka. Taprobanica, 4(1):20-26.",
+        "ID": "Martins06770",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Galle, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21808,
+          6.033606
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.033606,
+        "longitude": 80.21808,
+        "date": "",
+        "source": "Karunarathna, D.M.S.S. and A.A.T. Amarasinghe. 2012. Reptile diversity in Beraliya Mukalana Proposed forest Reserve, Galle District, Sri Lanka. Taprobanica, 4(1):20-26.",
+        "ID": "Martins06771",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Galle, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26229,
+          6.662818
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.662818,
+        "longitude": 80.26229,
+        "date": "",
+        "source": "Karunarathna, D.M.S.S., and A.A.T. Amarasinghe. 2010. Reptile diversity of a fragmented lowland rain forest patch Kukulugala, Ratnapura district, Sri Lanka. Taprobanica, 2(2):86-94.",
+        "ID": "Martins06772",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kukulugala, Sabaragamuwa, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26229,
+          6.662818
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 6.662818,
+        "longitude": 80.26229,
+        "date": "",
+        "source": "Karunarathna, D.M.S.S., and A.A.T. Amarasinghe. 2010. Reptile diversity of a fragmented lowland rain forest patch Kukulugala, Ratnapura district, Sri Lanka. Taprobanica, 2(2):86-94.",
+        "ID": "Martins06773",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kukulugala, Sabaragamuwa, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.29702,
+          7.223089
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.223089,
+        "longitude": 81.29702,
+        "date": "",
+        "source": "Karunarathna, D.M.S.S., and A.A.T. Amarasinghe. 2011. A preliminary survey of the reptile fauna in Nilgala forest and its vicinity, Monaragala district, Sri Lanka. Taprobanica, 3(2):69-76.",
+        "ID": "Martins06774",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Nilgala Conservation Forest Area, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.29702,
+          7.223089
+        ]
+      },
+      "properties": {
+        "scientificName": "Daboia_russelii",
+        "latitude": 7.223089,
+        "longitude": 81.29702,
+        "date": "",
+        "source": "Karunarathna, D.M.S.S., and A.A.T. Amarasinghe. 2011. A preliminary survey of the reptile fauna in Nilgala forest and its vicinity, Monaragala district, Sri Lanka. Taprobanica, 3(2):69-76.",
+        "ID": "Martins06775",
+        "database_recorded_species": "Daboia russelii",
+        "database_recorded_subspecies": "Daboia russelii",
+        "taxonomy_updated_species": "Daboia_russelii",
+        "taxonomy_updated_subspecies2": "Daboia_russelii",
+        "final_species": "Daboia_russelii",
+        "final_subspecies": "Daboia_russelii",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Nilgala Conservation Forest Area, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

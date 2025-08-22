@@ -1,0 +1,3701 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96673,
+          -0.433255
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.433255,
+        "longitude": -78.96673,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0030",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; Cotopaxi, Las Pampas",
+        "voucher": "QCAZR1065",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0031",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; Alrededores de San Francisco de las Pampas; Cotopaxi, Las Pampas y alrededores",
+        "voucher": "QCAZR1066",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0032",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; Alrededores de San Francisco de las Pampas; Cotopaxi, Las Pampas y alrededores",
+        "voucher": "QCAZR1067",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0043",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; Alrededores de San Francisco de las Pampas; Cotopaxi, Las Pampas y alrededores",
+        "voucher": "QCAZR1087",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77187,
+          -0.05067
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.05067,
+        "longitude": -78.77187,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0076",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Pichincha; Desconocido; Desconocido; Mindo; Pichincha, Mindo, 1400 m",
+        "voucher": "QCAZR1145",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96673,
+          -0.433255
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.433255,
+        "longitude": -78.96673,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0207",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; Cotopaxi, Las Pampas",
+        "voucher": "QCAZR1273",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96673,
+          -0.433255
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.433255,
+        "longitude": -78.96673,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0208",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; Cotopaxi, Las Pampas",
+        "voucher": "QCAZR1274",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0209",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; Alrededores de San Francisco de las Pampas; Cotopaxi, Las Pampas y alrededores",
+        "voucher": "QCAZR1275",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0429",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; ECUADOR: Cotopaxi: San Francisco de Las Pampas, San Francisco de Las Pampas  Latitud: -,42370999999999997554 Longitud: -78,967650000000006116 N: 9953138 E: 726190,875 Zona: 17S Datum: WGS 84",
+        "voucher": "QCAZR2281",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.549,
+          0.898
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.898,
+        "longitude": -78.549,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0431",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Desconocido; Desconocido; R‚Äö√†√∂‚àö‚Ä¢o Negro Chico (Reserva Ecol‚Äö√†√∂‚àö¬µgica Cotacachi - Cayapas); ECUADOR: Esmeraldas: Reserva Ecol‚Äö√†√∂‚àö¬µgica Cotacachi - Cayapas, R‚Äö√†√∂‚àö‚Ä¢o Negro Chico (Reserva Ecol‚Äö√†√∂‚àö¬µgica Cotacachi - Cayapas)",
+        "voucher": "QCAZR2285",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76666,
+          -0.416666
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.416666,
+        "longitude": -78.76666,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0439",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Pichincha; Mej‚Äö√†√∂‚àö‚Ä¢a; Manuel Cornejo Astorga (Tandapi); Manuel Cornejo Astorga (Tandapi); NA",
+        "voucher": "QCAZR259",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0444",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; ECUADOR: Cotopaxi: San Francisco de Las Pampas, San Francisco de Las Pampas  Latitud: -,42370999999999997554 Longitud: -78,967650000000006116 N: 9953138 E: 726190,875 Zona: 17S Datum: WGS 84",
+        "voucher": "QCAZR262",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0446",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; ECUADOR: Cotopaxi: San Francisco de Las Pampas, San Francisco de Las Pampas  Latitud: -,42370999999999997554 Longitud: -78,967650000000006116 N: 9953138 E: 726190,875 Zona: 17S Datum: WGS 84",
+        "voucher": "QCAZR264",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.661,
+          0.171
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.171,
+        "longitude": -78.661,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0465",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Pichincha; Desconocido; Desconocido; Gavil¬¨¬®‚Äö√†√´n de Orongo, cerca a Nanegal; Pichincha, Gavil¬¨¬®‚Äö√†√´n de Orongo, cerca a Nanegal",
+        "voucher": "QCAZR3522",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76666,
+          -0.416666
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.416666,
+        "longitude": -78.76666,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0519",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Pichincha; Mej‚Äö√†√∂‚àö‚Ä¢a; Manuel Cornejo Astorga (Tandapi); Manuel Cornejo Astorga (Tandapi); NA",
+        "voucher": "QCAZR495",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76666,
+          -0.416666
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.416666,
+        "longitude": -78.76666,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0528",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Pichincha; Mej‚Äö√†√∂‚àö‚Ä¢a; Manuel Cornejo Astorga (Tandapi); Manuel Cornejo Astorga (Tandapi); NA",
+        "voucher": "QCAZR503",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76666,
+          -0.416666
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.416666,
+        "longitude": -78.76666,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0529",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Pichincha; Mej‚Äö√†√∂‚àö‚Ä¢a; Manuel Cornejo Astorga (Tandapi); Manuel Cornejo Astorga (Tandapi); ECUADOR: Pichincha: Manuel Cornejo Astorga (Tandapi) (Tandapi)  Informaci‚Äö√†√∂‚àö¬µn Ecol‚Äö√†√∂‚àö¬µgica: Km 59, Carretera antigua Quito - Sto. Domingo",
+        "voucher": "QCAZR504",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0530",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; ECUADOR: Cotopaxi: San Francisco de Las Pampas, San Francisco de Las Pampas  Latitud: -,42370999999999997554 Longitud: -78,967650000000006116 N: 9953138 E: 726190,875 Zona: 17S Datum: WGS 84",
+        "voucher": "QCAZR505",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0535",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; ECUADOR: Cotopaxi: San Francisco de Las Pampas, San Francisco de Las Pampas  Latitud: -,42370999999999997554 Longitud: -78,967650000000006116 N: 9953138 E: 726190,875 Zona: 17S Datum: WGS 84",
+        "voucher": "QCAZR507",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96765,
+          -0.423709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.423709,
+        "longitude": -78.96765,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0539",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; ECUADOR: Cotopaxi: San Francisco de Las Pampas, San Francisco de Las Pampas  Latitud: -,42370999999999997554 Longitud: -78,967650000000006116 N: 9953138 E: 726190,875 Zona: 17S Datum: WGS 84",
+        "voucher": "QCAZR510",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96673,
+          -0.433255
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.433255,
+        "longitude": -78.96673,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0666",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Cotopaxi; Sigchos; San Francisco de las Pampas; San Francisco de Las Pampas; Cotopaxi, Las Pampas",
+        "voucher": "QCAZR699",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8,
+          -0.0333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.0333,
+        "longitude": -78.8,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317469285",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 5115,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; Mindo",
+        "voucher": "USNM:Amphibians & Reptiles:165340",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65885,
+          0.328005
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.328005,
+        "longitude": -78.65885,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1455591455",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Imbabura; NA",
+        "voucher": "iNaturalist:Observations:5500603",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.783331,
+          0.301422
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.301422,
+        "longitude": -78.783331,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1807309837",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Imbabura; NA",
+        "voucher": "iNaturalist:Observations:9734381",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.740764,
+          -0.060947
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.060947,
+        "longitude": -78.740764,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1836628381",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 2752,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:10228263",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.047824,
+          1.287999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 1.287999,
+        "longitude": -78.047824,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1986604387",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 488,
+        "country": "Colombia",
+        "locality": "CO; Nari‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬±o; NA",
+        "voucher": "iNaturalist:Observations:19480192",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.982811,
+          -0.396742
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.396742,
+        "longitude": -78.982811,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429600834",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 122,
+        "country": "Ecuador",
+        "locality": "EC; Santo Domingo de los Ts‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªchilas; NA",
+        "voucher": "iNaturalist:Observations:34406871",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.781208,
+          -0.046437
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.046437,
+        "longitude": -78.781208,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465091337",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 977,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:18271031",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.750571,
+          -0.035191
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.035191,
+        "longitude": -78.750571,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465240471",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 11,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:35992953",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642347,
+          -0.075971
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.075971,
+        "longitude": -78.642347,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2641384503",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 31451,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:49074241",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.841767,
+          0.052422
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.052422,
+        "longitude": -78.841767,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302472639",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 5,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:81472393",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.752582,
+          -0.033525
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.033525,
+        "longitude": -78.752582,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314244690",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 139,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:83537205",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.417197,
+          -1.229088
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.229088,
+        "longitude": -79.417197,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3330858550",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Los Rios; NA",
+        "voucher": "iNaturalist:Observations:88126049",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.157549,
+          -1.424716
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.424716,
+        "longitude": -79.157549,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333326321",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": 212,
+        "country": "Ecuador",
+        "locality": "EC; Bolivar; NA",
+        "voucher": "iNaturalist:Observations:88872452",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65885,
+          0.328005
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.328005,
+        "longitude": -78.65885,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07689",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75,
+          0.15
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.15,
+        "longitude": -78.75,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07690",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8,
+          -0.0333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.0333,
+        "longitude": -78.8,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07691",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96557,
+          -1.997074
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.997074,
+        "longitude": -78.96557,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W., M. G. Salom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬£o, J. A. Quijada-Mascare‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±as, R. S. Thorpe, and BBBSP. 2002. Origins and evolution of the South American Pitviper fauna: evidence from mitochondrial DNA sequence analysis. Pp: 111-128, In: G. W. Schuett; M. H‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞ggren; M. E. Douglas; H. W. Greene. (Org. ). Biology of the Vipers. Eagle Mountain Publishing, Eagle Mountain.",
+        "ID": "Martins00037",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pallatanga, Ecuador",
+        "voucher": "AF292584, AF292622",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96557,
+          -1.997074
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.997074,
+        "longitude": -78.96557,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W., M. G. Salom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬£o, J. A. Quijada-Mascare‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±as, R. S. Thorpe, and BBBSP. 2002. Origins and evolution of the South American Pitviper fauna: evidence from mitochondrial DNA sequence analysis. Pp: 111-128, In: G. W. Schuett; M. H‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞ggren; M. E. Douglas; H. W. Greene. (Org. ). Biology of the Vipers. Eagle Mountain Publishing, Eagle Mountain.",
+        "ID": "Martins00038",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pallatanga, Ecuador",
+        "voucher": "AF292584, AF292622",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77373,
+          -0.048226
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.048226,
+        "longitude": -78.77373,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F.; M. O. Borja; D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o; J. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, V. 19, N. 1/2: 17-26.",
+        "ID": "Martins00945",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Pichincha, Ecuador",
+        "voucher": "FHGO 1227",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77372,
+          -0.048226
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.048226,
+        "longitude": -78.77372,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F.; M. O. Borja; D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o; J. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, V. 19, N. 1/2: 17-26.",
+        "ID": "Martins00946",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Pichincha, Ecuador",
+        "voucher": "FHGO 1227",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64609,
+          0.262501
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.262501,
+        "longitude": -78.64609,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F.; M. O. Borja; D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o; J. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, V. 19, N. 1/2: 17-26.",
+        "ID": "Martins00988",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Garcia Moreno, Imbabura, Ecuador",
+        "voucher": "FHGO 582",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64609,
+          0.262501
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.262501,
+        "longitude": -78.64609,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F.; M. O. Borja; D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o; J. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, V. 19, N. 1/2: 17-26.",
+        "ID": "Martins00989",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Garcia Moreno, Imbabura, Ecuador",
+        "voucher": "FHGO 582",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64612,
+          0.262519
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.262519,
+        "longitude": -78.64612,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F., M. A. Borja, D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o, and J. M. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-Headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, 19(1/2):17-26.",
+        "ID": "Martins00992",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Garci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±a Moreno, Imbabura, Ecuador",
+        "voucher": "FHGO 787, 582",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64611,
+          0.262519
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.262519,
+        "longitude": -78.64611,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F., M. A. Borja, D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o, and J. M. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-Headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, 19(1/2):17-26.",
+        "ID": "Martins00993",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Garci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±a Moreno, Imbabura, Ecuador",
+        "voucher": "FHGO 787, 582",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03714,
+          -2.173733
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.173733,
+        "longitude": -79.03714,
+        "date": "",
+        "source": "Freire, A. and U. Kuch. 2000. Bothrops campbelli, Diet and Reproduction. Herpetological Review, V. 31, N. 1: 45.",
+        "ID": "Martins01671",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Cant‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Pallatanga, Chimborazo, Ecuador",
+        "voucher": "INHMT 2622",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03714,
+          -2.173733
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.173733,
+        "longitude": -79.03714,
+        "date": "",
+        "source": "Freire, A. and U. Kuch. 2000. Bothrops campbelli, Diet and Reproduction. Herpetological Review, V. 31, N. 1: 45.",
+        "ID": "Martins01672",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Cant‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Pallatanga, Chimborazo, Ecuador",
+        "voucher": "INHMT 2622",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96559,
+          -1.997081
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.997081,
+        "longitude": -78.96559,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01903",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pallatanga, Chimborazo, Ecuador",
+        "voucher": "KU 218462",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.389239,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96559,
+          -1.997081
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.997081,
+        "longitude": -78.96559,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01904",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pallatanga, Chimborazo, Ecuador",
+        "voucher": "KU 218462",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.389239,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96559,
+          -1.997081
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.997081,
+        "longitude": -78.96559,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01905",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pallatanga, Chimborazo, Ecuador",
+        "voucher": "KU 218462",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.389239,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10796,
+          -4.116353
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.116353,
+        "longitude": -80.10796,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05551",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pindal, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10796,
+          -4.116353
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.116353,
+        "longitude": -80.10796,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05552",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pindal, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96938,
+          -5.185412
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -5.185412,
+        "longitude": -79.96938,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05553",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Morrop‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Piura, Peru",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96938,
+          -5.185412
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -5.185412,
+        "longitude": -79.96938,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05554",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Morrop‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Piura, Peru",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95446,
+          -4.102501
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.102501,
+        "longitude": -79.95446,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05557",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "C‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©lica, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95446,
+          -4.102501
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.102501,
+        "longitude": -79.95446,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05558",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "C‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©lica, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94723,
+          -4.382926
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.382926,
+        "longitude": -79.94723,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05559",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Macar‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94723,
+          -4.382926
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.382926,
+        "longitude": -79.94723,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05560",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Macar‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8049,
+          -3.3269
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.3269,
+        "longitude": -79.8049,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05561",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pasaje, El Oro, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8049,
+          -3.3269
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.3269,
+        "longitude": -79.8049,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05562",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pasaje, El Oro, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78958,
+          -4.3279
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.3279,
+        "longitude": -79.78958,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05563",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Sozoranga, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78958,
+          -4.3279
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.3279,
+        "longitude": -79.78958,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05564",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Sozoranga, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71352,
+          -4.641176
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.641176,
+        "longitude": -79.71352,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05565",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Ayabaca, Piura, Peru",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71352,
+          -4.641176
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -4.641176,
+        "longitude": -79.71352,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05566",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Ayabaca, Piura, Peru",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.68109,
+          -3.680623
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.680623,
+        "longitude": -79.68109,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05567",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±as, El Oro, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.68109,
+          -3.680623
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.680623,
+        "longitude": -79.68109,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05568",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±as, El Oro, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6453,
+          -3.878567
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.878567,
+        "longitude": -79.6453,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05571",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Chaguarpamba, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6453,
+          -3.878567
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.878567,
+        "longitude": -79.6453,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05572",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Chaguarpamba, Loja, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.615,
+          -2.6728
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.6728,
+        "longitude": -79.615,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05573",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Naranjal, Guayas, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.615,
+          -2.6728
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.6728,
+        "longitude": -79.615,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05574",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Naranjal, Guayas, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.61091,
+          -3.687297
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.687297,
+        "longitude": -79.61091,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05575",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Zaruma, El Oro, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.61091,
+          -3.687297
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.687297,
+        "longitude": -79.61091,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05576",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Zaruma, El Oro, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34176,
+          -2.420316
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.420316,
+        "longitude": -79.34176,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05583",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "La Troncal, Ca‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±ar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34176,
+          -2.420316
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.420316,
+        "longitude": -79.34176,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05584",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "La Troncal, Ca‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±ar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31603,
+          -3.278083
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.278083,
+        "longitude": -79.31603,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05585",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santa Isabel, Azuay, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31603,
+          -3.278083
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -3.278083,
+        "longitude": -79.31603,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05586",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santa Isabel, Azuay, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27612,
+          -1.787886
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.787886,
+        "longitude": -79.27612,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05587",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Montalvo, Los R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†os, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27612,
+          -1.787886
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.787886,
+        "longitude": -79.27612,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05588",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Montalvo, Los R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†os, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26667,
+          -1.433333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.433333,
+        "longitude": -79.26667,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05589",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Echeand‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Bolivar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26667,
+          -1.433333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.433333,
+        "longitude": -79.26667,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05590",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Echeand‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Bolivar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25921,
+          -1.668194
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.668194,
+        "longitude": -79.25921,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05591",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Caluma, Bolivar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25921,
+          -1.668194
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.668194,
+        "longitude": -79.25921,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05592",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Caluma, Bolivar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21667,
+          -0.933333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.933333,
+        "longitude": -79.21667,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05593",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "La Man‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Cotopaxi, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21667,
+          -0.933333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.933333,
+        "longitude": -79.21667,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05594",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "La Man‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Cotopaxi, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13933,
+          -2.206832
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.206832,
+        "longitude": -79.13933,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05595",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Cumand‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Chimborazo, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13933,
+          -2.206832
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.206832,
+        "longitude": -79.13933,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05596",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Cumand‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Chimborazo, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.10969,
+          -2.493925
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.493925,
+        "longitude": -79.10969,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05597",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ca‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±ar, Ca‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±ar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.10969,
+          -2.493925
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -2.493925,
+        "longitude": -79.10969,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05598",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ca‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±ar, Ca‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±ar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06592,
+          -1.94368
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.94368,
+        "longitude": -79.06592,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05599",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Chillanes, Bolivar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06592,
+          -1.94368
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.94368,
+        "longitude": -79.06592,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05600",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Chillanes, Bolivar, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04897,
+          0.081344
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.081344,
+        "longitude": -79.04897,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05601",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pedro Vicente Maldonado, Pichincha, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04897,
+          0.081344
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.081344,
+        "longitude": -79.04897,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05602",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pedro Vicente Maldonado, Pichincha, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9656,
+          -1.997074
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.997074,
+        "longitude": -78.9656,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05609",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pallatanga, Chimborazo, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9656,
+          -1.997074
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -1.997074,
+        "longitude": -78.9656,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05610",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pallatanga, Chimborazo, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89523,
+          0.023743
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.023743,
+        "longitude": -78.89523,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05613",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "San Miguel de los Bancos, Pichincha, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89523,
+          0.023743
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.023743,
+        "longitude": -78.89523,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05614",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "San Miguel de los Bancos, Pichincha, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77517,
+          -0.047934
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.047934,
+        "longitude": -78.77517,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F.; M. O. Borja; D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o; J. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, V. 19, N. 1/2: 17-26.",
+        "ID": "Martins05619",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77517,
+          -0.047934
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.047934,
+        "longitude": -78.77517,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F.; M. O. Borja; D. Proa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o; J. Touzet. 2006. Distribution and natural history of the Ecuadorian Toad-headed Pitvipers of the genus Bothrocophias (Squamata: Serpentes: Viperidae: Crotalinae). Herpetozoa, V. 19, N. 1/2: 17-26.",
+        "ID": "Martins05620",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.04094,
+          0.55022
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.55022,
+        "longitude": -78.04094,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05629",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mira, Carchi, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.04094,
+          0.55022
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.55022,
+        "longitude": -78.04094,
+        "date": "",
+        "source": "Guerrer, J. E. V. & O. Haro. 2012. Biogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Bothrocophias (Serpentes: Viperidae: Crotalinae), mediante modelamientos de nicho ecol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gico. Universidad Central del Ecuador Facultad de Filosof‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Letras y Ciencias de la Educaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Instituto Superior de Investigaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n y Posgrado.",
+        "ID": "Martins05630",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mira, Carchi, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.01664,
+          1.389622
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 1.389622,
+        "longitude": -78.01664,
+        "date": "",
+        "source": "Castro, F., S. Ayerbe, J. J. Calder‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, and B. Cepeda. 2005. Nuevo registro para Colombia de Bothrocophias campbelli y notas sobre B. colombianus y B. myersi (Serpentes: Viperidae). Novedades Colombianas, 8(1):57-64.",
+        "ID": "Martins09076",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨‚Ä¢amb‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä† Natural Reserve, Nari‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o, Colombia",
+        "voucher": "UNAR 29",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.01664,
+          1.389622
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 1.389622,
+        "longitude": -78.01664,
+        "date": "",
+        "source": "Castro, F., S. Ayerbe, J. J. Calder‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, and B. Cepeda. 2005. Nuevo registro para Colombia de Bothrocophias campbelli y notas sobre B. colombianus y B. myersi (Serpentes: Viperidae). Novedades Colombianas, 8(1):57-64.",
+        "ID": "Martins09077",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨‚Ä¢amb‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä† Natural Reserve, Nari‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o, Colombia",
+        "voucher": "UNAR 29",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.82122,
+          0.223585
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.223585,
+        "longitude": -78.82122,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09357",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pacto, Pichincha, Ecuador",
+        "voucher": "USNM 165322",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.82122,
+          0.223585
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.223585,
+        "longitude": -78.82122,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09358",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pacto, Pichincha, Ecuador",
+        "voucher": "USNM 165322",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.82122,
+          0.223585
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.223585,
+        "longitude": -78.82122,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09359",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pacto, Pichincha, Ecuador",
+        "voucher": "USNM 165322",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.80081,
+          0.142893
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.142893,
+        "longitude": -78.80081,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins09360",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pacto, Pichincha, Ecuador",
+        "voucher": "USNM 165322",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.80081,
+          0.142893
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.142893,
+        "longitude": -78.80081,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins09361",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Pacto, Pichincha, Ecuador",
+        "voucher": "USNM 165322",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78823,
+          0.010039
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.010039,
+        "longitude": -78.78823,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09383",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Pichincha, Ecuador",
+        "voucher": "USNM 165340",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78823,
+          0.010039
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.010039,
+        "longitude": -78.78823,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09384",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Pichincha, Ecuador",
+        "voucher": "USNM 165340",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78823,
+          0.010039
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": 0.010039,
+        "longitude": -78.78823,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09385",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Pichincha, Ecuador",
+        "voucher": "USNM 165340",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77528,
+          -0.048732
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.048732,
+        "longitude": -78.77528,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins09386",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Pichincha, Ecuador",
+        "voucher": "USNM 165340",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77528,
+          -0.048732
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_campbelli",
+        "latitude": -0.048732,
+        "longitude": -78.77528,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins09387",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_campbelli",
+        "final_subspecies": "Bothrocophias_campbelli",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mindo, Pichincha, Ecuador",
+        "voucher": "USNM 165340",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

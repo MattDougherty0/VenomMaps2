@@ -1,0 +1,2084 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.980876,
+          35.901205
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 35.901205,
+        "longitude": 51.980876,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1273854308",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 107,
+        "country": "Iran",
+        "locality": "IR; Mazandaran; NA",
+        "voucher": "iNaturalist:Observations:3496725",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.008419,
+          35.883484
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 35.883484,
+        "longitude": 52.008419,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1322998712",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 28620,
+        "country": "Iran",
+        "locality": "IR; Mazandaran; NA",
+        "voucher": "iNaturalist:Observations:3911031",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.004818,
+          35.900035
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 35.900035,
+        "longitude": 52.004818,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1571148116",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 20,
+        "country": "Iran",
+        "locality": "IR; Mazandaran; NA",
+        "voucher": "iNaturalist:Observations:6692690",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.058047,
+          51.114736
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.114736,
+        "longitude": 88.058047,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586153196",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 10,
+        "country": "Russia",
+        "locality": "RU; Gorno-Altay; NA",
+        "voucher": "iNaturalist:Observations:7418993",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.074173,
+          43.486307
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.486307,
+        "longitude": 104.074173,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586925425",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 4165,
+        "country": "Mongolia",
+        "locality": "MN; ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬±mn‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†‚àö√°govi; NA",
+        "voucher": "iNaturalist:Observations:7367373",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.870173,
+          35.943402
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 35.943402,
+        "longitude": 51.870173,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1677327266",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "IR; Mazandaran; NA",
+        "voucher": "iNaturalist:Observations:8486155",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.159513,
+          47.172882
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 47.172882,
+        "longitude": 93.159513,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1836654400",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 50,
+        "country": "Mongolia",
+        "locality": "MN; Hovd; NA",
+        "voucher": "iNaturalist:Observations:10304619",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.983871,
+          53.38089
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 53.38089,
+        "longitude": 108.983871,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1883913270",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Buryat; NA",
+        "voucher": "iNaturalist:Observations:14098750",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.659409,
+          42.404607
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 42.404607,
+        "longitude": 75.659409,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1890707367",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 3000,
+        "country": "Kyrgyzstan",
+        "locality": "KG; Naryn; NA",
+        "voucher": "iNaturalist:Observations:15192867",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825833,
+          51.7325
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.7325,
+        "longitude": 103.825833,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1913702240",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Irkutsk; NA",
+        "voucher": "iNaturalist:Observations:16678104",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.711358,
+          45.644847
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 45.644847,
+        "longitude": 108.711358,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1932304186",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 6,
+        "country": "Mongolia",
+        "locality": "MN; Dornogovi; NA",
+        "voucher": "iNaturalist:Observations:15870800",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.235695,
+          43.188632
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.188632,
+        "longitude": 107.235695,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1933596768",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 31,
+        "country": "Mongolia",
+        "locality": "MN; ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬±mn‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†‚àö√°govi; NA",
+        "voucher": "iNaturalist:Observations:18024249",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.425272,
+          45.670818
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 45.670818,
+        "longitude": 63.425272,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1946342259",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 61,
+        "country": "Kazakhstan",
+        "locality": "KZ; Qyzylorda; NA",
+        "voucher": "iNaturalist:Observations:18654955",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.28244,
+          44.694268
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 44.694268,
+        "longitude": 75.28244,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1946354299",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Kazakhstan",
+        "locality": "KZ; Almaty; NA",
+        "voucher": "iNaturalist:Observations:18693145",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.552945,
+          51.355833
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.355833,
+        "longitude": 84.552945,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1990629856",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Altay; NA",
+        "voucher": "iNaturalist:Observations:19986134",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.344722,
+          49.411667
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 49.411667,
+        "longitude": 112.344722,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1993779917",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Dornod; NA",
+        "voucher": "iNaturalist:Observations:6884428",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.01815,
+          51.09267
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.09267,
+        "longitude": 88.01815,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2242866542",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Gorno-Altay; NA",
+        "voucher": "iNaturalist:Observations:24648561",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.402,
+          47.32
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 47.32,
+        "longitude": 54.402,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2251607702",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Kazakhstan",
+        "locality": "KZ; Atyrau; Atyrau, Akkeregeshin plateu",
+        "voucher": "NA:NA:TS2278",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.464935,
+          42.383401
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 42.383401,
+        "longitude": 70.464935,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423035486",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 6275,
+        "country": "Kazakhstan",
+        "locality": "KZ; South Kazakhstan; NA",
+        "voucher": "iNaturalist:Observations:32592199",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.291804,
+          47.18754
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 47.18754,
+        "longitude": 81.291804,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423062300",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 10,
+        "country": "Kazakhstan",
+        "locality": "KZ; East Kazakhstan; NA",
+        "voucher": "iNaturalist:Observations:32694437",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.297698,
+          50.278243
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 50.278243,
+        "longitude": 119.297698,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2517944297",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 1357,
+        "country": "Russia",
+        "locality": "RU; Zabaykal'ye; NA",
+        "voucher": "iNaturalist:Observations:18620882",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.064819,
+          43.354325
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.354325,
+        "longitude": 75.064819,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2563589004",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 4,
+        "country": "Kazakhstan",
+        "locality": "KZ; Zhambyl; NA",
+        "voucher": "iNaturalist:Observations:37947617",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.898,
+          47.717
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 47.717,
+        "longitude": 105.898,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2574200936",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 500,
+        "country": "Mongolia",
+        "locality": "MN; T‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†‚àö√°v; NA",
+        "voucher": "iNaturalist:Observations:38226534",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.890785,
+          54.624657
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 54.624657,
+        "longitude": 83.890785,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2609282141",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 48,
+        "country": "Russia",
+        "locality": "RU; Novosibirsk; NA",
+        "voucher": "iNaturalist:Observations:42966372",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.031092,
+          54.522579
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 54.522579,
+        "longitude": 84.031092,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2609337443",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 31,
+        "country": "Russia",
+        "locality": "RU; Novosibirsk; NA",
+        "voucher": "iNaturalist:Observations:42969116",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.030791,
+          54.522847
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 54.522847,
+        "longitude": 84.030791,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626229986",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Novosibirsk; NA",
+        "voucher": "iNaturalist:Observations:45287292",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.031875,
+          54.522804
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 54.522804,
+        "longitude": 84.031875,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626268246",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Novosibirsk; NA",
+        "voucher": "iNaturalist:Observations:45287346",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.929428,
+          51.130829
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.130829,
+        "longitude": 82.929428,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626432772",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Altay; NA",
+        "voucher": "iNaturalist:Observations:46256581",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.98131,
+          41.023443
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 41.023443,
+        "longitude": 69.98131,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2813885978",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 1000,
+        "country": "Uzbekistan",
+        "locality": "UZ; Tashkent; NA",
+        "voucher": "iNaturalist:Observations:51027003",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.03063,
+          54.522885
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 54.522885,
+        "longitude": 84.03063,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2813918412",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Novosibirsk; NA",
+        "voucher": "iNaturalist:Observations:32885533",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.382964,
+          44.796053
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 44.796053,
+        "longitude": 76.382964,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826247632",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Kazakhstan",
+        "locality": "KZ; Almaty; NA",
+        "voucher": "iNaturalist:Observations:54702719",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.150162,
+          45.737434
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 45.737434,
+        "longitude": 75.150162,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826267590",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Kazakhstan",
+        "locality": "KZ; Almaty; NA",
+        "voucher": "iNaturalist:Observations:54702890",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.350497,
+          50.882367
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 50.882367,
+        "longitude": 86.350497,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2963810131",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 31,
+        "country": "Russia",
+        "locality": "RU; Gorno-Altay; NA",
+        "voucher": "iNaturalist:Observations:63748701",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.140292,
+          51.518733
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.518733,
+        "longitude": 104.140292,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2984411468",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 53319,
+        "country": "Russia",
+        "locality": "RU; Irkutsk; NA",
+        "voucher": "iNaturalist:Observations:58939763",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.976027,
+          51.14671
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.14671,
+        "longitude": 82.976027,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988539341",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 61,
+        "country": "Russia",
+        "locality": "RU; Altay; NA",
+        "voucher": "iNaturalist:Observations:65153797",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.04678,
+          44.795754
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 44.795754,
+        "longitude": 95.04678,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3005140550",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 7813,
+        "country": "Mongolia",
+        "locality": "MN; Govi-Altay; NA",
+        "voucher": "iNaturalist:Observations:63545128",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.219653,
+          41.912637
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 41.912637,
+        "longitude": 74.219653,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3031956584",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 1000,
+        "country": "Kyrgyzstan",
+        "locality": "KG; Naryn; NA",
+        "voucher": "iNaturalist:Observations:38573480",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.24765,
+          51.00058
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.00058,
+        "longitude": 86.24765,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3044933722",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 100,
+        "country": "Russia",
+        "locality": "RU; Gorno-Altay; NA",
+        "voucher": "iNaturalist:Observations:69862086",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.840093,
+          50.820355
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 50.820355,
+        "longitude": 114.840093,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3067973492",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 244,
+        "country": "Russia",
+        "locality": "RU; Zabaykal'ye; NA",
+        "voucher": "iNaturalist:Observations:69046067",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.799879,
+          51.105714
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.105714,
+        "longitude": 112.799879,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3068071457",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 977,
+        "country": "Russia",
+        "locality": "RU; Zabaykal'ye; NA",
+        "voucher": "iNaturalist:Observations:69045003",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.034668,
+          51.099903
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.099903,
+        "longitude": 88.034668,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113419327",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 31,
+        "country": "Russia",
+        "locality": "RU; Gorno-Altay; NA",
+        "voucher": "iNaturalist:Observations:78199562",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.090565,
+          51.118465
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.118465,
+        "longitude": 88.090565,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113582909",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 116,
+        "country": "Russia",
+        "locality": "RU; Gorno-Altay; NA",
+        "voucher": "iNaturalist:Observations:77892759",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.58206,
+          51.552791
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.552791,
+        "longitude": 85.58206,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3118389252",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Gorno-Altay; NA",
+        "voucher": "iNaturalist:Observations:79167661",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.402189,
+          54.396741
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 54.396741,
+        "longitude": 82.402189,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3124701895",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 74,
+        "country": "Russia",
+        "locality": "RU; Novosibirsk; NA",
+        "voucher": "iNaturalist:Observations:80134314",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.547286,
+          50.248349
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 50.248349,
+        "longitude": 94.547286,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3325520904",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "RU; Tuva; NA",
+        "voucher": "iNaturalist:Observations:85606035",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.507157,
+          42.688202
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 42.688202,
+        "longitude": 73.507157,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3327884033",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Kyrgyzstan",
+        "locality": "KG; Ch‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†¬¥y; NA",
+        "voucher": "iNaturalist:Observations:86584795",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.995795,
+          51.143529
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.143529,
+        "longitude": 82.995795,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333279788",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 15,
+        "country": "Russia",
+        "locality": "RU; Altay; NA",
+        "voucher": "iNaturalist:Observations:88364741",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.056741,
+          47.507169
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 47.507169,
+        "longitude": 119.056741,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333506347",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 15,
+        "country": "Mongolia",
+        "locality": "MN; Dornod; NA",
+        "voucher": "iNaturalist:Observations:88901926",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.049882,
+          51.277412
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 51.277412,
+        "longitude": 83.049882,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333541376",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 8,
+        "country": "Russia",
+        "locality": "RU; Altay; NA",
+        "voucher": "iNaturalist:Observations:88939549",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51,
+          44
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 44,
+        "longitude": 51,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462392910",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Kazakhstan",
+        "locality": "KZ; NA; Mangyshlak Peninsula, Caspian Sea, W. Kazakhstan",
+        "voucher": "ZMUC:Squamata:ZMUC-R695",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;CONTINENT_INVALID;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.980927,
+          44.02383
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 44.02383,
+        "longitude": 51.980927,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476657286",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 30421,
+        "country": "Kazakhstan",
+        "locality": "KZ; NA; Mangyschlak",
+        "voucher": "MCZ:Herp:R-5384",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07814,
+          43.48569
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.48569,
+        "longitude": 104.07814,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686679570",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Omnogovi; Yolyn Am, Gobi Gurvansaikhan National Park",
+        "voucher": "KU:KUH:331044",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.581,
+          43.624
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.624,
+        "longitude": 110.581,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686688690",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Dornogovi; Dornu Gobi; Ulaan Badrakh Soum, Khar Tsav, 22 km SSE of Ulaan Badrakh",
+        "voucher": "KU:KUH:331224",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07814,
+          43.48569
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.48569,
+        "longitude": 104.07814,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686995824",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Omnogovi; Yolyn Am, Gobi Gurvansaikhan National Park",
+        "voucher": "KU:KUH:331043",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.581,
+          43.624
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.624,
+        "longitude": 110.581,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686999204",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Dornogovi; Dornu Gobi; Ulaan Badrakh Soum, Khar Tsav, 22 km SSE of Ulaan Badrakh",
+        "voucher": "KU:KUH:331223",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.07804,
+          45.24462
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 45.24462,
+        "longitude": 91.07804,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687003631",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Khovd; Tsagaan Burgust Gol, Baitag Bogd UUL, Altai Soum",
+        "voucher": "KU:KUH:331335",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.442333,
+          43.811833
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.811833,
+        "longitude": 102.442333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687006032",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Omnogovi; Khongoryn Els, Gobi Gurvansaikhan National Park",
+        "voucher": "KU:KUH:331045",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07814,
+          43.48569
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 43.48569,
+        "longitude": 104.07814,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687006320",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Omnogovi; Yolyn Am, Gobi Gurvansaikhan National Park",
+        "voucher": "KU:KUH:331042",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.42488,
+          47.73691
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 47.73691,
+        "longitude": 92.42488,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_815363960",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Hovd; Manhan Soum; Jargalant, Hairhan Mountain, Rashaunt Am.",
+        "voucher": "KU:KUH:335299",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.94474,
+          45.25588
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 45.25588,
+        "longitude": 90.94474,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_815390051",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Mongolia",
+        "locality": "MN; Hovd; Bulgan Souml Baitag Bogd Mountain, Buduun Hargait.;",
+        "voucher": "KU:KUH:335300",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.138,
+          42.51
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 42.51,
+        "longitude": 70.138,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891021058",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 1200,
+        "country": "Kazakhstan",
+        "locality": "KZ; South Kazakhstan; NA",
+        "voucher": "iNaturalist:Observations:111547",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.309578,
+          47.247674
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 47.247674,
+        "longitude": 81.309578,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891023498",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": "NA",
+        "country": "Kazakhstan",
+        "locality": "KZ; East Kazakhstan; NA",
+        "voucher": "iNaturalist:Observations:242570",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.138,
+          42.51
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_halys",
+        "latitude": 42.51,
+        "longitude": 70.138,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891092820",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys",
+        "taxonomy_updated_species": "Gloydius_halys",
+        "taxonomy_updated_subspecies2": "Gloydius_halys",
+        "final_species": "Gloydius_halys",
+        "final_subspecies": "Gloydius_halys",
+        "accuracy_m": 1200,
+        "country": "Kazakhstan",
+        "locality": "KZ; South Kazakhstan; NA",
+        "voucher": "iNaturalist:Observations:111545",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

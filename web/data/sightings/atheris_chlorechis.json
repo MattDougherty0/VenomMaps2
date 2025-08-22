@@ -1,0 +1,1094 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6161,
+          6.6664
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.6664,
+        "longitude": -1.6161,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055809468",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Ghana",
+        "locality": "GH; NA; Kumasi College of Technology Compound",
+        "voucher": "NHMUK:ZOO:1960.1.5.51",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4667,
+          8.2833
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 8.2833,
+        "longitude": -9.4667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057233807",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Guinea",
+        "locality": "GN; NA; Soundedou, near Macenta, French Guinea",
+        "voucher": "NHMUK:ZOO:1926.9.24.18",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5,
+          5.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 5.5,
+        "longitude": -9.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211735740",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "LR; Sinoe; Sapo National Park; Gbabone; research station vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:19936",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.579248,
+          5.263137
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 5.263137,
+        "longitude": -2.579248,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1265897863",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Ghana",
+        "locality": "GH; Western; NA",
+        "voucher": "iNaturalist:Observations:3060990",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65,
+          6.4906
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.4906,
+        "longitude": -10.65,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319802221",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "LR; Montserrado County; Mt. Coffee",
+        "voucher": "USNM:Amphibians & Reptiles:27840",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65,
+          6.4906
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.4906,
+        "longitude": -10.65,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321565928",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "LR; Montserrado County; Mt. Coffee",
+        "voucher": "USNM:Amphibians & Reptiles:24232",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65,
+          6.4906
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.4906,
+        "longitude": -10.65,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322285726",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "LR; Montserrado County; Mt. Coffee",
+        "voucher": "USNM:Amphibians & Reptiles:24142",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.87,
+          4.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 4.95,
+        "longitude": -1.87,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322435491",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Ghana",
+        "locality": "GH; Western Region; Efeipo Krom, 1 mi E of Dabo Kroon",
+        "voucher": "USNM:Amphibians & Reptiles:223940",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31056,
+          6.955511
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.955511,
+        "longitude": 4.31056,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1802640846",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 18345,
+        "country": "Nigeria",
+        "locality": "NG; Ogun; NA",
+        "voucher": "iNaturalist:Observations:8679244",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.222966,
+          7.383379
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 7.383379,
+        "longitude": -11.222966,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1807317129",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 2064,
+        "country": "Sierra Leone",
+        "locality": "SL; Eastern; NA",
+        "voucher": "iNaturalist:Observations:9753615",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.064,
+          4.786
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 4.786,
+        "longitude": -2.064,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1831161869",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 500,
+        "country": "Ghana",
+        "locality": "GH; Western; NA",
+        "voucher": "iNaturalist:Observations:9624221",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0693,
+          4.7834
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 4.7834,
+        "longitude": -2.0693,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1831161973",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 1000,
+        "country": "Ghana",
+        "locality": "GH; Western; NA",
+        "voucher": "iNaturalist:Observations:9625813",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549728,
+          6.232394
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.232394,
+        "longitude": -0.549728,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1899782945",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Ghana",
+        "locality": "GH; Eastern; NA",
+        "voucher": "iNaturalist:Observations:15932271",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.381792,
+          7.671045
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 7.671045,
+        "longitude": -8.381792,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2456577670",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 2492,
+        "country": "Guinea",
+        "locality": "GN; Nz‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©kor‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:35637631",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.573907,
+          6.209674
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.209674,
+        "longitude": -0.573907,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2563522708",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 13784,
+        "country": "Ghana",
+        "locality": "GH; Eastern; NA",
+        "voucher": "iNaturalist:Observations:37759086",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.635387,
+          7.453245
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 7.453245,
+        "longitude": -7.635387,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2563590512",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "C‚àö¬•te d'Ivoire",
+        "locality": "CI; Montagnes; NA",
+        "voucher": "iNaturalist:Observations:37952317",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.371633,
+          5.904797
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 5.904797,
+        "longitude": -7.371633,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3325932508",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 3,
+        "country": "C‚àö¬•te d'Ivoire",
+        "locality": "CI; Montagnes; NA",
+        "voucher": "iNaturalist:Observations:86141868",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.54,
+          6.242778
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.242778,
+        "longitude": -10.54,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476495857",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 301,
+        "country": "Liberia",
+        "locality": "LR; NA; Plantation No 3, Du River, Liberia",
+        "voucher": "MCZ:Herp:R-22554",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.472222,
+          6.995556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.995556,
+        "longitude": -9.472222,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476681783",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 5000,
+        "country": "Liberia",
+        "locality": "LR; NA; Gbanga: Liberia",
+        "voucher": "MCZ:Herp:R-22551",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.472222,
+          6.995556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.995556,
+        "longitude": -9.472222,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476681784",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 5000,
+        "country": "Liberia",
+        "locality": "LR; NA; Gbanga: Liberia",
+        "voucher": "MCZ:Herp:R-22552",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5,
+          6.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.5,
+        "longitude": -9.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476681785",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 301,
+        "country": "Liberia",
+        "locality": "LR; NA; Bonutah: Liberia",
+        "voucher": "MCZ:Herp:R-22553",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.921754,
+          7.132484
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 7.132484,
+        "longitude": -9.921754,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476681786",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 53477,
+        "country": "Liberia",
+        "locality": "LR; NA; Peahtah, St Pauls River",
+        "voucher": "MCZ:Herp:R-22555",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.617,
+          6.683
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.683,
+        "longitude": -1.617,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476695876",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 5615,
+        "country": "Ghana",
+        "locality": "GH; Ashanti; Kumasi,Achenti coast of Gold Coast",
+        "voucher": "MCZ:Herp:R-49570",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.335833,
+          5.83639
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 5.83639,
+        "longitude": -7.335833,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891079154",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 1000,
+        "country": "C‚àö¬•te d'Ivoire",
+        "locality": "CI; Montagnes; NA",
+        "voucher": "iNaturalist:Observations:73894",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.179026,
+          5.769016
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 5.769016,
+        "longitude": -7.179026,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891080289",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": 72908,
+        "country": "C‚àö¬•te d'Ivoire",
+        "locality": "CI; Montagnes; NA",
+        "voucher": "iNaturalist:Observations:77056",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.60853,
+          7.586562
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 7.586562,
+        "longitude": 0.60853,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins01166",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Badou, Togo",
+        "voucher": "GHS-W 1035",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.60853,
+          7.586562
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 7.586562,
+        "longitude": 0.60853,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins01167",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Badou, Togo",
+        "voucher": "GHS-W 1035",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.499825,
+          9.740486111
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 9.740486111,
+        "longitude": -10.499825,
+        "date": "",
+        "source": "B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞hme, W., M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del, C. Brede, and P. Wagner. 2011. The reptiles (Testudines, Squamata, Crocodylia) of the forested southeast of the Republic of Guinea (Guin‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©e foresti‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√†√∂‚àö√∫re), with a country-wide checklist. Bonn Zoological Bulletin, 60(1):35-61.",
+        "ID": "Martins05119",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Guinea",
+        "locality": "S‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©r‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©dou, Guinea",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.471194444,
+          8.541855556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 8.541855556,
+        "longitude": -9.471194444,
+        "date": "",
+        "source": "B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞hme, W., M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del, C. Brede, and P. Wagner. 2011. The reptiles (Testudines, Squamata, Crocodylia) of the forested southeast of the Republic of Guinea (Guin‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©e foresti‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√†√∂‚àö√∫re), with a country-wide checklist. Bonn Zoological Bulletin, 60(1):35-61.",
+        "ID": "Martins05120",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Guinea",
+        "locality": "Macenta, Guinea",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.243788889,
+          7.654552778
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 7.654552778,
+        "longitude": -8.243788889,
+        "date": "",
+        "source": "B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞hme, W., M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del, C. Brede, and P. Wagner. 2011. The reptiles (Testudines, Squamata, Crocodylia) of the forested southeast of the Republic of Guinea (Guin‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©e foresti‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√†√∂‚àö√∫re), with a country-wide checklist. Bonn Zoological Bulletin, 60(1):35-61.",
+        "ID": "Martins05121",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Guinea",
+        "locality": "Nimba Mountains, Guinea",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.33063056,
+          6.258525
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.258525,
+        "longitude": -10.33063056,
+        "date": "",
+        "source": "Briscoe, M. S. 1949. Notes on snakes collected in Liberia. Copeia, 1949:16-18.",
+        "ID": "Martins05123",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "Harbel, Liberia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.090341667,
+          5.966208333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 5.966208333,
+        "longitude": -8.090341667,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05124",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "Tchien, Liberia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.67624,
+          6.099477
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_chlorechis",
+        "latitude": 6.099477,
+        "longitude": -7.67624,
+        "date": "",
+        "source": "Branch, W. R., and M. O. Rodel. 2003. Herpetological survey of the Haute Dodo and Cavally Forests, western Ivory Coast, Part II: Trapping  results and reptiles. Salamandra, 39(1):21:38.",
+        "ID": "Martins08379",
+        "database_recorded_species": "Atheris chlorechis",
+        "database_recorded_subspecies": "Atheris chlorechis",
+        "taxonomy_updated_species": "Atheris_chlorechis",
+        "taxonomy_updated_subspecies2": "Atheris_chlorechis",
+        "final_species": "Atheris_chlorechis",
+        "final_subspecies": "Atheris_chlorechis",
+        "accuracy_m": "NA",
+        "country": "C‚àö¬•te d'Ivoire",
+        "locality": "For‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö¬¥¬¨¬®¬¨¬¢t Class‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©e du Cavally, Ivory Coast",
+        "voucher": "PEM R5297",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

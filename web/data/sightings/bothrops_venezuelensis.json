@@ -1,0 +1,896 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.894207,
+          10.534269
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.534269,
+        "longitude": -66.894207,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1262369136",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": 261,
+        "country": "Venezuela",
+        "locality": "VE; Distrito Capital; NA",
+        "voucher": "iNaturalist:Observations:2592665",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6844,
+          10.3494
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.3494,
+        "longitude": -67.6844,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318793464",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": 3043,
+        "country": "Venezuela",
+        "locality": "VE; Aragua; Parque Nacional Henri Pittier, below entrance to Rancho Grande",
+        "voucher": "USNM:Amphibians & Reptiles:259174",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.506852,
+          10.175691
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.175691,
+        "longitude": -63.506852,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1837744137",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": 2017,
+        "country": "Venezuela",
+        "locality": "VE; Monagas; NA",
+        "voucher": "iNaturalist:Observations:10524882",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.626389,
+          10.304722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.304722,
+        "longitude": -67.626389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2422248294",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "VE; Aragua; .",
+        "voucher": "PUCRS:MCP-REPTEIS:000019430",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6844,
+          10.3494
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.3494,
+        "longitude": -67.6844,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10930",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6844,
+          10.3494
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.3494,
+        "longitude": -67.6844,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10931",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6528,
+          10.3397
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.3397,
+        "longitude": -67.6528,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10932",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.894207,
+          10.534269
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.534269,
+        "longitude": -66.894207,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10933",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.56623,
+          10.150598
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.150598,
+        "longitude": -68.56623,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03854",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Nirgua, Yaracuy, Venezuela",
+        "voucher": "MZUSP 7830",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.56623,
+          10.150598
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.150598,
+        "longitude": -68.56623,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03855",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Nirgua, Yaracuy, Venezuela",
+        "voucher": "MZUSP 7830",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.62851,
+          9.98474
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 9.98474,
+        "longitude": -69.62851,
+        "date": "",
+        "source": "Rivas, G. A.; C. R. Molina; G. N. Ugueto; T. R. Barros; C. L. Barrio-Amor‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢s; P. J. R. Kok. 2012. Reptiles of Venezuela: na updated and commenter checklist. Zootaxa, V. 3211: 1-64.",
+        "ID": "Martins05907",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Cordillera de M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida,  Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.62851,
+          9.98474
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 9.98474,
+        "longitude": -69.62851,
+        "date": "",
+        "source": "Rivas, G. A.; C. R. Molina; G. N. Ugueto; T. R. Barros; C. L. Barrio-Amor‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢s; P. J. R. Kok. 2012. Reptiles of Venezuela: na updated and commenter checklist. Zootaxa, V. 3211: 1-64.",
+        "ID": "Martins05908",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Cordillera de M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida,  Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33324,
+          10.074772
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.074772,
+        "longitude": -69.33324,
+        "date": "",
+        "source": "Rivas, G. A.; C. R. Molina; G. N. Ugueto; T. R. Barros; C. L. Barrio-Amor‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢s; P. J. R. Kok. 2012. Reptiles of Venezuela: na updated and commenter checklist. Zootaxa, V. 3211: 1-64.",
+        "ID": "Martins05909",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Colinas Lara-Falc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n,  Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33324,
+          10.074772
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.074772,
+        "longitude": -69.33324,
+        "date": "",
+        "source": "Rivas, G. A.; C. R. Molina; G. N. Ugueto; T. R. Barros; C. L. Barrio-Amor‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢s; P. J. R. Kok. 2012. Reptiles of Venezuela: na updated and commenter checklist. Zootaxa, V. 3211: 1-64.",
+        "ID": "Martins05910",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Colinas Lara-Falc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n,  Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.68508,
+          10.316788
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.316788,
+        "longitude": -68.68508,
+        "date": "",
+        "source": "Lotzkat, S. 2007. Taxono‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†ia e Zoogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a de la Herpetofauna del Macizo de Nirgua, Venezuela.Te‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±sis de Grado en el Departamento de Ciencias Biolo‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±gicas,  Johann Wolfgang Goethe-Universita‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†t. 160 pp.",
+        "ID": "Martins05911",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Hacienda Gu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™quira, Yaracuy, Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.68508,
+          10.316788
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.316788,
+        "longitude": -68.68508,
+        "date": "",
+        "source": "Lotzkat, S. 2007. Taxono‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†ia e Zoogeograf‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a de la Herpetofauna del Macizo de Nirgua, Venezuela.Te‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±sis de Grado en el Departamento de Ciencias Biolo‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±gicas,  Johann Wolfgang Goethe-Universita‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†t. 160 pp.",
+        "ID": "Martins05912",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Hacienda Gu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™quira, Yaracuy, Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.80886,
+          10.53553
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.53553,
+        "longitude": -66.80886,
+        "date": "",
+        "source": "Silva, J. L., J. Valdez, and J. Ojasti. 1985. Algunos aspectos de una comunidad de Ophidios del norte de Venezuela. Biotropica, 17(2):112:125.",
+        "ID": "Martins05913",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Vertente norte del El Avila National Park, Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.80886,
+          10.53553
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.53553,
+        "longitude": -66.80886,
+        "date": "",
+        "source": "Silva, J. L., J. Valdez, and J. Ojasti. 1985. Algunos aspectos de una comunidad de Ophidios del norte de Venezuela. Biotropica, 17(2):112:125.",
+        "ID": "Martins05914",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Vertente norte del El Avila National Park, Venezuela",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90206,
+          10.491016
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.491016,
+        "longitude": -66.90206,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08747",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Caracas, Miranda, Venezuela",
+        "voucher": "TCWC 58959-64",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90206,
+          10.491016
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.491016,
+        "longitude": -66.90206,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08748",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Caracas, Miranda, Venezuela",
+        "voucher": "TCWC 58959-64",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90206,
+          10.491016
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.491016,
+        "longitude": -66.90206,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08749",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Caracas, Miranda, Venezuela",
+        "voucher": "TCWC 58959-64",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.54335,
+          10.066784
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.066784,
+        "longitude": -67.54335,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09158",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Rancho Grande, Aragua, Venezuela",
+        "voucher": "USNM 142397",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.54335,
+          10.066784
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.066784,
+        "longitude": -67.54335,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09159",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Rancho Grande, Aragua, Venezuela",
+        "voucher": "USNM 142397",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.54335,
+          10.066784
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.066784,
+        "longitude": -67.54335,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09160",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Rancho Grande, Aragua, Venezuela",
+        "voucher": "USNM 142397",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.60971,
+          10.413115
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.413115,
+        "longitude": -67.60971,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09527",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Henri Pittier National Park, Aragua, Venezuela",
+        "voucher": "USNM 259174-75",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.60971,
+          10.413115
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.413115,
+        "longitude": -67.60971,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09528",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Henri Pittier National Park, Aragua, Venezuela",
+        "voucher": "USNM 259174-75",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.60971,
+          10.413115
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_venezuelensis",
+        "latitude": 10.413115,
+        "longitude": -67.60971,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09529",
+        "database_recorded_species": "Bothrops venezuelensis",
+        "database_recorded_subspecies": "Bothrops venezuelensis",
+        "taxonomy_updated_species": "Bothrops_venezuelensis",
+        "taxonomy_updated_subspecies2": "Bothrops_venezuelensis",
+        "final_species": "Bothrops_venezuelensis",
+        "final_subspecies": "Bothrops_venezuelensis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "Henri Pittier National Park, Aragua, Venezuela",
+        "voucher": "USNM 259174-75",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

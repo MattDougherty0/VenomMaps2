@@ -1,0 +1,5054 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.05,
+          10.6833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.6833,
+        "longitude": 1.05,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792976",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; Mat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©ri",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12386",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          6.5333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.5333,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792997",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Adjarra",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12429",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3666,
+          10.3166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.3166,
+        "longitude": 1.3666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792998",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; Natitingou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12387",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4666,
+          6.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.7,
+        "longitude": 2.4666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793006",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Adjohoun",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12430",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9833,
+          10.2333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.2333,
+        "longitude": 1.9833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793007",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; P‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©hunco",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12388",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5333,
+          6.4833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.4833,
+        "longitude": 2.5333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793012",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Agu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©gu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©s",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12431",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2666,
+          10.6166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.6166,
+        "longitude": 1.2666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793013",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; Tangui‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©ta",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12389",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5833,
+          6.5666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.5666,
+        "longitude": 2.5833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793018",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Akpro-Miss‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©t‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12432",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0833,
+          6.85
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.85,
+        "longitude": 2.0833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793019",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Toffo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12390",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6666,
+          6.55
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.55,
+        "longitude": 2.6666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793024",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Avrankou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12433",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          6.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.45,
+        "longitude": 2.35,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793025",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Abomey-Calavi",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12391",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45,
+          6.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9,
+        "longitude": 2.45,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793030",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Bonou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12434",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15,
+          6.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.65,
+        "longitude": 2.15,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793031",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Allada",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12392",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55,
+          6.5833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.5833,
+        "longitude": 2.55,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793037",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Dangbo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12435",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0208,
+          6.4617
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.4617,
+        "longitude": 2.0208,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793038",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Kpomass‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12393",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0833,
+          6.3666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.3666,
+        "longitude": 2.0833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793044",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Ouidah",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12394",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          6.4833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.4833,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793045",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Porto-Novo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12436",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4,
+          6.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.5,
+        "longitude": 2.4,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793049",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; S‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√Ñ¬¢-Ava",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12395",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          6.3833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.3833,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793052",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; S‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úm‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú-Kpodji",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12437",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15,
+          6.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.5,
+        "longitude": 2.15,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793056",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Tori-Bossito",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12396",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          7
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793059",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Plateau; Adja-Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úr‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12438",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3833,
+          6.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.7,
+        "longitude": 2.3833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793063",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Z‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12397",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7166,
+          6.6666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.6666,
+        "longitude": 2.7166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793066",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Plateau; Ifangni",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12439",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6666,
+          10.2166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.2166,
+        "longitude": 2.6666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793070",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; Bemb‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©k‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12398",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6,
+          7.3666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.3666,
+        "longitude": 2.6,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793072",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Plateau; K‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©tou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12440",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3833,
+          10.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.3,
+        "longitude": 3.3833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793077",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; Kalal‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12399",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6833,
+          6.9666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9666,
+        "longitude": 2.6833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793079",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Plateau; Pob‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12441",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7166,
+          9.85
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.85,
+        "longitude": 2.7166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793083",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; N'Dali",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12400",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9833,
+          7.3666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.3666,
+        "longitude": 1.9833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793087",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Plateau; Sak‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©t‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12442",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2,
+          9.9333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.9333,
+        "longitude": 3.2,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793090",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; Nikki",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12401",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9833,
+          7.1833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.1833,
+        "longitude": 1.9833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793094",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Abomey",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12443",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          9.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.35,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793097",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; Parakou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12402",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9666,
+          7.0666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.0666,
+        "longitude": 1.9666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793101",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Agbangnizoun",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12444",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9833,
+          9.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.8,
+        "longitude": 2.9833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793103",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; P‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úr‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úr‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12403",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0666,
+          7.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.2,
+        "longitude": 2.0666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793109",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Bohicon",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12445",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3833,
+          10.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.35,
+        "longitude": 2.3833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793110",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; Sinend‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12404",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3,
+          7.2333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.2333,
+        "longitude": 2.3,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793116",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Cov‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12446",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6,
+          8.8833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.8833,
+        "longitude": 2.6,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793117",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou; Tchaourou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12405",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9333,
+          7.3333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.3333,
+        "longitude": 1.9333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793123",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Djidja",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12447",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8833,
+          8.4166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.4166,
+        "longitude": 1.8833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793124",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Collines; Bant‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12406",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4833,
+          7.0833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.0833,
+        "longitude": 2.4833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793131",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Ouinhi",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12448",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1833,
+          7.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.75,
+        "longitude": 2.1833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793132",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Collines; Dassa-Zoum‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12407",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          7.2666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.2666,
+        "longitude": 2.35,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793139",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Zagnanado",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12449",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3,
+          7.9666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.9666,
+        "longitude": 2.3,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793140",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Collines; Glazou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12408",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4333,
+          8.4833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.4833,
+        "longitude": 2.4333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793147",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Collines; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úss‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12409",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          7.2666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.2666,
+        "longitude": 2.35,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793148",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Za-Kpota",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12450",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9666,
+          7.9333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.9333,
+        "longitude": 1.9666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793155",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Collines; Savalou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12410",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1,
+          7.0833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.0833,
+        "longitude": 2.1,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793158",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Zou; Zogbodomey",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12451",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4833,
+          8.0333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.0333,
+        "longitude": 2.4833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793163",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Collines; Sav‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12411",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6666,
+          9.0166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.0166,
+        "longitude": 1.6666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793172",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Donga; Bassila",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12412",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4333,
+          11.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.3,
+        "longitude": 2.4333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793176",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Banikoara",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12375",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.55,
+          9.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.8333,
+        "longitude": 1.55,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793180",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Donga; Copargo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12413",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8333,
+          10.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.8333,
+        "longitude": 2.8333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793183",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Gogounou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12376",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6666,
+          9.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.7,
+        "longitude": 1.6666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793187",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Donga; Djougou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12414",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9333,
+          11.1333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.1333,
+        "longitude": 2.9333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793190",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Kandi",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12377",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          9.6666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.6666,
+        "longitude": 1.3833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793194",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Donga; Ouak‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12415",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1833,
+          12.0666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 12.0666,
+        "longitude": 3.1833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793198",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Karimama",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12378",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6833,
+          6.9333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9333,
+        "longitude": 1.6833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793202",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Kouffo; Aplahou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12416",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3833,
+          11.8666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.8666,
+        "longitude": 3.3833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793205",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Malanville",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12379",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7166,
+          6.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9,
+        "longitude": 1.7166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793209",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Kouffo; Djakotomey",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12417",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7,
+          10.9333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.9333,
+        "longitude": 3.7,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793213",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Segbana",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12380",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8833,
+          6.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9,
+        "longitude": 1.8833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793217",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Kouffo; Klou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©kanm‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12418",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1,
+          10.1833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.1833,
+        "longitude": 1.1,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793221",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; Boukoumb‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12381",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8833,
+          6.9166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9166,
+        "longitude": 1.8833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793224",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Kouffo; Lalo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12419",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8,
+          10.4166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.4166,
+        "longitude": 0.8,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793229",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; Cobly",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12382",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8166,
+          6.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.8333,
+        "longitude": 1.8166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793232",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Kouffo; Toviklin",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12420",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1,
+          10.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.8333,
+        "longitude": 2.1,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793236",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; K‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©rou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12383",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4333,
+          6.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.35,
+        "longitude": 2.4333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793239",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Littoral; Cotonou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12421",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45,
+          10.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.45,
+        "longitude": 1.45,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793243",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; Toucountouna",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12384",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6666,
+          6.5833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.5833,
+        "longitude": 1.6666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793246",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "BJ; Mono; Athi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12422",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6833,
+          10.3666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.3666,
+        "longitude": 1.6833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793251",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atacora; Kouand‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12385",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9833,
+          6.5833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.5833,
+        "longitude": 1.9833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793253",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Bopa",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12423",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8833,
+          6.4
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.4,
+        "longitude": 1.8833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793260",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Com‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12424",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7833,
+          6.8166
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.8166,
+        "longitude": 1.7833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793267",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Dogbo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12425",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8333,
+          6.2833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.2833,
+        "longitude": 1.8333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793274",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Grand-Popo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12426",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9333,
+          6.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.45,
+        "longitude": 1.9333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793281",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Hou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©yogb‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12427",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7166,
+          6.6333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.6333,
+        "longitude": 1.7166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042793288",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Lokossa",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC12428",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39581,
+          11.64659
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.64659,
+        "longitude": 2.39581,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1135645449",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Parque Nacional du W",
+        "voucher": "TCWC:Herpetology:94543",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.483333,
+          10.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.05,
+        "longitude": -2.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145481712",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 4643,
+        "country": "Ghana",
+        "locality": "GH; Upper West Region; Wa",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:176468",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.483333,
+          10.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.05,
+        "longitude": -2.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145481757",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 4643,
+        "country": "Ghana",
+        "locality": "GH; Upper West Region; Wa",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:176469",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.483333,
+          10.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.05,
+        "longitude": -2.483333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145481781",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 4643,
+        "country": "Ghana",
+        "locality": "GH; Upper West Region; Wa",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:176470",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.02,
+          7.92
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.92,
+        "longitude": 2.02,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317219580",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Centre; Zizonkame",
+        "voucher": "USNM:Amphibians & Reptiles:223822",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68,
+          10.33
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.33,
+        "longitude": 1.68,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317558660",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atakora Department; Kouande",
+        "voucher": "USNM:Amphibians & Reptiles:223821",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.63,
+          9.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.68,
+        "longitude": 1.63,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317730368",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Ouest; Soubroukou",
+        "voucher": "USNM:Amphibians & Reptiles:223824",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7,
+          10.93
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.93,
+        "longitude": 3.7,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318118253",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Est; Segbana",
+        "voucher": "USNM:Amphibians & Reptiles:199621",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.42,
+          10.22
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.22,
+        "longitude": 0.42,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318363691",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "TG; Mango; Padori",
+        "voucher": "USNM:Amphibians & Reptiles:223917",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22,
+          10.87
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.87,
+        "longitude": 0.22,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318429707",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "TG; Dapango; Dapango",
+        "voucher": "USNM:Amphibians & Reptiles:223915",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68,
+          10.33
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.33,
+        "longitude": 1.68,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318618823",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atakora Department; Kouande",
+        "voucher": "USNM:Amphibians & Reptiles:223820",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22,
+          10.87
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.87,
+        "longitude": 0.22,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318653819",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "TG; Dapango; Dapango",
+        "voucher": "USNM:Amphibians & Reptiles:223912",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.67,
+          10.23
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.23,
+        "longitude": 2.67,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318710442",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou Department; Bimbereke",
+        "voucher": "USNM:Amphibians & Reptiles:199615",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.22,
+          9.93
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.93,
+        "longitude": 3.22,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318975312",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Est; Nikki",
+        "voucher": "USNM:Amphibians & Reptiles:199624",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22,
+          10.87
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.87,
+        "longitude": 0.22,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319178213",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "TG; Dapango; Dapango",
+        "voucher": "USNM:Amphibians & Reptiles:223913",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62,
+          9.15
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.15,
+        "longitude": -4.62,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319361476",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "C‚àö¬•te d'Ivoire",
+        "locality": "CI; Nord; Kong",
+        "voucher": "USNM:Amphibians & Reptiles:199310",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97,
+          8.18
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.18,
+        "longitude": 0.97,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319485933",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "TG; Atakpame; Pagala",
+        "voucher": "USNM:Amphibians & Reptiles:223920",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.52,
+          8.08
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.08,
+        "longitude": 2.52,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319552787",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Centre; Diho",
+        "voucher": "USNM:Amphibians & Reptiles:199611",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.63,
+          9.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.68,
+        "longitude": 1.63,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319584274",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Ouest; Soubroukou",
+        "voucher": "USNM:Amphibians & Reptiles:223827",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68,
+          10.33
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.33,
+        "longitude": 1.68,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319820045",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atakora Department; Kouande",
+        "voucher": "USNM:Amphibians & Reptiles:223818",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47,
+          10.52
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.52,
+        "longitude": -0.47,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319935613",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Ghana",
+        "locality": "GH; Northern Province; Gambaga",
+        "voucher": "USNM:Amphibians & Reptiles:223942",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.67,
+          10.23
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.23,
+        "longitude": 2.67,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320039704",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Borgou Department; Bimbereke",
+        "voucher": "USNM:Amphibians & Reptiles:199614",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68,
+          10.33
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.33,
+        "longitude": 1.68,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320085178",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atakora Department; Kouande",
+        "voucher": "USNM:Amphibians & Reptiles:223819",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43,
+          11.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.3,
+        "longitude": 2.43,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320179188",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori Department; Banikoara",
+        "voucher": "USNM:Amphibians & Reptiles:199618",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2,
+          13.85
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 13.85,
+        "longitude": -2.2,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320367406",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Burkina Faso",
+        "locality": "BF; Hauts-Bassins; Barga, 9 km NE of",
+        "voucher": "USNM:Amphibians & Reptiles:199251",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.42,
+          10.22
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.22,
+        "longitude": 0.42,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320650150",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "TG; Mango; Padori",
+        "voucher": "USNM:Amphibians & Reptiles:223918",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.63,
+          9.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.68,
+        "longitude": 1.63,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320665728",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Ouest; Soubroukou",
+        "voucher": "USNM:Amphibians & Reptiles:223826",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.63,
+          9.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.68,
+        "longitude": 1.63,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320691300",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Ouest; Soubroukou",
+        "voucher": "USNM:Amphibians & Reptiles:223823",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1661,
+          12.4581
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 12.4581,
+        "longitude": 12.1661,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320801438",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "NG; North East Region; Marama",
+        "voucher": "USNM:Amphibians & Reptiles:125695",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2,
+          13.85
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 13.85,
+        "longitude": -2.2,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321529910",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Burkina Faso",
+        "locality": "BF; Hauts-Bassins; Barga, 9 km NE of",
+        "voucher": "USNM:Amphibians & Reptiles:199253",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97,
+          8.18
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.18,
+        "longitude": 0.97,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321660777",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "TG; Atakpame; Pagala",
+        "voucher": "USNM:Amphibians & Reptiles:223919",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43,
+          11.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.3,
+        "longitude": 2.43,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322187639",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori Department; Banikoara",
+        "voucher": "USNM:Amphibians & Reptiles:199617",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.52,
+          8.08
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.08,
+        "longitude": 2.52,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322500881",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Centre; Diho",
+        "voucher": "USNM:Amphibians & Reptiles:199612",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.22,
+          9.93
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.93,
+        "longitude": 3.22,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322508318",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Est; Nikki",
+        "voucher": "USNM:Amphibians & Reptiles:199623",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.63,
+          9.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.68,
+        "longitude": 1.63,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322848729",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Ouest; Soubroukou",
+        "voucher": "USNM:Amphibians & Reptiles:223828",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7,
+          10.93
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.93,
+        "longitude": 3.7,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322949072",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Nord-Est; Segbana",
+        "voucher": "USNM:Amphibians & Reptiles:199620",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36765,
+          11.658778
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.658778,
+        "longitude": 2.36765,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1438013665",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Alibori; Parc Nacional du W",
+        "voucher": "Laboratory of forest Sciences (LSF/UAC):YTDR-2016-6:2016-6",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.602172,
+          11.249012
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.249012,
+        "longitude": 1.602172,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2273218869",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 4835,
+        "country": "Benin",
+        "locality": "BJ; Atakora; NA",
+        "voucher": "iNaturalist:Observations:27271965",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.393383,
+          11.961417
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.961417,
+        "longitude": 0.393383,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796063",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 100,
+        "country": "Burkina Faso",
+        "locality": "BF; Gourma; Fada N'Gourna, 10km S of",
+        "voucher": "CIBIO:BiodesertsCollection:419",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.408617,
+          12.49595
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 12.49595,
+        "longitude": 2.408617,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796187",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Dosso; Tapoua, 10km N of",
+        "voucher": "CIBIO:BiodesertsCollection:407",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.112585,
+          11.045078
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.045078,
+        "longitude": 1.112585,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465039847",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atakora; NA",
+        "voucher": "LEA:Faune du B‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©nin:LEA_2019_AN1188",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.295032,
+          10.977396
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.977396,
+        "longitude": 1.295032,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465040052",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atakora; NA",
+        "voucher": "LEA:Faune du B‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©nin:LEA_2019_AN1069",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.042471,
+          11.04632
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 11.04632,
+        "longitude": 1.042471,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465040925",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atakora; Parc de la Pendjari",
+        "voucher": "LEA:Faune du B‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©nin:LEA_2019_AN1189",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.192842,
+          10.868492
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.868492,
+        "longitude": 1.192842,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851211510",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 2789,
+        "country": "Benin",
+        "locality": "BJ; Atakora; NA",
+        "voucher": "iNaturalist:Observations:55549305",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.316667,
+          12.533333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 12.533333,
+        "longitude": -12.316667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024550531",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 1000,
+        "country": "Senegal",
+        "locality": "SN; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:17127",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.094,
+          10.895
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.895,
+        "longitude": -1.094,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476695100",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 1794,
+        "country": "Ghana",
+        "locality": "GH; Upper East; Naurongo,Northern Territories",
+        "voucher": "MCZ:Herp:R-55311",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.367,
+          8.167
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.167,
+        "longitude": -2.367,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476696201",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 6365,
+        "country": "Ghana",
+        "locality": "GH; Brong Ahafo; near Banda Hills area 40 miles NM of Wenchi, Northwest Ashante",
+        "voucher": "MCZ:Herp:R-49732",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1525,
+          5.942333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 5.942333,
+        "longitude": 0.1525,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543467455",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 11170,
+        "country": "Ghana",
+        "locality": "GH; Eastern Region; 15 mi NE of Afienya",
+        "voucher": "CAS:HERP:123674",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.005,
+          5.799833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 5.799833,
+        "longitude": 0.005,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543469454",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 4450,
+        "country": "Ghana",
+        "locality": "GH; Eastern Region; 1 mi NE of Afieyna",
+        "voucher": "CAS:HERP:125473",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.509667,
+          10.0585
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.0585,
+        "longitude": -2.509667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543502035",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 6740,
+        "country": "Ghana",
+        "locality": "GH; Upper West Region; Wa",
+        "voucher": "CAS:HERP:154797",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.509667,
+          10.0585
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.0585,
+        "longitude": -2.509667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543502044",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 6740,
+        "country": "Ghana",
+        "locality": "GH; Upper West Region; Wa, on rd. opposite secondary school entrance",
+        "voucher": "CAS:HERP:154804",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.509667,
+          10.0585
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.0585,
+        "longitude": -2.509667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543502045",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": 6740,
+        "country": "Ghana",
+        "locality": "GH; Upper West Region; Wa",
+        "voucher": "CAS:HERP:154805",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.29183,
+          7.796722
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.796722,
+        "longitude": 1.29183,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins01164",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Kolokope, Togo",
+        "voucher": "GHS-W 0248",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.29183,
+          7.796722
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.796722,
+        "longitude": 1.29183,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins01165",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Kolokope, Togo",
+        "voucher": "GHS-W 0248",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4387,
+          7.243187
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.243187,
+        "longitude": 16.4387,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03273",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Paoua, Central African Republic",
+        "voucher": "MNHN 1994.8499; 1995.3843-3844; 1997.3180",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4387,
+          7.243187
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 7.243187,
+        "longitude": 16.4387,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03274",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Paoua, Central African Republic",
+        "voucher": "MNHN 1994.8499; 1995.3843-3844; 1997.3180",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.70014,
+          10.230874
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.230874,
+        "longitude": 0.70014,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03460",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Kpayo, Togo",
+        "voucher": "MRAC 29477, MRAC 29479",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.70014,
+          10.230874
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.230874,
+        "longitude": 0.70014,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03461",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Kpayo, Togo",
+        "voucher": "MRAC 29477, MRAC 29479",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1906,
+          9.548931
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.548931,
+        "longitude": 1.1906,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03462",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Kara, Togo",
+        "voucher": "MRAC 29485",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1906,
+          9.548931
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.548931,
+        "longitude": 1.1906,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03463",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Kara, Togo",
+        "voucher": "MRAC 29485",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.20025,
+          9.249917
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.249917,
+        "longitude": 1.20025,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03464",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "For‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö¬¥¬¨¬®¬¨¬¢t Clas‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©ee d'Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©djo, Togo",
+        "voucher": "MRAC 29497, T 170, T 180, T 182-187, T 190, T 200",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.20025,
+          9.249917
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.249917,
+        "longitude": 1.20025,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03465",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "For‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö¬¥¬¨¬®¬¨¬¢t Clas‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©ee d'Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©djo, Togo",
+        "voucher": "MRAC 29497, T 170, T 180, T 182-187, T 190, T 200",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.20612,
+          9.252997
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.252997,
+        "longitude": 1.20612,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03466",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Aledjo Kadara, Togo",
+        "voucher": "MRAC 29497, T 170, T 180, T 182-187, T 190, T 200",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.20612,
+          9.252997
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.252997,
+        "longitude": 1.20612,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03467",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Aledjo Kadara, Togo",
+        "voucher": "MRAC 29497, T 170, T 180, T 182-187, T 190, T 200",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.11402,
+          9.765247
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.765247,
+        "longitude": 1.11402,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03468",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Niamtougou, Togo",
+        "voucher": "MRAC 29498-99",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.11402,
+          9.765247
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 9.765247,
+        "longitude": 1.11402,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03469",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Niamtougou, Togo",
+        "voucher": "MRAC 29498-99",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.39972,
+          10.890556
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.890556,
+        "longitude": 0.39972,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03472",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Namoudjoga, Togo",
+        "voucher": "MRAC 29539",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.39972,
+          10.890556
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 10.890556,
+        "longitude": 0.39972,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03473",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Namoudjoga, Togo",
+        "voucher": "MRAC 29539",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.71469,
+          6.845967
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.845967,
+        "longitude": 0.71469,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03491",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Agou, Togo",
+        "voucher": "MRAC 73014.0047",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.71469,
+          6.845967
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.845967,
+        "longitude": 0.71469,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins03492",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Agou, Togo",
+        "voucher": "MRAC 73014.0047",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16578,
+          6.933688
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.933688,
+        "longitude": 2.16578,
+        "date": "",
+        "source": "Ullenbruch, K., O. Grell, and W. B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞hme. 2010. Reptiles from southern Benin, West Africa, with description of a new Hemidactylus (Gekkonidae), and a country-wide cheacklist. Bonn zoological Bulletin, 57(1):31-54.",
+        "ID": "Martins06808",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "F‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö√ë¬¨¬¢ret de Lama, Benin",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16578,
+          6.933688
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.933688,
+        "longitude": 2.16578,
+        "date": "",
+        "source": "Ullenbruch, K., O. Grell, and W. B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞hme. 2010. Reptiles from southern Benin, West Africa, with description of a new Hemidactylus (Gekkonidae), and a country-wide cheacklist. Bonn zoological Bulletin, 57(1):31-54.",
+        "ID": "Martins06809",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "F‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö√ë¬¨¬¢ret de Lama, Benin",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.38333,
+          6.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9,
+        "longitude": 7.38333,
+        "date": "",
+        "source": "Akani, G. C., I. F. Barieenee, D. Capizzi, and L. Luiselli. 1999. Snake communities of moist rainforest and derived savanna sites of Nigeria: biodiversity patterns and conservation priorities. Biodiversity and Conservation, 8:629-642.",
+        "ID": "Martins06810",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Environs of Ejule, Nigeria",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.38333,
+          6.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 6.9,
+        "longitude": 7.38333,
+        "date": "",
+        "source": "Akani, G. C., I. F. Barieenee, D. Capizzi, and L. Luiselli. 1999. Snake communities of moist rainforest and derived savanna sites of Nigeria: biodiversity patterns and conservation priorities. Biodiversity and Conservation, 8:629-642.",
+        "ID": "Martins06811",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Environs of Ejule, Nigeria",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.77348,
+          8.693678
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.693678,
+        "longitude": 0.77348,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins08679",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Fazao, Togo",
+        "voucher": "T 157, T 161-167, T 169",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.77348,
+          8.693678
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_ocellatus",
+        "latitude": 8.693678,
+        "longitude": 0.77348,
+        "date": "",
+        "source": "Segniagbeto, G. H., J. F. Trape, P. David, A. Ohler, A. Dubois, and I. A. Glitho. 2011. The snake fauna of Togo: systematics, distribution, and biogeography, with remarks on selected taxonomic problems. Zoosystema 33(3):325-360.",
+        "ID": "Martins08680",
+        "database_recorded_species": "Echis ocellatus",
+        "database_recorded_subspecies": "Echis ocellatus",
+        "taxonomy_updated_species": "Echis_ocellatus",
+        "taxonomy_updated_subspecies2": "Echis_ocellatus",
+        "final_species": "Echis_ocellatus",
+        "final_subspecies": "Echis_ocellatus",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "Fazao, Togo",
+        "voucher": "T 157, T 161-167, T 169",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

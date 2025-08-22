@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.657389,
+          -29.699972
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -29.699972,
+        "longitude": 17.657389,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_1325740301",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Northern Cape; Springbok, Spektakel Pass west of town",
+        "voucher": "NA:NA:NA",
+        "issue": "RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.341859,
+          -31.156198
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -31.156198,
+        "longitude": 18.341859,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880651081",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": 83,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:14108042",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.589112,
+          -29.897337
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -29.897337,
+        "longitude": 17.589112,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2028512156",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": 20,
+        "country": "South Africa",
+        "locality": "ZA; Northern Cape; NA",
+        "voucher": "iNaturalist:Observations:21447147",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.567227,
+          -29.563012
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -29.563012,
+        "longitude": 17.567227,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2980805746",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": 100,
+        "country": "South Africa",
+        "locality": "ZA; Northern Cape; NA",
+        "voucher": "iNaturalist:Observations:63887609",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.133333,
+          -26.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -26.65,
+        "longitude": 15.133333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476493619",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": 8400,
+        "country": "Namibia",
+        "locality": "NA; NA; Luderitz Bay, SWA",
+        "voucher": "MCZ:Herp:R-21485",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.133333,
+          -26.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -26.65,
+        "longitude": 15.133333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476669814",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": 8400,
+        "country": "Namibia",
+        "locality": "NA; NA; Luderitz Bay, SWA",
+        "voucher": "MCZ:Herp:R-21484",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.133333,
+          -26.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -26.65,
+        "longitude": 15.133333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476669816",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": 8400,
+        "country": "Namibia",
+        "locality": "NA; NA; Luderitz Bay, SWA",
+        "voucher": "MCZ:Herp:R-21487",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.07097,
+          -29.677103
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_cornuta",
+        "latitude": -29.677103,
+        "longitude": 17.07097,
+        "date": "",
+        "source": "Loveridge, A. 1936. African reptiles and amphibians in the Field Museum of Natural History. Field Museum of Natural History, Zoology Series, 22 (1): 1-129",
+        "ID": "Martins01091",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_cornuta",
+        "final_subspecies": "Bitis_cornuta",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Kleinsee, South Africa",
+        "voucher": "FMNH 16039-40",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

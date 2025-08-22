@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.546046,
+          -34.547566
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_armata",
+        "latitude": -34.547566,
+        "longitude": 19.546046,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1933562525",
+        "database_recorded_species": "Bitis armata",
+        "database_recorded_subspecies": "Bitis armata",
+        "taxonomy_updated_species": "Bitis_armata",
+        "taxonomy_updated_subspecies2": "Bitis_armata",
+        "final_species": "Bitis_armata",
+        "final_subspecies": "Bitis_armata",
+        "accuracy_m": 28818,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:17898910",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.633399,
+          -34.557096
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_armata",
+        "latitude": -34.557096,
+        "longitude": 19.633399,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2251959911",
+        "database_recorded_species": "Bitis armata",
+        "database_recorded_subspecies": "Bitis armata",
+        "taxonomy_updated_species": "Bitis_armata",
+        "taxonomy_updated_subspecies2": "Bitis_armata",
+        "final_species": "Bitis_armata",
+        "final_subspecies": "Bitis_armata",
+        "accuracy_m": 28818,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:26016625",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.93619,
+          -33.00393
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_armata",
+        "latitude": -33.00393,
+        "longitude": 17.93619,
+        "date": "",
+        "source": "Lenk, P., H. Hans-Werner, U. Joger, and M. Wink. 1999. Phylogeny and taxonomic subdivision of Bitis (Reptilia: Viperidae) based on molecular evidence. Darmstadter Beitrage zur Naturgechte, 8:31-38.",
+        "ID": "Martins05293",
+        "database_recorded_species": "Bitis cornuta",
+        "database_recorded_subspecies": "Bitis cornuta",
+        "taxonomy_updated_species": "Bitis_cornuta",
+        "taxonomy_updated_subspecies2": "Bitis_cornuta",
+        "final_species": "Bitis_armata",
+        "final_subspecies": "Bitis_armata",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Saldanha Bay, South Africa",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.345242,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

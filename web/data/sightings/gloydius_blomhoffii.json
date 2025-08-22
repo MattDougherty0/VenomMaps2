@@ -1,0 +1,2018 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.751,
+          32.6408
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 32.6408,
+        "longitude": 130.751,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317235275",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 57472,
+        "country": "Japan",
+        "locality": "JP; Kyushu Island; Toyono-mura, Shimomashiki-gun",
+        "voucher": "USNM:Amphibians & Reptiles:203370",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.751,
+          32.6408
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 32.6408,
+        "longitude": 130.751,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317333073",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 57472,
+        "country": "Japan",
+        "locality": "JP; Kyushu Island; Toyono-mura, Shimomashiki-gun",
+        "voucher": "USNM:Amphibians & Reptiles:203369",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.751,
+          32.6408
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 32.6408,
+        "longitude": 130.751,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317958262",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 57472,
+        "country": "Japan",
+        "locality": "JP; Kyushu Island; Toyono-mura, Shimomashiki-gun",
+        "voucher": "USNM:Amphibians & Reptiles:203368",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.343,
+          34.8672
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.8672,
+        "longitude": 135.343,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318465432",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 10621,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Takarazuka",
+        "voucher": "USNM:Amphibians & Reptiles:203365",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626,
+          35.4529
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.4529,
+        "longitude": 139.626,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318955186",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 15667,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Yokohama",
+        "voucher": "USNM:Amphibians & Reptiles:34042",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.343,
+          34.8672
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.8672,
+        "longitude": 135.343,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319586953",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 10621,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Takarazuka",
+        "voucher": "USNM:Amphibians & Reptiles:203366",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.51,
+          33.5828
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 33.5828,
+        "longitude": 133.51,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319800655",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 12905,
+        "country": "Japan",
+        "locality": "JP; Shikoku Island; Kochi",
+        "voucher": "USNM:Amphibians & Reptiles:31867",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.777,
+          36.5007
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 36.5007,
+        "longitude": 137.777,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320125519",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 21222,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Shinshiu, Omachi",
+        "voucher": "USNM:Amphibians & Reptiles:15421",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.51,
+          33.5828
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 33.5828,
+        "longitude": 133.51,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320187729",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 12905,
+        "country": "Japan",
+        "locality": "JP; Shikoku Island; Kochi",
+        "voucher": "USNM:Amphibians & Reptiles:31866",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.777,
+          36.5007
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 36.5007,
+        "longitude": 137.777,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320400853",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 21222,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Shinshiu, Omachi",
+        "voucher": "USNM:Amphibians & Reptiles:15425",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.46,
+          35.2424
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.2424,
+        "longitude": 135.46,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320581873",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 66253,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Kyoto",
+        "voucher": "USNM:Amphibians & Reptiles:133961",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.751,
+          32.6408
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 32.6408,
+        "longitude": 130.751,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320585969",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 57472,
+        "country": "Japan",
+        "locality": "JP; Kyushu Island; Toyono-mura, Shimomashiki-gun",
+        "voucher": "USNM:Amphibians & Reptiles:203367",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626,
+          35.4529
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.4529,
+        "longitude": 139.626,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321167263",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 15667,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Yokohama",
+        "voucher": "USNM:Amphibians & Reptiles:34041",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.777,
+          36.5007
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 36.5007,
+        "longitude": 137.777,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321691176",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 21222,
+        "country": "Japan",
+        "locality": "JP; Honshu Island; Shinshiu, Omachi",
+        "voucher": "USNM:Amphibians & Reptiles:15426",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.124953,
+          34.681914
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.681914,
+        "longitude": 135.124953,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1457577710",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 27,
+        "country": "Japan",
+        "locality": "JP; Hy‚Äö√Ñ√∂‚àö¬¢‚àö‚Ä†‚Äö√†√∂‚àö√ºgo; NA",
+        "voucher": "iNaturalist:Observations:1530137",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.261979,
+          40.505055
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 40.505055,
+        "longitude": 140.261979,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1580491305",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 122,
+        "country": "Japan",
+        "locality": "JP; Aomori; NA",
+        "voucher": "iNaturalist:Observations:7047086",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.177603,
+          38.763766
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.763766,
+        "longitude": 140.177603,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521548",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Jinden",
+        "voucher": "YAMA:Re:76",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.909855,
+          38.17063
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.17063,
+        "longitude": 139.909855,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521652",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Kuwasumidaira",
+        "voucher": "YAMA:Re:51",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.001444,
+          38.501864
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.501864,
+        "longitude": 140.001444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521678",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Shizu",
+        "voucher": "YAMA:Re:75",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.15756,
+          37.858229
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 37.858229,
+        "longitude": 140.15756,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521682",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Yunosawa",
+        "voucher": "YAMA:Re:56",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.001444,
+          38.501864
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.501864,
+        "longitude": 140.001444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521685",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Shizu",
+        "voucher": "YAMA:Re:54",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.256159,
+          38.324992
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.324992,
+        "longitude": 140.256159,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521686",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Yanagisawa",
+        "voucher": "YAMA:Re:52",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.939487,
+          39.051846
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 39.051846,
+        "longitude": 139.939487,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521688",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Shiraishinden",
+        "voucher": "YAMA:Re:55",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.435409,
+          38.31098
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.31098,
+        "longitude": 140.435409,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521690",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Yamadera",
+        "voucher": "YAMA:Re:57",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.939487,
+          39.051846
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 39.051846,
+        "longitude": 139.939487,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521693",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; Shiraishinden",
+        "voucher": "YAMA:Re:53",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.361983,
+          38.259434
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.259434,
+        "longitude": 140.361983,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1828521695",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Yamagata; the Tohoku-chuo hospital",
+        "voucher": "YAMA:Re:58",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.317686,
+          34.282973
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.282973,
+        "longitude": 132.317686,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1848801105",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 92,
+        "country": "Japan",
+        "locality": "JP; Hiroshima; NA",
+        "voucher": "iNaturalist:Observations:13080486",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.121544,
+          35.987643
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.987643,
+        "longitude": 139.121544,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880516858",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 1032,
+        "country": "Japan",
+        "locality": "JP; Saitama; NA",
+        "voucher": "iNaturalist:Observations:13576270",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.114595,
+          33.485736
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 33.485736,
+        "longitude": 130.114595,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1912820361",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.484173,
+          43.372575
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 43.372575,
+        "longitude": 140.484173,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1978843160",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 35,
+        "country": "Japan",
+        "locality": "JP; Hokkaido; NA",
+        "voucher": "iNaturalist:Observations:19188886",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 98.5440432939142,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.03736,
+          35.12469
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.12469,
+        "longitude": 129.03736,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2234856018",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 1001,
+        "country": "South Korea",
+        "locality": "KR; Busan Metropolitan City; Choryang-Tong Tonk-K",
+        "voucher": "UTEP:Amphibian and reptile specimens:UTEP:Herp:8498",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.099625,
+          36.169317
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 36.169317,
+        "longitude": 137.099625,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2580183153",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 5,
+        "country": "Japan",
+        "locality": "JP; Gifu; NA",
+        "voucher": "iNaturalist:Observations:29757688",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.854143,
+          35.468549
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.468549,
+        "longitude": 135.854143,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2603403779",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 173190,
+        "country": "Japan",
+        "locality": "JP; Shiga; NA",
+        "voucher": "iNaturalist:Observations:42082264",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.568837,
+          35.537951
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.537951,
+        "longitude": 137.568837,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626348712",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Nagano; NA",
+        "voucher": "iNaturalist:Observations:46540623",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.28288,
+          34.834159
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.834159,
+        "longitude": 135.28288,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802560959",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 65,
+        "country": "Japan",
+        "locality": "JP; Hy‚Äö√Ñ√∂‚àö¬¢‚àö‚Ä†‚Äö√†√∂‚àö√ºgo; NA",
+        "voucher": "iNaturalist:Observations:49315085",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.613185,
+          35.347605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.347605,
+        "longitude": 139.613185,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2883137574",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 65,
+        "country": "Japan",
+        "locality": "JP; Kanagawa; NA",
+        "voucher": "iNaturalist:Observations:60936122",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.056568,
+          39.426679
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 39.426679,
+        "longitude": 141.056568,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988556888",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 552,
+        "country": "Japan",
+        "locality": "JP; Iwate; NA",
+        "voucher": "iNaturalist:Observations:65574762",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.074814,
+          35.308597
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.308597,
+        "longitude": 139.074814,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988601956",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 5,
+        "country": "Japan",
+        "locality": "JP; Kanagawa; NA",
+        "voucher": "iNaturalist:Observations:64843695",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.791463,
+          34.447673
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.447673,
+        "longitude": 132.791463,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2999092023",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 1,
+        "country": "Japan",
+        "locality": "JP; Hiroshima; NA",
+        "voucher": "iNaturalist:Observations:66309891",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.798379,
+          36.334941
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 36.334941,
+        "longitude": 138.798379,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3013926437",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 954,
+        "country": "Japan",
+        "locality": "JP; Gunma; NA",
+        "voucher": "iNaturalist:Observations:48533569",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.839458,
+          38.267348
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 38.267348,
+        "longitude": 140.839458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3014004721",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Miyagi; NA",
+        "voucher": "iNaturalist:Observations:67071627",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50432,
+          34.395562
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.395562,
+        "longitude": 135.50432,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3067952132",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 397,
+        "country": "Japan",
+        "locality": "JP; Osaka; NA",
+        "voucher": "iNaturalist:Observations:56706813",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612114,
+          35.348312
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.348312,
+        "longitude": 139.612114,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3079890504",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 4,
+        "country": "Japan",
+        "locality": "JP; Kanagawa; NA",
+        "voucher": "iNaturalist:Observations:72860546",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.255581,
+          34.91994
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.91994,
+        "longitude": 137.255581,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3118289768",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 34,
+        "country": "Japan",
+        "locality": "JP; Aichi; NA",
+        "voucher": "iNaturalist:Observations:78803189",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.156748,
+          34.954003
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 34.954003,
+        "longitude": 137.156748,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307385740",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 2,
+        "country": "Japan",
+        "locality": "JP; Aichi; NA",
+        "voucher": "iNaturalist:Observations:83165364",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.642228,
+          35.025264
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.025264,
+        "longitude": 135.642228,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333157639",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 9,
+        "country": "Japan",
+        "locality": "JP; Kyoto; NA",
+        "voucher": "iNaturalist:Observations:88234398",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29698,
+          44.414937
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 44.414937,
+        "longitude": 141.29698,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333235582",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 50,
+        "country": "Japan",
+        "locality": "JP; Hokkaido; NA",
+        "voucher": "iNaturalist:Observations:89049887",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.99999,
+          35.9999999991025
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.9999999991025,
+        "longitude": 137.99999,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_45050681",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 1725,
+        "country": "Japan",
+        "locality": "JP; Unknown; Unknown",
+        "voucher": "SDNHM:Herps:43380",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751,
+          35.685
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.685,
+        "longitude": 139.751,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476677281",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 17044,
+        "country": "Japan",
+        "locality": "JP; Tokyo Prefecture; Tokyo area,Japan",
+        "voucher": "MCZ:Herp:R-54020",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.72042,
+          33.78347
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 33.78347,
+        "longitude": 129.72042,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543610220",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 8908,
+        "country": "Japan",
+        "locality": "JP; Nagasaki Pref.; NA",
+        "voucher": "CAS:HERP:26138",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.24736,
+          42.98681
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 42.98681,
+        "longitude": 141.24736,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543610880",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 28661,
+        "country": "Japan",
+        "locality": "JP; Hokkaido Pref.; Sapporo",
+        "voucher": "CAS:HERP:26732",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62556,
+          35.45292
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.45292,
+        "longitude": 139.62556,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543740196",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 15667,
+        "country": "Japan",
+        "locality": "JP; Kanagawa Pref.; Yokohama",
+        "voucher": "CAS:SUR:5158",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;AMBIGUOUS_COLLECTION",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.11708,
+          35.23694
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.23694,
+        "longitude": 139.11708,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657483722",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 482,
+        "country": "Japan",
+        "locality": "JP; Kanagawa Prefecture; Honshu Island, Hakonimachi, Yumoto Yamazaki",
+        "voucher": "LACM:Herps:141197",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.45958,
+          35.24236
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.24236,
+        "longitude": 135.45958,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686766584",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Honshu; Kyoto",
+        "voucher": "KU:KUH:61282",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.45958,
+          35.24236
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.24236,
+        "longitude": 135.45958,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686766585",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Honshu; Kyoto",
+        "voucher": "KU:KUH:61283",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.45958,
+          35.24236
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 35.24236,
+        "longitude": 135.45958,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686766586",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Honshu; Kyoto",
+        "voucher": "KU:KUH:61284",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.718056,
+          36.238889
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 36.238889,
+        "longitude": 138.718056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_699239464",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Gunma; Higashinomaki",
+        "voucher": "GMNHJ:amphibia_reptile:VR0000614",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.702286,
+          32.627827
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 32.627827,
+        "longitude": 131.702286,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_812635254",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 1025,
+        "country": "Japan",
+        "locality": "JP; Honshu; Nachi Falls",
+        "voucher": "PSM:Herp:Herp-08977",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.892532,
+          33.487614
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 33.487614,
+        "longitude": 130.892532,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_812635491",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": 5173,
+        "country": "Japan",
+        "locality": "JP; Kyushu; Hikosan",
+        "voucher": "PSM:Herp:Herp-08817",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30844,
+          44.422668
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 44.422668,
+        "longitude": 141.30844,
+        "date": "",
+        "source": "Malhotra, A., K. Dawson, P. Guo, R. S. Thorpe. 2011. Phylogenetic structure and species boundaries in the mountain pitviper Ovophis monticola (Serpentes: Viperidae: Crotalinae) in Asia. Molecular Phylogenetics and Evolution, 59:444-457.",
+        "ID": "Martins06826",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Teuri Island, Hokkaido, Japan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30844,
+          44.422668
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_blomhoffii",
+        "latitude": 44.422668,
+        "longitude": 141.30844,
+        "date": "",
+        "source": "Malhotra, A., K. Dawson, P. Guo, R. S. Thorpe. 2011. Phylogenetic structure and species boundaries in the mountain pitviper Ovophis monticola (Serpentes: Viperidae: Crotalinae) in Asia. Molecular Phylogenetics and Evolution, 59:444-457.",
+        "ID": "Martins06827",
+        "database_recorded_species": "Gloydius blomhoffii",
+        "database_recorded_subspecies": "Gloydius blomhoffii",
+        "taxonomy_updated_species": "Gloydius_blomhoffii",
+        "taxonomy_updated_subspecies2": "Gloydius_blomhoffii",
+        "final_species": "Gloydius_blomhoffii",
+        "final_subspecies": "Gloydius_blomhoffii",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Teuri Island, Hokkaido, Japan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

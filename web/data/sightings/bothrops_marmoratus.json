@@ -1,0 +1,5483 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5489999999999,
+          -19.4937
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.4937,
+        "longitude": -46.5489999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031121",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Ibia,  Minas Gerais,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5332999999999,
+          -19.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.4666999999999,
+        "longitude": -46.5332999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031122",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Ibia; Ibia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5332999999999,
+          -19.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.4666999999999,
+        "longitude": -46.5332999999999,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031123",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Ibia; NA",
+        "voucher": "IBSP29104",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5332999999999,
+          -19.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.4666999999999,
+        "longitude": -46.5332999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031124",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; IbiaIbiaMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5332999999999,
+          -19.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.4666999999999,
+        "longitude": -46.5332999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031125",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; IbiaMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1837999999999,
+          -18.6424999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.6424999999999,
+        "longitude": -48.1837999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031126",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Araguari; Araguari",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1833,
+          -18.6332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.6332999999999,
+        "longitude": -48.1833,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031127",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Araguari; Araguari",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1833,
+          -18.6332999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.6332999999999,
+        "longitude": -48.1833,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031128",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Araguari; Araguari",
+        "voucher": "IBSP57060",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5167,
+          -18.5667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.5667,
+        "longitude": -46.5167,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031129",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Patos de Minas; Patos de Minas",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5167,
+          -18.5667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.5667,
+        "longitude": -46.5167,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031130",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Patos de MinasPatos de MinasMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4587999999999,
+          -18.4038
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.4038,
+        "longitude": -44.4587999999999,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031131",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Corinto; NA",
+        "voucher": "IBSP32143",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4587999999999,
+          -18.4038
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.4038,
+        "longitude": -44.4587999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031132",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; CorintoMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4572,
+          -18.3642
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.3642,
+        "longitude": -44.4572,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031133",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Corinto,  Minas Gerais,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5816999999999,
+          -17.8882
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.8882,
+        "longitude": -44.5816999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031134",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Lassance,  Minas Gerais,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5666999999999,
+          -17.8832999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.8832999999999,
+        "longitude": -44.5666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031135",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Lassance; Lassance",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5666999999999,
+          -17.8832999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.8832999999999,
+        "longitude": -44.5666999999999,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031136",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Lassance; NA",
+        "voucher": "IBSP599",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5666999999999,
+          -17.8832999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.8832999999999,
+        "longitude": -44.5666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031137",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; LassanceLassanceMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5666999999999,
+          -17.8832999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.8832999999999,
+        "longitude": -44.5666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031138",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; LassanceMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031139",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Joao pinheiro; Joao pinheiro",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031140",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Joao pinheiro; Joao pinheiro",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031141",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Joao Pinheiro; NA",
+        "voucher": "IBSP56260",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031142",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Joao Pinheiro; NA",
+        "voucher": "IBSP56805",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031143",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Joao pinheiroJoao pinheiroMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031144",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Joao pinheiroJoao pinheiroMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031145",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Joao PinheiroMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031146",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Joao PinheiroMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.179,
+          -17.7473999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7473999999999,
+        "longitude": -46.179,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031147",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Joao Pinheiro,  Minas Gerais,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1631,
+          -17.7212999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7212999999999,
+        "longitude": -48.1631,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031148",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Ipameri; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15,
+          -17.7166999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7166999999999,
+        "longitude": -48.15,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031149",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Ipameri; Ipameri",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15,
+          -17.7166999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7166999999999,
+        "longitude": -48.15,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031150",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; IpameriIpameriGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4988999999999,
+          -16.8138
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.8138,
+        "longitude": -50.4988999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031151",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Corrego Aguas Claras Alto SucuriuFazenda Sao JoaoGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4988999999999,
+          -16.8138
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.8138,
+        "longitude": -50.4988999999999,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031152",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Fazenda Sao Joao; Corrego Aguas Claras Alto Sucuriu",
+        "voucher": "IBSP23326",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9273999999999,
+          -16.2511
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.2511,
+        "longitude": -47.9273999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031153",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Luziania,  Goias,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.95,
+          -16.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.25,
+        "longitude": -47.95,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031154",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Luziania; Luziania",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.95,
+          -16.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.25,
+        "longitude": -47.95,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031155",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Luziania; NA",
+        "voucher": "IBSP24604-05",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.95,
+          -16.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.25,
+        "longitude": -47.95,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031156",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; LuzianiaGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.95,
+          -16.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.25,
+        "longitude": -47.95,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031157",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; LuzianiaLuzianiaGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8667,
+          -15.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.95,
+        "longitude": -44.8667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031158",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Sao Francisco; Sao Francisco",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8667,
+          -15.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.95,
+        "longitude": -44.8667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031159",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Sao FranciscoSao FranciscoMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8539999999999,
+          -15.9445999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9445999999999,
+        "longitude": -44.8539999999999,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031160",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Sao Francisco; NA",
+        "voucher": "IBSP51137",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8539999999999,
+          -15.9445999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9445999999999,
+        "longitude": -44.8539999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031161",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Sao FranciscoMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031162",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Corumba de Goias; Corumba de Goias",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031163",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Corumba de Goias; Corumba de Goias",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031164",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Corumba de Goias; NA",
+        "voucher": "IBSP51414",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031165",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Corumba de Goias; NA",
+        "voucher": "IBSP51996",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031166",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Corumba de GoiasCorumba de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031167",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Corumba de GoiasCorumba de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031168",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Corumba de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8,
+          -15.9167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.9167,
+        "longitude": -48.8,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031169",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Corumba de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8010999999999,
+          -15.8996999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8996999999999,
+        "longitude": -48.8010999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031170",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Corumba de Goias,  Goias,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0251999999999,
+          -15.8262
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8262,
+        "longitude": -48.0251999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031171",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Aguas Claras; Aguas Claras",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031172",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Barragem de Paranoa",
+        "voucher": "IBSP19465",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031173",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Barragem de Paranoa",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031174",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031175",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031176",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031177",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031178",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031179",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031180",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031181",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031182",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031183",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031184",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031185",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031186",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP20431-32",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031187",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP20610",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031188",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP21590",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031189",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP22765",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031190",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP26224",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031191",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP26262",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031192",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP33604",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031193",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP34490",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031194",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP41516",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031195",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP45728",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031196",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP48932-34",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162,
+          -15.8209
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.8209,
+        "longitude": -47.8162,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031197",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "IBSP58238-39",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9292,
+          -15.7800999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.7800999999999,
+        "longitude": -47.9292,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031198",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia,  Brazil",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0223999999999,
+          -15.7098999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.7098999999999,
+        "longitude": -48.0223999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031199",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0223999999999,
+          -15.7098999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.7098999999999,
+        "longitude": -48.0223999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031200",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "DF; Brasilia; Brasilia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6,
+          -15.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.45,
+        "longitude": -47.6,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031201",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Planaltina de Goias; Planaltina de Goias",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6,
+          -15.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.45,
+        "longitude": -47.6,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031202",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Planaltina de Goias; NA",
+        "voucher": "IBSP56826",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6,
+          -15.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.45,
+        "longitude": -47.6,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031203",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Planaltina de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6,
+          -15.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.45,
+        "longitude": -47.6,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031204",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Planaltina de GoiasPlanaltina de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6152,
+          -15.4499
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.4499,
+        "longitude": -47.6152,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031205",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Planaltina de Goias,  Goias,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1464,
+          -14.5324
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.5324,
+        "longitude": -49.1464,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031206",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Uruacu,  Goias,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4607,
+          -14.4711
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.4711,
+        "longitude": -48.4607,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031207",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Niquelandia,  Goias,  Brazil; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.45,
+          -14.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.4666999999999,
+        "longitude": -48.45,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031208",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Niquelandia; Niquelandia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.45,
+          -14.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.4666999999999,
+        "longitude": -48.45,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031209",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Niquelandia; NA",
+        "voucher": "IBSP44502",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.45,
+          -14.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.4666999999999,
+        "longitude": -48.45,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031210",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; NiquelandiaGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.45,
+          -14.4666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.4666999999999,
+        "longitude": -48.45,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031211",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; NiquelandiaNiquelandiaGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4998,
+          -14.2741
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.2741,
+        "longitude": -47.4998,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031212",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Alto Paraiso de Goias; Alto Paraiso de Goias",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -14.1333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.1333,
+        "longitude": -47.5,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031213",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Alto Paraiso de Goias; em Veadeiros",
+        "voucher": "IBSP56105",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -14.1333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.1333,
+        "longitude": -47.5,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031214",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Alto Paraiso de Goias; em Veadeiros",
+        "voucher": "IBSP56511",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -14.1333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.1333,
+        "longitude": -47.5,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_031215",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Alto Paraiso de Goias; em Veadeiros",
+        "voucher": "IBSP24147",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -14.1333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.1333,
+        "longitude": -47.5,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031216",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; em VeadeirosAlto Paraiso de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -14.1333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.1333,
+        "longitude": -47.5,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031217",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; em VeadeirosAlto Paraiso de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -14.1333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.1333,
+        "longitude": -47.5,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031218",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; em VeadeirosAlto Paraiso de GoiasGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3166999999999,
+          -14.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.05,
+        "longitude": -48.3166999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031219",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Niquelandia; UHE Serra da mesa",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3166999999999,
+          -14.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.05,
+        "longitude": -48.3166999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_031220",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; UHE Serra da mesaNiquelandiaGO; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9667,
+          -20.0167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -20.0167,
+        "longitude": -45.9667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035304",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Bambui; Bambui",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9667,
+          -20.0167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -20.0167,
+        "longitude": -45.9667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035305",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Bambui; Bambui",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9667,
+          -20.0167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -20.0167,
+        "longitude": -45.9667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035306",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Bambui; Bambui",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9667,
+          -20.0167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -20.0167,
+        "longitude": -45.9667,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_035307",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Bambui; Bambui",
+        "voucher": "IBSP53986",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9833,
+          -20.0167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -20.0167,
+        "longitude": -45.9833,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035308",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Bambui; Bambui",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9833,
+          -20.0167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -20.0167,
+        "longitude": -45.9833,
+        "date": "",
+        "source": "Xavier-da-Silva e Rodrigues (2008)",
+        "ID": "ABS_035309",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Bambui; Bambui",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9667,
+          -19.5333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.5333,
+        "longitude": -45.9667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035366",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Santa Rosa da Serra; NA",
+        "voucher": "MHNCI7175",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9667,
+          -19.5333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.5333,
+        "longitude": -45.9667,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035367",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Santa Rosa da SerraMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.05,
+          -19.3167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.3167,
+        "longitude": -46.05,
+        "date": "",
+        "source": "Xavier-da-Silva e Rodrigues (2008)",
+        "ID": "ABS_035371",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Sao Gotardo; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.05,
+          -19.3167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.3167,
+        "longitude": -46.05,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035372",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Sao GotardoMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0561,
+          -19.3074
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.3074,
+        "longitude": -46.0561,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_035373",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Sao Gotardo; NA",
+        "voucher": "IBSP51280",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0561,
+          -19.3074
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.3074,
+        "longitude": -46.0561,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035374",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Sao GotardoMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1597,
+          -17.7219
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7219,
+        "longitude": -48.1597,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_035413",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Ipameri; NA",
+        "voucher": "IBSP23449",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1597,
+          -17.7219
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7219,
+        "longitude": -48.1597,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_035414",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Ipameri; NA",
+        "voucher": "IBSP3016",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15,
+          -17.7166999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7166999999999,
+        "longitude": -48.15,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_035415",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Ipameri; Ipameri",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1666999999999,
+          -17.7166999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.7166999999999,
+        "longitude": -48.1666999999999,
+        "date": "",
+        "source": "Xavier-da-Silva e Rodrigues (2008)",
+        "ID": "ABS_035416",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Ipameri; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2832999999999,
+          -16.675
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.675,
+        "longitude": -49.2832999999999,
+        "date": "",
+        "source": "Xavier-da-Silva e Rodrigues (2008)",
+        "ID": "ABS_035423",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Goiania; estacao Campinas",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.25,
+          -16.6666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.6666999999999,
+        "longitude": -49.25,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_035424",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Goiania; Campinas",
+        "voucher": "IBSP4677",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.25,
+          -16.6666999999999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.6666999999999,
+        "longitude": -49.25,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_035425",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "GO; Goiania; Campinas",
+        "voucher": "IBSP5264",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1167,
+          -19.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.75,
+        "longitude": -46.1167,
+        "date": "",
+        "source": "Silva e Rodrigues,  2008",
+        "ID": "ABS_036988",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Uruburetama,  estacao; Uruburetama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1167,
+          -19.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.75,
+        "longitude": -46.1167,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_036989",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; UruburetamaUruburetama,  estacao; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -19.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "Xavier-da-Silva e Rodrigues (2008)",
+        "ID": "ABS_036990",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Campos Altos; estacao Uruburetama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1666999999999,
+          -19.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.75,
+        "longitude": -46.1666999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_036991",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; estacao UruburetamaCampos AltosMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.17,
+          -19.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.7,
+        "longitude": -46.17,
+        "date": "",
+        "source": "Silva e Rodrigues 2008",
+        "ID": "ABS_037000",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Uruburetama; NA",
+        "voucher": "IBSP15256-58",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.17,
+          -19.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.7,
+        "longitude": -46.17,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037001",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; UruburetamaMG; NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.35,
+          -19.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.3,
+        "longitude": -45.35,
+        "date": "",
+        "source": "Araujo e Martins,  2007",
+        "ID": "ABS_037048",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Abaete - MG; sudoeste",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5,
+          -18.5667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.5667,
+        "longitude": -46.5,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037100",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Patos de Minas; NA",
+        "voucher": "MNRJ18723",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5,
+          -18.5667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.5667,
+        "longitude": -46.5,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_037101",
+        "database_recorded_species": "Bothrops pauloensis",
+        "database_recorded_subspecies": "Bothrops pauloensis",
+        "taxonomy_updated_species": "Bothrops_pauloensis",
+        "taxonomy_updated_subspecies2": "Bothrops_pauloensis",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "MG; Patos de Minas; NA",
+        "voucher": "MNRJ18724",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.8813375,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.93407,
+          -15.948507
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.948507,
+        "longitude": -47.93407,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1457615297",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": 1292,
+        "country": "Brazil",
+        "locality": "BR; Distrito Federal; NA",
+        "voucher": "iNaturalist:Observations:5593331",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.613282,
+          -16.668081
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.668081,
+        "longitude": -48.613282,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2422244199",
+        "database_recorded_species": "Bothrops neuwiedi",
+        "database_recorded_subspecies": "Bothrops neuwiedi",
+        "taxonomy_updated_species": "Bothrops_neuwiedi",
+        "taxonomy_updated_subspecies2": "Bothrops_neuwiedi",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Go; .",
+        "voucher": "PUCRS:MCP-REPTEIS:000014478",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 1.4406685,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.372537,
+          -15.75197
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.75197,
+        "longitude": -48.372537,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2422893670",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": 526,
+        "country": "Brazil",
+        "locality": "BR; Goi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªs; NA",
+        "voucher": "iNaturalist:Observations:31948641",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.920132,
+          -15.928964
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.928964,
+        "longitude": -47.920132,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2620022880",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": 488,
+        "country": "Brazil",
+        "locality": "BR; Distrito Federal; NA",
+        "voucher": "iNaturalist:Observations:45094447",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.726881,
+          -15.672998
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.672998,
+        "longitude": -47.726881,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2963774621",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": 975,
+        "country": "Brazil",
+        "locality": "BR; Distrito Federal; NA",
+        "voucher": "iNaturalist:Observations:63321822",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.086753,
+          -15.746431
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.746431,
+        "longitude": -48.086753,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3005209067",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": 258,
+        "country": "Brazil",
+        "locality": "BR; Distrito Federal; NA",
+        "voucher": "iNaturalist:Observations:66634566",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.877215,
+          -15.948598
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.948598,
+        "longitude": -47.877215,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070531835",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": 2,
+        "country": "Brazil",
+        "locality": "BR; Distrito Federal; NA",
+        "voucher": "iNaturalist:Observations:40876743",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15,
+          -17.716667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.716667,
+        "longitude": -48.15,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10713",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.533333,
+          -18.583333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.583333,
+        "longitude": -46.533333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10714",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.216667,
+          -19.601969
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.601969,
+        "longitude": -46.216667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10715",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92917,
+          -15.780148
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.780148,
+        "longitude": -47.92917,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01309",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Bras‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†lia, Brazil",
+        "voucher": "IBSP 20431-32, IBSP 20610, IBSP 21590, IBSP 22765,\r\r\r\r\r\r\nIBSP 26224, IBSP 26262, IBSP 33604, IBSP 34490,\r\r\r\r\r\r\nIBSP 41516, IBSP 45728, IBSP 48932-34, IBSP 58238-39",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92917,
+          -15.780148
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.780148,
+        "longitude": -47.92917,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01310",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Bras‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†lia, Brazil",
+        "voucher": "IBSP 20431-32, IBSP 20610, IBSP 21590, IBSP 22765,\r\r\r\r\r\r\nIBSP 26224, IBSP 26262, IBSP 33604, IBSP 34490,\r\r\r\r\r\r\nIBSP 41516, IBSP 45728, IBSP 48932-34, IBSP 58238-39",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.02521,
+          -15.826234
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.826234,
+        "longitude": -48.02521,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01333",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Agu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s Claras, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 23326",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.02521,
+          -15.826234
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.826234,
+        "longitude": -48.02521,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01334",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Agu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s Claras, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 23326",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.49981,
+          -14.274118
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.274118,
+        "longitude": -47.49981,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01337",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Alto Para‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†so, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 24147,\r\r\r\r\r\r\nIBSP 56105, IBSP 56511",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.49981,
+          -14.274118
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.274118,
+        "longitude": -47.49981,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01338",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Alto Para‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†so, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 24147,\r\r\r\r\r\r\nIBSP 56105, IBSP 56511",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92743,
+          -16.251079
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.251079,
+        "longitude": -47.92743,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01349",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Luzi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬¢nia, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 24604-05",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92743,
+          -16.251079
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -16.251079,
+        "longitude": -47.92743,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01350",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Luzi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬¢nia, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 24604-05",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.549,
+          -19.493666
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.493666,
+        "longitude": -46.549,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01371",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Ibi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Minas Gerais, Brazil",
+        "voucher": "IBSP 29104",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.549,
+          -19.493666
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -19.493666,
+        "longitude": -46.549,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01372",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Ibi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Minas Gerais, Brazil",
+        "voucher": "IBSP 29104",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1464,
+          -14.532352
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.532352,
+        "longitude": -49.1464,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01417",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Urua‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´u, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 43891",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1464,
+          -14.532352
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.532352,
+        "longitude": -49.1464,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01418",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Urua‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´u, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 43891",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.46071,
+          -14.471097
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.471097,
+        "longitude": -48.46071,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01427",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Niquel‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬¢ndia, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 44502",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.46071,
+          -14.471097
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -14.471097,
+        "longitude": -48.46071,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01428",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Niquel‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬¢ndia, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 44502",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.80106,
+          -15.899656
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.899656,
+        "longitude": -48.80106,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01465",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Corumb‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™ de Goias, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 51414, IBSP 51996",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.80106,
+          -15.899656
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.899656,
+        "longitude": -48.80106,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01466",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Corumb‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™ de Goias, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 51414, IBSP 51996",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.16313,
+          -17.721264
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.721264,
+        "longitude": -48.16313,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01509",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Ipameri, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 55055,",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.16313,
+          -17.721264
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.721264,
+        "longitude": -48.16313,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01510",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Ipameri, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 55055,",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.17896,
+          -17.747439
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.747439,
+        "longitude": -46.17896,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01523",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Jo‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬£o Pinheiro, Minas Gerais, Brazil",
+        "voucher": "IBSP 56260, IBSP 56805",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.17896,
+          -17.747439
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.747439,
+        "longitude": -46.17896,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01524",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Jo‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬£o Pinheiro, Minas Gerais, Brazil",
+        "voucher": "IBSP 56260, IBSP 56805",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61523,
+          -15.449911
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.449911,
+        "longitude": -47.61523,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01535",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Planaltina de Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 56826",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61523,
+          -15.449911
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -15.449911,
+        "longitude": -47.61523,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01536",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Planaltina de Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Goi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Brazil",
+        "voucher": "IBSP 56826",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.18381,
+          -18.642471
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.642471,
+        "longitude": -48.18381,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01537",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Araguari, Minas Gerais, Brazil",
+        "voucher": "IBSP 57060",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.18381,
+          -18.642471
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.642471,
+        "longitude": -48.18381,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01538",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Araguari, Minas Gerais, Brazil",
+        "voucher": "IBSP 57060",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.58173,
+          -17.888241
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.888241,
+        "longitude": -44.58173,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01549",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Lassance, Minas Gerais, Brazil",
+        "voucher": "IBSP 599",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.58173,
+          -17.888241
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -17.888241,
+        "longitude": -44.58173,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01550",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Lassance, Minas Gerais, Brazil",
+        "voucher": "IBSP 599",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4572,
+          -18.364243
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.364243,
+        "longitude": -44.4572,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01615",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Corinto, Minas Gerais, Brazil",
+        "voucher": "IBSP31243",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4572,
+          -18.364243
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_marmoratus",
+        "latitude": -18.364243,
+        "longitude": -44.4572,
+        "date": "",
+        "source": "Silva, V. X. and M. T. Rodrigues. 2008. Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa, V. 7, N. 1: 45-90.",
+        "ID": "Martins01616",
+        "database_recorded_species": "Bothrops marmoratus",
+        "database_recorded_subspecies": "Bothrops marmoratus",
+        "taxonomy_updated_species": "Bothrops_marmoratus",
+        "taxonomy_updated_subspecies2": "Bothrops_marmoratus",
+        "final_species": "Bothrops_marmoratus",
+        "final_subspecies": "Bothrops_marmoratus",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Corinto, Minas Gerais, Brazil",
+        "voucher": "IBSP31243",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

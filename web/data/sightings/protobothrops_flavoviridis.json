@@ -1,0 +1,2447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.02444,
+          26.57806
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.57806,
+        "longitude": 128.02444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145551318",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 12066,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Nago, Okinawa",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:23904",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317207908",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:122165",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317241058",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:129429",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317306357",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123479",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317333688",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123484",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.688,
+          26.2108
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.2108,
+        "longitude": 127.688,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317421514",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 5759,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Naha Middle School",
+        "voucher": "USNM:Amphibians & Reptiles:121471",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317429345",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123487",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317569342",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:122166",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317585206",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Chijuka, near",
+        "voucher": "USNM:Amphibians & Reptiles:123030",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.797,
+          26.3397
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.3397,
+        "longitude": 126.797,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317962488",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 1454,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Kume Shima (= Kume Island), north slope of mountains south of Higa",
+        "voucher": "USNM:Amphibians & Reptiles:137287",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;TAXON_MATCH_HIGHERRANK;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318042191",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123482",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318077008",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:122167",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.203,
+          26.7329
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.7329,
+        "longitude": 128.203,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318270890",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 4155,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Hentona",
+        "voucher": "USNM:Amphibians & Reptiles:123313",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318895735",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123882",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318946133",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123481",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.203,
+          26.7329
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.7329,
+        "longitude": 128.203,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318965768",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 4155,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Hentona",
+        "voucher": "USNM:Amphibians & Reptiles:123312",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320173931",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123483",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.797,
+          26.3397
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.3397,
+        "longitude": 126.797,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320189687",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis tinkhami",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis_tinkhami",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 1454,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Kume Shima (= Kume Island), north slope of mountains south of Higa",
+        "voucher": "USNM:Amphibians & Reptiles:137285",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.688,
+          26.2108
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.2108,
+        "longitude": 127.688,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320429961",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 5759,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Naha Middle School",
+        "voucher": "USNM:Amphibians & Reptiles:121470",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320575067",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123486",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320721084",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123485",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.688,
+          26.2108
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.2108,
+        "longitude": 127.688,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320970481",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 5759,
+        "country": "Japan",
+        "locality": "JP; Okinawa; Naha housing area",
+        "voucher": "USNM:Amphibians & Reptiles:136638",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;TAXON_MATCH_HIGHERRANK;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321140415",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123480",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.387,
+          28.2775
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 28.2775,
+        "longitude": 129.387,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322525025",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 2982,
+        "country": "Japan",
+        "locality": "JP; Amami Island Group; Nishinakama",
+        "voucher": "USNM:Amphibians & Reptiles:156998",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;TAXON_MATCH_HIGHERRANK;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322560846",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123489",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322565421",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:141693",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.982,
+          26.4747
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.4747,
+        "longitude": 127.982,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322980632",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:123490",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.221436,
+          26.691637
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.691637,
+        "longitude": 128.221436,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453261965",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 15276,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:469464",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.768331,
+          26.350997
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.350997,
+        "longitude": 127.768331,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1933393380",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Kadena Munitions Storage Area, Kadena Air Base, Okinawa Prefecture, Okinawa",
+        "voucher": "LACM:Herps:189422",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.768331,
+          26.350997
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.350997,
+        "longitude": 127.768331,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1933393385",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Okinawa; Kadena Munitions Storage Area, Kadena Air Base, Okinawa Prefecture, Okinawa",
+        "voucher": "LACM:Herps:189429",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.768331,
+          26.350997
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.350997,
+        "longitude": 127.768331,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1933393390",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Okinawa; Kadena Munitions Storage Area, Kadena Air Base, Okinawa Prefecture, Okinawa",
+        "voucher": "LACM:Herps:189436",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.768331,
+          26.350997
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.350997,
+        "longitude": 127.768331,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1933393393",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Okinawa; Kadena Munitions Storage Area, Kadena Air Base, Okinawa Prefecture, Okinawa",
+        "voucher": "LACM:Herps:189432",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.768331,
+          26.350997
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.350997,
+        "longitude": 127.768331,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1933393410",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Okinawa; Kadena Munitions Storage Area, Kadena Air Base, Okinawa Prefecture, Okinawa",
+        "voucher": "LACM:Herps:189437",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2304852977",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2305519146",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2305911609",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2306101830",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2306173362",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2306194337",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2307279453",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2307505844",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2309034837",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2309403127",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2309943778",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310110305",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310297776",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310386503",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310424583",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310524193",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310535499",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310739472",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310860495",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129,
+          27.77
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.77,
+        "longitude": 129,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2310994090",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; NA; Japan:Kagoshima, Tokunoshima Islands",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.786296,
+          26.427306
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.427306,
+        "longitude": 127.786296,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2868306529",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 206,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:60363811",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.703097,
+          26.130013
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.130013,
+        "longitude": 127.703097,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070359814",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 31,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:72249346",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.308245,
+          28.267225
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 28.267225,
+        "longitude": 129.308245,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070374582",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 15,
+        "country": "Japan",
+        "locality": "JP; Kagoshima; NA",
+        "voucher": "iNaturalist:Observations:72167529",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.788454,
+          26.311743
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.311743,
+        "longitude": 126.788454,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070495972",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 61,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:72248215",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.758282,
+          26.359562
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.359562,
+        "longitude": 126.758282,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070662694",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 15,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:72168109",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.762247,
+          26.34348
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.34348,
+        "longitude": 126.762247,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070666552",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 4,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:72168619",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.690607,
+          26.113652
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.113652,
+        "longitude": 127.690607,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090632292",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 15,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:73515430",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.679017,
+          26.119394
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.119394,
+        "longitude": 127.679017,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090745101",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 8,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:73406076",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.94601,
+          27.788571
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.788571,
+        "longitude": 128.94601,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090880382",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 31,
+        "country": "Japan",
+        "locality": "JP; Kagoshima; NA",
+        "voucher": "iNaturalist:Observations:73624598",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.946442,
+          27.787217
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.787217,
+        "longitude": 128.946442,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090936371",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 15,
+        "country": "Japan",
+        "locality": "JP; Kagoshima; NA",
+        "voucher": "iNaturalist:Observations:73623648",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.35,
+          28.2667
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 28.2667,
+        "longitude": 129.35,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476650761",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 64615,
+        "country": "Japan",
+        "locality": "JP; Kagoshima Prefecture; Amani Oshima Riu Kiu Is",
+        "voucher": "MCZ:Herp:R-7393",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.940575,
+          26.500373
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.500373,
+        "longitude": 127.940575,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667320",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 60000,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Okinawa Id.,Loo Choo Ids",
+        "voucher": "MCZ:Herp:R-53636",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.785,
+          26.306
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.306,
+        "longitude": 127.785,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476693865",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 784,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Sukiran",
+        "voucher": "MCZ:Herp:R-55967",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.98194,
+          26.47472
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.47472,
+        "longitude": 127.98194,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476705879",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; NA; Taira Region,Okinawa",
+        "voucher": "MCZ:Herp:R-55963",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.4825,
+          28.37472
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 28.37472,
+        "longitude": 129.4825,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543573750",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 9849,
+        "country": "Japan",
+        "locality": "JP; Kagoshima Pref.; Naze",
+        "voucher": "CAS:HERP:21934",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.98194,
+          26.47472
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 26.47472,
+        "longitude": 127.98194,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657488453",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; Okinawa; Kue, Okinawa",
+        "voucher": "LACM:Herps:146038",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37778,
+          28.29347
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 28.29347,
+        "longitude": 129.37778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686835834",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Kagoshima Prefecture; Amami Island",
+        "voucher": "KU:KUH:129007",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37778,
+          28.29347
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 28.29347,
+        "longitude": 129.37778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686835835",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Kagoshima Prefecture; Amami Island",
+        "voucher": "KU:KUH:129008",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.01867,
+          27.726592
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.726592,
+        "longitude": 129.01867,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W.; L. Peppin C. E.; Pook, D. E. Walker. 2008. A nesting of vipers: phylogeny and historical biogeography of the Viperidae (Squamata: Serpentes). Moleclar Phylogenetics and Evolution, 49: 445-459.",
+        "ID": "Martins09039",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Tokunoshima, Japan",
+        "voucher": "UMMZ 199973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.96662,
+          27.750021
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.750021,
+        "longitude": 128.96662,
+        "date": "",
+        "source": "Castoe, T. A., J. M. Daza, E. N. Smith, M. M. Sasa, U. Kuch, J. A. Campbell, P. T. Chippindale, and C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, 36(1):88-103.",
+        "ID": "Martins09063",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Tokunoshima, Japan",
+        "voucher": "UMMZ-199973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.96662,
+          27.750021
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_flavoviridis",
+        "latitude": 27.750021,
+        "longitude": 128.96662,
+        "date": "",
+        "source": "Castoe, T. A., J. M. Daza, E. N. Smith, M. M. Sasa, U. Kuch, J. A. Campbell, P. T. Chippindale, and C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, 36(1):88-103.",
+        "ID": "Martins09064",
+        "database_recorded_species": "Protobothrops flavoviridis",
+        "database_recorded_subspecies": "Protobothrops flavoviridis",
+        "taxonomy_updated_species": "Protobothrops_flavoviridis",
+        "taxonomy_updated_subspecies2": "Protobothrops_flavoviridis",
+        "final_species": "Protobothrops_flavoviridis",
+        "final_subspecies": "Protobothrops_flavoviridis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Tokunoshima, Japan",
+        "voucher": "UMMZ-199973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

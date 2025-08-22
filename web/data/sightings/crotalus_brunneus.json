@@ -1,0 +1,1589 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.549703,
+          17.280965
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.280965,
+        "longitude": -96.549703,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1229614504",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30748,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:2579983",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.551266,
+          17.318473
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.318473,
+        "longitude": -96.551266,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453135618",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30748,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:4329766",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.678756,
+          16.972211
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.972211,
+        "longitude": -96.678756,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563444200",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30780,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:6447226",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.596312,
+          17.142729
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.142729,
+        "longitude": -96.596312,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586130293",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30764,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:7339303",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.409395,
+          17.89742
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.89742,
+        "longitude": -97.409395,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586950025",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30699,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:7520405",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.350023,
+          16.927947
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.927947,
+        "longitude": -96.350023,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1837064554",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30780,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:10394163",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.238247,
+          16.807428
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.807428,
+        "longitude": -96.238247,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847591276",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30780,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:12758935",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.07,
+          17.03
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.03,
+        "longitude": -96.07,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893327736",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; carr. 179 (Ayutla-Totontepec), 36.8-39.1 km al NE de Ayutla",
+        "voucher": "IBUNAM:CNAR:6756",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9,
+          16.93
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.93,
+        "longitude": -96.9,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893327782",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 5.7 km al E de La Cumbre, camino a Yuvila",
+        "voucher": "IBUNAM:CNAR:6757",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.358333,
+          16.408333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.408333,
+        "longitude": -95.358333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894926154",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro quiengola",
+        "voucher": "AMNH:AMNH:65174-175",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.058333,
+          17.225
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.225,
+        "longitude": -96.058333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894926232",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Totontepec",
+        "voucher": "NMNH-SI:USNM:46555",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.058333,
+          17.225
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.225,
+        "longitude": -96.058333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894926253",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Totontepec",
+        "voucher": "NMNH-SI:USNM:46609",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5503459748227,
+          17.8368122825185
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.8368122825185,
+        "longitude": -97.5503459748227,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895769290",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus brunneus",
+        "taxonomy_updated_species": "Crotalus_brunneus",
+        "taxonomy_updated_subspecies2": "Crotalus_brunneus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; YOSOCUNO - 1.3 KM NNW DEL PUEBLO",
+        "voucher": "EB-BUAP:EBUAP:769",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.534905,
+          17.151959
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.151959,
+        "longitude": -96.534905,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2237500799",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30764,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:22951076",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.419536,
+          17.134836
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.134836,
+        "longitude": -96.419536,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2331854590",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30764,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:30021071",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.467041,
+          17.325126
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.325126,
+        "longitude": -96.467041,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2382384557",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 296,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 2 miles East Ixtlan de Juarez",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:22748",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.468543,
+          17.322381
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.322381,
+        "longitude": -96.468543,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2446749061",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 296,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 1.5 miles East of Ixtlan de Juarez",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:25526",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.518389,
+          17.282012
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.282012,
+        "longitude": -96.518389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2446749124",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 3859,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 2.6 miles East of Ixtlan de Juarez, on southern slope of Sierra de Ixtlan",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:32101",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.46083,
+          17.331245
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.331245,
+        "longitude": -96.46083,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2446749603",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 500,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Ixtlan de Juarez, 1.8 miles E, in pine oak madrono",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:30762",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.518389,
+          17.282012
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.282012,
+        "longitude": -96.518389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2446749652",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 3859,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 2.6 miles East of Ixtlan de Juarez, on southern slope of Sierra de Ixtlan",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:32100",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.518389,
+          17.282012
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.282012,
+        "longitude": -96.518389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2446749680",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 3859,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 2.6 miles East of Ixtlan de Juarez, on southern slope of Sierra de Ixtlan",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:32099",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.518389,
+          17.282012
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.282012,
+        "longitude": -96.518389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2446749892",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 3859,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 2.6 miles East of Ixtlan de Juarez, on southern slope of Sierra de Ixtlan",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:32098",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.518389,
+          17.282012
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.282012,
+        "longitude": -96.518389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2446749988",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 3859,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 2.6 miles East of Ixtlan de Juarez, on southern slope of Sierra de Ixtlan",
+        "voucher": "MSB:Amphibian and reptile specimens:MSB:Herp:32097",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.282532,
+          16.904584
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.904584,
+        "longitude": -96.282532,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2620186551",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30780,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:45014894",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.049721,
+          17.141701
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.141701,
+        "longitude": -96.049721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629136542",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Santa Mar‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a Yacochi",
+        "voucher": "ENCB-IPN:ENCB:2224",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.435555,
+          17.22
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.22,
+        "longitude": -96.435555,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629190646",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Santa Mar‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a Yavesia",
+        "voucher": "FC-UNAM:MZFC:23873",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.431667,
+          17.243889
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.243889,
+        "longitude": -96.431667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629191114",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Santa Mar‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a Yavesia",
+        "voucher": "FC-UNAM:MZFC:23860",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.071836,
+          16.80295
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.80295,
+        "longitude": -96.071836,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2634232963",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30780,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:46903493",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.435555,
+          17.22
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.22,
+        "longitude": -96.435555,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3306274466",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Santa Mar‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a Yavesia",
+        "voucher": "FC-UNAM:MZFC:23873",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.431667,
+          17.243889
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.243889,
+        "longitude": -96.431667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3306276102",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Santa Mar‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a Yavesia",
+        "voucher": "FC-UNAM:MZFC:23860",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.533083,
+          17.822473
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.822473,
+        "longitude": -97.533083,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3320936595",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": 30699,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:84377545",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5000348652705,
+          17.4107218696283
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.4107218696283,
+        "longitude": -96.5000348652705,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686844559",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 10.5 km E Atepec",
+        "voucher": "KU:KUH:137679",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.55033897,
+          17.83680928
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.83680928,
+        "longitude": -97.55033897,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31086",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.55,
+          17.836
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.836,
+        "longitude": -97.55,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31087",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9,
+          16.93
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.93,
+        "longitude": -96.9,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31130",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.678756,
+          16.972211
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.972211,
+        "longitude": -96.678756,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31131",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.596312,
+          17.142729
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.142729,
+        "longitude": -96.596312,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31132",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.56377,
+          17.360758
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.360758,
+        "longitude": -96.56377,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31133",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.551266,
+          17.318473
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.318473,
+        "longitude": -96.551266,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31134",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.549703,
+          17.280965
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.280965,
+        "longitude": -96.549703,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31135",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.48003303,
+          16.96074383
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.96074383,
+        "longitude": -96.48003303,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31136",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.43166667,
+          17.2438889
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.2438889,
+        "longitude": -96.43166667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31137",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.39920278,
+          16.9154861
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.9154861,
+        "longitude": -96.39920278,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31138",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.07,
+          17.03
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.03,
+        "longitude": -96.07,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV31139",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.58362,
+          17.844919
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.844919,
+        "longitude": -97.58362,
+        "date": "",
+        "source": "M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rquez, L. C. & M. G. G. May‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n. 2010. Anfibios y reptiles del Valle de Tehuac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n-Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n. Comisi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Nacional para el conocimiento y uso de la biodiversidad (CONABIO), Fundaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n para la Reserva de la Biosfera Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, A. C., y la Benem‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rita Universidad Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢noma de Puebla.",
+        "ID": "Martins00842",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Yosocuno, Oaxaca, Mexico",
+        "voucher": "EBUAP 769",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.58362,
+          17.844919
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 17.844919,
+        "longitude": -97.58362,
+        "date": "",
+        "source": "M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rquez, L. C. & M. G. G. May‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n. 2010. Anfibios y reptiles del Valle de Tehuac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n-Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n. Comisi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Nacional para el conocimiento y uso de la biodiversidad (CONABIO), Fundaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n para la Reserva de la Biosfera Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, A. C., y la Benem‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rita Universidad Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢noma de Puebla.",
+        "ID": "Martins00843",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Yosocuno, Oaxaca, Mexico",
+        "voucher": "EBUAP 769",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.80333,
+          16.598611
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.598611,
+        "longitude": -95.80333,
+        "date": "",
+        "source": "PETERSON, A. T.; M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±RQUEZ, L. C.; JIM‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢NEZ, J. L. C.; ESCALONA-SEGURA, G.; FLORES-VILLELA, O.; GARC‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬∫A-L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜPEZ, J.; HERN‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±NDEZ-BA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨‚Ä¢OS, B.; RUIZ, C. A. J.; LE‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜN-PANIAGUA, L.; AMARO, S. M.; NAVARRO-SING‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ENZA, A. G.; S‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±NCHEZ-CORDERO, V.; WILLARD, D. E. 2004. A preliminary biological survez of Cerro Piedra larga, Oxaca, Mexico: Birds, mammals, reptiles, amphibians, and plants. Anales del Instituto de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Universidad Nacional Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢noma de M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©xico, Seria Zoolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a.V. 75, N. 2: 439 - 466.",
+        "ID": "Martins06587",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro Piedra Larga, Oaxaca, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.80333,
+          16.598611
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_brunneus",
+        "latitude": 16.598611,
+        "longitude": -95.80333,
+        "date": "",
+        "source": "PETERSON, A. T.; M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±RQUEZ, L. C.; JIM‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢NEZ, J. L. C.; ESCALONA-SEGURA, G.; FLORES-VILLELA, O.; GARC‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬∫A-L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜPEZ, J.; HERN‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±NDEZ-BA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨‚Ä¢OS, B.; RUIZ, C. A. J.; LE‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜN-PANIAGUA, L.; AMARO, S. M.; NAVARRO-SING‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ENZA, A. G.; S‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±NCHEZ-CORDERO, V.; WILLARD, D. E. 2004. A preliminary biological survez of Cerro Piedra larga, Oxaca, Mexico: Birds, mammals, reptiles, amphibians, and plants. Anales del Instituto de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a, Universidad Nacional Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢noma de M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©xico, Seria Zoolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a.V. 75, N. 2: 439 - 466.",
+        "ID": "Martins06588",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_brunneus",
+        "final_subspecies": "Crotalus_brunneus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro Piedra Larga, Oaxaca, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 5.0401755,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

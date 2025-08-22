@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.203936,
+          25.018147
+        ]
+      },
+      "properties": {
+        "scientificName": "Pseudocerastes_persicus",
+        "latitude": 25.018147,
+        "longitude": 56.203936,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453157366",
+        "database_recorded_species": "Pseudocerastes persicus",
+        "database_recorded_subspecies": "Pseudocerastes persicus",
+        "taxonomy_updated_species": "Pseudocerastes_persicus",
+        "taxonomy_updated_subspecies2": "Pseudocerastes_persicus",
+        "final_species": "Pseudocerastes_persicus",
+        "final_subspecies": "Pseudocerastes_persicus",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:4401005",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.202911,
+          25.019121
+        ]
+      },
+      "properties": {
+        "scientificName": "Pseudocerastes_persicus",
+        "latitude": 25.019121,
+        "longitude": 56.202911,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453176631",
+        "database_recorded_species": "Pseudocerastes persicus",
+        "database_recorded_subspecies": "Pseudocerastes persicus",
+        "taxonomy_updated_species": "Pseudocerastes_persicus",
+        "taxonomy_updated_subspecies2": "Pseudocerastes_persicus",
+        "final_species": "Pseudocerastes_persicus",
+        "final_subspecies": "Pseudocerastes_persicus",
+        "accuracy_m": 30,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:4449579",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.285905,
+          31.684433
+        ]
+      },
+      "properties": {
+        "scientificName": "Pseudocerastes_persicus",
+        "latitude": 31.684433,
+        "longitude": 54.285905,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1990622623",
+        "database_recorded_species": "Pseudocerastes persicus",
+        "database_recorded_subspecies": "Pseudocerastes persicus",
+        "taxonomy_updated_species": "Pseudocerastes_persicus",
+        "taxonomy_updated_subspecies2": "Pseudocerastes_persicus",
+        "final_species": "Pseudocerastes_persicus",
+        "final_subspecies": "Pseudocerastes_persicus",
+        "accuracy_m": 60,
+        "country": "Iran",
+        "locality": "IR; Yazd; NA",
+        "voucher": "iNaturalist:Observations:19965987",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.183189,
+          25.023089
+        ]
+      },
+      "properties": {
+        "scientificName": "Pseudocerastes_persicus",
+        "latitude": 25.023089,
+        "longitude": 56.183189,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265840747",
+        "database_recorded_species": "Pseudocerastes persicus",
+        "database_recorded_subspecies": "Pseudocerastes persicus",
+        "taxonomy_updated_species": "Pseudocerastes_persicus",
+        "taxonomy_updated_subspecies2": "Pseudocerastes_persicus",
+        "final_species": "Pseudocerastes_persicus",
+        "final_subspecies": "Pseudocerastes_persicus",
+        "accuracy_m": 8455,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:26667436",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.210187,
+          25.744025
+        ]
+      },
+      "properties": {
+        "scientificName": "Pseudocerastes_persicus",
+        "latitude": 25.744025,
+        "longitude": 56.210187,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423060234",
+        "database_recorded_species": "Pseudocerastes persicus",
+        "database_recorded_subspecies": "Pseudocerastes persicus",
+        "taxonomy_updated_species": "Pseudocerastes_persicus",
+        "taxonomy_updated_subspecies2": "Pseudocerastes_persicus",
+        "final_species": "Pseudocerastes_persicus",
+        "final_subspecies": "Pseudocerastes_persicus",
+        "accuracy_m": 5,
+        "country": "Oman",
+        "locality": "OM; Musandam; NA",
+        "voucher": "iNaturalist:Observations:32681819",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.136695,
+          25.943029
+        ]
+      },
+      "properties": {
+        "scientificName": "Pseudocerastes_persicus",
+        "latitude": 25.943029,
+        "longitude": 56.136695,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596404249",
+        "database_recorded_species": "Pseudocerastes persicus",
+        "database_recorded_subspecies": "Pseudocerastes persicus",
+        "taxonomy_updated_species": "Pseudocerastes_persicus",
+        "taxonomy_updated_subspecies2": "Pseudocerastes_persicus",
+        "final_species": "Pseudocerastes_persicus",
+        "final_subspecies": "Pseudocerastes_persicus",
+        "accuracy_m": 487,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:41192142",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.145847,
+          25.948233
+        ]
+      },
+      "properties": {
+        "scientificName": "Pseudocerastes_persicus",
+        "latitude": 25.948233,
+        "longitude": 56.145847,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851094680",
+        "database_recorded_species": "Pseudocerastes persicus",
+        "database_recorded_subspecies": "Pseudocerastes persicus",
+        "taxonomy_updated_species": "Pseudocerastes_persicus",
+        "taxonomy_updated_subspecies2": "Pseudocerastes_persicus",
+        "final_species": "Pseudocerastes_persicus",
+        "final_subspecies": "Pseudocerastes_persicus",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:56351109",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

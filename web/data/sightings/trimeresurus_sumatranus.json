@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.35447,
+          -3.59875
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_sumatranus",
+        "latitude": -3.59875,
+        "longitude": 102.35447,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00087",
+        "database_recorded_species": "Trimeresurus sumatranus",
+        "database_recorded_subspecies": "Trimeresurus sumatranus",
+        "taxonomy_updated_species": "Trimeresurus_sumatranus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_sumatranus",
+        "final_species": "Trimeresurus_sumatranus",
+        "final_subspecies": "Trimeresurus_sumatranus",
+        "accuracy_m": "NA",
+        "country": "Indonesia",
+        "locality": "Bengkulu, Sumatra, Indonesia",
+        "voucher": "AM B367",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.35447,
+          -3.59875
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_sumatranus",
+        "latitude": -3.59875,
+        "longitude": 102.35447,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00088",
+        "database_recorded_species": "Trimeresurus sumatranus",
+        "database_recorded_subspecies": "Trimeresurus sumatranus",
+        "taxonomy_updated_species": "Trimeresurus_sumatranus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_sumatranus",
+        "final_species": "Trimeresurus_sumatranus",
+        "final_subspecies": "Trimeresurus_sumatranus",
+        "accuracy_m": "NA",
+        "country": "Indonesia",
+        "locality": "Bengkulu, Sumatra, Indonesia",
+        "voucher": "AM B367",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

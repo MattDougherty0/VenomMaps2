@@ -1,0 +1,1094 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3343,
+          31.53655
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 31.53655,
+        "longitude": 110.3343,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0395",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 10,
+        "country": "China",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.33415,
+          31.53651
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 31.53651,
+        "longitude": 110.33415,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0396",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 10,
+        "country": "China",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.33436,
+          31.53663
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 31.53663,
+        "longitude": 110.33436,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0397",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 10,
+        "country": "China",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211764414",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39416",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211764454",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39422",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211764474",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39421",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211764475",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39419",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211764476",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39420",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211765469",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39417",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770833,
+          22.349444
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.349444,
+        "longitude": 103.770833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211765499",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lao Cai; Sa Pa vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:39418",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.747536,
+          30.765361
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 30.765361,
+        "longitude": 101.747536,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1457582577",
+        "database_recorded_species": "Protobothrops xiangchengensis",
+        "database_recorded_subspecies": "Protobothrops xiangchengensis",
+        "taxonomy_updated_species": "Protobothrops_xiangchengensis",
+        "taxonomy_updated_subspecies2": "Protobothrops_xiangchengensis",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 9877,
+        "country": "China",
+        "locality": "CN; Sichuan; NA",
+        "voucher": "iNaturalist:Observations:4070688",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 2.196476,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.347579,
+          27.901213
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 27.901213,
+        "longitude": 98.347579,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2005395776",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 488,
+        "country": "China",
+        "locality": "CN; Yunnan; NA",
+        "voucher": "iNaturalist:Observations:20526841",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.61198,
+          26.600379
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 26.600379,
+        "longitude": 99.61198,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294640694",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 29822,
+        "country": "China",
+        "locality": "CN; Yunnan; NA",
+        "voucher": "iNaturalist:Observations:29367430",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.29,
+          29.36
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 29.36,
+        "longitude": 103.29,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2306374607",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; NA; China:Sichuan, Emei Mountain",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.29,
+          29.36
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 29.36,
+        "longitude": 103.29,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2307682485",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; NA; China:Sichuan, Emei Mountain",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.29,
+          29.36
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 29.36,
+        "longitude": 103.29,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2309663985",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; NA; China:Sichuan, Emei Mountain",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.29,
+          29.36
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 29.36,
+        "longitude": 103.29,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2311075218",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; NA; China:Emei mountain, Sichuan Province",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.415779,
+          25.869011
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 25.869011,
+        "longitude": 110.415779,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429232879",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; Guangxi; NA",
+        "voucher": "iNaturalist:Observations:31320322",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.711883,
+          32.462892
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 32.462892,
+        "longitude": 104.711883,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826441779",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 1414,
+        "country": "China",
+        "locality": "CN; Sichuan; NA",
+        "voucher": "iNaturalist:Observations:54831651",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.713132,
+          32.455351
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 32.455351,
+        "longitude": 104.713132,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2856747489",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 587,
+        "country": "China",
+        "locality": "CN; Sichuan; NA",
+        "voucher": "iNaturalist:Observations:54989141",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.70488,
+          26.75852
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 26.75852,
+        "longitude": 99.70488,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2898291793",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 9997,
+        "country": "China",
+        "locality": "CN; Yunnan; NA",
+        "voucher": "iNaturalist:Observations:62281045",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.760269,
+          26.754039
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 26.754039,
+        "longitude": 99.760269,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3058799697",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 15095,
+        "country": "China",
+        "locality": "CN; Yunnan; NA",
+        "voucher": "iNaturalist:Observations:62280971",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.449853,
+          33.434263
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 33.434263,
+        "longitude": 108.449853,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3112915604",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 10,
+        "country": "China",
+        "locality": "CN; Shaanxi; NA",
+        "voucher": "iNaturalist:Observations:77440230",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.424288,
+          25.873524
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 25.873524,
+        "longitude": 110.424288,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307289397",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 1952,
+        "country": "China",
+        "locality": "CN; Guangxi; NA",
+        "voucher": "iNaturalist:Observations:82980126",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.641936,
+          26.791889
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 26.791889,
+        "longitude": 99.641936,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314307924",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 29822,
+        "country": "China",
+        "locality": "CN; Yunnan; NA",
+        "voucher": "iNaturalist:Observations:83764198",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.472412,
+          33.603384
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 33.603384,
+        "longitude": 107.472412,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3330633478",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 2437,
+        "country": "China",
+        "locality": "CN; Shaanxi; NA",
+        "voucher": "iNaturalist:Observations:83145625",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35,
+          29.533
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 29.533,
+        "longitude": 103.35,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476675980",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 15615,
+        "country": "China",
+        "locality": "CN; Sichuan; Mt Oerni,Szechuan,China",
+        "voucher": "MCZ:Herp:R-46907",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.85,
+          30.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 30.3,
+        "longitude": 108.85,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476717060",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii xanthomelas",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii_xanthomelas",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": 8615,
+        "country": "China",
+        "locality": "CN; Hubei; China: Hubei: Li Chuan [VERBATIM ELEVATION:1830m]",
+        "voucher": "MCZ:Herp:R-163258",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.715511,
+          25.036428
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 25.036428,
+        "longitude": 102.715511,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543652590",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; Yunnan Prov.; Kunming",
+        "voucher": "CAS:HERP:64271",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.01487,
+          27.839071
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 27.839071,
+        "longitude": 96.01487,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins00418",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "Yunnan, Nu Jiang, China",
+        "voucher": "CAS215051",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.04547,
+          27.865183
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 27.865183,
+        "longitude": 96.04547,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00419",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "Yunnan, Nu Jiang, China",
+        "voucher": "CAS215051",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84384,
+          22.336433
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.336433,
+        "longitude": 103.84384,
+        "date": "",
+        "source": "Orlov, N., N. Ananjeva, and R. Khalikov. 2002. Natural history of pitvipers in eastern and southeastern Asia. In: _______, Biology of the Vipers. Pp.345-360.",
+        "ID": "Martins07173",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii bourreti",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii_bourreti",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Sa Pa, Lao Cai, Vietnam",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84384,
+          22.336433
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_jerdonii",
+        "latitude": 22.336433,
+        "longitude": 103.84384,
+        "date": "",
+        "source": "Orlov, N., N. Ananjeva, and R. Khalikov. 2002. Natural history of pitvipers in eastern and southeastern Asia. In: _______, Biology of the Vipers. Pp.345-360.",
+        "ID": "Martins07174",
+        "database_recorded_species": "Protobothrops jerdonii",
+        "database_recorded_subspecies": "Protobothrops jerdonii bourreti",
+        "taxonomy_updated_species": "Protobothrops_jerdonii",
+        "taxonomy_updated_subspecies2": "Protobothrops_jerdonii_bourreti",
+        "final_species": "Protobothrops_jerdonii",
+        "final_subspecies": "Protobothrops_jerdonii",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Sa Pa, Lao Cai, Vietnam",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

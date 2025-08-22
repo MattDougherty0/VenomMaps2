@@ -1,0 +1,4724 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061331497",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:12960",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5884658933057,
+          20.6986435324331
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.6986435324331,
+        "longitude": -88.5884658933057,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061337687",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:18629",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361899",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40660",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361903",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40655",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361906",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40652",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361908",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40648",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361910",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40665",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361911",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40654",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361914",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40657",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361915",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40663",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361918",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40651",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361930",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40662",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361931",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40650",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361933",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40656",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361934",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40669",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361941",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40670",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361950",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40658",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361956",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40664",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361968",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40661",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361969",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40666",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361970",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40653",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361977",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40668",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361982",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40659",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361985",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40667",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361999",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40649",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061362001",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40742",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061362061",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40743",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363179",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41803",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4681583045637,
+          20.8939110513887
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.8939110513887,
+        "longitude": -87.4681583045637,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363181",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, Tintal",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41798",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363187",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41806",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5898549315416,
+          20.7005874414853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7005874414853,
+        "longitude": -88.5898549315416,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363194",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Tinum Municipality, Piste",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41805",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363197",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41801",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4681583045637,
+          20.8939110513887
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.8939110513887,
+        "longitude": -87.4681583045637,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363206",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, Tintal",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41797",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363235",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41800",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363243",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41804",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4681583045637,
+          20.8939110513887
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.8939110513887,
+        "longitude": -87.4681583045637,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363248",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, Tintal",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41799",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8998387469625,
+          20.9005798665419
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9005798665419,
+        "longitude": -87.8998387469625,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061363249",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; Delg. Cozumel, X-Can Nuevo",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41802",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.090285,
+          20.895751
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.895751,
+        "longitude": -88.090285,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1291149309",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30434,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:3751484",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.607395,
+          20.536765
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.536765,
+        "longitude": -89.607395,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1305174065",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30472,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:4003992",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.608624,
+          20.43711
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.43711,
+        "longitude": -89.608624,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1315084207",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30472,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:4168020",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.725,
+          19.463611
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.463611,
+        "longitude": -89.725,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1418669510",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Campeche; Dzibalch‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©n Campeche",
+        "voucher": "ECOSUR:ECO-CH-H:1209",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;DIFFERENT_OWNER_INSTITUTION;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.733751,
+          20.608806
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.608806,
+        "longitude": -87.733751,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453079483",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; NA",
+        "voucher": "iNaturalist:Observations:2899803",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.723986,
+          20.008906
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.008906,
+        "longitude": -89.723986,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586117990",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30508,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:7302138",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.653063,
+          20.184662
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.184662,
+        "longitude": -89.653063,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586118003",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30508,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:7302137",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.746115,
+          20.103908
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.103908,
+        "longitude": -89.746115,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586118077",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30508,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:7302140",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.736287,
+          20.140108
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.140108,
+        "longitude": -89.736287,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586118082",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30508,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:7302139",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.759841,
+          20.931569
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.931569,
+        "longitude": -87.759841,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1890680609",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30434,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:15086377",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74517,
+          20.775804
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.775804,
+        "longitude": -87.74517,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1890680934",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:15087962",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02052,
+          20.709139
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.709139,
+        "longitude": -87.02052,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1890704551",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; NA",
+        "voucher": "iNaturalist:Observations:15182846",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.591667,
+          20.708333
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.708333,
+        "longitude": -88.591667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934399",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Piste",
+        "voucher": "UCM:UCM:18629",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_UNLIKELY;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.591667,
+          20.708333
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.708333,
+        "longitude": -88.591667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934405",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Piste",
+        "voucher": "UCM:UCM:12960",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_UNLIKELY;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.725,
+          21.225
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 21.225,
+        "longitude": -87.725,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934432",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn",
+        "voucher": "FMNH:FMNH:544",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.608333,
+          20.875
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.875,
+        "longitude": -87.608333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934435",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Quintana roo; PUEBLO NUEVO X-CAN",
+        "voucher": "UCM:UCM:40648-660",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.591667,
+          20.708333
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.708333,
+        "longitude": -88.591667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934457",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Piste",
+        "voucher": "UCM:UCM:40661-668",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_UNLIKELY;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.575,
+          20.675
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.675,
+        "longitude": -88.575,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934469",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Chich‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©n Itz‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ª",
+        "voucher": "FMNH:FMNH:20621",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.608333,
+          20.875
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.875,
+        "longitude": -87.608333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934471",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Quintana roo; PUEBLO NUEVO X-CAN",
+        "voucher": "UCM:UCM:41800-803",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_UNLIKELY;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.731069,
+          20.711243
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.711243,
+        "longitude": -88.731069,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894934504",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 810,
+        "country": "Mexico",
+        "locality": "MX; Yucatan; CHICHEN ITZA, YOHDZONOT, LIBRE UNION Y KANTUNIL",
+        "voucher": "FMNH:FMNH:36170-188",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.004042,
+          20.568415
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.568415,
+        "longitude": -88.004042,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2540872466",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30472,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:36810491",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.235959,
+          20.770522
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.770522,
+        "longitude": -88.235959,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2540890822",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:36836488",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.128721,
+          19.546517
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.546517,
+        "longitude": -88.128721,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2574293458",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30562,
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; NA",
+        "voucher": "iNaturalist:Observations:38410905",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.024399,
+          21.1472
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 21.1472,
+        "longitude": -88.024399,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629120070",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; 0.5 Km N, 14 Km E Tizim‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n",
+        "voucher": "ENCB-IPN:ENCB:16378",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5317,
+          19.8428
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.8428,
+        "longitude": -90.5317,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629127879",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Campeche; Campeche",
+        "voucher": "ENCB-IPN:ENCB:2184",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.786944,
+          19.795833
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.795833,
+        "longitude": -87.786944,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629267801",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana roo; Sian Ka'an",
+        "voucher": "ECOSUR:ECO-SC-H:ECO-SCH-0880",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.786944,
+          19.795833
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.795833,
+        "longitude": -87.786944,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629269966",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana roo; Sian Ka'an",
+        "voucher": "ECOSUR:ECO-SC-H:ECO-SCH-0879",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.013889,
+          19.622222
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.622222,
+        "longitude": -88.013889,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_2630357051",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Quintana roo; Felipe Carrillo Puerto, 4.8 Km al E",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.895904,
+          20.650916
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.650916,
+        "longitude": -88.895904,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988423421",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:65231390",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.154046,
+          20.842513
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.842513,
+        "longitude": -88.154046,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988439554",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30434,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:65290865",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.503837,
+          20.3398
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.3398,
+        "longitude": -89.503837,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3017977515",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30490,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:61001968",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.457732,
+          20.689594
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.689594,
+        "longitude": -88.457732,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3032010676",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:68012067",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.491501,
+          20.446924
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.446924,
+        "longitude": -88.491501,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3079757650",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30472,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:72961490",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.265981,
+          20.787497
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.787497,
+        "longitude": -88.265981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3112583745",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:76826260",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.339018,
+          20.431505
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.431505,
+        "longitude": -87.339018,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113647648",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30472,
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; NA",
+        "voucher": "iNaturalist:Observations:78474245",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.562621,
+          20.781957
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.781957,
+        "longitude": -88.562621,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302108793",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30453,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:80972182",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.534002,
+          20.49239
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.49239,
+        "longitude": -88.534002,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333459426",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": 30472,
+        "country": "Mexico",
+        "locality": "MX; Yucat‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:88905845",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5884658933057,
+          20.6986435324331
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.6986435324331,
+        "longitude": -88.5884658933057,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686776169",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Piste",
+        "voucher": "KU:KUH:70909",
+        "issue": "COORDINATE_REPROJECTED;COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5884658933057,
+          20.6986435324331
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.6986435324331,
+        "longitude": -88.5884658933057,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686776170",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; Piste",
+        "voucher": "KU:KUH:70910",
+        "issue": "COORDINATE_REPROJECTED;COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3598479443045,
+          20.1006152743581
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.1006152743581,
+        "longitude": -88.3598479443045,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686864225",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; 16.8 mi S Tepich on Hwy 295",
+        "voucher": "KU:KUH:157667",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5398521321484,
+          20.0406176434962
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.0406176434962,
+        "longitude": -88.5398521321484,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686864226",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Quintana Roo; 20.8 mi NE Dziuche on rd to Saban",
+        "voucher": "KU:KUH:157668",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0898682425456,
+          21.2005638695511
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 21.2005638695511,
+        "longitude": -89.0898682425456,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686878390",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Yucatan; 3.06 km E Catzin",
+        "voucher": "KU:KUH:171741",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.469,
+          20.187
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.187,
+        "longitude": -87.469,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36911",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.011,
+          21.147
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 21.147,
+        "longitude": -88.011,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36912",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00606,
+          19.59911
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.59911,
+        "longitude": -88.00606,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36913",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08986824,
+          21.20056387
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 21.20056387,
+        "longitude": -89.08986824,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36914",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35984794,
+          20.10061527
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.10061527,
+        "longitude": -88.35984794,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36915",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53985213,
+          20.04061764
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.04061764,
+        "longitude": -88.53985213,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36916",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89983875,
+          20.90057987
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.90057987,
+        "longitude": -87.89983875,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36917",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58985493,
+          20.70058744
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.70058744,
+        "longitude": -88.58985493,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36918",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4681583,
+          20.89391105
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.89391105,
+        "longitude": -87.4681583,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36919",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60103,
+          20.86876
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.86876,
+        "longitude": -87.60103,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36920",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60802,
+          20.87853
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.87853,
+        "longitude": -87.60802,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36921",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58846489,
+          20.69864753
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.69864753,
+        "longitude": -88.58846489,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36922",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57152442,
+          20.67058884
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.67058884,
+        "longitude": -88.57152442,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36923",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.567,
+          20.683
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.683,
+        "longitude": -88.567,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36924",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6,
+          20.867
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.867,
+        "longitude": -87.6,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36925",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.75,
+          20.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7,
+        "longitude": -88.75,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36926",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.717,
+          20.833
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.833,
+        "longitude": -87.717,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36927",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.683,
+          20.683
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.683,
+        "longitude": -88.683,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36928",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3,
+          20.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.9,
+        "longitude": -87.3,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36929",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.767,
+          20.383
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.383,
+        "longitude": -89.767,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36930",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.033,
+          20.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.8,
+        "longitude": -89.033,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36931",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75,
+          19.4
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.4,
+        "longitude": -89.75,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36932",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.014,
+          19.622
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.622,
+        "longitude": -88.014,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36933",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59,
+          20.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7,
+        "longitude": -88.59,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36934",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6,
+          20.86666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.86666667,
+        "longitude": -87.6,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36935",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99,
+          20.38
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.38,
+        "longitude": -88.99,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36936",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56667,
+          20.66667
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.66667,
+        "longitude": -88.56667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36937",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.03333,
+          20.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.8,
+        "longitude": -89.03333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36938",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.81667,
+          20.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7,
+        "longitude": -88.81667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36939",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71,
+          20.15
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.15,
+        "longitude": -89.71,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36940",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36,
+          20.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.1,
+        "longitude": -88.36,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36941",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54,
+          20.04
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.04,
+        "longitude": -88.54,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36942",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73,
+          20.72
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.72,
+        "longitude": -87.73,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36943",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58333,
+          20.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.7,
+        "longitude": -88.58333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36944",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.76667,
+          20.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.35,
+        "longitude": -89.76667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36945",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.725,
+          19.46361111
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.46361111,
+        "longitude": -89.725,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36946",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56666667,
+          20.66666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.66666667,
+        "longitude": -88.56666667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36947",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57,
+          20.67
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.67,
+        "longitude": -88.57,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36948",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02,
+          19.61
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.61,
+        "longitude": -88.02,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36949",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6,
+          20.87
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.87,
+        "longitude": -87.6,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36950",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.177,
+          19.742
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.742,
+        "longitude": -90.177,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36951",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58928,
+          20.698689
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.698689,
+        "longitude": -88.58928,
+        "date": "",
+        "source": "Campbell, J. A. 1976. A new terrestrial pit viper of the genus Bothrops  (Reptilia, Serpentes, Crotalinae) from western Mexico. Journal of Herpetology, 10(3):151-160.",
+        "ID": "Martins00688",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Pist‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "CM 47171-3, 47187, 47189, 47191, 47194, 49845, 49853-4, 49857, 49866, 49869, 49872, 49874,",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58928,
+          20.698689
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.698689,
+        "longitude": -88.58928,
+        "date": "",
+        "source": "Campbell, J. A. 1976. A new terrestrial pit viper of the genus Bothrops  (Reptilia, Serpentes, Crotalinae) from western Mexico. Journal of Herpetology, 10(3):151-160.",
+        "ID": "Martins00689",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Pist‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "CM 47171-3, 47187, 47189, 47191, 47194, 49845, 49853-4, 49857, 49866, 49869, 49872, 49874,",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.82745,
+          20.54777
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.54777,
+        "longitude": -88.82745,
+        "date": "",
+        "source": "Castoe, T. A., M. M. Sasa, C. L. Parkinson. 2005. Modeling nucleotide evolution at the mesoscale: The phylogeny of the Neotropical pitvipers of the Porthidium group (Viperidae: Crotalinae). Molecular Phylogenetics and Evolution, 37:881-898.",
+        "ID": "Martins01686",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Yaxcab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "JAC-24438",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.82744,
+          20.54777
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.54777,
+        "longitude": -88.82744,
+        "date": "",
+        "source": "Castoe, T. A., M. M. Sasa, C. L. Parkinson. 2005. Modeling nucleotide evolution at the mesoscale: The phylogeny of the Neotropical pitvipers of the Porthidium group (Viperidae: Crotalinae). Molecular Phylogenetics and Evolution, 37:881-898.",
+        "ID": "Martins01687",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Yaxcab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "JAC-24438",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.81512,
+          20.611193
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.611193,
+        "longitude": -88.81512,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins01688",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Carretera Yaxcab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™-Tahdzibichen, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "JAC-24438",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.81512,
+          20.611193
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.611193,
+        "longitude": -88.81512,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins01689",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Carretera Yaxcab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™-Tahdzibichen, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "JAC-24438",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81667,
+          20.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.75,
+        "longitude": -87.81667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01801",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Catzin, Yucatan, Mexico",
+        "voucher": "KU 171741",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81667,
+          20.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.75,
+        "longitude": -87.81667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01802",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Catzin, Yucatan, Mexico",
+        "voucher": "KU 171741",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.81667,
+          20.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.75,
+        "longitude": -87.81667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01803",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Catzin, Yucatan, Mexico",
+        "voucher": "KU 171741",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26663,
+          19.986356
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.986356,
+        "longitude": -88.26663,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01981",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Santa Rosa, Quintana Roo, Mexico",
+        "voucher": "KU 301561-62",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26663,
+          19.986356
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.986356,
+        "longitude": -88.26663,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01982",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Santa Rosa, Quintana Roo, Mexico",
+        "voucher": "KU 301561-62",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26663,
+          19.986356
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 19.986356,
+        "longitude": -88.26663,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01983",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Santa Rosa, Quintana Roo, Mexico",
+        "voucher": "KU 301561-62",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.82748,
+          20.548139
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.548139,
+        "longitude": -88.82748,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07153",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Yaxcaba‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.82748,
+          20.548139
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.548139,
+        "longitude": -88.82748,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07154",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Yaxcaba‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.90807,
+          20.431006
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.431006,
+        "longitude": -86.90807,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08828",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cozumel, Quintana Roo, Mexico",
+        "voucher": "UCM  40648-60",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.90806,
+          20.431006
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.431006,
+        "longitude": -86.90806,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08829",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cozumel, Quintana Roo, Mexico",
+        "voucher": "UCM  40648-60",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.90806,
+          20.431006
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.431006,
+        "longitude": -86.90806,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08830",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cozumel, Quintana Roo, Mexico",
+        "voucher": "UCM  40648-60",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58928,
+          20.698689
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.698689,
+        "longitude": -88.58928,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08831",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Pist‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "UCM 12960, 18629, CM 47176-90, 49840-69",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58928,
+          20.698689
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.698689,
+        "longitude": -88.58928,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08832",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Pist‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "UCM 12960, 18629, CM 47176-90, 49840-69",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58928,
+          20.698689
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.698689,
+        "longitude": -88.58928,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08833",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Pist‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Yucat‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "UCM 12960, 18629, CM 47176-90, 49840-69",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56864,
+          20.682618
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.682618,
+        "longitude": -88.56864,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09676",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Chichen Itza, Yucatan, Mexico",
+        "voucher": "USNM 46571, CM 22756",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56864,
+          20.682618
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.682618,
+        "longitude": -88.56864,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09677",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Chichen Itza, Yucatan, Mexico",
+        "voucher": "USNM 46571, CM 22756",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56864,
+          20.682618
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_yucatanicum",
+        "latitude": 20.682618,
+        "longitude": -88.56864,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09678",
+        "database_recorded_species": "Porthidium yucatanicum",
+        "database_recorded_subspecies": "Porthidium yucatanicum",
+        "taxonomy_updated_species": "Porthidium_yucatanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_yucatanicum",
+        "final_species": "Porthidium_yucatanicum",
+        "final_subspecies": "Porthidium_yucatanicum",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Chichen Itza, Yucatan, Mexico",
+        "voucher": "USNM 46571, CM 22756",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1667,
+          14.15
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_kanburiensis",
+        "latitude": 14.15,
+        "longitude": 99.1667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057181342",
+        "database_recorded_species": "Trimeresurus kanburiensis",
+        "database_recorded_subspecies": "Trimeresurus kanburiensis",
+        "taxonomy_updated_species": "Trimeresurus_kanburiensis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_kanburiensis",
+        "final_species": "Trimeresurus_kanburiensis",
+        "final_subspecies": "Trimeresurus_kanburiensis",
+        "accuracy_m": "NA",
+        "country": "Thailand",
+        "locality": "TH; Kanchanaburi; Sai Yok, Thailand",
+        "voucher": "NHMUK:ZOO:1987.943",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

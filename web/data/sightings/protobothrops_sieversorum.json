@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.14651,
+          17.538418
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_sieversorum",
+        "latitude": 17.538418,
+        "longitude": 106.14651,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins10353",
+        "database_recorded_species": "Protobothrops sieversorum",
+        "database_recorded_subspecies": "Protobothrops sieversorum",
+        "taxonomy_updated_species": "Protobothrops_sieversorum",
+        "taxonomy_updated_subspecies2": "Protobothrops_sieversorum",
+        "final_species": "Protobothrops_sieversorum",
+        "final_subspecies": "Protobothrops_sieversorum",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Phong Nha-Ke Bang National Park, Vietnam",
+        "voucher": "ZFMK 75066",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.14651,
+          17.538418
+        ]
+      },
+      "properties": {
+        "scientificName": "Protobothrops_sieversorum",
+        "latitude": 17.538418,
+        "longitude": 106.14651,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins10354",
+        "database_recorded_species": "Protobothrops sieversorum",
+        "database_recorded_subspecies": "Protobothrops sieversorum",
+        "taxonomy_updated_species": "Protobothrops_sieversorum",
+        "taxonomy_updated_subspecies2": "Protobothrops_sieversorum",
+        "final_species": "Protobothrops_sieversorum",
+        "final_subspecies": "Protobothrops_sieversorum",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Phong Nha-Ke Bang National Park, Vietnam",
+        "voucher": "ZFMK 75066",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

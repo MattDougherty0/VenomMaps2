@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.853222,
+          41.679831
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_kaznakovi",
+        "latitude": 41.679831,
+        "longitude": 41.853222,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832700838",
+        "database_recorded_species": "Vipera kaznakovi",
+        "database_recorded_subspecies": "Vipera kaznakovi",
+        "taxonomy_updated_species": "Vipera_kaznakovi",
+        "taxonomy_updated_subspecies2": "Vipera_kaznakovi",
+        "final_species": "Vipera_kaznakovi",
+        "final_subspecies": "Vipera_kaznakovi",
+        "accuracy_m": 100,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Batumi - Chakvistavi",
+        "voucher": "NA:Observations:OBS.109135450",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.77,
+          41.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_kaznakovi",
+        "latitude": 41.68,
+        "longitude": 41.77,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832753864",
+        "database_recorded_species": "Vipera kaznakovi",
+        "database_recorded_subspecies": "Vipera kaznakovi",
+        "taxonomy_updated_species": "Vipera_kaznakovi",
+        "taxonomy_updated_subspecies2": "Vipera_kaznakovi",
+        "final_species": "Vipera_kaznakovi",
+        "final_subspecies": "Vipera_kaznakovi",
+        "accuracy_m": 1000,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Batumi - Shuamta",
+        "voucher": "NA:Observations:OBS.108882591",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.703812,
+          41.502407
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_kaznakovi",
+        "latitude": 41.502407,
+        "longitude": 41.703812,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2835634101",
+        "database_recorded_species": "Vipera kaznakovi",
+        "database_recorded_subspecies": "Vipera kaznakovi",
+        "taxonomy_updated_species": "Vipera_kaznakovi",
+        "taxonomy_updated_subspecies2": "Vipera_kaznakovi",
+        "final_species": "Vipera_kaznakovi",
+        "final_subspecies": "Vipera_kaznakovi",
+        "accuracy_m": 10,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia",
+        "voucher": "NA:Observations:OBS.70146802",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.778678,
+          41.686365
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_kaznakovi",
+        "latitude": 41.686365,
+        "longitude": 41.778678,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2840625720",
+        "database_recorded_species": "Vipera kaznakovi",
+        "database_recorded_subspecies": "Vipera kaznakovi",
+        "taxonomy_updated_species": "Vipera_kaznakovi",
+        "taxonomy_updated_subspecies2": "Vipera_kaznakovi",
+        "final_species": "Vipera_kaznakovi",
+        "final_subspecies": "Vipera_kaznakovi",
+        "accuracy_m": 25,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Batumi - Shuamta",
+        "voucher": "NA:Observations:OBS.106015907",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.777945,
+          41.68445
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_kaznakovi",
+        "latitude": 41.68445,
+        "longitude": 41.777945,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2844087733",
+        "database_recorded_species": "Vipera kaznakovi",
+        "database_recorded_subspecies": "Vipera kaznakovi",
+        "taxonomy_updated_species": "Vipera_kaznakovi",
+        "taxonomy_updated_subspecies2": "Vipera_kaznakovi",
+        "final_species": "Vipera_kaznakovi",
+        "final_subspecies": "Vipera_kaznakovi",
+        "accuracy_m": 100,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Batumi - Shuamta",
+        "voucher": "NA:Observations:OBS.108889316",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0234,
+          43.0015
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_kaznakovi",
+        "latitude": 43.0015,
+        "longitude": 41.0234,
+        "date": "",
+        "source": "Orlov, & tuniyev. 1990. Three species in the Vipera kaznakowi complex (eurosiberian group) in the Caucasus: their present distribution, possible genesis and phylogeny. Asiatic Herpetological Resarch, 3: 1-36",
+        "ID": "Martins08199",
+        "database_recorded_species": "Vipera berus",
+        "database_recorded_subspecies": "Vipera berus",
+        "taxonomy_updated_species": "Vipera_berus",
+        "taxonomy_updated_subspecies2": "Vipera_berus",
+        "final_species": "Vipera_kaznakovi",
+        "final_subspecies": "Vipera_kaznakovi",
+        "accuracy_m": "NA",
+        "country": "Georgia",
+        "locality": "Sukhumi, Georgia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.430648,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9166,
+          43.4333
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_kaznakovi",
+        "latitude": 43.4333,
+        "longitude": 39.9166,
+        "date": "",
+        "source": "Shiryaev, KA. New data on reproductive biology of caucasian species of the euns Vipera. Herpetlogia Petropolitana, pp 213-216",
+        "ID": "Martins08227",
+        "database_recorded_species": "Vipera kaznakovi",
+        "database_recorded_subspecies": "Vipera kaznakovi",
+        "taxonomy_updated_species": "Vipera_kaznakovi",
+        "taxonomy_updated_subspecies2": "Vipera_kaznakovi",
+        "final_species": "Vipera_kaznakovi",
+        "final_subspecies": "Vipera_kaznakovi",
+        "accuracy_m": "NA",
+        "country": "Russia",
+        "locality": "Russia, Krasnodar Krai, Adler",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

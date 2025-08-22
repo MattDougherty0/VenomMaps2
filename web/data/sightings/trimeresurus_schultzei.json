@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.970947,
+          10.047966
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_schultzei",
+        "latitude": 10.047966,
+        "longitude": 118.970947,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1291115860",
+        "database_recorded_species": "Trimeresurus schultzei",
+        "database_recorded_subspecies": "Trimeresurus schultzei",
+        "taxonomy_updated_species": "Trimeresurus_schultzei",
+        "taxonomy_updated_subspecies2": "Trimeresurus_schultzei",
+        "final_species": "Trimeresurus_schultzei",
+        "final_subspecies": "Trimeresurus_schultzei",
+        "accuracy_m": 977,
+        "country": "Philippines",
+        "locality": "PH; Palawan; NA",
+        "voucher": "iNaturalist:Observations:3648773",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.334167,
+          9.365
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_schultzei",
+        "latitude": 9.365,
+        "longitude": 118.334167,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802952520",
+        "database_recorded_species": "Trimeresurus schultzei",
+        "database_recorded_subspecies": "Trimeresurus schultzei",
+        "taxonomy_updated_species": "Trimeresurus_schultzei",
+        "taxonomy_updated_subspecies2": "Trimeresurus_schultzei",
+        "final_species": "Trimeresurus_schultzei",
+        "final_subspecies": "Trimeresurus_schultzei",
+        "accuracy_m": 9984,
+        "country": "Philippines",
+        "locality": "PH; Palawan; NA",
+        "voucher": "iNaturalist:Observations:50441156",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.197734,
+          9.368953
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_schultzei",
+        "latitude": 9.368953,
+        "longitude": 118.197734,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2823206419",
+        "database_recorded_species": "Trimeresurus schultzei",
+        "database_recorded_subspecies": "Trimeresurus schultzei",
+        "taxonomy_updated_species": "Trimeresurus_schultzei",
+        "taxonomy_updated_subspecies2": "Trimeresurus_schultzei",
+        "final_species": "Trimeresurus_schultzei",
+        "final_subspecies": "Trimeresurus_schultzei",
+        "accuracy_m": 244,
+        "country": "Philippines",
+        "locality": "PH; Palawan; NA",
+        "voucher": "iNaturalist:Observations:53944173",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.652467,
+          9.835733
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_schultzei",
+        "latitude": 9.835733,
+        "longitude": 118.652467,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687006273",
+        "database_recorded_species": "Trimeresurus schultzei",
+        "database_recorded_subspecies": "Trimeresurus schultzei",
+        "taxonomy_updated_species": "Trimeresurus_schultzei",
+        "taxonomy_updated_subspecies2": "Trimeresurus_schultzei",
+        "final_species": "Trimeresurus_schultzei",
+        "final_subspecies": "Trimeresurus_schultzei",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Palawan Province; Barangay Irawan: Irawan Watershed",
+        "voucher": "KU:KUH:309436",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

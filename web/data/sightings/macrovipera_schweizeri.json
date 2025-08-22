@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.432714,
+          36.733901
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.733901,
+        "longitude": 24.432714,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1836607380",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": 28505,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:10169276",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56,
+          36.79
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.79,
+        "longitude": 24.56,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833064297",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": 1000,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Kiklades",
+        "voucher": "NA:Observations:OBS.155774073",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55,
+          36.81
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.81,
+        "longitude": 24.55,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833086408",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": 1000,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Kiklades",
+        "voucher": "NA:Observations:OBS.155832013",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56,
+          36.82
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.82,
+        "longitude": 24.56,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833306229",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": 1000,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Kiklades",
+        "voucher": "NA:Observations:OBS.155831962",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.494973,
+          36.710705
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.710705,
+        "longitude": 24.494973,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302468761",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": 28505,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:81544367",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.456375,
+          36.727774
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.727774,
+        "longitude": 24.456375,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307538733",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": 28505,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:83067292",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.449594,
+          36.680263
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.680263,
+        "longitude": 24.449594,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476697566",
+        "database_recorded_species": "Macrovipera lebetina",
+        "database_recorded_subspecies": "Macrovipera lebetina lebetina",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus_lebetinus",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": 12040,
+        "country": "Greece",
+        "locality": "GR; NA; Milos Id, Cyclades",
+        "voucher": "MCZ:Herp:R-37008",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 1.376506,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39357,
+          36.691446
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691446,
+        "longitude": 24.39357,
+        "date": "",
+        "source": "Herrmann, HW et al. 1992. Phylogeny and systematics of viperine snkaes. III resurrection of the genus Macrovipera (Reuss 1927) as suggested by biochemical evidence. Amphibia-Reptilia 13:375-392",
+        "ID": "Martins06935",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus schweizeri",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos Island, Cyclade Archipelagoe, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.376506,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39357,
+          36.691446
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691446,
+        "longitude": 24.39357,
+        "date": "",
+        "source": "Boulenger, GA. 1913. The snakes of Europe.",
+        "ID": "Martins06950",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.376506,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.559902,
+          36.817337
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.817337,
+        "longitude": 24.559902,
+        "date": "",
+        "source": "Boulenger, GA. 1913. The snakes of Europe.",
+        "ID": "Martins06979",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus",
+        "taxonomy_updated_species": "Macrovipera_lebetinus",
+        "taxonomy_updated_subspecies2": "Macrovipera_lebetinus",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Kimoli, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.376506,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3935,
+          36.691
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691,
+        "longitude": 24.3935,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins06992",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos Island, Cyclade Archipelagoe, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5599,
+          36.817337
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.817337,
+        "longitude": 24.5599,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins06993",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Kimolos Island",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63117,
+          36.761187
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.761187,
+        "longitude": 24.63117,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins06994",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Polyagos Island",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70242,
+          36.967957
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.967957,
+        "longitude": 24.70242,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins06995",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri siphnensis",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri_siphnensis",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Sifnos Island",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3935,
+          36.691
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691,
+        "longitude": 24.3935,
+        "date": "",
+        "source": "Fenwick et al. 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers. J zool syst evol res 50:59-68",
+        "ID": "Martins06996",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39357,
+          36.691446
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691446,
+        "longitude": 24.39357,
+        "date": "",
+        "source": "Kamelin, ER et al. 1997. Hybridization of Vipera schweizeri (WERNER 1935) and Vipera lebetina obtusa (DVIGUBSKY 1932). Russian Journal of Herpetology, 4: 75-78",
+        "ID": "Martins06997",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos Island, Cyclade Archipelagoe, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39357,
+          36.691446
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691446,
+        "longitude": 24.39357,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-104",
+        "ID": "Martins06998",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39357,
+          36.691446
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691446,
+        "longitude": 24.39357,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W. et al. 2008. A nesting of vipers: phylogeny and historical biogeography of the viperidae (squamata: serpentes). Molecular Phylogenetics and Evolution 49: 445-459.",
+        "ID": "Martins06999",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4655,
+          36.684842
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.684842,
+        "longitude": 24.4655,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07000",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4655,
+          36.684842
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.684842,
+        "longitude": 24.4655,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07001",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3935,
+          36.691
+        ]
+      },
+      "properties": {
+        "scientificName": "Macrovipera_schweizeri",
+        "latitude": 36.691,
+        "longitude": 24.3935,
+        "date": "",
+        "source": "Kamelin et al. 1997. Hybridization of vipera schweizeri (werner) 1835 and vipera lebetina obtusa (dvgubsky) 1832. Russian journal of herpetology, 4(1): 75-78.",
+        "ID": "Martins08252",
+        "database_recorded_species": "Macrovipera schweizeri",
+        "database_recorded_subspecies": "Macrovipera schweizeri",
+        "taxonomy_updated_species": "Macrovipera_schweizeri",
+        "taxonomy_updated_subspecies2": "Macrovipera_schweizeri",
+        "final_species": "Macrovipera_schweizeri",
+        "final_subspecies": "Macrovipera_schweizeri",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "Milos Island, Cyclade Archipelagoe, Greece",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

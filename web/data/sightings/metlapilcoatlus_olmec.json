@@ -1,0 +1,2579 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.11,
+          18.43
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.43,
+        "longitude": -95.11,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893319936",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Cumbre Cerro Egega-Catemaco",
+        "voucher": "IBUNAM:CNAR:7501",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.08,
+          18.575278
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.575278,
+        "longitude": -95.08,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784804",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Estaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Biolog‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a Tropical 'Los Tuxtlas' UNAM, zona de muestreo 'selva'",
+        "voucher": "IBUNAM:CNAR:20948",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.859722,
+          18.348611
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.348611,
+        "longitude": -94.859722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784806",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Santa Marta",
+        "voucher": "IBUNAM:CNAR:20807",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.904722,
+          18.390833
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.390833,
+        "longitude": -94.904722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784808",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; El Bastonal, El Ariete, Sierra de Santa Marta",
+        "voucher": "IBUNAM:CNAR:20808",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1875,
+          18.543889
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.543889,
+        "longitude": -95.1875,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784811",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Volc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn San Mart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n Tuxtla",
+        "voucher": "IBUNAM:CNAR:20811",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1875,
+          18.543889
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.543889,
+        "longitude": -95.1875,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784816",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Volc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn San Mart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n Tuxtla",
+        "voucher": "IBUNAM:CNAR:20805",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.904722,
+          18.390833
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.390833,
+        "longitude": -94.904722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894784819",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; El Bastonal, sierra de Santa Marta",
+        "voucher": "IBUNAM:CNAR:20810",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.111667,
+          18.42
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.42,
+        "longitude": -95.111667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894861958",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; CUMBRE CERRO EGEGA, CATEMACO (*)",
+        "voucher": "IBUNAM:CNAR:07501",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.225,
+          18.458333
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.458333,
+        "longitude": -95.225,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894861971",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; SAN ANDRES TUXTLA, COL. LAZARO CARDENAS (*)",
+        "voucher": "IBUNAM:CNAR:07502",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.194167,
+          18.562778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.562778,
+        "longitude": -95.194167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757392",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Cima del Volc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn San Mart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n",
+        "voucher": "IBUNAM:CNARLT:3013",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.970278,
+          18.384167
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.384167,
+        "longitude": -94.970278,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757410",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; LA VIKINA, SIERRA DE SANTA MARTA",
+        "voucher": "UTA:UTA:18691",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.101889,
+          18.603139
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.603139,
+        "longitude": -95.101889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757428",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Ejido L‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªzaro C‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªrdenas",
+        "voucher": "IBUNAM:CNARLT:2338",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.074722,
+          18.584167
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.584167,
+        "longitude": -95.074722,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1895757431",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Estaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Biolog‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a Tropical Los Tuxtlas",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.04,
+          18.458611
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.458611,
+        "longitude": -95.04,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757462",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Cerro Pipiapan",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.099722,
+          18.489722
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.489722,
+        "longitude": -95.099722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757473",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Pie del cerro egega",
+        "voucher": "IBUNAM:CNARLT:1300",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.912833,
+          18.377472
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.377472,
+        "longitude": -94.912833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757480",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; ARROYO CLARO, SANTA MARTA",
+        "voucher": "IBUNAM:CNARLT:3177",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.891667,
+          18.339722
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.339722,
+        "longitude": -94.891667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757482",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; VOLCAN SANTA MARTA , SIERRA DE LOS TUXTLAS",
+        "voucher": "UTA:UTA:16964,22371,25113,18691",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.194167,
+          18.562778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.562778,
+        "longitude": -95.194167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757486",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Cima del Volc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn San Mart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n",
+        "voucher": "IBUNAM:CNARLT:3014",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.94,
+          18.388333
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.388333,
+        "longitude": -94.94,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757498",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; BASTONAL, SIERRA DE SANTA MARTA",
+        "voucher": "IBUNAM:CNARLT:2933",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.916389,
+          18.385556
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.385556,
+        "longitude": -94.916389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757509",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Sierra de Santa Marta",
+        "voucher": "UTA:UTA:R-14233",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.891667,
+          18.339722
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.339722,
+        "longitude": -94.891667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757512",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; VOLCAN SANTA MARTA , SIERRA DE LOS TUXTLAS",
+        "voucher": "UTA:UTA:14233,16964,22371,25113,18691,15789",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.916389,
+          18.385556
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.385556,
+        "longitude": -94.916389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757520",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Sierra de Santa Marta",
+        "voucher": "UTA:UTA:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.194167,
+          18.562778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.562778,
+        "longitude": -95.194167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757529",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Cima del Volc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn San Mart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n",
+        "voucher": "IBUNAM:CNARLT:3187",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.099722,
+          18.489722
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.489722,
+        "longitude": -95.099722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895757536",
+        "database_recorded_species": "Atropoides olmec",
+        "database_recorded_subspecies": "Atropoides olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Pie del cerro egega",
+        "voucher": "IBUNAM:CNARLT:3015",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19332,
+          18.54141
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.54141,
+        "longitude": -95.19332,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07323",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.188889,
+          16.577778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.577778,
+        "longitude": -94.188889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07324",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.55,
+          16.68333
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.68333,
+        "longitude": -94.55,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07325",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.18,
+          18.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.47,
+        "longitude": -95.18,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07326",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.04,
+          18.45861111
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.45861111,
+        "longitude": -95.04,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07327",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.07472222,
+          18.58416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.58416667,
+        "longitude": -95.07472222,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07328",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.09972222,
+          18.48972222
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.48972222,
+        "longitude": -95.09972222,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07329",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19416667,
+          18.56277778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.56277778,
+        "longitude": -95.19416667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07330",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.91283333,
+          18.37747222
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.37747222,
+        "longitude": -94.91283333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07331",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.94,
+          18.38833333
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.38833333,
+        "longitude": -94.94,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07332",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.09972222,
+          18.48972222
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.48972222,
+        "longitude": -95.09972222,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07333",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19416667,
+          18.56277778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.56277778,
+        "longitude": -95.19416667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07334",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19416667,
+          18.56277778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.56277778,
+        "longitude": -95.19416667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07335",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.188889,
+          16.577778
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.577778,
+        "longitude": -94.188889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07336",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.10188889,
+          18.60313889
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.60313889,
+        "longitude": -95.10188889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07337",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.19333,
+          16.65833
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.65833,
+        "longitude": -94.19333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07338",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.98472,
+          16.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.6,
+        "longitude": -93.98472,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07339",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2363,
+          18.54855
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.54855,
+        "longitude": -95.2363,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07340",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86,
+          18.34
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.34,
+        "longitude": -94.86,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07341",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.56,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07342",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29,
+          16.89
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.89,
+        "longitude": -93.29,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07343",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.57
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.57,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07344",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.56,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07345",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.56,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07346",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.56,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07347",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.49,
+          17.04
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 17.04,
+        "longitude": -93.49,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07349",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.88333333,
+          18.31666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.31666667,
+        "longitude": -94.88333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07350",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.88333333,
+          18.31666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.31666667,
+        "longitude": -94.88333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07351",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.88333333,
+          18.31666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.31666667,
+        "longitude": -94.88333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07352",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.88333333,
+          18.31666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.31666667,
+        "longitude": -94.88333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07354",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.56,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07355",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.56,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07356",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.88333333,
+          18.31666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.31666667,
+        "longitude": -94.88333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07357",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17,
+          16.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 16.56,
+        "longitude": -94.17,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07358",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.89782,
+          15.432988
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.432988,
+        "longitude": -92.89782,
+        "date": "",
+        "source": "Castoe, T. A., M. M. Sasa, C. L. Parkinson. 2005. Modeling nucleotide evolution at the mesoscale: The phylogeny of the Neotropical pitvipers of the Porthidium group (Viperidae: Crotalinae). Molecular Phylogenetics and Evolution, 37:881-898.",
+        "ID": "Martins00865",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Mapastepec, Chiapas, Mexico",
+        "voucher": "ENS-10510",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.89784,
+          15.432968
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.432968,
+        "longitude": -92.89784,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins00866",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Mapastepec, Chiapas, Mexico",
+        "voucher": "ENS-10510, 10511",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.89779,
+          15.432946
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.432946,
+        "longitude": -92.89779,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00905",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Mapastepec, Chiapas, Mexico",
+        "voucher": "ENS‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü10510",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.89829,
+          15.478279
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.478279,
+        "longitude": -92.89829,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00906",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Mapastepec, Chiapas, Mexico",
+        "voucher": "ENS‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü10510, 10511",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1112,
+          18.421688
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.421688,
+        "longitude": -95.1112,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01646",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Catemaco, Veracruz, Mexico",
+        "voucher": "IBUNAM ARLT1300",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1112,
+          18.421688
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.421688,
+        "longitude": -95.1112,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01647",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Catemaco, Veracruz, Mexico",
+        "voucher": "IBUNAM ARLT1300",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8575,
+          18.349793
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.349793,
+        "longitude": -94.8575,
+        "date": "",
+        "source": "P‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©reza-Higareda, G., H. M. Smith, and J. Jull‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™-Zertuche. 1985. A new jumping viper, Porthidium olmec, from southen Veracruz, M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©xico (Serpentes: Viperidae). Bulletln Maryland Herpetologlcal Soclety, 21(3):97-106.",
+        "ID": "Martins09073",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de Santa Martha, Los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UNAM-LT 2474-7",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2,
+          18.558
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.558,
+        "longitude": -95.2,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins09927",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA R-25113",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19984,
+          18.559065
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.559065,
+        "longitude": -95.19984,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, 163: 943-958.",
+        "ID": "Martins09928",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA R-25113",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19984,
+          18.559355
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.559355,
+        "longitude": -95.19984,
+        "date": "",
+        "source": "Jadin, R. C.; J. H. Townsend; T. A. Castoe; J. A. Campbell. 2012. Cryptic diversity in disjunct populations of Middle American Montane Pitivipers: a systematic reassessment of Cerrophidion godmani. Zoologica Scripta, 41(5): 455-470.",
+        "ID": "Martins09929",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA R-25113",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19839,
+          18.561384
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.561384,
+        "longitude": -95.19839,
+        "date": "",
+        "source": "Smith, E. N. and J. A. Ferrari-Castro. 2008. A new species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos nad the Sierra la Muralla, Honduras. Zootaxa, 1948:57-68.",
+        "ID": "Martins09930",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n San Martin, Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA R-25113",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2,
+          18.558
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.558,
+        "longitude": -95.2,
+        "date": "",
+        "source": "Smith, E. N. & J. A. Ferrari-Castro. 2008. A New species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos and the Sierra La Muralla, Honduras. Zootaxa, p: 57-68.",
+        "ID": "Martins09931",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA R-25113.",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2,
+          18.558
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.558,
+        "longitude": -95.2,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins10102",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA-R-25113, UTA-R-14233",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19975,
+          18.557883
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.557883,
+        "longitude": -95.19975,
+        "date": "",
+        "source": "Castoe, T. A., P. T. Chippindale, J. A. Campbell,L. K. Ammerman, and C. L. Parkinson. 2003. Molecular systematics of the middle american jumping pitvipers (genus Metlapilcoatlus) and phylogeography of the Metlapilcoatlus nummifer complex. Herpetologica, 59(3):420-431.",
+        "ID": "Martins10103",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA-R-25113, UTA-R-14233",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.178,
+          15.136966
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.136966,
+        "longitude": -90.178,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins10109",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Ni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o Perdido, Baja Verapaz, Guatemala",
+        "voucher": "UTA-R-34158",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1,
+          15.166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.166667,
+        "longitude": -90.1,
+        "date": "",
+        "source": "Castoe, T. A., M. M. Sasa, C. L. Parkinson. 2005. Modeling nucleotide evolution at the mesoscale: The phylogeny of the Neotropical pitvipers of the Porthidium group (Viperidae: Crotalinae). Molecular Phylogenetics and Evolution, 37:881-898.",
+        "ID": "Martins10110",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Ni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o Perdido, Baja Verapaz, Guatemala",
+        "voucher": "UTA-R-34158",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2,
+          18.558
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.558,
+        "longitude": -95.2,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10142",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü25113",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19702,
+          18.567287
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 18.567287,
+        "longitude": -95.19702,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10143",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra de los Tuxtlas, Veracruz, Mexico",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü25113, UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü14233",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17874,
+          15.138548
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.138548,
+        "longitude": -90.17874,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10150",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Nino Perdido, Baja Verapaz, Guatemala",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü34158",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17756,
+          15.139745
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_olmec",
+        "latitude": 15.139745,
+        "longitude": -90.17756,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10151",
+        "database_recorded_species": "Metlapilcoatlus olmec",
+        "database_recorded_subspecies": "Metlapilcoatlus olmec",
+        "taxonomy_updated_species": "Metlapilcoatlus_olmec",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_olmec",
+        "final_species": "Metlapilcoatlus_olmec",
+        "final_subspecies": "Metlapilcoatlus_olmec",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Ni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o Perdido, Baja Verapaz, Guatemala",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü34158",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

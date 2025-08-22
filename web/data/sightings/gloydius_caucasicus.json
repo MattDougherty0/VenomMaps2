@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.000923,
+          37.039819
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_caucasicus",
+        "latitude": 37.039819,
+        "longitude": 50.000923,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236217851",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys caucasicus",
+        "taxonomy_updated_species": "Gloydius_caucasicus",
+        "taxonomy_updated_subspecies2": "Gloydius_caucasicus",
+        "final_species": "Gloydius_caucasicus",
+        "final_subspecies": "Gloydius_caucasicus",
+        "accuracy_m": 526,
+        "country": "Iran",
+        "locality": "IR; Gilan; NA",
+        "voucher": "iNaturalist:Observations:22038383",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": "NA",
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NO_DISTRIBUTION_AVAILABLE; ADDITIONAL_CHECKS_NEEDED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.95282,
+          36.781423
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_caucasicus",
+        "latitude": 36.781423,
+        "longitude": 54.95282,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2550035816",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys caucasicus",
+        "taxonomy_updated_species": "Gloydius_caucasicus",
+        "taxonomy_updated_subspecies2": "Gloydius_caucasicus",
+        "final_species": "Gloydius_caucasicus",
+        "final_subspecies": "Gloydius_caucasicus",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "IR; Golestan; NA",
+        "voucher": "iNaturalist:Observations:37337352",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": "NA",
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NO_DISTRIBUTION_AVAILABLE; ADDITIONAL_CHECKS_NEEDED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.881358,
+          37.898897
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_caucasicus",
+        "latitude": 37.898897,
+        "longitude": 57.881358,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543529754",
+        "database_recorded_species": "Gloydius halys",
+        "database_recorded_subspecies": "Gloydius halys caucasicus",
+        "taxonomy_updated_species": "Gloydius_caucasicus",
+        "taxonomy_updated_subspecies2": "Gloydius_caucasicus",
+        "final_species": "Gloydius_caucasicus",
+        "final_subspecies": "Gloydius_caucasicus",
+        "accuracy_m": "NA",
+        "country": "Turkmenistan",
+        "locality": "TM; Ahal Prov.; Mt Dushack near Germab [38 01 N, 57 44 E]",
+        "voucher": "CAS:HERP:179744",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": "NA",
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NO_DISTRIBUTION_AVAILABLE; ADDITIONAL_CHECKS_NEEDED"
+      }
+    }
+  ]
+}

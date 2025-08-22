@@ -1,0 +1,2150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.662778,
+          -34.429444
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.429444,
+        "longitude": 19.662778,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_1325737952",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; Salmonsdam tower eam",
+        "voucher": "NA:NA:NA",
+        "issue": "RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.480212,
+          -29.008105
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -29.008105,
+        "longitude": 29.480212,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1699377365",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 29533,
+        "country": "South Africa",
+        "locality": "ZA; KwaZulu-Natal; NA",
+        "voucher": "iNaturalist:Observations:8599455",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.132197,
+          -34.110464
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.110464,
+        "longitude": 19.132197,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1699395175",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 61,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:8657270",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.389241,
+          -33.967663
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.967663,
+        "longitude": 18.389241,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1806345317",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1799,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:9561131",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.852711,
+          -34.200962
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.200962,
+        "longitude": 18.852711,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1836586465",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 122,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:10111557",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.895371,
+          -34.35812
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.35812,
+        "longitude": 18.895371,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838340238",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:10952792",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.939665,
+          -34.139312
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.139312,
+        "longitude": 18.939665,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838361314",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11019148",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.17,
+          -33.96
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.96,
+        "longitude": 19.17,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838386882",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1100,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11104864",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35,
+          -28.74
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -28.74,
+        "longitude": 29.35,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838386997",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1100,
+        "country": "South Africa",
+        "locality": "ZA; KwaZulu-Natal; NA",
+        "voucher": "iNaturalist:Observations:11105403",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.51631,
+          -33.92889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.92889,
+        "longitude": 22.51631,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838404154",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11163677",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.964213,
+          -34.04156
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.04156,
+        "longitude": 18.964213,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838405757",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11169743",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.46133,
+          -33.935576
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.935576,
+        "longitude": 22.46133,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838407193",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11175563",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4609,
+          -33.9423
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.9423,
+        "longitude": 22.4609,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838415806",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11207197",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.004344,
+          -34.051629
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.051629,
+        "longitude": 19.004344,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1838416053",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11208033",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9661,
+          -34.1032
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.1032,
+        "longitude": 18.9661,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1839234974",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11300266",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.641272,
+          -33.848785
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.848785,
+        "longitude": 22.641272,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1839236406",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 1,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:11304286",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7291,
+          -33.891005
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.891005,
+        "longitude": 22.7291,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1883560903",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 16,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:14513281",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.209981,
+          -34.409516
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.409516,
+        "longitude": 19.209981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1935598621",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 843,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:18089774",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.839805,
+          -34.355013
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.355013,
+        "longitude": 18.839805,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1945429954",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 66,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:18428877",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.952778,
+          -34.026944
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.026944,
+        "longitude": 18.952778,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2238919225",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:23757055",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.952694,
+          -34.026991
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.026991,
+        "longitude": 18.952694,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2238962002",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 140,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:23984484",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.83247,
+          -34.343345
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.343345,
+        "longitude": 18.83247,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2242884323",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 3,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:24718136",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.525658,
+          -34.408677
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.408677,
+        "longitude": 19.525658,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2251940696",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 8,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:25943304",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.099709,
+          -34.147216
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.147216,
+        "longitude": 19.099709,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2283046596",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 8,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:27787545",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.034223,
+          -34.077772
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.077772,
+        "longitude": 19.034223,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2445011090",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 11,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:34781487",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.015889,
+          -34.066728
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.066728,
+        "longitude": 19.015889,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2445159386",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 9,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:34781503",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.840699,
+          -34.325855
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.325855,
+        "longitude": 18.840699,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2574009646",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:38514926",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.399669,
+          -34.4027
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.4027,
+        "longitude": 19.399669,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2576263795",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 31,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:39396574",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.267807,
+          -34.392885
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.392885,
+        "longitude": 19.267807,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596277258",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 25,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:40307816",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.404722,
+          -34.395
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.395,
+        "longitude": 19.404722,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2597745931",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:41283045",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.44268,
+          -33.880528
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.880528,
+        "longitude": 22.44268,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2633969790",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 51,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:46814355",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.972076,
+          -34.099724
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.099724,
+        "longitude": 18.972076,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2641555362",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 61,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:49002372",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.460896,
+          -34.23603
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.23603,
+        "longitude": 18.460896,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2814096458",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 4,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:51779579",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00631,
+          -19.74764
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -19.74764,
+        "longitude": 33.00631,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2814151249",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 50,
+        "country": "Mozambique",
+        "locality": "MZ; Manica; NA",
+        "voucher": "iNaturalist:Observations:51670699",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.02735,
+          -19.78989
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -19.78989,
+        "longitude": 33.02735,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2814331927",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 100,
+        "country": "Zimbabwe",
+        "locality": "ZW; Manicaland; NA",
+        "voucher": "iNaturalist:Observations:51449353",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.956764,
+          -34.220847
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.220847,
+        "longitude": 18.956764,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850549017",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 20,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:55236742",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.012091,
+          -33.997768
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.997768,
+        "longitude": 19.012091,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851275739",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:56484659",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.267744,
+          -34.393005
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.393005,
+        "longitude": 19.267744,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2856629171",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:57523814",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.295168,
+          -34.38953
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.38953,
+        "longitude": 19.295168,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2856773366",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 22,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:57642200",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.27447,
+          -34.38125
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.38125,
+        "longitude": 19.27447,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2859897738",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 6,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:57913626",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.782443,
+          -29.285842
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -29.285842,
+        "longitude": 29.782443,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864692620",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 29508,
+        "country": "South Africa",
+        "locality": "ZA; KwaZulu-Natal; NA",
+        "voucher": "iNaturalist:Observations:59661466",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41864,
+          -34.085523
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.085523,
+        "longitude": 18.41864,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2868254856",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 206,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:60074845",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.200935,
+          -24.122648
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -24.122648,
+        "longitude": 30.200935,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2868395564",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Limpopo; NA",
+        "voucher": "iNaturalist:Observations:60397420",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.405278,
+          -33.958333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.958333,
+        "longitude": 18.405278,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_286883647",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; Top of Table Mountain; Cape Town",
+        "voucher": "SAHERPS:SARCA:3847",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.625,
+          -29.125
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -29.125,
+        "longitude": 29.625,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_286883651",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; KwaZulu-Natal; NA",
+        "voucher": "SAHERPS:SARCA:75938",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.125,
+          -24.125
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -24.125,
+        "longitude": 30.125,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_286883700",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; NA; NA",
+        "voucher": "SAHERPS:SARCA:81175",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.375,
+          -25.625
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -25.625,
+        "longitude": 31.375,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_286883711",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; NA; NA",
+        "voucher": "SAHERPS:SARCA:81187",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.375,
+          -25.625
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -25.625,
+        "longitude": 31.375,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_286883712",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; NA; NA",
+        "voucher": "SAHERPS:SARCA:81188",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.125,
+          -24.125
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -24.125,
+        "longitude": 30.125,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_286883721",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; NA; The Downs Eastern Transvaal Drakensberg",
+        "voucher": "SAHERPS:SARCA:90067",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.011866,
+          -33.999891
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.999891,
+        "longitude": 19.011866,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988395329",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 10,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:65086750",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.861884,
+          -34.368562
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.368562,
+        "longitude": 18.861884,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3017998869",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 90,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:67514882",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.993817,
+          -34.002163
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.002163,
+        "longitude": 18.993817,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3032038550",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 121,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:68452038",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03398,
+          -34.032632
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.032632,
+        "longitude": 19.03398,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039509661",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 3068,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:69189938",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.737722,
+          -29.363333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -29.363333,
+        "longitude": 29.737722,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3058819832",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 29508,
+        "country": "South Africa",
+        "locality": "ZA; KwaZulu-Natal; NA",
+        "voucher": "iNaturalist:Observations:70439879",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.380359,
+          -34.072727
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.072727,
+        "longitude": 18.380359,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302058416",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 41,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:80930525",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.425491,
+          -33.966798
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.966798,
+        "longitude": 18.425491,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307293400",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 2,
+        "country": "South Africa",
+        "locality": "ZA; Western Cape; NA",
+        "voucher": "iNaturalist:Observations:74121492",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.08718,
+          -19.76401
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -19.76401,
+        "longitude": 33.08718,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3327739683",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": 200,
+        "country": "Mozambique",
+        "locality": "MZ; Manica; NA",
+        "voucher": "iNaturalist:Observations:86318201",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.06351,
+          -19.890764
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -19.890764,
+        "longitude": 33.06351,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00259",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "Chimani Mountains, Zimbabwe",
+        "voucher": "CAS  159111, CM 145448",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.06351,
+          -19.890764
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -19.890764,
+        "longitude": 33.06351,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00260",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "Mozambique",
+        "locality": "Chimani Mountains, Zimbabwe",
+        "voucher": "CAS  159111, CM 145448",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.58333,
+          -33.966667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.966667,
+        "longitude": 25.58333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03027",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Port Elizabeth, Cape Province, South Africa",
+        "voucher": "MCZ R-5474, CAS 135749",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.58333,
+          -33.966667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.966667,
+        "longitude": 25.58333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03028",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Port Elizabeth, Cape Province, South Africa",
+        "voucher": "MCZ R-5474, CAS 135749",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5,
+          -34.183333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -34.183333,
+        "longitude": 19.5,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins05267",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Swartburg, South Africa",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6824,
+          -25.652602
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -25.652602,
+        "longitude": 31.6824,
+        "date": "",
+        "source": "Haagner, G. V., and J. Hurter. 1988. Additional distribution records of the Berg Adder Bitis atrpos in the South-eastern Transvaal and Swaziland. Koedoe, 31:71-76.",
+        "ID": "Martins05279",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Kamhlushwa, South Africa",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42405,
+          -33.925162
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.925162,
+        "longitude": 18.42405,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08684",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Cape Town, South Africa",
+        "voucher": "TCWC  36917",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42405,
+          -33.925162
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_atropos",
+        "latitude": -33.925162,
+        "longitude": 18.42405,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08685",
+        "database_recorded_species": "Bitis atropos",
+        "database_recorded_subspecies": "Bitis atropos",
+        "taxonomy_updated_species": "Bitis_atropos",
+        "taxonomy_updated_subspecies2": "Bitis_atropos",
+        "final_species": "Bitis_atropos",
+        "final_subspecies": "Bitis_atropos",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Cape Town, South Africa",
+        "voucher": "TCWC  36917",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.758332,
+          7.473682
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 7.473682,
+        "longitude": 80.758332,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1935587532",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 698,
+        "country": "Sri Lanka",
+        "locality": "LK; Matale; NA",
+        "voucher": "iNaturalist:Observations:18030883",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.702554,
+          7.131581
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 7.131581,
+        "longitude": 80.702554,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2350434729",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 244,
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:30857754",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.481406,
+          6.812634
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.812634,
+        "longitude": 80.481406,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397654072",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 122,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:31895119",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5,
+          6.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.8,
+        "longitude": 80.5,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2855707376",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48924,
+          6.817866
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.817866,
+        "longitude": 80.48924,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008383947",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 211,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:66907204",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.473835,
+          6.815793
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.815793,
+        "longitude": 80.473835,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008433859",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 31,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:66879344",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48924,
+          6.817866
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.817866,
+        "longitude": 80.48924,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008447927",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 211,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:66907376",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.480946,
+          6.813523
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.813523,
+        "longitude": 80.480946,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008483861",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 15,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:66879412",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48924,
+          6.817866
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.817866,
+        "longitude": 80.48924,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008512646",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 211,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:66769922",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.480774,
+          6.813386
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.813386,
+        "longitude": 80.480774,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008532686",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 201,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:66771779",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.477407,
+          6.80811
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.80811,
+        "longitude": 80.477407,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008543855",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 15,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:66879486",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.512468,
+          6.823598
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.823598,
+        "longitude": 80.512468,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3008570666",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 226,
+        "country": "Sri Lanka",
+        "locality": "LK; Nuwara Eliya; NA",
+        "voucher": "iNaturalist:Observations:66769842",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.459464,
+          6.83262
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.83262,
+        "longitude": 80.459464,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039422073",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": 8394,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:69400309",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.35846,
+          6.277196
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.277196,
+        "longitude": 80.35846,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins00179",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kanneliya Forest Reserve, Sri Lanka",
+        "voucher": "AMNH 99385",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.35846,
+          6.277196
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.277196,
+        "longitude": 80.35846,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins00180",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kanneliya Forest Reserve, Sri Lanka",
+        "voucher": "AMNH 99385",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81704,
+          7.286712
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 7.286712,
+        "longitude": 80.81704,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins00217",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Medamahanuwara, Sri Lanka",
+        "voucher": "BMNH 1969.2787, 1969.2798",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81704,
+          7.286712
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 7.286712,
+        "longitude": 80.81704,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins00218",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Medamahanuwara, Sri Lanka",
+        "voucher": "BMNH 1969.2787, 1969.2798",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60355,
+          6.875298
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.875298,
+        "longitude": 80.60355,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins08337",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Dick Oya, Sri Lanka",
+        "voucher": "NMSL-VA 06/N",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60355,
+          6.875298
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.875298,
+        "longitude": 80.60355,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins08338",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Dick Oya, Sri Lanka",
+        "voucher": "NMSL-VA 06/N",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.49966,
+          6.80923
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.80923,
+        "longitude": 80.49966,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10223",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Adam's Peak, Sri Lanka",
+        "voucher": "WHT 2002S, 2002L, WHT 5838",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.49966,
+          6.80923
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.80923,
+        "longitude": 80.49966,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10224",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Adam's Peak, Sri Lanka",
+        "voucher": "WHT 2002S, 2002L, WHT 5838",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6899,
+          6.86622
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.86622,
+        "longitude": 80.6899,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10279",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Agarapatana Bridge, Sri Lanka",
+        "voucher": "WHT 6515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6899,
+          6.86622
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_nepa",
+        "latitude": 6.86622,
+        "longitude": 80.6899,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10280",
+        "database_recorded_species": "Hypnale nepa",
+        "database_recorded_subspecies": "Hypnale nepa",
+        "taxonomy_updated_species": "Hypnale_nepa",
+        "taxonomy_updated_subspecies2": "Hypnale_nepa",
+        "final_species": "Hypnale_nepa",
+        "final_subspecies": "Hypnale_nepa",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Agarapatana Bridge, Sri Lanka",
+        "voucher": "WHT 6515",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

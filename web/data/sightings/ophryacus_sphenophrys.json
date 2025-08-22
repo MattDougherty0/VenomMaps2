@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.485191,
+          15.976121
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_sphenophrys",
+        "latitude": 15.976121,
+        "longitude": -96.485191,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36531",
+        "database_recorded_species": "Ophryacus sphenophrys",
+        "database_recorded_subspecies": "Ophryacus sphenophrys",
+        "taxonomy_updated_species": "Ophryacus_sphenophrys",
+        "taxonomy_updated_subspecies2": "Ophryacus_sphenophrys",
+        "final_species": "Ophryacus_sphenophrys",
+        "final_subspecies": "Ophryacus_sphenophrys",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.499717,
+          15.979858
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_sphenophrys",
+        "latitude": 15.979858,
+        "longitude": -96.499717,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36532",
+        "database_recorded_species": "Ophryacus sphenophrys",
+        "database_recorded_subspecies": "Ophryacus sphenophrys",
+        "taxonomy_updated_species": "Ophryacus_sphenophrys",
+        "taxonomy_updated_subspecies2": "Ophryacus_sphenophrys",
+        "final_species": "Ophryacus_sphenophrys",
+        "final_subspecies": "Ophryacus_sphenophrys",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

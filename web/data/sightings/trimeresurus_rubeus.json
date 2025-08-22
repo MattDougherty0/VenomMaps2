@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.432706,
+          11.442602
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.442602,
+        "longitude": 107.432706,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1841301338",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 50,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:12001781",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.413226,
+          11.407038
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.407038,
+        "longitude": 107.413226,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2269278981",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 5,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:27139551",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.067968,
+          11.363584
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.363584,
+        "longitude": 107.067968,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423227069",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 3130,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:33345864",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.425929,
+          11.422439
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.422439,
+        "longitude": 107.425929,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465129315",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 53,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:36239090",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.044783,
+          11.344958
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.344958,
+        "longitude": 107.044783,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626664964",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 24,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:46204734",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.415234,
+          11.41094
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.41094,
+        "longitude": 107.415234,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826158368",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 51,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:27143588",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.420739,
+          11.412881
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.412881,
+        "longitude": 107.420739,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988332197",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 31,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:65036761",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.430674,
+          11.423295
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.423295,
+        "longitude": 107.430674,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302149364",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 207,
+        "country": "Vietnam",
+        "locality": "VN; ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng Nai; NA",
+        "voucher": "iNaturalist:Observations:81822422",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.36123,
+          11.690336
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.690336,
+        "longitude": 107.36123,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302195885",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": 16818,
+        "country": "Vietnam",
+        "locality": "VN; L‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢m ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng; NA",
+        "voucher": "iNaturalist:Observations:81822420",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.23977,
+          11.46811
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.46811,
+        "longitude": 107.23977,
+        "date": "",
+        "source": "Geissler, P., T.Q. Nguyen, N.A. Poyarkov, and W. Bohme. 2011. New records of snakes from Cat Tien National Park, Dong Nai and Lam Dong Provinces, Southern Vietnam. Bonn Zoological Bulletin, 60(1):9-16.",
+        "ID": "Martins01655",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Cat Tien National Park, Vietnam",
+        "voucher": "IEBR A.2010.50; ZFMK 88916‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü88918",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.23977,
+          11.46811
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_rubeus",
+        "latitude": 11.46811,
+        "longitude": 107.23977,
+        "date": "",
+        "source": "Geissler, P., T.Q. Nguyen, N.A. Poyarkov, and W. Bohme. 2011. New records of snakes from Cat Tien National Park, Dong Nai and Lam Dong Provinces, Southern Vietnam. Bonn Zoological Bulletin, 60(1):9-16.",
+        "ID": "Martins01656",
+        "database_recorded_species": "Trimeresurus rubeus",
+        "database_recorded_subspecies": "Trimeresurus rubeus",
+        "taxonomy_updated_species": "Trimeresurus_rubeus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_rubeus",
+        "final_species": "Trimeresurus_rubeus",
+        "final_subspecies": "Trimeresurus_rubeus",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Cat Tien National Park, Vietnam",
+        "voucher": "IEBR A.2010.50; ZFMK 88916‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü88918",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

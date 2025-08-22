@@ -1,0 +1,2678 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.203471,
+          16.224611
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.224611,
+        "longitude": -95.203471,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2363",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 5000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0275",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.356979,
+          16.478204
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.478204,
+        "longitude": -94.356979,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2620",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 5000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0397",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.195634,
+          16.373265
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.373265,
+        "longitude": -94.195634,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2621",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 5000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0398",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3400280029244,
+          16.3807726828764
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.3807726828764,
+        "longitude": -96.3400280029244,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361294",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Lachiguiri, Tehuantepec, 7000'",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40073",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.240001874877,
+          16.3107791248992
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.3107791248992,
+        "longitude": -95.240001874877,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061362501",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41222",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.829103,
+          15.944154
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.944154,
+        "longitude": -93.829103,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1143545079",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 15,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:1955587",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.356838,
+          16.806513
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.806513,
+        "longitude": -93.356838,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1144278381",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 1091,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:1971610",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.082389,
+          16.806101
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.806101,
+        "longitude": -93.082389,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1144979348",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:2139129",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.159214,
+          16.882726
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.882726,
+        "longitude": -93.159214,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1227753012",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 30780,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:2480999",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.713379,
+          15.961329
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.961329,
+        "longitude": -93.713379,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1291106500",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 15625,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:3622891",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.095018,
+          16.828995
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.828995,
+        "longitude": -93.095018,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1291660694",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 7,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:1578365",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.079836,
+          16.806519
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.806519,
+        "longitude": -93.079836,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1291683741",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:831199",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.862572,
+          16.577679
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.577679,
+        "longitude": -92.862572,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453124364",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 451,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:4292789",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.299946,
+          16.312396
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.312396,
+        "longitude": -94.299946,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1802791742",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 244,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:9413211",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.419059,
+          16.521076
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.521076,
+        "longitude": -94.419059,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1836669478",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 2027,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:10351871",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.418719,
+          16.522414
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.522414,
+        "longitude": -94.418719,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1836669569",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 244,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:10351872",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.656262,
+          16.293053
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.293053,
+        "longitude": -93.656262,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1883555254",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:14485085",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.394345,
+          16.513423
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.513423,
+        "longitude": -93.394345,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1891326300",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:15394477",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.34,
+          16.53
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.53,
+        "longitude": -94.34,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893319829",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; rancho Chepe Negro, 8 km al N. De Santo Domingo",
+        "voucher": "IBUNAM:CNAR:5454",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.17,
+          16.770278
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.770278,
+        "longitude": -93.17,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893583344",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; La chacona teran",
+        "voucher": "IHNE:CZRHE:284",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.101944,
+          16.811944
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.811944,
+        "longitude": -93.101944,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1894609168",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Kil‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢metro 12 carretera Tuxtla Guti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©rrez - Ca‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬±‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n del Sumidero. Parque Nacional Ca‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬±‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n del Sumidero",
+        "voucher": "IHNE:NO APLICA:NO APLICA",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.042278,
+          16.759389
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.759389,
+        "longitude": -93.042278,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1894609171",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Rancho Magaly. Parque Nacional Ca‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬±‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n del Sumidero",
+        "voucher": "IHNE:NO APLICA:NO APLICA",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.123056,
+          16.517222
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.517222,
+        "longitude": -94.123056,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1894724775",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; La Encantada, 6.4W km NO de Rizo de Oro",
+        "voucher": "NO DISPONIBLE:NO APLICA:NO APLICA",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241667,
+          16.341667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.341667,
+        "longitude": -95.241667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894926809",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "AMNH:AMNH:64601",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.225,
+          16.375
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.375,
+        "longitude": -94.225,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894926826",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tapanatepec",
+        "voucher": "UMMZ:UMMZ:89901",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.925,
+          16.158333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.158333,
+        "longitude": -95.925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894926832",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Santa Lucia",
+        "voucher": "AMNH:AMNH:65173",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241667,
+          16.341667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.341667,
+        "longitude": -95.241667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894926838",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "UMMZ:UMMZ:82754-755",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.341667,
+          16.391667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.391667,
+        "longitude": -96.341667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954059",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; TEHUANTEPEC, LACHIGUIRI",
+        "voucher": "UCM:UCM:40073",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241667,
+          16.341667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.341667,
+        "longitude": -95.241667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954067",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "NMNH-SI:USNM:30260",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241667,
+          16.341667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.341667,
+        "longitude": -95.241667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954070",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "UCM:UCM:41222",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.225,
+          16.375
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.375,
+        "longitude": -94.225,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954078",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tapanatepec",
+        "voucher": "SMNK:LNK:24383",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.608333,
+          16.408333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.408333,
+        "longitude": -95.608333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954094",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tequisistl‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:15749",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241667,
+          16.341667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.341667,
+        "longitude": -95.241667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954108",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "MCZ-HU:MCZ:46485",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241667,
+          16.341667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.341667,
+        "longitude": -95.241667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954130",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "UMMZ:UMMZ:82754-755",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.158333,
+          16.241667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.241667,
+        "longitude": -95.158333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954131",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Huilotepec",
+        "voucher": "UMMZ:UMMZ:82753",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.225,
+          16.375
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.375,
+        "longitude": -94.225,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954132",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tapanatepec",
+        "voucher": "UMMZ:UMMZ:89990-991",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241667,
+          16.341667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.341667,
+        "longitude": -95.241667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954134",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tehuantepec",
+        "voucher": "UMNH:UMNH:2743",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.608333,
+          16.408333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.408333,
+        "longitude": -95.608333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954144",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tequisistl‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:110612",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.225,
+          16.375
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.375,
+        "longitude": -94.225,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954149",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tapanatepec",
+        "voucher": "MCZ-HU:MCZ:27819-824",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.158333,
+          16.241667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.241667,
+        "longitude": -95.158333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954158",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Huilotepec",
+        "voucher": "NMNH-SI:USNM:46473",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.425,
+          15.925
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.925,
+        "longitude": -96.425,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954161",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Pluma Hidalgo",
+        "voucher": "AMNH:AMNH:19855",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.258333,
+          16.358333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.358333,
+        "longitude": -95.258333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894954170",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; TEHUANTEPEC, BTW. CERRO DE MIXTEQUILLA AND",
+        "voucher": "UMMZ:UMMZ:82756",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.005358,
+          16.432037
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.432037,
+        "longitude": -94.005358,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1931532333",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 1052,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:17624911",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8099694084456,
+          16.7807598081148
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.7807598081148,
+        "longitude": -93.8099694084456,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2234852347",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; 5.5 Km N of Tuxtla Gutierrez",
+        "voucher": "UTEP:Amphibian and reptile specimens:UTEP:Herp:5441",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.044172,
+          16.476965
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.476965,
+        "longitude": -95.044172,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236853383",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 22,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:22398984",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.143888,
+          16.843486
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.843486,
+        "longitude": -93.143888,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2597945836",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 8,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:41665131",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.896292,
+          16.706618
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.706618,
+        "longitude": -92.896292,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2598331653",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Oaxaca",
+        "voucher": "NA:R:ECO-CH-H-3776",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.238529,
+          16.324765
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.324765,
+        "longitude": -95.238529,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2598331654",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; NA; Santo Domingo Tehuantepec",
+        "voucher": "NA:NA:MCZ-R-46485",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.091797,
+          16.630199
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.630199,
+        "longitude": -93.091797,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629122477",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Suchiapa",
+        "voucher": "ENCB-IPN:ENCB:16724",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.293503,
+          15.7177
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.7177,
+        "longitude": -96.293503,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629123349",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 3 km NE Bajos de Coyula",
+        "voucher": "ENCB-IPN:ENCB:16041",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.528801,
+          16.713801
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.713801,
+        "longitude": -93.528801,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629129688",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; 5.5 km S, 17 km W Ocozocoautla de Espinosa",
+        "voucher": "ENCB-IPN:ENCB:11057",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.015,
+          16.596667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.596667,
+        "longitude": -93.015,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629266384",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Galecio Narc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†a",
+        "voucher": "ECOSUR:ECO-SC-H:ECO-SCH-2717",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.696611,
+          16.388889
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.388889,
+        "longitude": -94.696611,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629270022",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; A 1 km al E de Huam‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•chil",
+        "voucher": "ECOSUR:ECO-SC-H:ECO-SCH-3742",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.171389,
+          16.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.8,
+        "longitude": -93.171389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630322093",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; La Chacona",
+        "voucher": "IHNE:CZRHE:1109",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.197222,
+          16.770833
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.770833,
+        "longitude": -93.197222,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630324090",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Ocozocoautla, 25.7 Km al E y 5.6 Km al N",
+        "voucher": "UIUC:UIMNH:6270",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.134167,
+          16.251111
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.251111,
+        "longitude": -92.134167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630329611",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Comit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn",
+        "voucher": "UIUC:UIMNH:19173",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.090278,
+          16.793056
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.793056,
+        "longitude": -93.090278,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630369879",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Tuxtla Guti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©rrez, 5.5 Km al N",
+        "voucher": "UTEP:UTEP:5441",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.925833,
+          16.576667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.576667,
+        "longitude": -93.925833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630381632",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Rancho San Bartolo",
+        "voucher": "UIUC:UIMNH:10001",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.925833,
+          16.576667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.576667,
+        "longitude": -93.925833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630384599",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Rancho San Bartolo",
+        "voucher": "UIUC:UIMNH:10000",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.457555,
+          16.872419
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.872419,
+        "longitude": -93.457555,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802638871",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 31,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:49664057",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.099529,
+          16.725459
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.725459,
+        "longitude": -93.099529,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070387549",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 2098,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:72096883",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.618196,
+          16.214174
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.214174,
+        "longitude": -92.618196,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090799981",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 138165,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:74050687",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.283722,
+          16.844837
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.844837,
+        "longitude": -93.283722,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3108980617",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": 6,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:74994943",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1899772512235,
+          16.3707789455583
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.3707789455583,
+        "longitude": -94.1899772512235,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476636957",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tapanatepec",
+        "voucher": "MCZ:Herp:R-27819",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1899772512235,
+          16.3707789455583
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.3707789455583,
+        "longitude": -94.1899772512235,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476636959",
+        "database_recorded_species": "Crotalus ehecatl",
+        "database_recorded_subspecies": "Crotalus ehecatl",
+        "taxonomy_updated_species": "Crotalus_ehecatl",
+        "taxonomy_updated_subspecies2": "Crotalus_ehecatl",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Tapanatepec",
+        "voucher": "MCZ:Herp:R-27821",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1,
+          15.87
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.87,
+        "longitude": -97.1,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV20327",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34,
+          16.38
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.38,
+        "longitude": -96.34,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV20328",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.73,
+          15.96
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.96,
+        "longitude": -95.73,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV20329",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.73,
+          15.96
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.96,
+        "longitude": -95.73,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV20330",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.31667,
+          16.31667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.31667,
+        "longitude": -95.31667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV20331",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.24,
+          16.31
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.31,
+        "longitude": -95.24,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV20332",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.24,
+          16.32
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.32,
+        "longitude": -95.24,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV20333",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.356838,
+          16.806513
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.806513,
+        "longitude": -93.356838,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35459",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.095018,
+          16.828995
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.828995,
+        "longitude": -93.095018,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35460",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.082389,
+          16.806101
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.806101,
+        "longitude": -93.082389,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35461",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.079836,
+          16.806519
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.806519,
+        "longitude": -93.079836,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35462",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.070185,
+          16.833435
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.833435,
+        "longitude": -93.070185,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35463",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.056736,
+          16.993465
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.993465,
+        "longitude": -93.056736,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35464",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.862572,
+          16.577679
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.577679,
+        "longitude": -92.862572,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35466",
+        "database_recorded_species": "Crotalus simus",
+        "database_recorded_subspecies": "Crotalus simus",
+        "taxonomy_updated_species": "Crotalus_simus",
+        "taxonomy_updated_subspecies2": "Crotalus_simus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131725,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.31338258,
+          15.83024902
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 15.83024902,
+        "longitude": -96.31338258,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV38397",
+        "database_recorded_species": "Crotalus culminatus",
+        "database_recorded_subspecies": "Crotalus culminatus",
+        "taxonomy_updated_species": "Crotalus_culminatus",
+        "taxonomy_updated_subspecies2": "Crotalus_culminatus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.3806585,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34166667,
+          16.39166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_ehecatl",
+        "latitude": 16.39166667,
+        "longitude": -95.34166667,
+        "date": "",
+        "source": "Mart‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†n-Regalado, C. N., R. G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢mez-Ugalde, and E. Cisneros-Palacios. 2011, Herpetofauna del Cerro Guiengola, Istmo de Tehuantepec, Oaxaca. Acta Zool‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gica Mexicana, 27(2):359376.",
+        "ID": "Martins06242",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_ehecatl",
+        "final_subspecies": "Crotalus_ehecatl",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro Guiengola, Tehuantepec, Oaxaca, M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©xico (16*21' to 16*26' N Latitude; 95*17' to 95*24' W Longitude)",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.76131675,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

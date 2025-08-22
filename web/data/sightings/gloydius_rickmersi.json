@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.268372,
+          39.58924
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_rickmersi",
+        "latitude": 39.58924,
+        "longitude": 72.268372,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2620154674",
+        "database_recorded_species": "Gloydius rickmersi",
+        "database_recorded_subspecies": "Gloydius rickmersi",
+        "taxonomy_updated_species": "Gloydius_rickmersi",
+        "taxonomy_updated_subspecies2": "Gloydius_rickmersi",
+        "final_species": "Gloydius_rickmersi",
+        "final_subspecies": "Gloydius_rickmersi",
+        "accuracy_m": 46,
+        "country": "Kyrgyzstan",
+        "locality": "KG; Osh; NA",
+        "voucher": "iNaturalist:Observations:45011074",
+        "issue": "NA",
+        "geoDist": "NA",
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NO_DISTRIBUTION_AVAILABLE; ADDITIONAL_CHECKS_NEEDED"
+      }
+    }
+  ]
+}

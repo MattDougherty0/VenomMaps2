@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.970778,
+          1.834722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_ayerbei",
+        "latitude": 1.834722,
+        "longitude": -76.970778,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10192",
+        "database_recorded_species": "Bothrops ayerbei",
+        "database_recorded_subspecies": "Bothrops ayerbei",
+        "taxonomy_updated_species": "Bothrops_ayerbei",
+        "taxonomy_updated_subspecies2": "Bothrops_ayerbei",
+        "final_species": "Bothrops_ayerbei",
+        "final_subspecies": "Bothrops_ayerbei",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.655,
+          2.268611
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_ayerbei",
+        "latitude": 2.268611,
+        "longitude": -76.655,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10193",
+        "database_recorded_species": "Bothrops ayerbei",
+        "database_recorded_subspecies": "Bothrops ayerbei",
+        "taxonomy_updated_species": "Bothrops_ayerbei",
+        "taxonomy_updated_subspecies2": "Bothrops_ayerbei",
+        "final_species": "Bothrops_ayerbei",
+        "final_subspecies": "Bothrops_ayerbei",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96679,
+          1.834954
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_ayerbei",
+        "latitude": 1.834954,
+        "longitude": -76.96679,
+        "date": "",
+        "source": "Folleco-Fernandes, A. J. 2010. Taxonom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del complejo Bothrops asper (Serpentes: Viperidae) en el sudoeste de Colombia. Revalidaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la especie Bothrops rhombeatus (Garc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a 1896) y descripci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n  de una nueva especie. Revista Novedades Colombianas, 10(1):33-70.",
+        "ID": "Martins03151",
+        "database_recorded_species": "Bothrops ayerbei",
+        "database_recorded_subspecies": "Bothrops ayerbei",
+        "taxonomy_updated_species": "Bothrops_ayerbei",
+        "taxonomy_updated_subspecies2": "Bothrops_ayerbei",
+        "final_species": "Bothrops_ayerbei",
+        "final_subspecies": "Bothrops_ayerbei",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†var, Cauca, Colombia",
+        "voucher": "MHNUC-SE-00401",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96679,
+          1.834954
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_ayerbei",
+        "latitude": 1.834954,
+        "longitude": -76.96679,
+        "date": "",
+        "source": "Folleco-Fernandes, A. J. 2010. Taxonom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a del complejo Bothrops asper (Serpentes: Viperidae) en el sudoeste de Colombia. Revalidaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la especie Bothrops rhombeatus (Garc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a 1896) y descripci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n  de una nueva especie. Revista Novedades Colombianas, 10(1):33-70.",
+        "ID": "Martins03152",
+        "database_recorded_species": "Bothrops ayerbei",
+        "database_recorded_subspecies": "Bothrops ayerbei",
+        "taxonomy_updated_species": "Bothrops_ayerbei",
+        "taxonomy_updated_subspecies2": "Bothrops_ayerbei",
+        "final_species": "Bothrops_ayerbei",
+        "final_subspecies": "Bothrops_ayerbei",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†var, Cauca, Colombia",
+        "voucher": "MHNUC-SE-00401",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

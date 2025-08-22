@@ -1,0 +1,797 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.764656,
+          -21.409552
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -21.409552,
+        "longitude": -64.764656,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465165670",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": 5353,
+        "country": "Bolivia",
+        "locality": "BO; Tarija; NA",
+        "voucher": "iNaturalist:Observations:36033666",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.472991,
+          -24.042184
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -24.042184,
+        "longitude": -65.472991,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3032039998",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": 176,
+        "country": "Argentina",
+        "locality": "AR; Jujuy; NA",
+        "voucher": "iNaturalist:Observations:68701902",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65,
+          -17.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -17.75,
+        "longitude": -65,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10630",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.00009,
+          -21.566685
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -21.566685,
+        "longitude": -65.00009,
+        "date": "",
+        "source": "Carrasco, P.A., M.B. Harvey, and A.M. Saravia. 2009. The rare Andean pitviper Bothrops jonathani (Serpentes: Viperidae: Crotalinae): redescription with comments on its systematics and biogeography. Zootaxa, 2283:1-15.",
+        "ID": "Martins00452",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Mendez, Tarija, Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†via",
+        "voucher": "CBF 2318, CBF 2319, CBF 2320",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.00009,
+          -21.566685
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -21.566685,
+        "longitude": -65.00009,
+        "date": "",
+        "source": "Carrasco, P.A., M.B. Harvey, and A.M. Saravia. 2009. The rare Andean pitviper Bothrops jonathani (Serpentes: Viperidae: Crotalinae): redescription with comments on its systematics and biogeography. Zootaxa, 2283:1-15.",
+        "ID": "Martins00453",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Mendez, Tarija, Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†via",
+        "voucher": "CBF 2318, CBF 2319, CBF 2320",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.73126,
+          -21.531921
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -21.531921,
+        "longitude": -64.73126,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins00454",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Tarija, Bolivia",
+        "voucher": "CBF 2318‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü20",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.73126,
+          -21.531921
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -21.531921,
+        "longitude": -64.73126,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins00455",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Tarija, Bolivia",
+        "voucher": "CBF 2318‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü20",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.06679,
+          -23.59999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -23.59999,
+        "longitude": -65.06679,
+        "date": "",
+        "source": "Carrasco, P.A., M.B. Harvey, and A.M. Saravia. 2009. The rare Andean pitviper Bothrops jonathani (Serpentes: Viperidae: Crotalinae): redescription with comments on its systematics and biogeography. Zootaxa, 2283:1-15.",
+        "ID": "Martins01032",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Argentina",
+        "locality": "Santa Barbara, Jujuy, Argentina",
+        "voucher": "FML 1050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.06679,
+          -23.59999
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -23.59999,
+        "longitude": -65.06679,
+        "date": "",
+        "source": "Carrasco, P.A., M.B. Harvey, and A.M. Saravia. 2009. The rare Andean pitviper Bothrops jonathani (Serpentes: Viperidae: Crotalinae): redescription with comments on its systematics and biogeography. Zootaxa, 2283:1-15.",
+        "ID": "Martins01033",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Argentina",
+        "locality": "Santa Barbara, Jujuy, Argentina",
+        "voucher": "FML 1050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.06619,
+          -23.601582
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -23.601582,
+        "longitude": -65.06619,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins01034",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Argentina",
+        "locality": "Santa B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbara, Jujuy, Argentina",
+        "voucher": "FML 1050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.06619,
+          -23.601582
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -23.601582,
+        "longitude": -65.06619,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins01035",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Argentina",
+        "locality": "Santa B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbara, Jujuy, Argentina",
+        "voucher": "FML 1050",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3807,
+          -24.602596
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -24.602596,
+        "longitude": -65.3807,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins01062",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Argentina",
+        "locality": "La Caldera, Salta, Argentina",
+        "voucher": "FML 570",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3807,
+          -24.602596
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -24.602596,
+        "longitude": -65.3807,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins01063",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Argentina",
+        "locality": "La Caldera, Salta, Argentina",
+        "voucher": "FML 570",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.99973,
+          -17.749784
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -17.749784,
+        "longitude": -64.99973,
+        "date": "",
+        "source": "Harvey, M.B. 1994. A new species of montane pitviper (Serpentes: Viperidae: Bothrops) from Cochabamba, Bolivia. Proceedings of the Biological Society of London, 107(1):60-66.",
+        "ID": "Martins03349",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Carrasco, Cochabamba, Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†via",
+        "voucher": "MNK R-1000",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.99973,
+          -17.749784
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -17.749784,
+        "longitude": -64.99973,
+        "date": "",
+        "source": "Harvey, M.B. 1994. A new species of montane pitviper (Serpentes: Viperidae: Bothrops) from Cochabamba, Bolivia. Proceedings of the Biological Society of London, 107(1):60-66.",
+        "ID": "Martins03350",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Carrasco, Cochabamba, Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†via",
+        "voucher": "MNK R-1000",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.10667,
+          -18.492589
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -18.492589,
+        "longitude": -64.10667,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03373",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Vallegrande, Santa Cruz, Bolivia",
+        "voucher": "MNKR 718",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.10667,
+          -18.492589
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -18.492589,
+        "longitude": -64.10667,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03374",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Vallegrande, Santa Cruz, Bolivia",
+        "voucher": "MNKR 718",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07965,
+          -18.400568
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -18.400568,
+        "longitude": -64.07965,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins08314",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Vallegrande, Santa Cruz, Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†via",
+        "voucher": "NK 718",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.07964,
+          -18.400568
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -18.400568,
+        "longitude": -64.07964,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins08315",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Vallegrande, Santa Cruz, Bol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†via",
+        "voucher": "NK 718",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.90202,
+          -17.301405
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -17.301405,
+        "longitude": -64.90202,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins09866",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Carrasco, Cochabamba, Bolivia",
+        "voucher": "UTA 34564",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.90202,
+          -17.301405
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -17.301405,
+        "longitude": -64.90202,
+        "date": "",
+        "source": "Harvey, M. B., E. J. Aparicio, A. L. Gonzales. 2005. Revision of the venomous snakes of Bolivia. II: The pitvipers (Serpentes: Viperidae). Annals of Carnegie Museum, 74(1): 1-37.",
+        "ID": "Martins09867",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Carrasco, Cochabamba, Bolivia",
+        "voucher": "UTA 34564",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1667,
+          -17.384434
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -17.384434,
+        "longitude": -66.1667,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins09960",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Cochabamba, Cochabamba, Bolivia",
+        "voucher": "UTA R-34564",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1667,
+          -17.384434
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -17.384434,
+        "longitude": -66.1667,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins09961",
+        "database_recorded_species": "Bothrops jonathani",
+        "database_recorded_subspecies": "Bothrops jonathani",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "Cochabamba, Cochabamba, Bolivia",
+        "voucher": "UTA R-34564",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9348431677108,
+          -22.2623648898422
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_jonathani",
+        "latitude": -22.2623648898422,
+        "longitude": -64.9348431677108,
+        "date": "",
+        "source": "Carrasco et al. 2009 georeferenced",
+        "ID": "VM00035",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrops_jonathani",
+        "taxonomy_updated_subspecies2": "Bothrops_jonathani",
+        "final_species": "Bothrops_jonathani",
+        "final_subspecies": "Bothrops_jonathani",
+        "accuracy_m": "NA",
+        "country": "Argentina",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

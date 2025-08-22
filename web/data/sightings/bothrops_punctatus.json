@@ -1,0 +1,2216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52348,
+          0.8733739
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 0.8733739,
+        "longitude": -78.52348,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0099",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; San Lorenzo; Desconocido; Chuchub‚Äö√†√∂‚àö‚Ä¢, sendero que sube desde Balneario Chuchub‚Äö√†√∂‚àö‚Ä¢; Sendero que sube desde Balneario Chuchub‚Äö√†√∂‚àö‚Ä¢. Chuchub‚Äö√†√∂‚àö‚Ä¢.",
+        "voucher": "QCAZR11628",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.62224,
+          1.0379
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.0379,
+        "longitude": -78.62224,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0125",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Desconocido; Desconocido; Durango; Durango",
+        "voucher": "QCAZR11966",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.72007,
+          1.362373
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.362373,
+        "longitude": -78.72007,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0658",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Desconocido; Desconocido; Mataje; Esmeraldas, Mataje",
+        "voucher": "QCAZR681",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949966,
+          3.983336
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.983336,
+        "longitude": -76.949966,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954219",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 4250,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; Estaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n Agroforestal Universidad del Tolima",
+        "voucher": "Universidad del Valle:UVC:UVC-7627",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949966,
+          3.983336
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.983336,
+        "longitude": -76.949966,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954237",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 4250,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; Estaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n Agroforestal Universidad del Tolima",
+        "voucher": "Universidad del Valle:UVC:UVC-7541",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60365,
+          3.88826
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.88826,
+        "longitude": -76.60365,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954264",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 1701,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; 7 km del campamento campo alegre en r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Azul",
+        "voucher": "Universidad del Valle:UVC:UVC-6678",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.200669,
+          3.842128
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.842128,
+        "longitude": -77.200669,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954277",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 1784,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "Universidad del Valle:UVC:UVC-14833",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3342,
+          -0.240278
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": -0.240278,
+        "longitude": -79.3342,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318693735",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 3994,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; Santo Domingo de Los Colorados, 18 km W of",
+        "voucher": "USNM:Amphibians & Reptiles:232521",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8167,
+          1.03333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.03333,
+        "longitude": -78.8167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319434416",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 32865,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; Santiago River",
+        "voucher": "USNM:Amphibians & Reptiles:20630",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5605,
+          6.699083
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 6.699083,
+        "longitude": -76.5605,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1699618877",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; Extremo occidental del municipio de Frontino",
+        "voucher": "IIAP:NA:NA",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.529167,
+          6.726389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 6.726389,
+        "longitude": -76.529167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1801439617",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; Sector Pantanos, Comunidad Lano",
+        "voucher": "Instituto de Investigaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Recursos Biol‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢gicos Alexander von Humboldt (IAvH):Colecci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Reptiles del Instituto de Investigaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Recursos Biol‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢gicos Alexander von Humboldt (IAvH-R):IAvH-R-8603",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.151944,
+          5.315778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.315778,
+        "longitude": -76.151944,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1803103843",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Risaralda; ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö√±rea de Manejo Especial Alto Amurrup‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ª, Corregimiento de Santa cecilia",
+        "voucher": "IIAP:NA:NA",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.783331,
+          0.301422
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 0.301422,
+        "longitude": -78.783331,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1831218869",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Imbabura; NA",
+        "voucher": "iNaturalist:Observations:9942140",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35,
+          5.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.6,
+        "longitude": -77.35,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1899847366",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; NA",
+        "voucher": "Universidad de Antioquia (UdeA):MHUA-R:MHUA-R 14527",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35,
+          5.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.6,
+        "longitude": -77.35,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1899847382",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Bosque La Loma",
+        "voucher": "Universidad de Antioquia (UdeA):MHUA-R:MHUA-R 14537",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35,
+          5.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.6,
+        "longitude": -77.35,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1899847422",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; NA",
+        "voucher": "Universidad de Antioquia (UdeA):MHUA-R:MHUA-R 14536",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.132698,
+          1.672723
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.672723,
+        "longitude": -78.132698,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912808605",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 3578,
+        "country": "Colombia",
+        "locality": "CO; Nari‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬±o; R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Telemb‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†, arriba de Barbacoas.",
+        "voucher": "ICN:ICN-MHN-Rep:1450",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.618611,
+          5.28
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.28,
+        "longitude": -76.618611,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912813455",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 162,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Animas, por Pueblo Rico.",
+        "voucher": "ICN:ICN-MHN-Rep:8052",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.618611,
+          5.28
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.28,
+        "longitude": -76.618611,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912813492",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 162,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Animas, por Pueblo Rico.",
+        "voucher": "ICN:ICN-MHN-Rep:8051",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.618611,
+          5.28
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.28,
+        "longitude": -76.618611,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912813502",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 162,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Animas, por Pueblo Rico.",
+        "voucher": "ICN:ICN-MHN-Rep:8050",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.326484,
+          6.551859
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 6.551859,
+        "longitude": -76.326484,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912814744",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 2549,
+        "country": "Colombia",
+        "locality": "CO; Antioquia; Vda. Venados, PNN Las Orqu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†deas, R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o San Mateo arriba del R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Venados.",
+        "voucher": "ICN:ICN-MHN-Rep:10512",
+        "issue": "TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008259,
+          4.432739
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.432739,
+        "longitude": -77.008259,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1930061362",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o San Juan",
+        "voucher": "Universidad de La Salle (La Salle):MLS-ofi:1689",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.661111,
+          5.694722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.694722,
+        "longitude": -76.661111,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1930061363",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 3036,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Quibd‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢",
+        "voucher": "Universidad de La Salle (La Salle):MLS-ofi:1690",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.842344,
+          0.053116
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 0.053116,
+        "longitude": -78.842344,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2013752396",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 305,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:21218522",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.822957,
+          3.59934
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.59934,
+        "longitude": -76.822957,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2235483400",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 122,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "iNaturalist:Observations:21739238",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1503,
+          4.3013
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.3013,
+        "longitude": -77.1503,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2240006",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Cabeceras",
+        "voucher": "NRM:NRM-Herps:3140",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COORDINATE_PRECISION_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.622852,
+          5.249083
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.249083,
+        "longitude": -76.622852,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2603337355",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 11270,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; NA",
+        "voucher": "iNaturalist:Observations:42005745",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.501304,
+          1.173285
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.173285,
+        "longitude": -78.501304,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2603377290",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 1672,
+        "country": "Ecuador",
+        "locality": "EC; Carchi; NA",
+        "voucher": "iNaturalist:Observations:42294992",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.83986,
+          0.031166
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 0.031166,
+        "longitude": -78.83986,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2620057031",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 3946,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:45138610",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.811017,
+          0.663028
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 0.663028,
+        "longitude": -78.811017,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802974492",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 5163,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:49533179",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.667606,
+          2.777744
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 2.777744,
+        "longitude": -77.667606,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2823328747",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 1133,
+        "country": "Colombia",
+        "locality": "CO; Cauca; NA",
+        "voucher": "iNaturalist:Observations:53419280",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93391,
+          3.529709
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.529709,
+        "longitude": -76.93391,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3109325431",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 488,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "iNaturalist:Observations:75587527",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.190224,
+          0.497794
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 0.497794,
+        "longitude": -79.190224,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3112801732",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 4447,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:77500176",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.152228,
+          0.496857
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 0.496857,
+        "longitude": -79.152228,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3327985413",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": 31451,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:71189372",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.200669,
+          3.842128
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.842128,
+        "longitude": -77.200669,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10859",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1503,
+          4.3013
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.3013,
+        "longitude": -77.1503,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10860",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949966,
+          3.983336
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.983336,
+        "longitude": -76.949966,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10861",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949966,
+          3.983336
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.983336,
+        "longitude": -76.949966,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10862",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88903,
+          5.980089
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.980089,
+        "longitude": -76.88903,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10863",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.666667,
+          5.233333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.233333,
+        "longitude": -76.666667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10864",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.645833,
+          5.360278
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.360278,
+        "longitude": -76.645833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10865",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.645833,
+          5.360278
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.360278,
+        "longitude": -76.645833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10866",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.645833,
+          5.360278
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.360278,
+        "longitude": -76.645833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10867",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.645833,
+          5.360278
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.360278,
+        "longitude": -76.645833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10868",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63516,
+          5.34358
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.34358,
+        "longitude": -76.63516,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10869",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.617778,
+          5.319722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.319722,
+        "longitude": -76.617778,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10870",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60365,
+          3.88826
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.88826,
+        "longitude": -76.60365,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10871",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.440278,
+          5.704722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 5.704722,
+        "longitude": -76.440278,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10872",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00432,
+          4.553883
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.553883,
+        "longitude": -77.00432,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00291",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Cano Docordo, Choco, Colombia",
+        "voucher": "CAS 119594",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00432,
+          4.553883
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.553883,
+        "longitude": -77.00432,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00292",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Cano Docordo, Choco, Colombia",
+        "voucher": "CAS 119594",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00432,
+          4.553883
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.553883,
+        "longitude": -77.00432,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00293",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Cano Docordo, Choco, Colombia",
+        "voucher": "CAS 119594",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0208,
+          4.23727
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.23727,
+        "longitude": -77.0208,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins00294",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Pangala, Choco, Colombia",
+        "voucher": "CAS 119921",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0208,
+          4.23727
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 4.23727,
+        "longitude": -77.0208,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins00295",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Pangala, Choco, Colombia",
+        "voucher": "CAS 119921",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07023,
+          3.886611
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.886611,
+        "longitude": -77.07023,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09173",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151706",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07023,
+          3.886611
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.886611,
+        "longitude": -77.07023,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09174",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151706",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07023,
+          3.886611
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.886611,
+        "longitude": -77.07023,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09175",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151706",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81667,
+          1.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.033333,
+        "longitude": -78.81667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09431",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santiago River, Esmeraldas, Ecuador",
+        "voucher": "USNM 20630",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81667,
+          1.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.033333,
+        "longitude": -78.81667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09432",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santiago River, Esmeraldas, Ecuador",
+        "voucher": "USNM 20630",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81667,
+          1.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 1.033333,
+        "longitude": -78.81667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09433",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santiago River, Esmeraldas, Ecuador",
+        "voucher": "USNM 20630",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17174,
+          -0.253798
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": -0.253798,
+        "longitude": -79.17174,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09482",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santo Domingo de Los Colorados, Pichincha, Ecuador",
+        "voucher": "USNM 232521",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17173,
+          -0.253798
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": -0.253798,
+        "longitude": -79.17173,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09483",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santo Domingo de Los Colorados, Pichincha, Ecuador",
+        "voucher": "USNM 232521",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17173,
+          -0.253798
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": -0.253798,
+        "longitude": -79.17173,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09484",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Santo Domingo de Los Colorados, Pichincha, Ecuador",
+        "voucher": "USNM 232521",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.68396,
+          7.755957
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 7.755957,
+        "longitude": -77.68396,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09698",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Cana, Panama",
+        "voucher": "USNM 50110",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.68396,
+          7.755957
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 7.755957,
+        "longitude": -77.68396,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09699",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Cana, Panama",
+        "voucher": "USNM 50110",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.68396,
+          7.755957
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 7.755957,
+        "longitude": -77.68396,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09700",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Cana, Panama",
+        "voucher": "USNM 50110",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64508,
+          3.810554
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.810554,
+        "longitude": -76.64508,
+        "date": "",
+        "source": "Castro-Herrera, F and F. Vargas-Salinas. 2008. Anfibios y reptiles  em el departamento del Valle del Cauca, Colombia. Biota Colombiana, V. 9, N. 2: 251-277.",
+        "ID": "Martins10215",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Valle del Cauca (Departamento), Colombia",
+        "voucher": "UVC 7541-7627",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64508,
+          3.810554
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_punctatus",
+        "latitude": 3.810554,
+        "longitude": -76.64508,
+        "date": "",
+        "source": "Castro-Herrera, F and F. Vargas-Salinas. 2008. Anfibios y reptiles  em el departamento del Valle del Cauca, Colombia. Biota Colombiana, V. 9, N. 2: 251-277.",
+        "ID": "Martins10216",
+        "database_recorded_species": "Bothrops punctatus",
+        "database_recorded_subspecies": "Bothrops punctatus",
+        "taxonomy_updated_species": "Bothrops_punctatus",
+        "taxonomy_updated_subspecies2": "Bothrops_punctatus",
+        "final_species": "Bothrops_punctatus",
+        "final_subspecies": "Bothrops_punctatus",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Valle del Cauca (Departamento), Colombia",
+        "voucher": "UVC 7541-7627",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

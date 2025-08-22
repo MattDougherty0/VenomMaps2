@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35782,
+          -6.697541
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -6.697541,
+        "longitude": -79.35782,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3059107630",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": 211,
+        "country": "Peru",
+        "locality": "PE; Lambayeque; NA",
+        "voucher": "iNaturalist:Observations:70816752",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6667,
+          -5.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.8333,
+        "longitude": -80.6667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10194",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.456983,
+          -3.565378
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -3.565378,
+        "longitude": -80.456983,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10195",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.81711,
+          -5.558964
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.558964,
+        "longitude": -80.81711,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins00398",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Sechura, Peru",
+        "voucher": "CAS 92343",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.81711,
+          -5.558964
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.558964,
+        "longitude": -80.81711,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00399",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Sechura, Peru",
+        "voucher": "CAS 92343",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.81711,
+          -5.558964
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.558964,
+        "longitude": -80.81711,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins00400",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Sechura, Peru",
+        "voucher": "CAS 92343",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.81711,
+          -5.558964
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.558964,
+        "longitude": -80.81711,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00401",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Sechura, Peru",
+        "voucher": "CAS 92343",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.81711,
+          -5.558964
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.558964,
+        "longitude": -80.81711,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00402",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Sechura, Peru",
+        "voucher": "CAS 92343",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30469,
+          -4.650132
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -4.650132,
+        "longitude": -81.30469,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins01081",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Negritos, Peru",
+        "voucher": "FMNH 11013, FMNH 9777-9778, 9787-9789",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30469,
+          -4.650132
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -4.650132,
+        "longitude": -81.30469,
+        "date": "",
+        "source": "Fenwick, A. M., R. L. Gutberlet Jr., J. A. Evans, and C. L. Parkinson. 2009. Morphological and molecular evidence for phylogeny and classification of South American pitvipers, genera Bothrops, Bothrops, and Bothrocophias (Serpentes: Viperidae). Zoological Journal of the Linnean Society, 156(3):617-640.",
+        "ID": "Martins01082",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Negritos, Peru",
+        "voucher": "FMNH 11013, FMNH 9777-9778, 9787-9789",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3888,
+          -6.637655
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -6.637655,
+        "longitude": -79.3888,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02467",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chongoyape, Cajamarca, Peru",
+        "voucher": "LSU 19708",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3888,
+          -6.637655
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -6.637655,
+        "longitude": -79.3888,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02468",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chongoyape, Cajamarca, Peru",
+        "voucher": "LSU 19708",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3888,
+          -6.637655
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -6.637655,
+        "longitude": -79.3888,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02469",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chongoyape, Cajamarca, Peru",
+        "voucher": "LSU 19708",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.83321,
+          -5.900061
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.900061,
+        "longitude": -79.83321,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03109",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Corral de Arena, Lambayeque, Peru",
+        "voucher": "MHNJP 23685",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.83321,
+          -5.900061
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -5.900061,
+        "longitude": -79.83321,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03110",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Corral de Arena, Lambayeque, Peru",
+        "voucher": "MHNJP 23685",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.84636,
+          -6.776627
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -6.776627,
+        "longitude": -79.84636,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03141",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chiclayo, Lambayeque, Peru",
+        "voucher": "MHNJP 3019",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.84636,
+          -6.776627
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -6.776627,
+        "longitude": -79.84636,
+        "date": "",
+        "source": "Carrasco, P. A., C. I. Mattoni, G. C. Leynaud, and G. J. Scrocchi. 2012. Morphology, phylogeny and taxonomy of South American bothropoid pitvipers (Serpentes, Viperidae). Zoologica Scripta, 41(2):109-124.",
+        "ID": "Martins03142",
+        "database_recorded_species": "Bothrops barnetti",
+        "database_recorded_subspecies": "Bothrops barnetti",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "Chiclayo, Lambayeque, Peru",
+        "voucher": "MHNJP 3019",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9087784440518,
+          -6.72634124508603
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_barnetti",
+        "latitude": -6.72634124508603,
+        "longitude": -79.9087784440518,
+        "date": "",
+        "source": "Paola Carrasco pers. comm.",
+        "ID": "VM00033",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrops_barnetti",
+        "taxonomy_updated_subspecies2": "Bothrops_barnetti",
+        "final_species": "Bothrops_barnetti",
+        "final_subspecies": "Bothrops_barnetti",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

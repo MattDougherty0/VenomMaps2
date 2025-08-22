@@ -1,0 +1,995 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.28204,
+          14.9502
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.9502,
+        "longitude": -89.28204,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CRVA3763",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27815,
+          14.95237
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.95237,
+        "longitude": -89.27815,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CRVA3764",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.92,
+          15.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.1,
+        "longitude": -88.92,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320840678",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "HN; Cop‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; Quebrada Grande",
+        "voucher": "USNM:Amphibians & Reptiles:561092",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5156,
+          15.0546999995261
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.0546999995261,
+        "longitude": -88.5156,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320841288",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "HN; Santa B‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªrbara; Monta‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬±a El Joconal",
+        "voucher": "USNM:Amphibians & Reptiles:565620",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.839183,
+          14.41926
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.41926,
+        "longitude": -88.839183,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1914317332",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": 31,
+        "country": "Honduras",
+        "locality": "HN; Ocotepeque; NA",
+        "voucher": "iNaturalist:Observations:16710255",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.018756,
+          14.370673
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.370673,
+        "longitude": -89.018756,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1935580918",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": 24,
+        "country": "Honduras",
+        "locality": "HN; Ocotepeque; NA",
+        "voucher": "iNaturalist:Observations:16440804",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.919175,
+          15.085799
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.085799,
+        "longitude": -88.919175,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429523115",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": 951,
+        "country": "Honduras",
+        "locality": "HN; Cop‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn; NA",
+        "voucher": "iNaturalist:Observations:34116924",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.730466,
+          14.602487
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.602487,
+        "longitude": -88.730466,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2610982082",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": 244,
+        "country": "Honduras",
+        "locality": "HN; Lempira; NA",
+        "voucher": "iNaturalist:Observations:43479230",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.93333,
+          15.11667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.11667,
+        "longitude": -88.93333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07678",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5156,
+          15.05473
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.05473,
+        "longitude": -88.5156,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07679",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.92,
+          15.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.1,
+        "longitude": -88.92,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07680",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.18158,
+          14.43675
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.43675,
+        "longitude": -89.18158,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02470",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Nueva Octepeque, Ocotepeque, Honduras",
+        "voucher": "LSU 23821",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.1681015,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.18158,
+          14.43675
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.43675,
+        "longitude": -89.18158,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02471",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Nueva Octepeque, Ocotepeque, Honduras",
+        "voucher": "LSU 23821",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.1681015,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11667,
+          14.916667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.916667,
+        "longitude": -89.11667,
+        "date": "",
+        "source": "Bogert, C. M. 1968. A new arboreal Pit Viper of the Genus Bothrops from the Isthmus of Tehuantepec, Mexico. American Museum Novitates, 2341: 1-14.",
+        "ID": "Martins05391",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Cerro Santa Barbara, Honduras",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.1681015,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51667,
+          15.066667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.066667,
+        "longitude": -88.51667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09755",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Monta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±a El Joconal, Santa Barbara, Honduras",
+        "voucher": "USNM 565620",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51667,
+          15.066667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.066667,
+        "longitude": -88.51667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09756",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Monta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±a El Joconal, Santa Barbara, Honduras",
+        "voucher": "USNM 565620",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51667,
+          15.066667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.066667,
+        "longitude": -88.51667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09757",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Monta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±a El Joconal, Santa Barbara, Honduras",
+        "voucher": "USNM 565620",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57536,
+          15.433454
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.433454,
+        "longitude": -88.57536,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09877",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Sierra de Caral, Izabal, Guatemala",
+        "voucher": "UTA R- 38891 and 42259, UTA R-39251, UTA R-37223, 38220, 44438",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57536,
+          15.433454
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.433454,
+        "longitude": -88.57536,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09878",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Sierra de Caral, Izabal, Guatemala",
+        "voucher": "UTA R- 38891 and 42259, UTA R-39251, UTA R-37223, 38220, 44438",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.69703,
+          15.384664
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.384664,
+        "longitude": -88.69703,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10024",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Finca La Firmeza, Sierra de Caral, Izabal, Guatemala",
+        "voucher": "UTA R-46526",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.69702,
+          15.384664
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.384664,
+        "longitude": -88.69702,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10025",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Finca La Firmeza, Sierra de Caral, Izabal, Guatemala",
+        "voucher": "UTA R-46526",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.743889,
+          14.589806
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.589806,
+        "longitude": -88.743889,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_07",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Copan; PN Montana de Celaque, Azaharillo, San Pedro de Copan",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.915556,
+          15.09
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 15.09,
+        "longitude": -88.915556,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_08",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Copan; PN Cerro Azul",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.737139,
+          14.609972
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.609972,
+        "longitude": -88.737139,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_12",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Lempira; PN Montana de Celaque, La Mirona El Suptal, Las Flores",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.710456,
+          14.598667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.598667,
+        "longitude": -88.710456,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_14",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Lempira; PN Montana de Celaque, Monte de la Virgen, Las Flores",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01875,
+          14.470417
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.470417,
+        "longitude": -89.01875,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_15",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Ocotepeque; Reserva Biologica Guisayote, La Labor",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.962833,
+          14.335806
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.335806,
+        "longitude": -88.962833,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_17",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Ocotepeque; Cerro Negro, municipio de Mercedes",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.839194,
+          14.41925
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.41925,
+        "longitude": -88.839194,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_18",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Ocotepeque; Reserva Biologica Volcan Pacayita, San Marcos",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.849614,
+          14.485242
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.485242,
+        "longitude": -88.849614,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_19",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Ocotepeque; Parque Nacional Montana de Celaque, zona de Influencia, Yurche, Belen Gualcho",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.140694,
+          14.903417
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_thalassinus",
+        "latitude": 14.903417,
+        "longitude": -88.140694,
+        "date": "",
+        "source": "Vega et al. 2020",
+        "ID": "Vega2020_20",
+        "database_recorded_species": "Bothriechis thalassinus",
+        "database_recorded_subspecies": "Bothriechis thalassinus",
+        "taxonomy_updated_species": "Bothriechis_thalassinus",
+        "taxonomy_updated_subspecies2": "Bothriechis_thalassinus",
+        "final_species": "Bothriechis_thalassinus",
+        "final_subspecies": "Bothriechis_thalassinus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Honduras; Santa Barbara; PN Montana de Santa Barbara, Campamento Wells",
+        "voucher": "NA",
+        "issue": "published coordinates converted from decimal minutes to decimal degrees",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

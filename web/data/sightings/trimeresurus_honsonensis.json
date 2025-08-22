@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.634924,
+          9.808368
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_honsonensis",
+        "latitude": 9.808368,
+        "longitude": 104.634924,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423232544",
+        "database_recorded_species": "Trimeresurus honsonensis",
+        "database_recorded_subspecies": "Trimeresurus honsonensis",
+        "taxonomy_updated_species": "Trimeresurus_honsonensis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_honsonensis",
+        "final_species": "Trimeresurus_honsonensis",
+        "final_subspecies": "Trimeresurus_honsonensis",
+        "accuracy_m": 1322,
+        "country": "Vietnam",
+        "locality": "VN; Ki‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√´¬¨¬¢n Giang; NA",
+        "voucher": "iNaturalist:Observations:33361935",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}
