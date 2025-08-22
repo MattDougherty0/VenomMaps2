@@ -105,7 +105,7 @@ export function attachSearch() {
         <span class="swatch" style="background:${colorFor(e.sci)};"></span>
         <div class="species-info">
           <span class="common">${cleanName}</span>
-          <span class="sci">${sciName}</span>
+          <span class="sci">(${sciName})</span>
         </div>
         ${countBadge}
       `;
@@ -145,7 +145,7 @@ export function attachNearby({ onMove, getBounds }){
         <span class="swatch" style="background:${colorFor(sci)};"></span>
         <div class="species-info">
           <span class="common">${cleanName}</span>
-          <span class="sci">${sciName}</span>
+          <span class="sci">(${sciName})</span>
         </div>
       `;
       list.appendChild(li);
@@ -226,7 +226,7 @@ function renderSelectedPanel(){
       <span class="swatch" style="background:${colorFor(sci)};"></span>
       <div class="species-info">
         <span class="common">${cleanName}</span>
-        <span class="sci">${sciName}</span>
+        <span class="sci">(${sciName})</span>
       </div>
     `;
     ul.appendChild(li);
