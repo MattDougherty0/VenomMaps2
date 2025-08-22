@@ -103,8 +103,10 @@ export function attachSearch() {
       const sciName = sciPretty(e.sci);
       li.innerHTML = `
         <span class="swatch" style="background:${colorFor(e.sci)};"></span>
-        <span class="common">${cleanName}</span>
-        <span class="sci">(${sciName})</span>
+        <div class="species-info">
+          <span class="common">${cleanName}</span>
+          <span class="sci">${sciName}</span>
+        </div>
         ${countBadge}
       `;
       if (selected.has(e.sci)) li.classList.add('selected');
@@ -136,7 +138,16 @@ export function attachNearby({ onMove, getBounds }){
     list.innerHTML = '';
     for (const sci of items.slice(0, 50)) {
       const li = document.createElement('li');
-      li.textContent = labelOf(sci);
+      const label = labelOf(sci);
+      const cleanName = label.split(' (')[0];
+      const sciName = sciPretty(sci);
+      li.innerHTML = `
+        <span class="swatch" style="background:${colorFor(sci)};"></span>
+        <div class="species-info">
+          <span class="common">${cleanName}</span>
+          <span class="sci">${sciName}</span>
+        </div>
+      `;
       list.appendChild(li);
     }
     list.style.display = '';
@@ -213,8 +224,10 @@ function renderSelectedPanel(){
     const sciName = sciPretty(sci);
     li.innerHTML = `
       <span class="swatch" style="background:${colorFor(sci)};"></span>
-      <span class="common">${cleanName}</span>
-      <span class="sci">(${sciName})</span>
+      <div class="species-info">
+        <span class="common">${cleanName}</span>
+        <span class="sci">${sciName}</span>
+      </div>
     `;
     ul.appendChild(li);
   }
