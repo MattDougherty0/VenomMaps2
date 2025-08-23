@@ -52,16 +52,29 @@ export function labelOf(sci){
 }
 
 function extractCleanName(verboseName) {
-  // Remove German translations and subspecies info
-  // Look for the main English name before semicolons or brackets
-  const parts = verboseName.split(/[;[]/);
-  const mainPart = parts[0].trim();
-  
-  // Handle cases with multiple English names separated by commas
-  const englishNames = mainPart.split(',').map(name => name.trim());
-  
-  // Return the first clean English name (usually the most common one)
-  return englishNames[0];
+  if (!verboseName) return '';
+  // Keep only the portion before any semicolon (foreign langs) or bracketed notes
+  let mainPart = verboseName.split(';')[0].split('[')[0].trim();
+  // Drop any stray closing parens left over from source strings
+  mainPart = mainPart.replace(/\)+$/g, '');
+
+  // Split potential multi-name lists
+  const candidates = mainPart.split(',').map(s => s.trim()).filter(Boolean);
+
+  // Helper to strip leading subspecies prefixes like "viridis:" or "scutulatus:"
+  const stripPrefix = (s) => s.replace(/^[a-z0-9\-]+:\s*/i, '');
+
+  // Prefer the first candidate that doesn't start with a subspecies prefix; otherwise use the first
+  let chosen = candidates.find(c => !/^[a-z0-9\-]+:\s*/i.test(c)) || candidates[0] || mainPart;
+  chosen = stripPrefix(chosen);
+
+  // Remove parenthetical qualifiers like (Green)
+  chosen = chosen.replace(/\([^)]*\)/g, '').trim();
+
+  // Normalize common typos/variants
+  chosen = chosen.replace(/\bRidgenose\b/gi, 'Ridge-nosed');
+  chosen = chosen.replace(/\s+/g, ' ').trim();
+  return chosen;
 }
 
 export function sciPretty(sci){ return (sci || '').replace(/_/g, ' '); }
