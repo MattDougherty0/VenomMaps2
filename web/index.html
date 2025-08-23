@@ -38,6 +38,7 @@
         </div>
         <label style="display:flex; align-items:center; gap:8px; margin: 6px 2px;">
           <input id="heat-toggle" type="checkbox"> Historical heat (all records)
+          <button id="heat-info-btn" title="What is this?" style="margin-left:auto; border:none; background:#334155; color:#e2e8f0; width:20px; height:20px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; font-weight:600; cursor:pointer;">i</button>
         </label>
         <div class="chips">
           <button class="chip active" data-days="all">All</button>
@@ -62,6 +63,28 @@
       </aside>
 
       <main id="map"></main>
+    </div>
+
+    <div id="heat-info-modal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.55); z-index:2000; align-items:center; justify-content:center;">
+      <div style="background:#0f172a; color:#e2e8f0; max-width:720px; width:90%; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.4); overflow:hidden;">
+        <div style="padding:14px 16px; border-bottom:1px solid #1f2937; display:flex; align-items:center; justify-content:space-between;">
+          <div style="font-weight:600;">Historical heat map</div>
+          <button id="heat-info-close" style="border:none; background:transparent; color:#94a3b8; font-size:18px; cursor:pointer;">✕</button>
+        </div>
+        <div style="padding:16px; line-height:1.5; font-size:14px;">
+          <p style="margin:0 0 10px 0;">The heat map is a smoothed density view of all occurrence points. Each record contributes a small radial kernel in screen pixels; overlapping kernels add up to form hotspots (an approximate kernel density estimate).</p>
+          <pre style="white-space:pre-wrap; background:#111827; color:#e5e7eb; padding:12px; border-radius:6px; overflow:auto;">Value(x) ≈ Σ w_i · K(||x − x_i|| / r)
+K: radial kernel (circular)
+r: radius in pixels (we use ~18px + blur)
+w_i: point weight (intensity)</pre>
+          <ul style="margin:12px 0 0 18px; padding:0;">
+            <li>All records across species are used; selection doesn’t change it.</li>
+            <li>Weights are log-compressed; if a point has a count, it increases intensity.</li>
+            <li>Downsampling may occur for performance on very large datasets.</li>
+            <li>Because radius is in pixels, smoothing scales with zoom level.</li>
+          </ul>
+        </div>
+      </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
@@ -109,6 +132,14 @@
         toggleHeatLayer(heatToggle.checked, m);
       });
 
+      const heatInfoBtn = document.getElementById('heat-info-btn');
+      const heatInfoModal = document.getElementById('heat-info-modal');
+      const heatInfoClose = document.getElementById('heat-info-close');
+      if (heatInfoBtn && heatInfoModal && heatInfoClose) {
+        heatInfoBtn.addEventListener('click', () => { heatInfoModal.style.display = 'flex'; });
+        heatInfoClose.addEventListener('click', () => { heatInfoModal.style.display = 'none'; });
+        heatInfoModal.addEventListener('click', (e) => { if (e.target === heatInfoModal) heatInfoModal.style.display = 'none'; });
+      }
 
 
       // Chip active states
