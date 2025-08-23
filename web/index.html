@@ -72,16 +72,36 @@
           <button id="heat-info-close" style="border:none; background:transparent; color:#94a3b8; font-size:18px; cursor:pointer;">✕</button>
         </div>
         <div style="padding:16px; line-height:1.5; font-size:14px;">
-          <p style="margin:0 0 10px 0;">The heat map is a smoothed density view of all occurrence points. Each record contributes a small radial kernel in screen pixels; overlapping kernels add up to form hotspots (an approximate kernel density estimate).</p>
-          <pre style="white-space:pre-wrap; background:#111827; color:#e5e7eb; padding:12px; border-radius:6px; overflow:auto;">Value(x) ≈ Σ w_i · K(||x − x_i|| / r)
+          <p style="margin:0 0 10px 0;">This layer is a screen‑space kernel density estimate (KDE) of the historical occurrence point set P. Each occurrence i contributes a radially symmetric kernel K with pixel radius r; heat at a screen pixel x is the sum of kernels weighted by per‑point intensity.</p>
+          <pre style="white-space:pre-wrap; background:#111827; color:#e5e7eb; padding:12px; border-radius:6px; overflow:auto;">Value(x) ≈ Σ<sub>i∈P</sub> w_i · K(||x − x_i|| / r)
 K: radial kernel (circular)
-r: radius in pixels (we use ~18px + blur)
+r: kernel radius in pixels (here radius≈18px, blur≈15px)
 w_i: point weight (intensity)</pre>
+          <p style="margin:10px 0 6px 0;">Data and weights:</p>
+          <ul style="margin:0 0 12px 18px; padding:0;">
+            <li>Input: <code>web/data/heat_all_r6.geojson</code> with Point features.</li>
+            <li>Each feature contributes <code>[lat, lng, intensity]</code> to Leaflet.heat.</li>
+            <li>Intensity is log‑compressed to avoid a few dense points overwhelming the map.</li>
+          </ul>
+          <pre style="white-space:pre-wrap; background:#111827; color:#e5e7eb; padding:12px; border-radius:6px; overflow:auto;">// map.js (excerpt)
+const features = geo.features;
+const step = features.length > 50000 ? Math.ceil(features.length / 50000) : 1; // downsample
+for (let i = 0; i < features.length; i += step) {
+  const f = features[i];
+  if (!f || f.geometry?.type !== 'Point') continue;
+  const [lng, lat] = f.geometry.coordinates;
+  const count = (f.properties && typeof f.properties.count === 'number') ? f.properties.count : 1;
+  const intensity = Math.max(0.2, Math.min(1, Math.log(1 + count) / 3));
+  points.push([lat, lng, intensity]);
+}
+L.heatLayer(points, {
+  radius: 18, blur: 15, maxZoom: 11, minOpacity: 0.25,
+  gradient: { 0.2:'#1e3a8a', 0.4:'#2563eb', 0.6:'#f59e0b', 0.8:'#ef4444', 1.0:'#dc2626' }
+});</pre>
           <ul style="margin:12px 0 0 18px; padding:0;">
-            <li>All records across species are used; selection doesn’t change it.</li>
-            <li>Weights are log-compressed; if a point has a count, it increases intensity.</li>
-            <li>Downsampling may occur for performance on very large datasets.</li>
-            <li>Because radius is in pixels, smoothing scales with zoom level.</li>
+            <li>Downsampling preserves hotspot shape; absolute amplitude can be scaled if needed.</li>
+            <li>Radius is in pixels, so smoothing adapts with zoom (coarser when zoomed out).</li>
+            <li>The heat map is global (all records); species selection and time chips do not affect it.</li>
           </ul>
         </div>
       </div>
