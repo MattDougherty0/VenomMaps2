@@ -9,6 +9,7 @@ const speciesData = new Map();
 let visible = false;
 let recencyDays = null;
 let notificationElement = null;
+let allowedOccurrenceTypes = null; // null => all types allowed
 
 // Performance optimization settings
 const PERFORMANCE_CONFIG = {
@@ -93,6 +94,19 @@ export function setRecencyDays(days) {
   recencyDays = days; 
   console.log('Recency days set to:', recencyDays);
   
+  if (visible) {
+    render();
+  }
+}
+
+// Filter by occurrence type (e.g., HUMAN_OBSERVATION, PRESERVED_SPECIMEN)
+export function setOccurrenceTypes(types){
+  if (Array.isArray(types) && types.length) {
+    allowedOccurrenceTypes = new Set(types);
+  } else {
+    allowedOccurrenceTypes = null;
+  }
+  console.log('Occurrence types filter set to:', allowedOccurrenceTypes ? Array.from(allowedOccurrenceTypes) : 'ALL');
   if (visible) {
     render();
   }
@@ -428,6 +442,10 @@ async function renderClusteredPoints() {
     const arr = speciesData.get(sci) || [];
     for (const s of arr) {
       if (recencyDays != null && ageDays(s.ts) > recencyDays) continue;
+      if (allowedOccurrenceTypes && allowedOccurrenceTypes.size) {
+        const src = s.source || 'UNKNOWN';
+        if (!allowedOccurrenceTypes.has(src)) continue;
+      }
       if (!bounds.contains([s.lat, s.lon])) continue;
       filtered.push(s);
     }
@@ -470,6 +488,10 @@ async function renderIndividualPoints() {
     const arr = speciesData.get(sci) || [];
     for (const s of arr) {
       if (recencyDays != null && ageDays(s.ts) > recencyDays) continue;
+      if (allowedOccurrenceTypes && allowedOccurrenceTypes.size) {
+        const src = s.source || 'UNKNOWN';
+        if (!allowedOccurrenceTypes.has(src)) continue;
+      }
       if (!bounds.contains([s.lat, s.lon])) continue;
       filtered.push(s);
     }

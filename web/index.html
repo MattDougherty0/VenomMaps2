@@ -36,6 +36,10 @@
           <label><input id="sightings-toggle" type="checkbox"> Show sightings</label>
           <span id="sightings-count" class="hint" style="margin-left:auto;"></span>
         </div>
+        <div id="occ-type-section" style="display:none; margin: 4px 0 8px 22px;">
+          <div style="font-size:12px; color:#cbd5e1; margin-bottom:4px;">Occurrence Type</div>
+          <div id="occ-type-list" style="display:flex; flex-direction:column; gap:4px;"></div>
+        </div>
         <label style="display:flex; align-items:center; gap:8px; margin: 6px 2px;">
           <input id="heat-toggle" type="checkbox"> Historical heat (all records)
           <button id="heat-info-btn" title="What is this?" style="margin-left:auto; border:none; background:#334155; color:#e2e8f0; width:20px; height:20px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; font-weight:600; cursor:pointer;">i</button>
@@ -126,7 +130,7 @@ L.heatLayer(points, {
       
       import { attachSearch, loadCommon, attachNearby, attachSelectedPanel, onSelectionChange, selectAllSpecies } from './main.js';
       import { initMap, setSelection, onMapMove, getViewBounds, getMap, setDeferRanges } from './map.js';
-      import { initSightings, setSightingsVisible, setRecencyDays } from './sightings.js';
+      import { initSightings, setSightingsVisible, setRecencyDays, setOccurrenceTypes } from './sightings.js';
 
       await loadCommon();
       await initMap();
@@ -141,7 +145,38 @@ L.heatLayer(points, {
       selectAllSpecies();
 
       const toggle = document.getElementById('sightings-toggle');
-      toggle.addEventListener('change', () => setSightingsVisible(toggle.checked));
+      const occTypeSection = document.getElementById('occ-type-section');
+      const occTypeList = document.getElementById('occ-type-list');
+      const DEFAULT_TYPES = ['HUMAN_OBSERVATION','PRESERVED_SPECIMEN','MATERIAL_SAMPLE','MACHINE_OBSERVATION','OBSERVATION','OCCURRENCE'];
+
+      function renderOccurrenceTypeControls(types){
+        occTypeList.innerHTML = '';
+        for (const t of types) {
+          const id = `occ-${t.toLowerCase()}`;
+          const label = document.createElement('label');
+          label.style.display = 'flex';
+          label.style.alignItems = 'center';
+          label.style.gap = '8px';
+          label.innerHTML = `<input type="checkbox" id="${id}" checked> ${t.replace(/_/g,' ')}`;
+          occTypeList.appendChild(label);
+          label.querySelector('input').addEventListener('change', () => {
+            const selected = Array.from(occTypeList.querySelectorAll('input[type="checkbox"]'))
+              .filter(cb => cb.checked)
+              .map(cb => cb.id.replace(/^occ-/, '').toUpperCase().replace(/-/g,'_'));
+            setOccurrenceTypes(selected);
+          });
+        }
+        setOccurrenceTypes(types);
+      }
+
+      toggle.addEventListener('change', () => {
+        setSightingsVisible(toggle.checked);
+        occTypeSection.style.display = toggle.checked ? '' : 'none';
+      });
+
+      // Initialize occurrence type UI with defaults
+      renderOccurrenceTypeControls(DEFAULT_TYPES);
+      occTypeSection.style.display = '';
 
 
 
