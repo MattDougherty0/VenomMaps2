@@ -1,0 +1,5 @@
+# Ignore local deps and duplicate artifacts
+node_modules/
+web/**/* [0-9].json
+web/**/* [0-9].geojson
+web/styles ?.css
