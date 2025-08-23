@@ -252,6 +252,25 @@ function clearHoverState(){
   if (hoverTooltip) { map.removeLayer(hoverTooltip); hoverTooltip = null; }
 }
 
+function visibleLabelCoordsForGeo(geo) {
+  try {
+    const multi = combineToMulti(geo);
+    if (!multi || !map) return null;
+    const b = map.getBounds();
+    const viewPoly = turf.bboxPolygon([b.getWest(), b.getSouth(), b.getEast(), b.getNorth()]);
+    let clipped = null;
+    try {
+      clipped = turf.intersect(multi, viewPoly) || null;
+    } catch {}
+    const target = clipped || multi;
+    const p = turf.pointOnFeature(target);
+    if (p && p.geometry && Array.isArray(p.geometry.coordinates) && p.geometry.coordinates.length === 2) {
+      return p.geometry.coordinates;
+    }
+  } catch {}
+  return null;
+}
+
 async function handleHoverMove(latlng){
   const hits = await speciesUnderCursor(latlng);
   clearHoverState();
@@ -266,29 +285,29 @@ async function handleHoverMove(latlng){
       pane: 'overlayPane'
     }).addTo(hoverGroup);
 
-    // Add a centroid label with common (non-scientific) name
+    // Add a viewport-aware label with common (non-scientific) name
     try {
-      const c = turf.centerOfMass(geo);
-      const coords = c && c.geometry && c.geometry.coordinates;
-      if (Array.isArray(coords) && coords.length === 2) {
-        const [lng, lat] = coords;
-        const commonOnly = (labelOf(sci) || '').split(' (')[0];
-        const marker = L.marker([lat, lng], {
-          interactive: false,
-          icon: L.divIcon({
-            className: 'species-label',
-            html: `<div style="
-              color:#e5e7eb; font-weight:600; font-size:12px; text-shadow:0 1px 2px rgba(0,0,0,0.9);
-              background:rgba(17,24,39,0.35); padding:2px 6px; border-radius:6px; pointer-events:none;
+      const coords = visibleLabelCoordsForGeo(geo) || [latlng.lng, latlng.lat];
+      const [lng, lat] = coords;
+      const commonOnly = (labelOf(sci) || '').split(' (')[0];
+      const z = map.getZoom();
+      const fontSize = z >= 12 ? 14 : (z >= 9 ? 12 : 11);
+      const padding = z >= 12 ? '3px 8px' : '2px 6px';
+      const marker = L.marker([lat, lng], {
+        interactive: false,
+        icon: L.divIcon({
+          className: 'species-label',
+          html: `<div style="
+              color:#e5e7eb; font-weight:600; font-size:${fontSize}px; text-shadow:0 1px 2px rgba(0,0,0,0.9);
+              background:rgba(17,24,39,0.35); padding:${padding}; border-radius:6px; pointer-events:none;
               border:1px solid rgba(148,163,184,0.3)">
               ${commonOnly}
             </div>`,
-            iconSize: null,
-            iconAnchor: [0, 0]
-          })
-        });
-        marker.addTo(hoverLabelsGroup);
-      }
+          iconSize: null,
+          iconAnchor: [0, 0]
+        })
+      });
+      marker.addTo(hoverLabelsGroup);
     } catch {}
   }
   hoverGroup.bringToFront();
