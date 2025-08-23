@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.641389,
+          21.454167
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 21.454167,
+        "longitude": 105.641389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211749123",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Vinh Phu; Tam Dao",
+        "voucher": "ROM:Reptiles and Amphibians:34769",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.641389,
+          21.454167
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 21.454167,
+        "longitude": 105.641389,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211749235",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Vinh Phu; Tam Dao",
+        "voucher": "ROM:Reptiles and Amphibians:34770",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.912778,
+          22.628611
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 22.628611,
+        "longitude": 105.912778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211751610",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Cao Bang; Quang Thanh Village",
+        "voucher": "ROM:Reptiles and Amphibians:36976",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.881667,
+          25.481667
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 25.481667,
+        "longitude": 107.881667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686674433",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; Guizhou; Shuipu Village",
+        "voucher": "KU:KUH:312228",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.881667,
+          25.481667
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 25.481667,
+        "longitude": 107.881667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687001195",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; Guizhou; Shuipu Village",
+        "voucher": "KU:KUH:312227",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.881667,
+          25.481667
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 25.481667,
+        "longitude": 107.881667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687012853",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "CN; Guizhou; Shuipu Village",
+        "voucher": "KU:KUH:312229",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.88696,
+          25.411157
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 25.411157,
+        "longitude": 107.88696,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01984",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Libo, Guizhou, China",
+        "voucher": "KU 312227-29",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.88696,
+          25.411157
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 25.411157,
+        "longitude": 107.88696,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01985",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Libo, Guizhou, China",
+        "voucher": "KU 312227-29",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61556,
+          23.323804
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 23.323804,
+        "longitude": 106.61556,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03536",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Debao, Guangxi, China",
+        "voucher": "MVZ  206178",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61556,
+          23.323804
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 23.323804,
+        "longitude": 106.61556,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03537",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Debao, Guangxi, China",
+        "voucher": "MVZ  206178",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.64139,
+          21.454167
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 21.454167,
+        "longitude": 105.64139,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08436",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Tam Dao, Vinh Phu, Vietnam",
+        "voucher": "ROM 34769, 34770",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.64139,
+          21.454167
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 21.454167,
+        "longitude": 105.64139,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08437",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Tam Dao, Vinh Phu, Vietnam",
+        "voucher": "ROM 34769, 34770",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.567,
+          28.7667
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 28.7667,
+        "longitude": 104.567,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09837",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Suifu, Sichuan, China",
+        "voucher": "USNM 84363",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.567,
+          28.7667
+        ]
+      },
+      "properties": {
+        "scientificName": "Azemiops_feae",
+        "latitude": 28.7667,
+        "longitude": 104.567,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09838",
+        "database_recorded_species": "Azemiops feae",
+        "database_recorded_subspecies": "Azemiops feae",
+        "taxonomy_updated_species": "Azemiops_feae",
+        "taxonomy_updated_subspecies2": "Azemiops_feae",
+        "final_species": "Azemiops_feae",
+        "final_subspecies": "Azemiops_feae",
+        "accuracy_m": "NA",
+        "country": "China",
+        "locality": "Suifu, Sichuan, China",
+        "voucher": "USNM 84363",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

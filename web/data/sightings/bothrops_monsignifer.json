@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.886055,
+          -16.215113
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -16.215113,
+        "longitude": -67.886055,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2332229252",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "BO; La Paz; Cotapata National Park",
+        "voucher": "NA:CBF:CBF 3359",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.64939,
+          -18.122194
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -18.122194,
+        "longitude": -63.64939,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2332229255",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "BO; Santa Cruz; Florida",
+        "voucher": "NA:MNK:MNK 4313",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66817,
+          -13.874917
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -13.874917,
+        "longitude": -69.66817,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2332229256",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "PE; Puno; Sandia",
+        "voucher": "NA:MUBI:MUBI 5675",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.22076,
+          -14.282252
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -14.282252,
+        "longitude": -69.22076,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2332229257",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "PE; Puno; San Juan del Oro",
+        "voucher": "NA:CORBIDI:CORBIDI 10377",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.66832,
+          -18.197527
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -18.197527,
+        "longitude": -63.66832,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2332229259",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "BO; Santa Cruz; Refugio Los Volcanes",
+        "voucher": "NA:MNK:MNK 5556",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.72645,
+          -14.019222
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -14.019222,
+        "longitude": -69.72645,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2332229260",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "PE; Puno; Carabaya",
+        "voucher": "NA:MUBI:MUBI 5677",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44019,
+          -13.548825
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -13.548825,
+        "longitude": -70.44019,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2332229261",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "PE; Puno; Carabaya",
+        "voucher": "NA:MUSM:MUSM 25600",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.667175,
+          -18.196163
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -18.196163,
+        "longitude": -63.667175,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2413161221",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "BO; Centre; Cuevas Ecological",
+        "voucher": "NA:MNK:MNK 5557",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.237667,
+          -17.406166
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -17.406166,
+        "longitude": -65.237667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3005198139",
+        "database_recorded_species": "Bothrops monsignifer",
+        "database_recorded_subspecies": "Bothrops monsignifer",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": 5,
+        "country": "Bolivia",
+        "locality": "BO; Cochabamba; NA",
+        "voucher": "iNaturalist:Observations:66680089",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.886056,
+          -16.215111
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -16.215111,
+        "longitude": -67.886056,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10876",
+        "database_recorded_species": "Bothrops sanctaecrucis",
+        "database_recorded_subspecies": "Bothrops sanctaecrucis",
+        "taxonomy_updated_species": "Bothrops_sanctaecrucis",
+        "taxonomy_updated_subspecies2": "Bothrops_sanctaecrucis",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.3770835,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.515175721554,
+          -16.6019185171358
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_monsignifer",
+        "latitude": -16.6019185171358,
+        "longitude": -66.515175721554,
+        "date": "",
+        "source": "Timms et al. 2019  georeferenced",
+        "ID": "VM00036",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrops_monsignifer",
+        "taxonomy_updated_subspecies2": "Bothrops_monsignifer",
+        "final_species": "Bothrops_monsignifer",
+        "final_subspecies": "Bothrops_monsignifer",
+        "accuracy_m": "NA",
+        "country": "Bolivia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

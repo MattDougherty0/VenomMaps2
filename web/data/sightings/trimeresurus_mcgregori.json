@@ -1,0 +1,500 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.993,
+          20.4597
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.4597,
+        "longitude": 121.993,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319979374",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batan Island Group; Batan Island, 3 km ENE of Basco, Sitio Nacamaya",
+        "voucher": "USNM:Amphibians & Reptiles:291416",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.963722,
+          20.424536
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.424536,
+        "longitude": 121.963722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543648428",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Prov.; NA",
+        "voucher": "CAS:HERP:60525",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686674946",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314045",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686677485",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314040",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686685609",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314047",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686685940",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314044",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686687257",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314041",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.439,
+          19.331
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 19.331,
+        "longitude": 121.439,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686687948",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Cagayan Valley Province; Barangay Magsidel, Sitio Longog",
+        "voucher": "KU:KUH:304920",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686688307",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314043",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686698212",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314046",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.92547,
+          20.3946
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.3946,
+        "longitude": 121.92547,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686995664",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Vicente, Sitio Chyaten",
+        "voucher": "KU:KUH:314039",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.92547,
+          20.3946
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.3946,
+        "longitude": 121.92547,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687001391",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Vicente, Sitio Chyaten",
+        "voucher": "KU:KUH:314038",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.92547,
+          20.3946
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.3946,
+        "longitude": 121.92547,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687008950",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Vicente, Sitio Chyaten",
+        "voucher": "KU:KUH:314037",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687010668",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314042",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.991,
+          20.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_mcgregori",
+        "latitude": 20.47,
+        "longitude": 121.991,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_687016878",
+        "database_recorded_species": "Trimeresurus mcgregori",
+        "database_recorded_subspecies": "Trimeresurus mcgregori",
+        "taxonomy_updated_species": "Trimeresurus_mcgregori",
+        "taxonomy_updated_subspecies2": "Trimeresurus_mcgregori",
+        "final_species": "Trimeresurus_mcgregori",
+        "final_subspecies": "Trimeresurus_mcgregori",
+        "accuracy_m": "NA",
+        "country": "Philippines",
+        "locality": "PH; Batanes Province; Barangay San Antonio, Sitio Chadpidan",
+        "voucher": "KU:KUH:314048",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

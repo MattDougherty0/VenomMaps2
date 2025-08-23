@@ -1,0 +1,731 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93808,
+          8.78547
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.78547,
+        "longitude": -82.93808,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP1855",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.93802,
+          8.78295
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.78295,
+        "longitude": -82.93802,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP1857",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.885846,
+          8.8429
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.8429,
+        "longitude": -82.885846,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2350373021",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": 1604,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; NA",
+        "voucher": "iNaturalist:Observations:30608681",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.600785,
+          9.387674
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 9.387674,
+        "longitude": -83.600785,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465116008",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:30338282",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.959814,
+          8.784326
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.784326,
+        "longitude": -82.959814,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2620099731",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": 9532,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; NA",
+        "voucher": "iNaturalist:Observations:44902690",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.954886,
+          8.787742
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.787742,
+        "longitude": -82.954886,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3031776858",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": 60,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; NA",
+        "voucher": "iNaturalist:Observations:68639403",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.959646,
+          8.784561
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.784561,
+        "longitude": -82.959646,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307300189",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": 19,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; NA",
+        "voucher": "iNaturalist:Observations:82874590",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01564726,
+          9.047196312
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 9.047196312,
+        "longitude": -83.01564726,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07676",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97220531,
+          8.786477131
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.786477131,
+        "longitude": -82.97220531,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07677",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97215,
+          8.821772
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.821772,
+        "longitude": -82.97215,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins05487",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Puntarenas, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97215,
+          8.821772
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.821772,
+        "longitude": -82.97215,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins05488",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Puntarenas, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97043,
+          8.833429
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.833429,
+        "longitude": -82.97043,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins05489",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97043,
+          8.833429
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.833429,
+        "longitude": -82.97043,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins05490",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96989,
+          8.842461
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.842461,
+        "longitude": -82.96989,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins05491",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96989,
+          8.842461
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.842461,
+        "longitude": -82.96989,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins05492",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0704,
+          8.95479
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.95479,
+        "longitude": -83.0704,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A.; L. D. G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢mez, J. Monge-N‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™jera; B. I. Crother. 1998. Redescription and validation of Bothriechissupraciliaris (Serpentes: Viperidae). Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, V. 46, N. 2.",
+        "ID": "Martins08968",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Coto Brus, Puntarenas, Costa Rica",
+        "voucher": "UCR 12082, 10641, 12075-12081, 13500-13502, 2276, 2277",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0704,
+          8.95479
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.95479,
+        "longitude": -83.0704,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A.; L. D. G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢mez, J. Monge-N‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™jera; B. I. Crother. 1998. Redescription and validation of Bothriechissupraciliaris (Serpentes: Viperidae). Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, V. 46, N. 2.",
+        "ID": "Martins08969",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Coto Brus, Puntarenas, Costa Rica",
+        "voucher": "UCR 12082, 10641, 12075-12081, 13500-13502, 2276, 2277",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0704,
+          8.95479
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.95479,
+        "longitude": -83.0704,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A.; L. D. G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢mez, J. Monge-N‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™jera; B. I. Crother. 1998. Redescription and validation of Bothriechissupraciliaris (Serpentes: Viperidae). Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, V. 46, N. 2.",
+        "ID": "Martins09966",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Coto Brus, Puntarenas, Costa Rica",
+        "voucher": "UTA R-35192, 35193, 35194, 35246",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0704,
+          8.95479
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.95479,
+        "longitude": -83.0704,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A.; L. D. G‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢mez, J. Monge-N‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™jera; B. I. Crother. 1998. Redescription and validation of Bothriechissupraciliaris (Serpentes: Viperidae). Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, V. 46, N. 2.",
+        "ID": "Martins09967",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Coto Brus, Puntarenas, Costa Rica",
+        "voucher": "UTA R-35192, 35193, 35194, 35246",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03282951,
+          9.040545935
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 9.040545935,
+        "longitude": -83.03282951,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "VM00006",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10421334,
+          8.995931041
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 8.995931041,
+        "longitude": -83.10421334,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "VM00007",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49979874,
+          9.26659473
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_supraciliaris",
+        "latitude": 9.26659473,
+        "longitude": -83.49979874,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "VM00008",
+        "database_recorded_species": "Bothriechis supraciliaris",
+        "database_recorded_subspecies": "Bothriechis supraciliaris",
+        "taxonomy_updated_species": "Bothriechis_supraciliaris",
+        "taxonomy_updated_subspecies2": "Bothriechis_supraciliaris",
+        "final_species": "Bothriechis_supraciliaris",
+        "final_subspecies": "Bothriechis_supraciliaris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

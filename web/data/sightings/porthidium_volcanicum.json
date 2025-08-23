@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.409543,
+          8.652335
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_volcanicum",
+        "latitude": 8.652335,
+        "longitude": -82.409543,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2251974434",
+        "database_recorded_species": "Porthidium volcanicum",
+        "database_recorded_subspecies": "Porthidium volcanicum",
+        "taxonomy_updated_species": "Porthidium_volcanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_volcanicum",
+        "final_species": "Porthidium_volcanicum",
+        "final_subspecies": "Porthidium_volcanicum",
+        "accuracy_m": 1052,
+        "country": "Panama",
+        "locality": "PA; Chiriqu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†; NA",
+        "voucher": "iNaturalist:Observations:26078864",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.427493,
+          8.606944
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_volcanicum",
+        "latitude": 8.606944,
+        "longitude": -82.427493,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3017989558",
+        "database_recorded_species": "Porthidium lansbergii",
+        "database_recorded_subspecies": "Porthidium lansbergii",
+        "taxonomy_updated_species": "Porthidium_lansbergii",
+        "taxonomy_updated_subspecies2": "Porthidium_lansbergii",
+        "final_species": "Porthidium_volcanicum",
+        "final_subspecies": "Porthidium_volcanicum",
+        "accuracy_m": 64,
+        "country": "Panama",
+        "locality": "PA; Chiriqu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†; NA",
+        "voucher": "iNaturalist:Observations:66788824",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 2.361749,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38809761,
+          9.132474389
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_volcanicum",
+        "latitude": 9.132474389,
+        "longitude": -83.38809761,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36910",
+        "database_recorded_species": "Porthidium volcanicum",
+        "database_recorded_subspecies": "Porthidium volcanicum",
+        "taxonomy_updated_species": "Porthidium_volcanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_volcanicum",
+        "final_species": "Porthidium_volcanicum",
+        "final_subspecies": "Porthidium_volcanicum",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38333,
+          9.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_volcanicum",
+        "latitude": 9.133333,
+        "longitude": -83.38333,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1994. Una nueva especie de serpiente venenosa terrestre del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Porthidum (Serpentes: Viperidae), del Suroeste de Costa Rica. Rev Biol. Trop., V. 42, N. 3: 695-701.",
+        "ID": "Martins08966",
+        "database_recorded_species": "Porthidium volcanicum",
+        "database_recorded_subspecies": "Porthidium volcanicum",
+        "taxonomy_updated_species": "Porthidium_volcanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_volcanicum",
+        "final_species": "Porthidium_volcanicum",
+        "final_subspecies": "Porthidium_volcanicum",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Valle del General, Puntarenas, Costa Rica",
+        "voucher": "UCR 11642",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38333,
+          9.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_volcanicum",
+        "latitude": 9.133333,
+        "longitude": -83.38333,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1994. Una nueva especie de serpiente venenosa terrestre del g‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©nero Porthidum (Serpentes: Viperidae), del Suroeste de Costa Rica. Rev Biol. Trop., V. 42, N. 3: 695-701.",
+        "ID": "Martins08967",
+        "database_recorded_species": "Porthidium volcanicum",
+        "database_recorded_subspecies": "Porthidium volcanicum",
+        "taxonomy_updated_species": "Porthidium_volcanicum",
+        "taxonomy_updated_subspecies2": "Porthidium_volcanicum",
+        "final_species": "Porthidium_volcanicum",
+        "final_subspecies": "Porthidium_volcanicum",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Valle del General, Puntarenas, Costa Rica",
+        "voucher": "UCR 11642",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

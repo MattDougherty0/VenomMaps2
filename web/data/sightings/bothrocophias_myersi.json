@@ -1,0 +1,995 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60365,
+          3.88826
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.88826,
+        "longitude": -76.60365,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954215",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 1701,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; 7 km del campamento campo alegre en r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Azul",
+        "voucher": "Universidad del Valle:UVC:UVC-6677",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.201465,
+          3.851962
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.851962,
+        "longitude": -77.201465,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954273",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 1199,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "Universidad del Valle:UVC:UVC-14154",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78749,
+          3.85181
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.85181,
+        "longitude": -76.78749,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1099953545",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 1914,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; Reserva Pericos",
+        "voucher": "Universidad del Valle:UVC:UV-C16164",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.895833,
+          3.878889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.878889,
+        "longitude": -76.895833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912807904",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 1725,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Calima, Campamento \"Cart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n Colombia\", a 7 Km del r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o.",
+        "voucher": "ICN:ICN-MHN-Rep:426",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.895833,
+          3.878889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.878889,
+        "longitude": -76.895833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912807925",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 1725,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Calima, Campamento \"Cart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n Colombia\", a 7 Km del r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o.",
+        "voucher": "ICN:ICN-MHN-Rep:422",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.135839,
+          4.2273
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 4.2273,
+        "longitude": -77.135839,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912814932",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 8081,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Bajo San Juan, Tarapalito, comunidad Wawana.",
+        "voucher": "ICN:ICN-MHN-Rep:10909",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89804,
+          3.84032
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.84032,
+        "longitude": -76.89804,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1986582636",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 2164,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "iNaturalist:Observations:19428493",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89804,
+          3.84032
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.84032,
+        "longitude": -76.89804,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397514241",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 2164,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "iNaturalist:Observations:31325402",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.667606,
+          2.777744
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 2.777744,
+        "longitude": -77.667606,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2557791120",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 1133,
+        "country": "Colombia",
+        "locality": "CO; Cauca; NA",
+        "voucher": "iNaturalist:Observations:37575456",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.984664,
+          3.880296
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.880296,
+        "longitude": -76.984664,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2576506096",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 31415,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "iNaturalist:Observations:39516544",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.589987,
+          2.861987
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 2.861987,
+        "longitude": -77.589987,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626494817",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 644,
+        "country": "Colombia",
+        "locality": "CO; Cauca; NA",
+        "voucher": "iNaturalist:Observations:45742534",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47789,
+          2.848234
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 2.848234,
+        "longitude": -77.47789,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3031721824",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 4252,
+        "country": "Colombia",
+        "locality": "CO; Cauca; NA",
+        "voucher": "iNaturalist:Observations:68604116",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.667606,
+          2.777744
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 2.777744,
+        "longitude": -77.667606,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3058976616",
+        "database_recorded_species": "Bothrocophias campbelli",
+        "database_recorded_subspecies": "Bothrocophias campbelli",
+        "taxonomy_updated_species": "Bothrocophias_campbelli",
+        "taxonomy_updated_subspecies2": "Bothrocophias_campbelli",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": 1133,
+        "country": "Colombia",
+        "locality": "CO; Cauca; NA",
+        "voucher": "iNaturalist:Observations:65781220",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.389239,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78749,
+          3.85181
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.85181,
+        "longitude": -76.78749,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07726",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.789541,
+          3.845227
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.845227,
+        "longitude": -76.789541,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07727",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.201465,
+          3.851962
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.851962,
+        "longitude": -77.201465,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07728",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60365,
+          3.88826
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.88826,
+        "longitude": -76.60365,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07729",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86869,
+          3.716263
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.716263,
+        "longitude": -76.86869,
+        "date": "",
+        "source": "Gutberlet, R. L. Jr. and J. A. Campbell. 2001. Generic recognition for a neglected lineage of South American Pitvipers (Squamata: Viperidae: Crotalinae), with a description of a new species from the colombian Choc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢. American Museum Novitates, 3316:1-15.",
+        "ID": "Martins01092",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Road Buenaventura-R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†o Calima, Valle del Cauca, Colombia",
+        "voucher": "FMNH 165586‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü96",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86869,
+          3.716263
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.716263,
+        "longitude": -76.86869,
+        "date": "",
+        "source": "Gutberlet, R. L. Jr. and J. A. Campbell. 2001. Generic recognition for a neglected lineage of South American Pitvipers (Squamata: Viperidae: Crotalinae), with a description of a new species from the colombian Choc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢. American Museum Novitates, 3316:1-15.",
+        "ID": "Martins01093",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Road Buenaventura-R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†o Calima, Valle del Cauca, Colombia",
+        "voucher": "FMNH 165586‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü96",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09578,
+          3.690554
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.690554,
+        "longitude": -77.09578,
+        "date": "",
+        "source": "Gutberlet, R. L. Jr. and J. A. Campbell. 2001. Generic recognition for a neglected lineage of South American Pitvipers (Squamata: Viperidae: Crotalinae), with a description of a new species from the colombian Choc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢. American Museum Novitates, 3316:1-15.",
+        "ID": "Martins09179",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Raposo, Buenaventura, Valle de Cauca, Colombia",
+        "voucher": "USNM 151708, 154051",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09578,
+          3.690554
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.690554,
+        "longitude": -77.09578,
+        "date": "",
+        "source": "Gutberlet, R. L. Jr. and J. A. Campbell. 2001. Generic recognition for a neglected lineage of South American Pitvipers (Squamata: Viperidae: Crotalinae), with a description of a new species from the colombian Choc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢. American Museum Novitates, 3316:1-15.",
+        "ID": "Martins09180",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Raposo, Buenaventura, Valle de Cauca, Colombia",
+        "voucher": "USNM 151708, 154051",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07023,
+          3.886611
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.886611,
+        "longitude": -77.07023,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09181",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151708, 154051",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07023,
+          3.886611
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.886611,
+        "longitude": -77.07023,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09182",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151708, 154051",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07023,
+          3.886611
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.886611,
+        "longitude": -77.07023,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09183",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151708, 154051",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0486,
+          3.405108
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.405108,
+        "longitude": -77.0486,
+        "date": "",
+        "source": "Gutberlet, R. L. Jr. and J. A. Campbell. 2001. Generic recognition for a neglected lineage of South American Pitvipers (Squamata: Viperidae: Crotalinae), with a description of a new species from the colombian Choc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢. American Museum Novitates, 3316:1-15.",
+        "ID": "Martins09897",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Cajambre River, Valle del Cauca, Colombia",
+        "voucher": "UTA R-21689",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0486,
+          3.405108
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.405108,
+        "longitude": -77.0486,
+        "date": "",
+        "source": "Gutberlet, R. L. Jr. and J. A. Campbell. 2001. Generic recognition for a neglected lineage of South American Pitvipers (Squamata: Viperidae: Crotalinae), with a description of a new species from the colombian Choc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢. American Museum Novitates, 3316:1-15.",
+        "ID": "Martins09898",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Cajambre River, Valle del Cauca, Colombia",
+        "voucher": "UTA R-21689",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64508,
+          3.810554
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.810554,
+        "longitude": -76.64508,
+        "date": "",
+        "source": "Castro-Herrera, F and F. Vargas-Salinas. 2008. Anfibios y reptiles  em el departamento del Valle del Cauca, Colombia. Biota Colombiana, V. 9, N. 2: 251-277.",
+        "ID": "Martins10213",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Valle del Cauca (Departamento), Colombia",
+        "voucher": "UVC 6677-7241",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64508,
+          3.810554
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 3.810554,
+        "longitude": -76.64508,
+        "date": "",
+        "source": "Castro-Herrera, F and F. Vargas-Salinas. 2008. Anfibios y reptiles  em el departamento del Valle del Cauca, Colombia. Biota Colombiana, V. 9, N. 2: 251-277.",
+        "ID": "Martins10214",
+        "database_recorded_species": "Bothrocophias myersi",
+        "database_recorded_subspecies": "Bothrocophias myersi",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Valle del Cauca (Departamento), Colombia",
+        "voucher": "UVC 6677-7241",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9676638842022,
+          4.60752663624204
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 4.60752663624204,
+        "longitude": -76.9676638842022,
+        "date": "",
+        "source": "Campbell and Lamar 2004",
+        "ID": "VM00031",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.673953496749,
+          4.88240943475596
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_myersi",
+        "latitude": 4.88240943475596,
+        "longitude": -76.673953496749,
+        "date": "",
+        "source": "Campbell and Lamar 2004",
+        "ID": "VM00032",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrocophias_myersi",
+        "taxonomy_updated_subspecies2": "Bothrocophias_myersi",
+        "final_species": "Bothrocophias_myersi",
+        "final_subspecies": "Bothrocophias_myersi",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

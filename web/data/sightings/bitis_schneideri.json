@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.079611,
+          -29.701555
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_schneideri",
+        "latitude": -29.701555,
+        "longitude": 17.079611,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_1325740340",
+        "database_recorded_species": "Bitis schneideri",
+        "database_recorded_subspecies": "Bitis schneideri",
+        "taxonomy_updated_species": "Bitis_schneideri",
+        "taxonomy_updated_subspecies2": "Bitis_schneideri",
+        "final_species": "Bitis_schneideri",
+        "final_subspecies": "Bitis_schneideri",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "ZA; Northern Cape; Kleinzee, Just South of Town on road to Koiingnaas",
+        "voucher": "NA:NA:NA",
+        "issue": "RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.230177,
+          -30.084499
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_schneideri",
+        "latitude": -30.084499,
+        "longitude": 17.230177,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826278828",
+        "database_recorded_species": "Bitis schneideri",
+        "database_recorded_subspecies": "Bitis schneideri",
+        "taxonomy_updated_species": "Bitis_schneideri",
+        "taxonomy_updated_subspecies2": "Bitis_schneideri",
+        "final_species": "Bitis_schneideri",
+        "final_subspecies": "Bitis_schneideri",
+        "accuracy_m": 29407,
+        "country": "South Africa",
+        "locality": "ZA; Northern Cape; NA",
+        "voucher": "iNaturalist:Observations:54894441",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.908197,
+          -29.273053
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_schneideri",
+        "latitude": -29.273053,
+        "longitude": 16.908197,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3044694587",
+        "database_recorded_species": "Bitis schneideri",
+        "database_recorded_subspecies": "Bitis schneideri",
+        "taxonomy_updated_species": "Bitis_schneideri",
+        "taxonomy_updated_subspecies2": "Bitis_schneideri",
+        "final_species": "Bitis_schneideri",
+        "final_subspecies": "Bitis_schneideri",
+        "accuracy_m": 29508,
+        "country": "South Africa",
+        "locality": "ZA; Northern Cape; NA",
+        "voucher": "iNaturalist:Observations:69817387",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.133333,
+          -26.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_schneideri",
+        "latitude": -26.65,
+        "longitude": 15.133333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476690726",
+        "database_recorded_species": "Bitis schneideri",
+        "database_recorded_subspecies": "Bitis schneideri",
+        "taxonomy_updated_species": "Bitis_schneideri",
+        "taxonomy_updated_subspecies2": "Bitis_schneideri",
+        "final_species": "Bitis_schneideri",
+        "final_subspecies": "Bitis_schneideri",
+        "accuracy_m": 8400,
+        "country": "Namibia",
+        "locality": "NA; Karas; Namibia Luderitz Bay",
+        "voucher": "MCZ:Herp:R-159176",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.88054,
+          -29.24313
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_schneideri",
+        "latitude": -29.24313,
+        "longitude": 16.88054,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03695",
+        "database_recorded_species": "Bitis schneideri",
+        "database_recorded_subspecies": "Bitis schneideri",
+        "taxonomy_updated_species": "Bitis_schneideri",
+        "taxonomy_updated_subspecies2": "Bitis_schneideri",
+        "final_species": "Bitis_schneideri",
+        "final_subspecies": "Bitis_schneideri",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Port Nolloth, South Africa",
+        "voucher": "MVZ 238685-88, R-184762",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.88054,
+          -29.24313
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_schneideri",
+        "latitude": -29.24313,
+        "longitude": 16.88054,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03696",
+        "database_recorded_species": "Bitis schneideri",
+        "database_recorded_subspecies": "Bitis schneideri",
+        "taxonomy_updated_species": "Bitis_schneideri",
+        "taxonomy_updated_subspecies2": "Bitis_schneideri",
+        "final_species": "Bitis_schneideri",
+        "final_subspecies": "Bitis_schneideri",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Port Nolloth, South Africa",
+        "voucher": "MVZ 238685-88, R-184762",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.07097,
+          -29.677103
+        ]
+      },
+      "properties": {
+        "scientificName": "Bitis_schneideri",
+        "latitude": -29.677103,
+        "longitude": 17.07097,
+        "date": "",
+        "source": "Lenk, P., H. Hans-Werner, U. Joger, and M. Wink. 1999. Phylogeny and taxonomic subdivision of Bitis (Reptilia: Viperidae) based on molecular evidence. Darmstadter Beitrage zur Naturgechte, 8:31-38.",
+        "ID": "Martins05383",
+        "database_recorded_species": "Bitis schneideri",
+        "database_recorded_subspecies": "Bitis schneideri",
+        "taxonomy_updated_species": "Bitis_schneideri",
+        "taxonomy_updated_subspecies2": "Bitis_schneideri",
+        "final_species": "Bitis_schneideri",
+        "final_subspecies": "Bitis_schneideri",
+        "accuracy_m": "NA",
+        "country": "South Africa",
+        "locality": "Kleinsee, South Africa",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

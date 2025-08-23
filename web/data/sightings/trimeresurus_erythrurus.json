@@ -1,0 +1,566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.927025,
+          25.013418
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 25.013418,
+        "longitude": 91.927025,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1257408327",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": 202,
+        "country": "Bangladesh",
+        "locality": "BD; Sylhet; NA",
+        "voucher": "iNaturalist:Observations:1870023",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.797765,
+          24.341403
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 24.341403,
+        "longitude": 91.797765,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1986506974",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": 202,
+        "country": "Bangladesh",
+        "locality": "BD; Sylhet; NA",
+        "voucher": "iNaturalist:Observations:16870992",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.344815,
+          24.352674
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 24.352674,
+        "longitude": 92.344815,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1990479614",
+        "database_recorded_species": "Trimeresurus albolabris",
+        "database_recorded_subspecies": "Trimeresurus albolabris",
+        "taxonomy_updated_species": "Trimeresurus_albolabris",
+        "taxonomy_updated_subspecies2": "Trimeresurus_albolabris",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": 202,
+        "country": "India",
+        "locality": "IN; Assam; NA",
+        "voucher": "iNaturalist:Observations:19587238",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 2.793789,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.461033,
+          23.621135
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 23.621135,
+        "longitude": 92.461033,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311332662",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": 758,
+        "country": "India",
+        "locality": "IN; Mizoram; NA",
+        "voucher": "iNaturalist:Observations:29626301",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.461033,
+          23.621135
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 23.621135,
+        "longitude": 92.461033,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311334637",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": 758,
+        "country": "India",
+        "locality": "IN; Mizoram; NA",
+        "voucher": "iNaturalist:Observations:29626300",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.28261,
+          25.057479
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 25.057479,
+        "longitude": 88.28261,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314157455",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": 1518,
+        "country": "India",
+        "locality": "IN; West Bengal; NA",
+        "voucher": "iNaturalist:Observations:78234436",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.097361,
+          17.040778
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 17.040778,
+        "longitude": 96.097361,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543567165",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Yangon Div.; Mingalardon Township, Hlawga Wildlife Park, 17 02 26.8 N, 96 05 50.5 E",
+        "voucher": "CAS:HERP:213412",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.012944,
+          21.005083
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 21.005083,
+        "longitude": 94.012944,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543591024",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Chin State; Kanpatlat Township, Ma Sar Due Village, 21 00 18.3 N, 94 00 46.6 E",
+        "voucher": "CAS:HERP:234887",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.534139,
+          16.625611
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 16.625611,
+        "longitude": 94.534139,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543596163",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Ayeyarwady Div.; Pathein Township, Mandat village, Kayin Noke Mountain, 16 37 32.2 N, 94 32 02.9 E",
+        "voucher": "CAS:HERP:239511",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.504972,
+          19.321611
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 19.321611,
+        "longitude": 93.504972,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543596475",
+        "database_recorded_species": "Trimeresurus albolabris",
+        "database_recorded_subspecies": "Trimeresurus albolabris",
+        "taxonomy_updated_species": "Trimeresurus_albolabris",
+        "taxonomy_updated_subspecies2": "Trimeresurus_albolabris",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Rakhine State; Kyaukpyu Township, Minbyin village, 19 19 17.8 N, 93 30 17.9 E",
+        "voucher": "CAS:HERP:239793",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 2.793789,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.733944,
+          19.206139
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 19.206139,
+        "longitude": 93.733944,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543596533",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Rakhine State; Kyaukpyu Township, Sane village, 19 12 22.1 N, 93 44 02.2 E",
+        "voucher": "CAS:HERP:239845",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.378694,
+          21.910722
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 21.910722,
+        "longitude": 94.378694,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543600234",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Magway Div.; Gangaw Township, Kyaw village, 21 54 38.6 N, 94 22 43.3 E",
+        "voucher": "CAS:HERP:243175",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.558056,
+          23.750972
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 23.750972,
+        "longitude": 93.558056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543600274",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "MM; Chin State; Tunzan Township, Singgel village, 23 45 03.5 N, 93 33 29.0 E",
+        "voucher": "CAS:HERP:243210",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15001,
+          16.800616
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 16.800616,
+        "longitude": 96.15001,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00051",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "Yangon, Burma, Myanmar",
+        "voucher": "AM A209",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15001,
+          16.800616
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 16.800616,
+        "longitude": 96.15001,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins00052",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "Yangon, Burma, Myanmar",
+        "voucher": "AM A209",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15001,
+          16.800616
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 16.800616,
+        "longitude": 96.15001,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00053",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "Yangon, Burma, Myanmar",
+        "voucher": "AM A209",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15001,
+          16.800616
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_erythrurus",
+        "latitude": 16.800616,
+        "longitude": 96.15001,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins00054",
+        "database_recorded_species": "Trimeresurus erythrurus",
+        "database_recorded_subspecies": "Trimeresurus erythrurus",
+        "taxonomy_updated_species": "Trimeresurus_erythrurus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_erythrurus",
+        "final_species": "Trimeresurus_erythrurus",
+        "final_subspecies": "Trimeresurus_erythrurus",
+        "accuracy_m": "NA",
+        "country": "Myanmar",
+        "locality": "Yangon, Burma, Myanmar",
+        "voucher": "AM A209",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.35,
+          9
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_vegrandis",
+        "latitude": 9,
+        "longitude": -62.35,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35959",
+        "database_recorded_species": "Crotalus vegrandis",
+        "database_recorded_subspecies": "Crotalus vegrandis",
+        "taxonomy_updated_species": "Crotalus_vegrandis",
+        "taxonomy_updated_subspecies2": "Crotalus_vegrandis",
+        "final_species": "Crotalus_vegrandis",
+        "final_subspecies": "Crotalus_vegrandis",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1886 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83275,
+          -1.04665
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.04665,
+        "longitude": -80.83275,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0024",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Manab‚Äö√†√∂‚àö‚Ä¢; Manta; Desconocido; El Aromo; Proyecto Refiner‚Äö√†√∂‚àö‚Ä¢a ¬¨¬®‚àö√úEl Aromo¬¨¬®‚àö√ú, Cant‚Äö√†√∂‚àö¬µn: Manta, Provincia: Manab‚Äö√†√∂‚àö‚Ä¢, Lugar: El Aromo",
+        "voucher": "QCAZR10584",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.77527,
+          -1.513333
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.513333,
+        "longitude": -80.77527,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0478",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Manab‚Äö√†√∂‚àö‚Ä¢; Desconocido; Desconocido; Parque Nacional Machalilla, Buena Vista; NA",
+        "voucher": "QCAZR3939",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55,
+          -1.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.05,
+        "longitude": -80.55,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0646",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Manab‚Äö√†√∂‚àö‚Ä¢; Desconocido; Desconocido; Cerro de Hoja - Portoviejo; NA",
+        "voucher": "QCAZR6499",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47462,
+          -0.660516
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.660516,
+        "longitude": -80.47462,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0745",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Manab‚Äö√†√∂‚àö‚Ä¢; Desconocido; Desconocido; Entre San Clemente y Bah‚Äö√†√∂‚àö‚Ä¢a de Caraquez, entre los esteros El Pajonal - Los Quebraditos, Bosque de Chirije; Entre San Clemente y Bah‚Äö√†√∂‚àö‚Ä¢a de Caraquez, entre los esteros El Pajonal - Los Quebraditos, Bosque de Chirije",
+        "voucher": "QCAZR9049",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46286,
+          -0.635053
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.635053,
+        "longitude": -80.46286,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847561323",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Manabi; NA",
+        "voucher": "iNaturalist:Observations:12631167",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.693293,
+          -1.082854
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.082854,
+        "longitude": -80.693293,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626560115",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": 212,
+        "country": "Ecuador",
+        "locality": "EC; Manabi; NA",
+        "voucher": "iNaturalist:Observations:46332888",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58833,
+          -1.312593
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.312593,
+        "longitude": -80.58833,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802652062",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": 700,
+        "country": "Ecuador",
+        "locality": "EC; Manabi; NA",
+        "voucher": "iNaturalist:Observations:50728294",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.764302,
+          -0.963836
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.963836,
+        "longitude": -80.764302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802768913",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Manabi; NA",
+        "voucher": "iNaturalist:Observations:50670275",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.589177,
+          -1.303962
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.303962,
+        "longitude": -80.589177,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802829064",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": 700,
+        "country": "Ecuador",
+        "locality": "EC; Manabi; NA",
+        "voucher": "iNaturalist:Observations:50727178",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.589177,
+          -1.303962
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.303962,
+        "longitude": -80.589177,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2803026040",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": 700,
+        "country": "Ecuador",
+        "locality": "EC; Manabi; NA",
+        "voucher": "iNaturalist:Observations:50727741",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.582727,
+          -1.105678
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.105678,
+        "longitude": -80.582727,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2818745166",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": 4208,
+        "country": "Ecuador",
+        "locality": "EC; Manabi; NA",
+        "voucher": "iNaturalist:Observations:52979039",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41284154,
+          -0.684725
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.684725,
+        "longitude": -80.41284154,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36563",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4455945,
+          -0.889854
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.889854,
+        "longitude": -80.4455945,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36564",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80576125,
+          -1.00112
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.00112,
+        "longitude": -80.80576125,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36565",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65109629,
+          -1.02253
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.02253,
+        "longitude": -80.65109629,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36566",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88433877,
+          -1.11279
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.11279,
+        "longitude": -80.88433877,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36567",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.59160976,
+          -1.22479
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.22479,
+        "longitude": -80.59160976,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36568",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.72723904,
+          -1.25572
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.25572,
+        "longitude": -80.72723904,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36569",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68202928,
+          -1.3080699
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.3080699,
+        "longitude": -80.68202928,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36570",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46073941,
+          -1.27952
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.27952,
+        "longitude": -80.46073941,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36571",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73675688,
+          -1.51508
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.51508,
+        "longitude": -80.73675688,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36572",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80433358,
+          -1.52151
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.52151,
+        "longitude": -80.80433358,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36573",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82765229,
+          -1.61121
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.61121,
+        "longitude": -80.82765229,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36574",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84149,
+          -1.591092
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591092,
+        "longitude": -80.84149,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W., M. G. Salom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬£o, J. A. Quijada-Mascare‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±as, R. S. Thorpe, and BBBSP. 2002. Origins and evolution of the South American Pitviper fauna: evidence from mitochondrial DNA sequence analysis. Pp: 111-128, In: G. W. Schuett; M. H‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞ggren; M. E. Douglas; H. W. Greene. (Org. ). Biology of the Vipers. Eagle Mountain Publishing, Eagle Mountain.",
+        "ID": "Martins00019",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "AF 292575",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84149,
+          -1.591092
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591092,
+        "longitude": -80.84149,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W., M. G. Salom‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬£o, J. A. Quijada-Mascare‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±as, R. S. Thorpe, and BBBSP. 2002. Origins and evolution of the South American Pitviper fauna: evidence from mitochondrial DNA sequence analysis. Pp: 111-128, In: G. W. Schuett; M. H‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞ggren; M. E. Douglas; H. W. Greene. (Org. ). Biology of the Vipers. Eagle Mountain Publishing, Eagle Mountain.",
+        "ID": "Martins00020",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "AF 292575",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67688,
+          -1.539092
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.539092,
+        "longitude": -80.67688,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F. and M. Y‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nez-Mu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±oz. 2005. Reptilia, Viperidae, Crotalinae, Porthidium nasutum: distribution extension and remarks on its range and records. Check List, 1(1):16-17.",
+        "ID": "Martins00826",
+        "database_recorded_species": "Porthidium nasutum",
+        "database_recorded_subspecies": "Porthidium nasutum",
+        "taxonomy_updated_species": "Porthidium_nasutum",
+        "taxonomy_updated_subspecies2": "Porthidium_nasutum",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Machalilla National Park, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "DHMECN 068",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.3623395,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67688,
+          -1.539092
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.539092,
+        "longitude": -80.67688,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F. and M. Y‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nez-Mu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±oz. 2005. Reptilia, Viperidae, Crotalinae, Porthidium nasutum: distribution extension and remarks on its range and records. Check List, 1(1):16-17.",
+        "ID": "Martins00827",
+        "database_recorded_species": "Porthidium nasutum",
+        "database_recorded_subspecies": "Porthidium nasutum",
+        "taxonomy_updated_species": "Porthidium_nasutum",
+        "taxonomy_updated_subspecies2": "Porthidium_nasutum",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Machalilla National Park, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "DHMECN 068",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.3623395,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.69684,
+          -0.973574
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.973574,
+        "longitude": -80.69684,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00957",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "San Mateo, Manta, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 2160",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.69684,
+          -0.973574
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.973574,
+        "longitude": -80.69684,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00958",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "San Mateo, Manta, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 2160",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.70307,
+          -0.991869
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.991869,
+        "longitude": -80.70307,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00974",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Jipijapa, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 3005, 3119, 3154, 3164, 3210, 3111, 3118, 3122, 3150, 3259, 3133, 2718, 3123, 2490, 3559, 3186, .....",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.70307,
+          -0.991869
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.991869,
+        "longitude": -80.70307,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00975",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Jipijapa, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 3005, 3119, 3154, 3164, 3210, 3111, 3118, 3122, 3150, 3259, 3133, 2718, 3123, 2490, 3559, 3186, .....",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65369,
+          -1.044001
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.044001,
+        "longitude": -80.65369,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00980",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Montecristi, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 3615",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65369,
+          -1.044001
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.044001,
+        "longitude": -80.65369,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00981",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Montecristi, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 3615",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67688,
+          -1.539092
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.539092,
+        "longitude": -80.67688,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00982",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Machalilla National Park, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 3777",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67688,
+          -1.539092
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.539092,
+        "longitude": -80.67688,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins00983",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Machalilla National Park, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "FHGO 3777",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80584,
+          -1.562386
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.562386,
+        "longitude": -80.80584,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07035",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Puerto Lo‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±pez, Manabi, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80584,
+          -1.562386
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.562386,
+        "longitude": -80.80584,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07036",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Puerto Lo‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±pez, Manabi, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74162,
+          -1.530386
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.530386,
+        "longitude": -80.74162,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07037",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Agua Blanca, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74162,
+          -1.530386
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.530386,
+        "longitude": -80.74162,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07038",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Agua Blanca, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.57837,
+          -1.256979
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.256979,
+        "longitude": -80.57837,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07039",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Sanca‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±n, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.57837,
+          -1.256979
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.256979,
+        "longitude": -80.57837,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07040",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Sanca‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±n, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45907,
+          -0.884894
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.884894,
+        "longitude": -80.45907,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07041",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "San Eloy, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45907,
+          -0.884894
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.884894,
+        "longitude": -80.45907,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07042",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "San Eloy, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43102,
+          -0.608935
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.608935,
+        "longitude": -80.43102,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07043",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Bahi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±a de Cara‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±quez, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43102,
+          -0.608935
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.608935,
+        "longitude": -80.43102,
+        "date": "",
+        "source": "Valencia, J. H., G. Vaca-Guerrero, and K. Garzon. 2010. Natural history, potential distribution and conservation status of the Manabi Hognose Pitviper Porthidium arcosae (SCHA‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†TTI & KRAMER, 1993), in Ecuador. (Squamata: Viperidae: Crotalinae). Herpetozoa, 23(3/4):",
+        "ID": "Martins07044",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Bahi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±a de Cara‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±quez, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43102,
+          -0.608935
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.608935,
+        "longitude": -80.43102,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F. and M. Y‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nez-Mu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±oz. 2005. Reptilia, Viperidae, Crotalinae, Porthidium nasutum: distribution extension and remarks on its range and records. Check List, 1(1):16-17.",
+        "ID": "Martins07107",
+        "database_recorded_species": "Porthidium nasutum",
+        "database_recorded_subspecies": "Porthidium nasutum",
+        "taxonomy_updated_species": "Porthidium_nasutum",
+        "taxonomy_updated_subspecies2": "Porthidium_nasutum",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Bahi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±a de Cara‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±quez, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.3623395,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43102,
+          -0.608935
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -0.608935,
+        "longitude": -80.43102,
+        "date": "",
+        "source": "Cisneros-Heredia, D. F. and M. Y‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nez-Mu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±oz. 2005. Reptilia, Viperidae, Crotalinae, Porthidium nasutum: distribution extension and remarks on its range and records. Check List, 1(1):16-17.",
+        "ID": "Martins07108",
+        "database_recorded_species": "Porthidium nasutum",
+        "database_recorded_subspecies": "Porthidium nasutum",
+        "taxonomy_updated_species": "Porthidium_nasutum",
+        "taxonomy_updated_subspecies2": "Porthidium_nasutum",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Bahi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±a de Cara‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬±quez, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.3623395,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84216,
+          -1.589171
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.589171,
+        "longitude": -80.84216,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins10298",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW 750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84216,
+          -1.589171
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.589171,
+        "longitude": -80.84216,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins10299",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW 750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84152,
+          -1.591122
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591122,
+        "longitude": -80.84152,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, 163: 943-958.",
+        "ID": "Martins10300",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW 750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84152,
+          -1.591122
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591122,
+        "longitude": -80.84152,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, 163: 943-958.",
+        "ID": "Martins10301",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW 750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84152,
+          -1.591155
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591155,
+        "longitude": -80.84152,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins10302",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manabi, Ecuador",
+        "voucher": "WWW-750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84152,
+          -1.591155
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591155,
+        "longitude": -80.84152,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins10303",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manabi, Ecuador",
+        "voucher": "WWW-750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84151,
+          -1.591112
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591112,
+        "longitude": -80.84151,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10304",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW-750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84151,
+          -1.591112
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591112,
+        "longitude": -80.84151,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10305",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW-750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84145,
+          -1.591062
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591062,
+        "longitude": -80.84145,
+        "date": "",
+        "source": "Castoe, T. A., M. M. Sasa, C. L. Parkinson. 2005. Modeling nucleotide evolution at the mesoscale: The phylogeny of the Neotropical pitvipers of the Porthidium group (Viperidae: Crotalinae). Molecular Phylogenetics and Evolution, 37:881-898.",
+        "ID": "Martins10306",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW-750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84145,
+          -1.591062
+        ]
+      },
+      "properties": {
+        "scientificName": "Porthidium_arcosae",
+        "latitude": -1.591062,
+        "longitude": -80.84145,
+        "date": "",
+        "source": "Castoe, T. A., M. M. Sasa, C. L. Parkinson. 2005. Modeling nucleotide evolution at the mesoscale: The phylogeny of the Neotropical pitvipers of the Porthidium group (Viperidae: Crotalinae). Molecular Phylogenetics and Evolution, 37:881-898.",
+        "ID": "Martins10307",
+        "database_recorded_species": "Porthidium arcosae",
+        "database_recorded_subspecies": "Porthidium arcosae",
+        "taxonomy_updated_species": "Porthidium_arcosae",
+        "taxonomy_updated_subspecies2": "Porthidium_arcosae",
+        "final_species": "Porthidium_arcosae",
+        "final_subspecies": "Porthidium_arcosae",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Salango, Manab‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Ecuador",
+        "voucher": "WWW-750",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

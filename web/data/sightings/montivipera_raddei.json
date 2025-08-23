@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.253333,
+          40.365
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 40.365,
+        "longitude": 44.253333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211737683",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Aragatsotn; Aragatz Mountain, Kutchak, south, Amberd River Gorge, Bjurakan",
+        "voucher": "ROM:Reptiles and Amphibians:21914",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.412,
+          39.008
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.008,
+        "longitude": 46.412,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769246",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Sunik; Shikahohg State Nature Reserve",
+        "voucher": "ROM:Reptiles and Amphibians:44294",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.412,
+          39.008
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.008,
+        "longitude": 46.412,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769252",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Sunik; Shikahohg State Nature Reserve",
+        "voucher": "ROM:Reptiles and Amphibians:44295",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.412,
+          39.008
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.008,
+        "longitude": 46.412,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769283",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Sunik; Shikahohg State Nature Reserve",
+        "voucher": "ROM:Reptiles and Amphibians:44293",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2714,
+          40.3381
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 40.3381,
+        "longitude": 44.2714,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321238348",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Aragatsotn Province; Pjurakan (= Byurakan), at foot of Aragaz Mountain (= Mount Aragats)",
+        "voucher": "USNM:Amphibians & Reptiles:203592",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.693277,
+          40.34625
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 40.34625,
+        "longitude": 44.693277,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1806324316",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": 27969,
+        "country": "Armenia",
+        "locality": "AM; Kotayk; NA",
+        "voucher": "iNaturalist:Observations:52910",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1,
+          39.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.7,
+        "longitude": 44.1,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2570354628",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": 11132,
+        "country": "Turkey",
+        "locality": "TR; Igdir; Mount Ararat",
+        "voucher": "NMR:NMR Collection:NMR998800000166",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.287838,
+          39.05583
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.05583,
+        "longitude": 46.287838,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836343819",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": 25,
+        "country": "Armenia",
+        "locality": "AM; NA; Armenia - Syunik",
+        "voucher": "NA:Observations:OBS.105972883",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.682981,
+          40.331288
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 40.331288,
+        "longitude": 44.682981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3330906488",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": 8,
+        "country": "Armenia",
+        "locality": "AM; Kotayk; NA",
+        "voucher": "iNaturalist:Observations:88104959",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.874344,
+          40.068614
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 40.068614,
+        "longitude": 44.874344,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891080754",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Ararat; NA",
+        "voucher": "iNaturalist:Observations:78214",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.29519,
+          39.705454
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.705454,
+        "longitude": 44.29519,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07011",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Mt. Ararat, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.29519,
+          39.705454
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.705454,
+        "longitude": 44.29519,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07012",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Mt. Ararat, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          39.7025
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.7025,
+        "longitude": 44.3,
+        "date": "",
+        "source": "Fenwick et al. 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers. J zool syst evol res 50:59-69",
+        "ID": "Martins07013",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ararat, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.62456,
+          37.455235
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 37.455235,
+        "longitude": 45.62456,
+        "date": "",
+        "source": "Wagner, P et al. 2012. Amphibians and reptlies collected by Moritz Wagner, with a focus on the ZMFK collection",
+        "ID": "Martins07020",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Urmia, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.3321015,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.414,
+          40.374
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 40.374,
+        "longitude": 43.414,
+        "date": "",
+        "source": "Teyni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, A. 1987. Observations herpetologiques en Turquie. Iere partie. Bull. Soc. Herp. Fr. 43:9-19",
+        "ID": "Martins08242",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Digor, Prov. Kars, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.41472,
+          40.374278
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 40.374278,
+        "longitude": 43.41472,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W. et al. 2008. A nesting of vipers: phylogeny and historical biogeography of the viperidae (squamata: serpentes). Molecular Phylogenetics and Evolution 49: 445-459.",
+        "ID": "Martins08243",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Digor, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          39.7025
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.7025,
+        "longitude": 44.3,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W. et al. 2008. A nesting of vipers: phylogeny and historical biogeography of the viperidae (squamata: serpentes). Molecular Phylogenetics and Evolution 49: 445-459.",
+        "ID": "Martins08244",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ararat, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          39.7025
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.7025,
+        "longitude": 44.3,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-108",
+        "ID": "Martins08246",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ararat, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          39.7025
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 39.7025,
+        "longitude": 44.3,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-104",
+        "ID": "Martins08247",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ararat, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.62456,
+          37.455235
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 37.455235,
+        "longitude": 45.62456,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins08248",
+        "database_recorded_species": "Montivipera raddei",
+        "database_recorded_subspecies": "Montivipera raddei",
+        "taxonomy_updated_species": "Montivipera_raddei",
+        "taxonomy_updated_subspecies2": "Montivipera_raddei",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "Urmia Lake, Capsian Sea, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.62456,
+          37.455235
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_raddei",
+        "latitude": 37.455235,
+        "longitude": 45.62456,
+        "date": "",
+        "source": "Nilson & Andr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n. 1984. Systematics of the Vipera xanthina complex (Reptilia: Viperidae) II. an overlooked viper within the xanthina species-group in Iran. Bonn. zool. Beitr. 35 (1-3).",
+        "ID": "Martins08261",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_raddei",
+        "final_subspecies": "Montivipera_raddei",
+        "accuracy_m": "NA",
+        "country": "Iran",
+        "locality": "lake Urmia, Azarbaijan, Iran",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.3321015,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

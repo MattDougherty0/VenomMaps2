@@ -1,0 +1,962 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.81639,
+          26.36306
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.36306,
+        "longitude": 127.81639,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145508838",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 4266,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Okinawa",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:200851",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.311,
+          28.2969
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 28.2969,
+        "longitude": 129.311,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318689612",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 2102,
+        "country": "Japan",
+        "locality": "JP; Amami Island Group; Yuwandake",
+        "voucher": "USNM:Amphibians & Reptiles:156999",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.688,
+          26.2108
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.2108,
+        "longitude": 127.688,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320588115",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 5759,
+        "country": "Japan",
+        "locality": "JP; Okinawa; Naha, near",
+        "voucher": "USNM:Amphibians & Reptiles:142485",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.811,
+          26.1676
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.1676,
+        "longitude": 127.811,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321260221",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 2519,
+        "country": "Japan",
+        "locality": "JP; Okinawa; Camp Chinen, southern most end of island",
+        "voucher": "USNM:Amphibians & Reptiles:167735",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.764,
+          26.3739
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.3739,
+        "longitude": 127.764,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322388026",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 3830,
+        "country": "Japan",
+        "locality": "JP; Okinawa; Kadena",
+        "voucher": "USNM:Amphibians & Reptiles:134497",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.962,
+          26.4971
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.4971,
+        "longitude": 127.962,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322439953",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 3985,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Jinuza, Mid Island, Station 2",
+        "voucher": "USNM:Amphibians & Reptiles:122117",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.962,
+          26.4971
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.4971,
+        "longitude": 127.962,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322654684",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 3985,
+        "country": "Japan",
+        "locality": "JP; Okinawa Prefecture; Jinuza, Station 2, Mid Island",
+        "voucher": "USNM:Amphibians & Reptiles:122319",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.378,
+          28.2935
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 28.2935,
+        "longitude": 129.378,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322750822",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 27195,
+        "country": "Japan",
+        "locality": "JP; Amami Island Group; No Further Locality Data",
+        "voucher": "USNM:Amphibians & Reptiles:133987",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.233064,
+          26.734453
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.734453,
+        "longitude": 128.233064,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1457581699",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:3695628",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.133545,
+          26.645004
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.645004,
+        "longitude": 128.133545,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1457583631",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 7611,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:469954",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.229778,
+          26.765694
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.765694,
+        "longitude": 128.229778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1830793994",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Okinawa; Yona",
+        "voucher": "RUMF:ZH:RUMF-ZH-00687",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.262742,
+          26.855645
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.855645,
+        "longitude": 128.262742,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423169714",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 200,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:33120485",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.213287,
+          26.728762
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.728762,
+        "longitude": 128.213287,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864731204",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 10,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:59436272",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.183007,
+          26.67661
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.67661,
+        "longitude": 128.183007,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2873852606",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 2751,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:61370796",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.174229,
+          26.64596
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.64596,
+        "longitude": 128.174229,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2873898867",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 35,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:61370794",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.168387,
+          26.668571
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.668571,
+        "longitude": 128.168387,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2874009790",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 2122,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:61370813",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.196989,
+          26.708714
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.708714,
+        "longitude": 128.196989,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2898479159",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 15,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:62554848",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.409723,
+          28.305097
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 28.305097,
+        "longitude": 129.409723,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3046512301",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 105600,
+        "country": "Japan",
+        "locality": "JP; NA; Japan, Ryuku Islands, Amami Island",
+        "voucher": "UF:Herp:191620",
+        "issue": "RECORDED_DATE_INVALID;PRESUMED_NEGATED_LONGITUDE;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.73596,
+          26.367917
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.367917,
+        "longitude": 126.73596,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3096991793",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 122,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:74232885",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.771645,
+          26.26133
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.26133,
+        "longitude": 127.771645,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3096994978",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 38039,
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:74365224",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.17992,
+          26.670877
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.670877,
+        "longitude": 128.17992,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3325483611",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "JP; Okinawa; NA",
+        "voucher": "iNaturalist:Observations:85327922",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.98194,
+          26.47472
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.47472,
+        "longitude": 127.98194,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476693869",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 44571,
+        "country": "Japan",
+        "locality": "JP; NA; Okinawa",
+        "voucher": "MCZ:Herp:R-55972",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37778,
+          28.29347
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 28.29347,
+        "longitude": 129.37778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543496571",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 27195,
+        "country": "Japan",
+        "locality": "JP; Kagoshima Pref.; NA",
+        "voucher": "CAS:HERP:14988",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.4825,
+          28.37472
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 28.37472,
+        "longitude": 129.4825,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543573661",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": 9849,
+        "country": "Japan",
+        "locality": "JP; Kagoshima Pref.; Naze",
+        "voucher": "CAS:HERP:21926",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.68207,
+          26.215498
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.215498,
+        "longitude": 127.68207,
+        "date": "",
+        "source": "Parkinson, C. L. 1999. Molecular systematics and biogeographical history of pitvipers as determined by mitochondrial ribosomal DNA sequences. Copeia, V. 1999, N. 3: 576-586.",
+        "ID": "Martins00496",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Okinawa, Japan",
+        "voucher": "CLP 162",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.68093,
+          26.216843
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.216843,
+        "longitude": 127.68093,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00529",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Okinawa, Japan",
+        "voucher": "CLP-162",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.68093,
+          26.216843
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 26.216843,
+        "longitude": 127.68093,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins00530",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Okinawa, Japan",
+        "voucher": "CLP-162",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.387,
+          28.288438
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 28.288438,
+        "longitude": 129.387,
+        "date": "",
+        "source": "Kraus, F., D. G. Mink, and W. M. Brown. 1996. Crotaline Intergeneric Relationships Based on Mitochondrial DNA Sequence Data. Copeia, 1996(4):763-773.",
+        "ID": "Martins09042",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Amami-oshima, Japan",
+        "voucher": "UMMZ 199980",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.387,
+          28.288438
+        ]
+      },
+      "properties": {
+        "scientificName": "Ovophis_okinavensis",
+        "latitude": 28.288438,
+        "longitude": 129.387,
+        "date": "",
+        "source": "Kraus, F., D. G. Mink, and W. M. Brown. 1996. Crotaline Intergeneric Relationships Based on Mitochondrial DNA Sequence Data. Copeia, 1996(4):763-773.",
+        "ID": "Martins09043",
+        "database_recorded_species": "Ovophis okinavensis",
+        "database_recorded_subspecies": "Ovophis okinavensis",
+        "taxonomy_updated_species": "Ovophis_okinavensis",
+        "taxonomy_updated_subspecies2": "Ovophis_okinavensis",
+        "final_species": "Ovophis_okinavensis",
+        "final_subspecies": "Ovophis_okinavensis",
+        "accuracy_m": "NA",
+        "country": "Japan",
+        "locality": "Amami-oshima, Japan",
+        "voucher": "UMMZ 199980",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

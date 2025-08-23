@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.733652,
+          11.491604
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_strigatus",
+        "latitude": 11.491604,
+        "longitude": 76.733652,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1211981146",
+        "database_recorded_species": "Trimeresurus strigatus",
+        "database_recorded_subspecies": "Trimeresurus strigatus",
+        "taxonomy_updated_species": "Trimeresurus_strigatus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_strigatus",
+        "final_species": "Trimeresurus_strigatus",
+        "final_subspecies": "Trimeresurus_strigatus",
+        "accuracy_m": 64072,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:2319668",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

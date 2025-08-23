@@ -1,0 +1,1424 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.808,
+          40.275
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.275,
+        "longitude": 44.808,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211737680",
+        "database_recorded_species": "Vipera renardi",
+        "database_recorded_subspecies": "Vipera renardi",
+        "taxonomy_updated_species": "Vipera_renardi",
+        "taxonomy_updated_subspecies2": "Vipera_renardi",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Abovyan; Sevaberd vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:21913",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 1.149963,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769238",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44339",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769263",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44310",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769265",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44306",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769271",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44311",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769275",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44335",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769292",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44303",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769296",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44338",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769299",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44307",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769300",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44309",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769302",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44334",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769314",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44308",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769325",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44304",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769361",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44305",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;IDENTIFIED_DATE_UNLIKELY;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769453",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44789",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769464",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44785",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769472",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44810",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769480",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44811",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769481",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44787",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769482",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44783",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769484",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44812",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769486",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44784",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769487",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44788",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769488",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44796",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769489",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44794",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769490",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44791",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769491",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44813",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769495",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44790",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769500",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44782",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769501",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44780",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769503",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44798",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769504",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44781",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769506",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44800",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769508",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44792",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769510",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44795",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769513",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44801",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.721,
+          40.335
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.335,
+        "longitude": 44.721,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769519",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Kotiak; Kaputan, hills above small village",
+        "voucher": "ROM:Reptiles and Amphibians:44809",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769526",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44793",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255,
+          40.59
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.59,
+        "longitude": 45.255,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211769529",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "AM; Gegharkunik; N of Lake Sevan",
+        "voucher": "ROM:Reptiles and Amphibians:44799",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.680489,
+          40.654602
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.654602,
+        "longitude": 44.680489,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2844656425",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": 25,
+        "country": "Armenia",
+        "locality": "AM; NA; Armenia - Kotayk",
+        "voucher": "NA:Observations:OBS.171923737",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.800416,
+          39.861424
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 39.861424,
+        "longitude": 44.800416,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3330760902",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": 28030,
+        "country": "Armenia",
+        "locality": "AM; Ararat; NA",
+        "voucher": "iNaturalist:Observations:87481124",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.661208,
+          40.299582
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.299582,
+        "longitude": 44.661208,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891071409",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": 27969,
+        "country": "Armenia",
+        "locality": "AM; Kotayk; NA",
+        "voucher": "iNaturalist:Observations:52913",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3351,
+          40.3449
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_eriwanensis",
+        "latitude": 40.3449,
+        "longitude": 45.3351,
+        "date": "",
+        "source": "Orlov, & tuniyev. 1990. Three species in the Vipera kaznakowi complex (eurosiberian group) in the Caucasus: their present distribution, possible genesis and phylogeny. Asiatic Herpetological Resarch, 3: 1-36",
+        "ID": "Martins08200",
+        "database_recorded_species": "Vipera berus",
+        "database_recorded_subspecies": "Vipera berus",
+        "taxonomy_updated_species": "Vipera_berus",
+        "taxonomy_updated_subspecies2": "Vipera_berus",
+        "final_species": "Vipera_eriwanensis",
+        "final_subspecies": "Vipera_eriwanensis",
+        "accuracy_m": "NA",
+        "country": "Armenia",
+        "locality": "Yelenovka eanr the Gochka lake (now sSevan lake)",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.430648,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.686971,
+          17.555522
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.555522,
+        "longitude": -99.686971,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2771",
+        "database_recorded_species": "Crotalus exiguus",
+        "database_recorded_subspecies": "Crotalus exiguus",
+        "taxonomy_updated_species": "Crotalus_exiguus",
+        "taxonomy_updated_subspecies2": "Crotalus_exiguus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0457",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658333,
+          17.541667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.541667,
+        "longitude": -99.658333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893821295",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus exiguus",
+        "taxonomy_updated_species": "Crotalus_exiguus",
+        "taxonomy_updated_subspecies2": "Crotalus_exiguus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; NA; Cueva del Borrego",
+        "voucher": "FC-UNAM:MZFC:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658333,
+          17.541667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.541667,
+        "longitude": -99.658333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893821319",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus exiguus",
+        "taxonomy_updated_species": "Crotalus_exiguus",
+        "taxonomy_updated_subspecies2": "Crotalus_exiguus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; NA; Cueva del Borrego",
+        "voucher": "FC-UNAM:MZFC:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658808,
+          17.541802
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.541802,
+        "longitude": -99.658808,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894939986",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus exiguus",
+        "taxonomy_updated_species": "Crotalus_exiguus",
+        "taxonomy_updated_subspecies2": "Crotalus_exiguus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": 2670,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, CAMINO A LA CUEVA DEL BORREGO",
+        "voucher": "FC-UNAM:MZFC:2896",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.641667,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.558333,
+        "longitude": -99.641667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894940008",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus exiguus",
+        "taxonomy_updated_species": "Crotalus_exiguus",
+        "taxonomy_updated_subspecies2": "Crotalus_exiguus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, 5 KM E, CUEVA DEL BORREGO",
+        "voucher": "FC-UNAM:MZFC:2895",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658808,
+          17.541802
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.541802,
+        "longitude": -99.658808,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894940010",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus exiguus",
+        "taxonomy_updated_species": "Crotalus_exiguus",
+        "taxonomy_updated_subspecies2": "Crotalus_exiguus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": 2670,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, CAMINO A LA CUEVA DEL BORREGO",
+        "voucher": "FC-UNAM:MZFC:2893",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658808,
+          17.541802
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.541802,
+        "longitude": -99.658808,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894940018",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus exiguus",
+        "taxonomy_updated_species": "Crotalus_exiguus",
+        "taxonomy_updated_subspecies2": "Crotalus_exiguus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": 2670,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, CAMINO A LA CUEVA DEL BORREGO",
+        "voucher": "FC-UNAM:MZFC:2894",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6601096407707,
+          17.5507058407087
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.5507058407087,
+        "longitude": -99.6601096407707,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686793155",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; 2 mi E Omilteme",
+        "voucher": "KU:KUH:87763",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.685,
+          17.5583333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.5583333,
+        "longitude": -99.685,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30968",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.684025,
+          17.5553028
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.5553028,
+        "longitude": -99.684025,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30969",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.684025,
+          17.2650417
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.2650417,
+        "longitude": -99.684025,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30970",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6588,
+          17.5418
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.5418,
+        "longitude": -99.6588,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30971",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6588,
+          17.5418
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.5418,
+        "longitude": -99.6588,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30972",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6588,
+          17.5418
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.5418,
+        "longitude": -99.6588,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30973",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658333,
+          17.541667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.541667,
+        "longitude": -99.658333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30974",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658,
+          17.542
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.542,
+        "longitude": -99.658,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30975",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658,
+          17.542
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.542,
+        "longitude": -99.658,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30976",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.641667,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_exiguus",
+        "latitude": 17.558333,
+        "longitude": -99.641667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV30977",
+        "database_recorded_species": "Crotalus ravus",
+        "database_recorded_subspecies": "Crotalus ravus",
+        "taxonomy_updated_species": "Crotalus_ravus",
+        "taxonomy_updated_subspecies2": "Crotalus_ravus",
+        "final_species": "Crotalus_exiguus",
+        "final_subspecies": "Crotalus_exiguus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 3.360117,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.02105,
+          29.554233
+        ]
+      },
+      "properties": {
+        "scientificName": "Eristicophis_macmahoni",
+        "latitude": 29.554233,
+        "longitude": 66.02105,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543692178",
+        "database_recorded_species": "Eristicophis macmahoni",
+        "database_recorded_subspecies": "Eristicophis macmahoni",
+        "taxonomy_updated_species": "Eristicophis_macmahoni",
+        "taxonomy_updated_subspecies2": "Eristicophis_macmahoni",
+        "final_species": "Eristicophis_macmahoni",
+        "final_subspecies": "Eristicophis_macmahoni",
+        "accuracy_m": "NA",
+        "country": "Pakistan",
+        "locality": "PK; Balochistan Prov.; Nushki",
+        "voucher": "CAS:HERP:99901",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.02105,
+          29.554233
+        ]
+      },
+      "properties": {
+        "scientificName": "Eristicophis_macmahoni",
+        "latitude": 29.554233,
+        "longitude": 66.02105,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543692179",
+        "database_recorded_species": "Eristicophis macmahoni",
+        "database_recorded_subspecies": "Eristicophis macmahoni",
+        "taxonomy_updated_species": "Eristicophis_macmahoni",
+        "taxonomy_updated_subspecies2": "Eristicophis_macmahoni",
+        "final_species": "Eristicophis_macmahoni",
+        "final_subspecies": "Eristicophis_macmahoni",
+        "accuracy_m": "NA",
+        "country": "Pakistan",
+        "locality": "PK; Balochistan Prov.; Nushki",
+        "voucher": "CAS:HERP:99902",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.70673,
+          29.29767
+        ]
+      },
+      "properties": {
+        "scientificName": "Eristicophis_macmahoni",
+        "latitude": 29.29767,
+        "longitude": 64.70673,
+        "date": "",
+        "source": "Feroze, A., S. A. Malik, and W. C. Paltrick. 2010, Phylogenetic relationships of medically important vipers of Pakistan inferred from Cytochrome b sequences. The Journal of Animal and Plant Sciences, 20(3):147-157.",
+        "ID": "Martins06824",
+        "database_recorded_species": "Eristicophis macmahoni",
+        "database_recorded_subspecies": "Eristicophis macmahoni",
+        "taxonomy_updated_species": "Eristicophis_macmahoni",
+        "taxonomy_updated_subspecies2": "Eristicophis_macmahoni",
+        "final_species": "Eristicophis_macmahoni",
+        "final_subspecies": "Eristicophis_macmahoni",
+        "accuracy_m": "NA",
+        "country": "Pakistan",
+        "locality": "Chagai, Balochistan, Pakistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.70673,
+          29.29767
+        ]
+      },
+      "properties": {
+        "scientificName": "Eristicophis_macmahoni",
+        "latitude": 29.29767,
+        "longitude": 64.70673,
+        "date": "",
+        "source": "Feroze, A., S. A. Malik, and W. C. Paltrick. 2010, Phylogenetic relationships of medically important vipers of Pakistan inferred from Cytochrome b sequences. The Journal of Animal and Plant Sciences, 20(3):147-157.",
+        "ID": "Martins06825",
+        "database_recorded_species": "Eristicophis macmahoni",
+        "database_recorded_subspecies": "Eristicophis macmahoni",
+        "taxonomy_updated_species": "Eristicophis_macmahoni",
+        "taxonomy_updated_subspecies2": "Eristicophis_macmahoni",
+        "final_species": "Eristicophis_macmahoni",
+        "final_subspecies": "Eristicophis_macmahoni",
+        "accuracy_m": "NA",
+        "country": "Pakistan",
+        "locality": "Chagai, Balochistan, Pakistan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

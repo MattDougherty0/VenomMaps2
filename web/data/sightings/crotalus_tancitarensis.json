@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.329167,
+          19.403611
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_tancitarensis",
+        "latitude": 19.403611,
+        "longitude": -102.329167,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35534",
+        "database_recorded_species": "Crotalus tancitarensis",
+        "database_recorded_subspecies": "Crotalus tancitarensis",
+        "taxonomy_updated_species": "Crotalus_tancitarensis",
+        "taxonomy_updated_subspecies2": "Crotalus_tancitarensis",
+        "final_species": "Crotalus_tancitarensis",
+        "final_subspecies": "Crotalus_tancitarensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.31917,
+          19.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_tancitarensis",
+        "latitude": 19.416667,
+        "longitude": -102.31917,
+        "date": "",
+        "source": "Alvarado-Diaz, J. & J. A. Campbell. 2004. A new montane rattlesnake (Viperidae) from Michoacan, Mexico. Herpetologica, V. 60, N.2: 281-286.",
+        "ID": "Martins06652",
+        "database_recorded_species": "Crotalus tancitarensis",
+        "database_recorded_subspecies": "Crotalus tancitarensis",
+        "taxonomy_updated_species": "Crotalus_tancitarensis",
+        "taxonomy_updated_subspecies2": "Crotalus_tancitarensis",
+        "final_species": "Crotalus_tancitarensis",
+        "final_subspecies": "Crotalus_tancitarensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro Tanc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†taro, Michoac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.31917,
+          19.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_tancitarensis",
+        "latitude": 19.416667,
+        "longitude": -102.31917,
+        "date": "",
+        "source": "Alvarado-Diaz, J. & J. A. Campbell. 2004. A new montane rattlesnake (Viperidae) from Michoacan, Mexico. Herpetologica, V. 60, N.2: 281-286.",
+        "ID": "Martins06653",
+        "database_recorded_species": "Crotalus tancitarensis",
+        "database_recorded_subspecies": "Crotalus tancitarensis",
+        "taxonomy_updated_species": "Crotalus_tancitarensis",
+        "taxonomy_updated_subspecies2": "Crotalus_tancitarensis",
+        "final_species": "Crotalus_tancitarensis",
+        "final_subspecies": "Crotalus_tancitarensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro Tanc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†taro, Michoac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.36387,
+          19.337023
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_tancitarensis",
+        "latitude": 19.337023,
+        "longitude": -102.36387,
+        "date": "",
+        "source": "Bryson Jr, R. W.; R. W. Murphy; M. R. Graham; A. Lathrop; D. Lazcano. 2011. Ephemeral Pleistocene woodlands connect the dots for highland rattlesnakes of the Crotalus intermedius group. Journal of Biogeography, V.38, N.13: 2299-2310.",
+        "ID": "Martins08460",
+        "database_recorded_species": "Crotalus tancitarensis",
+        "database_recorded_subspecies": "Crotalus tancitarensis",
+        "taxonomy_updated_species": "Crotalus_tancitarensis",
+        "taxonomy_updated_subspecies2": "Crotalus_tancitarensis",
+        "final_species": "Crotalus_tancitarensis",
+        "final_subspecies": "Crotalus_tancitarensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©xico: Michoac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n: Tanc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†taro",
+        "voucher": "ROM 45251",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.36387,
+          19.337023
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_tancitarensis",
+        "latitude": 19.337023,
+        "longitude": -102.36387,
+        "date": "",
+        "source": "Bryson Jr, R. W.; R. W. Murphy; M. R. Graham; A. Lathrop; D. Lazcano. 2011. Ephemeral Pleistocene woodlands connect the dots for highland rattlesnakes of the Crotalus intermedius group. Journal of Biogeography, V.38, N.13: 2299-2310.",
+        "ID": "Martins08461",
+        "database_recorded_species": "Crotalus tancitarensis",
+        "database_recorded_subspecies": "Crotalus tancitarensis",
+        "taxonomy_updated_species": "Crotalus_tancitarensis",
+        "taxonomy_updated_subspecies2": "Crotalus_tancitarensis",
+        "final_species": "Crotalus_tancitarensis",
+        "final_subspecies": "Crotalus_tancitarensis",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©xico: Michoac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n: Tanc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†taro",
+        "voucher": "ROM 45251",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

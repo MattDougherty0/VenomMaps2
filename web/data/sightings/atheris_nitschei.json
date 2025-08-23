@@ -1,0 +1,1490 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8147,
+          -1.2042
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.2042,
+        "longitude": 29.8147,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055360824",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; near Muko, Kigezi, South West Uganda",
+        "voucher": "NHMUK:ZOO:1934.12.15.606-625",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5,
+          -1.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.8333,
+        "longitude": 28.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056776061",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Irangi",
+        "voucher": "NHMUK:ZOO:1970.1696",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.796854,
+          -1.247645
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.247645,
+        "longitude": 29.796854,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1098573995",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; Echuya Forest",
+        "voucher": "ARCOS:ECHUYA_2012:245",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.72217,
+          -2.40284
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.40284,
+        "longitude": 28.72217,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1425194332",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Sud-Kivu; Kahuzi-Biega National Park, Kasirusiru",
+        "voucher": "LSUMZ:Herps:99238",
+        "issue": "INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.148115,
+          -2.48521
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.48521,
+        "longitude": 29.148115,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1935082850",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Rwanda",
+        "locality": "RW; Western Province; Buvungira",
+        "voucher": "NA:NA:NA",
+        "issue": "PRESUMED_SWAPPED_COORDINATE;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0377,
+          0.37722
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": 0.37722,
+        "longitude": 30.0377,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265842402",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 3499,
+        "country": "Uganda",
+        "locality": "UG; Kasese; NA",
+        "voucher": "iNaturalist:Observations:26674210",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.363058,
+          -1.820633
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.820633,
+        "longitude": 29.363058,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2574090061",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 5,
+        "country": "Rwanda",
+        "locality": "RW; Iburengerazuba; NA",
+        "voucher": "iNaturalist:Observations:38277359",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476495028",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48541",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.943331,
+          0.394361
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": 0.394361,
+        "longitude": 29.943331,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476672993",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 62569,
+        "country": "Uganda",
+        "locality": "UG; Kabarole; Mihunga, Ruwenzori Mtns.",
+        "voucher": "MCZ:Herp:R-48527",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.943331,
+          0.394361
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": 0.394361,
+        "longitude": 29.943331,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476672994",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 62569,
+        "country": "Uganda",
+        "locality": "UG; Kabarole; Mihunga, Ruwenzori Mtns.",
+        "voucher": "MCZ:Herp:R-48528",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.741944,
+          -1.284444
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.284444,
+        "longitude": 29.741944,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673092",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 4063.59,
+        "country": "Uganda",
+        "locality": "UG; Kisoro; Nyakabande,Ruanda,Uganda",
+        "voucher": "MCZ:Herp:R-48531",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.682778,
+          -1.178611
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.178611,
+        "longitude": 29.682778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673093",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 3822.19,
+        "country": "Uganda",
+        "locality": "UG; Kisoro; Mushongero,Ruanda,Uganda",
+        "voucher": "MCZ:Herp:R-48532",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.682778,
+          -1.178611
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.178611,
+        "longitude": 29.682778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673094",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 3822.19,
+        "country": "Uganda",
+        "locality": "UG; Kisoro; Mushongero,Ruanda,Uganda",
+        "voucher": "MCZ:Herp:R-48533",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.682778,
+          -1.178611
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.178611,
+        "longitude": 29.682778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673095",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 3822.19,
+        "country": "Uganda",
+        "locality": "UG; Kisoro; Mushongero,Ruanda,Uganda",
+        "voucher": "MCZ:Herp:R-48534",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673195",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48536",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673197",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48538",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673198",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48539",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673200",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48542",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673201",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48543",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673202",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48544",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673297",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48545",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673299",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48547",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05,
+          -2.133333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.133333,
+        "longitude": 29.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673300",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 301,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Upper Mulinga R., Idjwi Id.",
+        "voucher": "MCZ:Herp:R-48549",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918056,
+          -1.283334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.283334,
+        "longitude": 29.918056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686221",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 15489.94,
+        "country": "Uganda",
+        "locality": "UG; Kabale; Lake Bunyoni, Uganda",
+        "voucher": "MCZ:Herp:R-34929",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918056,
+          -1.283334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.283334,
+        "longitude": 29.918056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686222",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 15489.94,
+        "country": "Uganda",
+        "locality": "UG; Kabale; Lake Bunyoni, Uganda",
+        "voucher": "MCZ:Herp:R-34930",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918056,
+          -1.283334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.283334,
+        "longitude": 29.918056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686223",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 15489.94,
+        "country": "Uganda",
+        "locality": "UG; Kabale; Lake Bunyoni, Uganda",
+        "voucher": "MCZ:Herp:R-34931",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918056,
+          -1.283334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.283334,
+        "longitude": 29.918056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686319",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 15489.94,
+        "country": "Uganda",
+        "locality": "UG; Kabale; Lake Bunyoni, Uganda",
+        "voucher": "MCZ:Herp:R-34933",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918056,
+          -1.283334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.283334,
+        "longitude": 29.918056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686320",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 15489.94,
+        "country": "Uganda",
+        "locality": "UG; Kabale; Lake Bunyoni, Uganda",
+        "voucher": "MCZ:Herp:R-34935",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918056,
+          -1.283334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.283334,
+        "longitude": 29.918056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686321",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 15489.94,
+        "country": "Uganda",
+        "locality": "UG; Kabale; Lake Bunyoni, Uganda",
+        "voucher": "MCZ:Herp:R-34936",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.811384,
+          -2.240901
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.240901,
+        "longitude": 28.811384,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476704865",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 1479,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Zaire,Lwiro,ca 30 km N. Bukavu",
+        "voucher": "MCZ:Herp:R-170386",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.811384,
+          -2.240901
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.240901,
+        "longitude": 28.811384,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476704867",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 1479,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Zaire,Lwiro,ca 30 km N. Bukavu",
+        "voucher": "MCZ:Herp:R-170388",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.54583,
+          1.75028
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": 1.75028,
+        "longitude": 29.54583,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476705626",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 9214,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; Goma: Belgian Congo",
+        "voucher": "MCZ:Herp:R-42970",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;PRESUMED_NEGATED_LATITUDE;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6189,
+          -3.9344
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -3.9344,
+        "longitude": 29.6189,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543608584",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Burundi",
+        "locality": "BI; Bururi Prov.; edge of Bururi Forest Reserve, 03 56 03.84 S, 29 37 08.04 E",
+        "voucher": "CAS:HERP:250690",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.683334,
+          -0.983334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -0.983334,
+        "longitude": 29.683334,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377521",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 4223,
+        "country": "Uganda",
+        "locality": "UG; NA; S.W. Uganda, Impenetrable Forest, Itama Mine",
+        "voucher": "LACM:Herps:35093",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.666667,
+          -1
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1,
+        "longitude": 29.666667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377524",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 11614,
+        "country": "Uganda",
+        "locality": "UG; NA; S.W. Uganda, Impenetrable Forest, Buindi Swamp",
+        "voucher": "LACM:Herps:35096",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.666667,
+          -1
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1,
+        "longitude": 29.666667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377525",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 11614,
+        "country": "Uganda",
+        "locality": "UG; NA; S.W. Uganda, Impenetrable Forest, Buindi Swamp",
+        "voucher": "LACM:Herps:35097",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.666667,
+          -1
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1,
+        "longitude": 29.666667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377526",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 11614,
+        "country": "Uganda",
+        "locality": "UG; NA; S.W. Uganda, Impenetrable Forest, Buindi Swamp",
+        "voucher": "LACM:Herps:35098",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.683334,
+          -0.983334
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -0.983334,
+        "longitude": 29.683334,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377530",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 4223,
+        "country": "Uganda",
+        "locality": "UG; NA; S.W. Uganda, Impenetrable Forest, Itama Mine",
+        "voucher": "LACM:Herps:35102",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.666667,
+          -1
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1,
+        "longitude": 29.666667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377531",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 11614,
+        "country": "Uganda",
+        "locality": "UG; NA; S.W. Uganda, Impenetrable Forest, Buindi Swamp",
+        "voucher": "LACM:Herps:35103",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.666667,
+          -1
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1,
+        "longitude": 29.666667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377591",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": 11614,
+        "country": "Uganda",
+        "locality": "UG; NA; S.W. Uganda, Impenetrable Forest, Buindi Swamp",
+        "voucher": "LACM:Herps:35108",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.74114,
+          -1.27754
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.27754,
+        "longitude": 29.74114,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02798",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Nyakabande, Uganda",
+        "voucher": "MCZ 48531",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68359,
+          -1.178345
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.178345,
+        "longitude": 29.68359,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02799",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Mushongero, Uganda",
+        "voucher": "MCZ 48532-5",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05607,
+          -2.165528
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -2.165528,
+        "longitude": 29.05607,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02800",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Idjwi Island, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "MCZ 48536-50",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.28133333,
+          -0.984780556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -0.984780556,
+        "longitude": 29.28133333,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05135",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Virunga National Park, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.86666667,
+          -1.716666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_nitschei",
+        "latitude": -1.716666667,
+        "longitude": 29.86666667,
+        "date": "",
+        "source": "Roelke, C. E. and E. S. Smith. 2010. Herpetofauna, Parc National des Volcans, North Province, Republic of Rwanda. Check List, 6:525-531.",
+        "ID": "Martins05136",
+        "database_recorded_species": "Atheris nitschei",
+        "database_recorded_subspecies": "Atheris nitschei",
+        "taxonomy_updated_species": "Atheris_nitschei",
+        "taxonomy_updated_subspecies2": "Atheris_nitschei",
+        "final_species": "Atheris_nitschei",
+        "final_subspecies": "Atheris_nitschei",
+        "accuracy_m": "NA",
+        "country": "Rwanda",
+        "locality": "Parc National des Volcans, Rwanda",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

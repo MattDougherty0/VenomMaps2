@@ -1,0 +1,2843 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2181,
+          23.57965
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.57965,
+        "longitude": -99.2181,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2392",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0304",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2181,
+          23.57965
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.57965,
+        "longitude": -99.2181,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2393",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0305",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2181,
+          23.57965
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.57965,
+        "longitude": -99.2181,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2474",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0386",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.236412,
+          21.455445
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.455445,
+        "longitude": -99.236412,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1143563367",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 237,
+        "country": "Mexico",
+        "locality": "MX; Quer‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©taro; NA",
+        "voucher": "iNaturalist:Observations:2077783",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.23258,
+          23.053777
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.053777,
+        "longitude": -99.23258,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1562907294",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 2166,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:6129737",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.270056,
+          23.579721
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.579721,
+        "longitude": -99.270056,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847541342",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 194,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:12546670",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.056797,
+          25.189609
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.189609,
+        "longitude": -100.056797,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880515208",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 66042,
+        "country": "Mexico",
+        "locality": "MX; Nuevo Le‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:13571724",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.19361,
+          23.056122
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.056122,
+        "longitude": -99.19361,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880614144",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 488,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:13955212",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.172083,
+          23.047794
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.047794,
+        "longitude": -99.172083,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1894300276",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; About 7 km NW of Gomez Farias, Rancho del Cielo",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.97361,
+          22.155556
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.155556,
+        "longitude": -98.97361,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894753761",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; 13 mi. N Valles on Monte-Valles Hwy",
+        "voucher": "NHM:LACM:66950",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3725,
+          22.516389
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.516389,
+        "longitude": -99.3725,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894811360",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; El Sabino entre Cd. del Ma‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†z y El Salto",
+        "voucher": "IIZD-UASLP:CZIIZD:CZ-ISqViCrat73",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741667,
+          21.491667
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.491667,
+        "longitude": -97.741667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894948491",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 70,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; PANUCO, NR. CABO ROJO 75 MI S DE TAMPICO",
+        "voucher": "NM-CAS:CASM:4469",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8610718732056,
+          23.2325059439974
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.2325059439974,
+        "longitude": -97.8610718732056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660302",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; Carretera la Pesca-Soto la Marina 28.8 km al Oeste de la Pesca",
+        "voucher": "UTA:UTA:8278",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1689059188172,
+          23.1138857544196
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.1138857544196,
+        "longitude": -99.1689059188172,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660312",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 8.04 km al Noroeste de G‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢mez Far‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†as, cerca del Rancho El Cielo",
+        "voucher": "UMMZ:UMMZ:110934",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1666827687005,
+          23.0888868293312
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.0888868293312,
+        "longitude": -99.1666827687005,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660343",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 9.65 km al Noroeste de G‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢mez Far‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†as, cerca de Agua de los Indios",
+        "voucher": "UMMZ:UMMZ:108785",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8610718732056,
+          23.2325059439974
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.2325059439974,
+        "longitude": -97.8610718732056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660362",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 9.6 km al Este de la Pesca",
+        "voucher": "UTA:UTA:7222",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8610718732056,
+          23.2325059439974
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.2325059439974,
+        "longitude": -97.8610718732056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660462",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 16 km al Este de Soto la Marina",
+        "voucher": "UTA:UTA:7224",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8610718732056,
+          23.2325059439974
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.2325059439974,
+        "longitude": -97.8610718732056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660475",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; Cerca del Puente San Jose Doce, 24 km al Sur de Soto la Marina",
+        "voucher": "UTA:UTA:30191",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1633444320995,
+          23.0225016789677
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.0225016789677,
+        "longitude": -99.1633444320995,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660775",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 4 km al Noroeste de G‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢mez Far‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†as",
+        "voucher": "UMMZ:UMMZ:110933",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2108453256814,
+          23.7638664221029
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.7638664221029,
+        "longitude": -98.2108453256814,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895660818",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; Soto la Marina",
+        "voucher": "LSU:LSU:39053",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9702253946209,
+          22.9327963846683
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.9327963846683,
+        "longitude": -97.9702253946209,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895662029",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; Cerca del Moron, carretera Aldama-Barra del Tordo",
+        "voucher": "FCB-UANL:UANL:4137",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.935833898617,
+          23.8235878126533
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.8235878126533,
+        "longitude": -97.935833898617,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895662034",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; Carretera Soto la Marina-La Pesca, km 24.5, rumbo a la Pesca",
+        "voucher": "FCB-UANL:UANL:4880",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16541,
+          23.067944
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.067944,
+        "longitude": -99.16541,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1935622224",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 107,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:18225352",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.942727,
+          25.109928
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.109928,
+        "longitude": -99.942727,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2252029118",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 173,
+        "country": "Mexico",
+        "locality": "MX; Nuevo Le‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:26305594",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.138847,
+          25.300596
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.300596,
+        "longitude": -100.138847,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2269332207",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Nuevo Le‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:27356671",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.223227,
+          23.562039
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.562039,
+        "longitude": -99.223227,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311314031",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:29548744",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.194641,
+          23.660392
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.660392,
+        "longitude": -99.194641,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423031083",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 44,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:32569754",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.619218,
+          21.396811
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.396811,
+        "longitude": -99.619218,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423045344",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 3906,
+        "country": "Mexico",
+        "locality": "MX; Quer‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©taro; NA",
+        "voucher": "iNaturalist:Observations:32622685",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.353477,
+          23.212769
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.212769,
+        "longitude": -99.353477,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465295949",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 15,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:36139175",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.299444,
+          23.170833
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.170833,
+        "longitude": -99.299444,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2574043397",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 1994,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:38780680",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.204833,
+          23.629167
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.629167,
+        "longitude": -99.204833,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2576268951",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 200,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:39455865",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.733055,
+          22.185556
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.185556,
+        "longitude": -98.733055,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629121831",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; Ebano Hacienda Limon",
+        "voucher": "LSU:LSU:584",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.792602,
+          23.1957
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.1957,
+        "longitude": -97.792602,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629123679",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 43.5 km NE Aldama",
+        "voucher": "ENCB-IPN:ENCB:12098",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.453888,
+          22.583611
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.583611,
+        "longitude": -99.453888,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629128780",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; 3.2 mi W El Salto",
+        "voucher": "TCWC-TAMU:TCWC:68173",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.733055,
+          22.185556
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.185556,
+        "longitude": -98.733055,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629130706",
+        "database_recorded_species": "Crotalus basiliscus",
+        "database_recorded_subspecies": "Crotalus basiliscus",
+        "taxonomy_updated_species": "Crotalus_basiliscus",
+        "taxonomy_updated_subspecies2": "Crotalus_basiliscus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; Ebano Hacienda Limon",
+        "voucher": "LSU:LSU:583",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 4.264137,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.983055,
+          22.093889
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.093889,
+        "longitude": -98.983055,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629136509",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; 7 mi N Ciudad de Valles",
+        "voucher": "KU:KUH:43569",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.444168,
+          22.351801
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.351801,
+        "longitude": -99.444168,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629137415",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San luis potosi; Papagayos, 5.31 Km al S, 16.4 Km al E de Cd. Del Ma‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†z",
+        "voucher": "ENCB-IPN:ENCB:18515",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.175,
+          21.025
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.025,
+        "longitude": -99.175,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630300910",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 80,
+        "country": "Mexico",
+        "locality": "MX; Hidalgo; JACALA, 4 KM NE",
+        "voucher": "KU:KUH:27726",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1997074433942,
+          23.3388863494752
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.3388863494752,
+        "longitude": -98.1997074433942,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630457542",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 48.29 km al Sur de Soto la Marina",
+        "voucher": "KU:KUH:157862",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.821177,
+          21.33094
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.33094,
+        "longitude": -99.821177,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2823325678",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 7,
+        "country": "Mexico",
+        "locality": "MX; Guanajuato; NA",
+        "voucher": "iNaturalist:Observations:53366025",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.041787,
+          25.37762
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.37762,
+        "longitude": -100.041787,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2883194802",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 88,
+        "country": "Mexico",
+        "locality": "MX; Nuevo Le‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:61973407",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.170105,
+          23.196863
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.196863,
+        "longitude": -99.170105,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2984367952",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 2311,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:64674749",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.194554,
+          23.672415
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.672415,
+        "longitude": -99.194554,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039509908",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 37,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:69311689",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.203604,
+          25.538266
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.538266,
+        "longitude": -100.203604,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090854331",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 129,
+        "country": "Mexico",
+        "locality": "MX; Nuevo Le‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:4039234",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.163252,
+          23.637835
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.637835,
+        "longitude": -99.163252,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3328011238",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 30154,
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; NA",
+        "voucher": "iNaturalist:Observations:86786676",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.91833,
+          21.1566699993642
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.1566699993642,
+        "longitude": -97.91833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_44975648",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Veracruz; Veracruz, Tierra Blanca",
+        "voucher": "SDNHM:Herps:24026",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.23333,
+          23.0333299993199
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.0333299993199,
+        "longitude": -99.23333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_45050581",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; Gomez Farias; 6 mi WNW of",
+        "voucher": "SDNHM:Herps:43323",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9801094698354,
+          22.0804981223324
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.0804981223324,
+        "longitude": -98.9801094698354,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686749021",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; San Luis Potosi; 7 mi N Ciudad de Valles",
+        "voucher": "KU:KUH:43569",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2100956621929,
+          23.3304466736446
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.3304466736446,
+        "longitude": -98.2100956621929,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686864412",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus",
+        "taxonomy_updated_species": "Crotalus_durissus",
+        "taxonomy_updated_subspecies2": "Crotalus_durissus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Tamaulipas; 30 mi S Soto la Marina, N bridge at Santa Gertrudis",
+        "voucher": "KU:KUH:157862",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 5.611213,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.05867,
+          25.402111
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.402111,
+        "longitude": -100.05867,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891155557",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Nuevo Le‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:274284",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.192566,
+          25.335934
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.335934,
+        "longitude": -100.192566,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_910498888",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 499565,
+        "country": "Mexico",
+        "locality": "MX; Nuevo Le‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:677228",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.227153,
+          21.470702
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.470702,
+        "longitude": -99.227153,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_911494839",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": 61,
+        "country": "Mexico",
+        "locality": "MX; Quer‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©taro; NA",
+        "voucher": "iNaturalist:Observations:688192",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.201,
+          25.52
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.52,
+        "longitude": -100.201,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35765",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.201,
+          25.52
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.52,
+        "longitude": -100.201,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35766",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.200833,
+          25.52
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.52,
+        "longitude": -100.200833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35767",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.200833,
+          25.52
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.52,
+        "longitude": -100.200833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35768",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.192566,
+          25.335934
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.335934,
+        "longitude": -100.192566,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35769",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.161,
+          25.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.25,
+        "longitude": -100.161,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35770",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.160833,
+          25.250278
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.250278,
+        "longitude": -100.160833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35771",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.16,
+          25.3175
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.3175,
+        "longitude": -100.16,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35772",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.16,
+          25.318
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.318,
+        "longitude": -100.16,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35773",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.127,
+          25.428
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.428,
+        "longitude": -100.127,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35774",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.126944,
+          25.427778
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.427778,
+        "longitude": -100.126944,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35775",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.05867,
+          25.402111
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.402111,
+        "longitude": -100.05867,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35776",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.827,
+          25.189
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.189,
+        "longitude": -99.827,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35777",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.826667,
+          25.189444
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.189444,
+        "longitude": -99.826667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35778",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.817133,
+          21.428484
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.428484,
+        "longitude": -99.817133,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35779",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.444168,
+          22.351801
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.351801,
+        "longitude": -99.444168,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35780",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3725,
+          22.516389
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.516389,
+        "longitude": -99.3725,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35781",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.236412,
+          21.455445
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.455445,
+        "longitude": -99.236412,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35782",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.23333,
+          23.03333
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.03333,
+        "longitude": -99.23333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35783",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.23258,
+          23.053777
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 23.053777,
+        "longitude": -99.23258,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35784",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.227153,
+          21.470702
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.470702,
+        "longitude": -99.227153,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35785",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.175,
+          21.025
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.025,
+        "longitude": -99.175,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35786",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86861,
+          22.255278
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.255278,
+        "longitude": -97.86861,
+        "date": "",
+        "source": "McCranie, J. R. 1993. Crotalus durissus Linnaeus Neotropical Rattlesnake. Catalogue of American Amphibians and Reptiles, 577: 1-11.",
+        "ID": "Martins00484",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Tampico, Veracruz, Mexico",
+        "voucher": "Chicago Academy Sciences 4469",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86861,
+          22.255278
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.255278,
+        "longitude": -97.86861,
+        "date": "",
+        "source": "McCranie, J. R. 1993. Crotalus durissus Linnaeus Neotropical Rattlesnake. Catalogue of American Amphibians and Reptiles, 577: 1-11.",
+        "ID": "Martins00485",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Tampico, Veracruz, Mexico",
+        "voucher": "Chicago Academy Sciences 4469",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.18962,
+          21.00878
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.00878,
+        "longitude": -99.18962,
+        "date": "",
+        "source": "Valencia-Hern‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™ndez, A. A.; I. Goyenechea; J. M. Castillo-Cer‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n. 2007. Notes on scutellation, length, and distribution of rattlesnakes (Serpentes:Viperidae:Crotalus) in the state of Hidalgo, Mexico. Acta Zool‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gica Mexicana, V.23, N.3: 29-33.",
+        "ID": "Martins02079",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Jacala, Hidalgo, Mexico",
+        "voucher": "KU-27726",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.18962,
+          21.00878
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.00878,
+        "longitude": -99.18962,
+        "date": "",
+        "source": "Valencia-Hern‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™ndez, A. A.; I. Goyenechea; J. M. Castillo-Cer‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n. 2007. Notes on scutellation, length, and distribution of rattlesnakes (Serpentes:Viperidae:Crotalus) in the state of Hidalgo, Mexico. Acta Zool‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢gica Mexicana, V.23, N.3: 29-33.",
+        "ID": "Martins02080",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Jacala, Hidalgo, Mexico",
+        "voucher": "KU-27726",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.20388,
+          25.600568
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.600568,
+        "longitude": -100.20388,
+        "date": "",
+        "source": "Lazcano, D.; J. A. Contreras-Lozano; J. Gallardo-Valdez; C. G. Pe‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±a; G. Casta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±eda. 2009. Notes on mexican herpetofauna 11: herpetological diversity in Sierra \"Cerro de La Silla\"(Saddleback Mountain), Nuevo Le‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Mexico. Bull. Chicago Herp. Soc., V. 44, N.2: 21-27.",
+        "ID": "Martins06678",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro de La Silla, Nuevo Le‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.20388,
+          25.600568
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 25.600568,
+        "longitude": -100.20388,
+        "date": "",
+        "source": "Lazcano, D.; J. A. Contreras-Lozano; J. Gallardo-Valdez; C. G. Pe‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±a; G. Casta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±eda. 2009. Notes on mexican herpetofauna 11: herpetological diversity in Sierra \"Cerro de La Silla\"(Saddleback Mountain), Nuevo Le‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Mexico. Bull. Chicago Herp. Soc., V. 44, N.2: 21-27.",
+        "ID": "Martins06679",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro de La Silla, Nuevo Le‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.18962,
+          21.00878
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.00878,
+        "longitude": -99.18962,
+        "date": "",
+        "source": "Ram‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†rez-Bautista, A.; U. Hern‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™ndez-Salinas, F. Mendiza-Quijano; R. Cruz-Elizalde; B. P/ Stephenson; V. D. Vite-Silva; A. Leyte-Manrique. 2010. Lista anotada de los anfibios y reptiles del estado de Hidalgo, Mexico. Universidade Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢nima del Estado de Hidalgo, Comisi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Nacional para el conocimiento y uso de la biodiversidad.",
+        "ID": "Martins06680",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Jacala, Hidalgo, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.18962,
+          21.00878
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 21.00878,
+        "longitude": -99.18962,
+        "date": "",
+        "source": "Ram‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†rez-Bautista, A.; U. Hern‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™ndez-Salinas, F. Mendiza-Quijano; R. Cruz-Elizalde; B. P/ Stephenson; V. D. Vite-Silva; A. Leyte-Manrique. 2010. Lista anotada de los anfibios y reptiles del estado de Hidalgo, Mexico. Universidade Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢nima del Estado de Hidalgo, Comisi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Nacional para el conocimiento y uso de la biodiversidad.",
+        "ID": "Martins06681",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Jacala, Hidalgo, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.37588,
+          22.216583
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.216583,
+        "longitude": -98.37588,
+        "date": "",
+        "source": "Taylor, E. H. 1950. Second contribution to the herpetology of San Luis Potos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†. The University of Kansas Science Bulletin, V. 33, N. 11.",
+        "ID": "Martins06682",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢bano, San Luis Potos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.37588,
+          22.216583
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.216583,
+        "longitude": -98.37588,
+        "date": "",
+        "source": "Taylor, E. H. 1950. Second contribution to the herpetology of San Luis Potos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†. The University of Kansas Science Bulletin, V. 33, N. 11.",
+        "ID": "Martins06683",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢bano, San Luis Potos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.07114,
+          22.9202
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.9202,
+        "longitude": -98.07114,
+        "date": "",
+        "source": "Lazcano, D.; W. L. Farr; P. A. Lavin-Murcio; J. A. Contreras-Lozano; A. Kardon; S. Narvaez-Torres; J. A. Ch‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™vez-Cisneros. 2009. Notes on mexican herpetofauna 13: DORs in the municipality of Aldama, Tamaulipas, Mexico. Bull Chicago Herp. Soc., V.44, N. 12: 181-195.",
+        "ID": "Martins06684",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Aldama, Tamaulipas, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.07114,
+          22.9202
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_totonacus",
+        "latitude": 22.9202,
+        "longitude": -98.07114,
+        "date": "",
+        "source": "Lazcano, D.; W. L. Farr; P. A. Lavin-Murcio; J. A. Contreras-Lozano; A. Kardon; S. Narvaez-Torres; J. A. Ch‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™vez-Cisneros. 2009. Notes on mexican herpetofauna 13: DORs in the municipality of Aldama, Tamaulipas, Mexico. Bull Chicago Herp. Soc., V.44, N. 12: 181-195.",
+        "ID": "Martins06685",
+        "database_recorded_species": "Crotalus totonacus",
+        "database_recorded_subspecies": "Crotalus totonacus",
+        "taxonomy_updated_species": "Crotalus_totonacus",
+        "taxonomy_updated_subspecies2": "Crotalus_totonacus",
+        "final_species": "Crotalus_totonacus",
+        "final_subspecies": "Crotalus_totonacus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Aldama, Tamaulipas, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

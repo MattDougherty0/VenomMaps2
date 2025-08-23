@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.841271,
+          31.237699
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.237699,
+        "longitude": -7.841271,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453345370",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 29252,
+        "country": "Morocco",
+        "locality": "MA; Marrakech - Tensift - Al Haouz; NA",
+        "voucher": "iNaturalist:Observations:4928775",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.961815,
+          31.111606
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.111606,
+        "longitude": -7.961815,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265840842",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 29278,
+        "country": "Morocco",
+        "locality": "MA; Marrakech - Tensift - Al Haouz; NA",
+        "voucher": "iNaturalist:Observations:26667065",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.924617,
+          31.086183
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.086183,
+        "longitude": -7.924617,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421805357",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 100,
+        "country": "Morocco",
+        "locality": "MA; Marrakech; Sidi Chamharouch, SW of; High Reraia river",
+        "voucher": "CIBIO:BiodesertsCollection:1013",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.839183,
+          31.215
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.215,
+        "longitude": -7.839183,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421805382",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 100,
+        "country": "Morocco",
+        "locality": "MA; Marrakech; Ouakaimeden",
+        "voucher": "CIBIO:BiodesertsCollection:1141",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.85238,
+          31.197296
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.197296,
+        "longitude": -7.85238,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2834974881",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 10,
+        "country": "Morocco",
+        "locality": "MA; NA; Morocco - Ouka‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö‚â§medene",
+        "voucher": "NA:Observations:OBS.186086020",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.85238,
+          31.197296
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.197296,
+        "longitude": -7.85238,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2838930721",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 10,
+        "country": "Morocco",
+        "locality": "MA; NA; Morocco - Ouka‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö‚â§medene",
+        "voucher": "NA:Observations:OBS.180715547",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.862992,
+          31.205736
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.205736,
+        "longitude": -7.862992,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839920393",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 1000,
+        "country": "Morocco",
+        "locality": "MA; NA; Morocco - Ouka‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö‚â§medene",
+        "voucher": "NA:Observations:OBS.116680389",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86,
+          31.19
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_monticola",
+        "latitude": 31.19,
+        "longitude": -7.86,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2845024652",
+        "database_recorded_species": "Vipera monticola",
+        "database_recorded_subspecies": "Vipera monticola",
+        "taxonomy_updated_species": "Vipera_monticola",
+        "taxonomy_updated_subspecies2": "Vipera_monticola",
+        "final_species": "Vipera_monticola",
+        "final_subspecies": "Vipera_monticola",
+        "accuracy_m": 1000,
+        "country": "Morocco",
+        "locality": "MA; NA; Morocco - Ouka‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö‚â§medene",
+        "voucher": "NA:Observations:OBS.180765687",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0833,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_medusa",
+        "latitude": 10.4667,
+        "longitude": -67.0833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321241311",
+        "database_recorded_species": "Bothrops medusa",
+        "database_recorded_subspecies": "Bothrops medusa",
+        "taxonomy_updated_species": "Bothrops_medusa",
+        "taxonomy_updated_subspecies2": "Bothrops_medusa",
+        "final_species": "Bothrops_medusa",
+        "final_subspecies": "Bothrops_medusa",
+        "accuracy_m": 1243,
+        "country": "Venezuela",
+        "locality": "VE; Aragua; Caracas, W of, Junquito",
+        "voucher": "USNM:Amphibians & Reptiles:129585",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0833,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_medusa",
+        "latitude": 10.4667,
+        "longitude": -67.0833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10729",
+        "database_recorded_species": "Bothrops medusa",
+        "database_recorded_subspecies": "Bothrops medusa",
+        "taxonomy_updated_species": "Bothrops_medusa",
+        "taxonomy_updated_subspecies2": "Bothrops_medusa",
+        "final_species": "Bothrops_medusa",
+        "final_subspecies": "Bothrops_medusa",
+        "accuracy_m": "NA",
+        "country": "Venezuela",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

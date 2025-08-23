@@ -1,0 +1,1358 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9760255591285,
+          8.65439237299007
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.65439237299007,
+        "longitude": -82.9760255591285,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145541042",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": 4958,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; Wilson Botanical Garden, 5.6 km S San Vito",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:229858",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.291229,
+          8.482481
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.482481,
+        "longitude": -83.291229,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2859941216",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": 31279,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; NA",
+        "voucher": "iNaturalist:Observations:58285604",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53333,
+          8.98332999970859
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.98332999970859,
+        "longitude": -83.53333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_45060560",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": 950,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas Province; Palmar Norte, 7 mi. NW. of",
+        "voucher": "SDNHM:Herps:46013",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.333333,
+          9.166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 9.166667,
+        "longitude": -83.333333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657497044",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": 4636,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; Buenos Aires",
+        "voucher": "LACM:Herps:154666",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4980666378582,
+          8.6320063784381
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.6320063784381,
+        "longitude": -83.4980666378582,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686809207",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; 4.5 km W Rincon de Osa",
+        "voucher": "KU:KUH:102539",
+        "issue": "COORDINATE_REPROJECTED;COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49628183,
+          8.632661862
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.632661862,
+        "longitude": -83.49628183,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36385",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16294856,
+          8.715987826
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.715987826,
+        "longitude": -83.16294856,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36386",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.333333,
+          9.166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 9.166667,
+        "longitude": -83.333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36387",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.933333,
+          8.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.65,
+        "longitude": -82.933333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36388",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97602556,
+          8.654392373
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.654392373,
+        "longitude": -82.97602556,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36389",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.53333,
+          8.98333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.98333,
+        "longitude": -83.53333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36393",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94423,
+          8.648385
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.648385,
+        "longitude": -82.94423,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins00004",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Ciudad Neily, Punta Arenas, Costa Rica",
+        "voucher": "(MICP) 301",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94423,
+          8.648385
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.648385,
+        "longitude": -82.94423,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins00005",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Ciudad Neily, Punta Arenas, Costa Rica",
+        "voucher": "(MICP) 301",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1639,
+          8.720043
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.720043,
+        "longitude": -83.1639,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02163",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Villa Brice‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154514",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1639,
+          8.720043
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.720043,
+        "longitude": -83.1639,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02164",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Villa Brice‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154514",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1639,
+          8.720043
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.720043,
+        "longitude": -83.1639,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02165",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Villa Brice‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154514",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33079,
+          9.167404
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 9.167404,
+        "longitude": -83.33079,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02254",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Buenos Aires Canton, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154666",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33079,
+          9.167404
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 9.167404,
+        "longitude": -83.33079,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02255",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Buenos Aires Canton, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154666",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33079,
+          9.167404
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 9.167404,
+        "longitude": -83.33079,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02256",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Buenos Aires Canton, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154666",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94423,
+          8.648385
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.648385,
+        "longitude": -82.94423,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02257",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Ciudad Neily, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154666",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94423,
+          8.648385
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.648385,
+        "longitude": -82.94423,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02258",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Ciudad Neily, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154666",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94423,
+          8.648385
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.648385,
+        "longitude": -82.94423,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02259",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Ciudad Neily, Punta Arenas, Costa Rica",
+        "voucher": "LACM 154666",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45634,
+          8.963352
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.963352,
+        "longitude": -83.45634,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins03157",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Punta Arenas, Costa Rica",
+        "voucher": "MICP-302",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45634,
+          8.963352
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.963352,
+        "longitude": -83.45634,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins03158",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Punta Arenas, Costa Rica",
+        "voucher": "MICP-302",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57115,
+          8.540276
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.540276,
+        "longitude": -83.57115,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins03159",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Corcovado National Park, Punta Arenas, Costa Rica",
+        "voucher": "MICP-303",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57115,
+          8.540276
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.540276,
+        "longitude": -83.57115,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins03160",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Corcovado National Park, Punta Arenas, Costa Rica",
+        "voucher": "MICP-303",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9399,
+          8.866749
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.866749,
+        "longitude": -82.9399,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins03161",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Rio Cot‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Punta Arenas, Costa Rica",
+        "voucher": "MICP-307",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9399,
+          8.866749
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.866749,
+        "longitude": -82.9399,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A., and L. Cerdas. 1986. A new subspecies of the Bushmaster Lachesis muta, from Southeastern Costa Rica. Journal of Herpetology, 20(3):463-466.",
+        "ID": "Martins03162",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Rio Cot‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Punta Arenas, Costa Rica",
+        "voucher": "MICP-307",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97215,
+          8.821772
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.821772,
+        "longitude": -82.97215,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03692",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Punta Arenas, Costa Rica",
+        "voucher": "MVZ 229858",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97215,
+          8.821772
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.821772,
+        "longitude": -82.97215,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03693",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Punta Arenas, Costa Rica",
+        "voucher": "MVZ 229858",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97215,
+          8.821772
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.821772,
+        "longitude": -82.97215,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03694",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Vito, Punta Arenas, Costa Rica",
+        "voucher": "MVZ 229858",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16241,
+          8.639202
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.639202,
+        "longitude": -83.16241,
+        "date": "",
+        "source": "Fernandes, D. S., F. L. Franco, and R. Fernandes. 2004. Systematic revision of the genus Lachesis Daudin, 1803 (Serpentes, Viperidae). Herpetologia, 60(2):245-260.",
+        "ID": "Martins03791",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Golfito, Puntarenas, Costa Rica",
+        "voucher": "MZUCR 1589",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16241,
+          8.639202
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.639202,
+        "longitude": -83.16241,
+        "date": "",
+        "source": "Fernandes, D. S., F. L. Franco, and R. Fernandes. 2004. Systematic revision of the genus Lachesis Daudin, 1803 (Serpentes, Viperidae). Herpetologia, 60(2):245-260.",
+        "ID": "Martins03792",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Golfito, Puntarenas, Costa Rica",
+        "voucher": "MZUCR 1589",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48725,
+          8.707813
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.707813,
+        "longitude": -83.48725,
+        "date": "",
+        "source": "Zamudio, K. R. and H. W. Greene. 1997. Phylogeography of the bushmaster (Lachesis muta: Viperidae): implications for neotropical biogeoograhy, systematics, and conservation. Biological Journal of the Linnean Society, 62:421-442.",
+        "ID": "Martins06858",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Rincon, Puntarenas, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.48725,
+          8.707813
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.707813,
+        "longitude": -83.48725,
+        "date": "",
+        "source": "Zamudio, K. R. and H. W. Greene. 1997. Phylogeography of the bushmaster (Lachesis muta: Viperidae): implications for neotropical biogeoograhy, systematics, and conservation. Biological Journal of the Linnean Society, 62:421-442.",
+        "ID": "Martins06859",
+        "database_recorded_species": "Lachesis melanocephala",
+        "database_recorded_subspecies": "Lachesis melanocephala",
+        "taxonomy_updated_species": "Lachesis_melanocephala",
+        "taxonomy_updated_subspecies2": "Lachesis_melanocephala",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Rincon, Puntarenas, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45634,
+          8.963925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.963925,
+        "longitude": -83.45634,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08586",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Puntarenas, Costa Rica",
+        "voucher": "SDNHM 46013",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45634,
+          8.963925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.963925,
+        "longitude": -83.45634,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08587",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Puntarenas, Costa Rica",
+        "voucher": "SDNHM 46013",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45634,
+          8.963925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.963925,
+        "longitude": -83.45634,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08588",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Puntarenas, Costa Rica",
+        "voucher": "SDNHM 46013",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45449,
+          8.97068
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.97068,
+        "longitude": -83.45449,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08589",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Puntarenas, Costa Rica",
+        "voucher": "SDNHM 46013",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45449,
+          8.97068
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.97068,
+        "longitude": -83.45449,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08590",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Puntarenas, Costa Rica",
+        "voucher": "SDNHM 46013",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45449,
+          8.97068
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_melanocephala",
+        "latitude": 8.97068,
+        "longitude": -83.45449,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08591",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_melanocephala",
+        "final_subspecies": "Lachesis_melanocephala",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Palmar Norte, Puntarenas, Costa Rica",
+        "voucher": "SDNHM 46013",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

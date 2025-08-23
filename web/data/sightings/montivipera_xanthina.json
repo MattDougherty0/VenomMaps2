@@ -1,0 +1,2117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.859756,
+          39.193948
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.193948,
+        "longitude": 25.859756,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1092907694",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 3293,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:1577241",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.257008,
+          40.986282
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.986282,
+        "longitude": 26.257008,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1580178800",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 250,
+        "country": "Greece",
+        "locality": "GR; NA; UTM25_35T_0425_4525",
+        "voucher": "naturgucker:naturgucker:1051930795",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.869683,
+          38.166328
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.166328,
+        "longitude": 26.869683,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2006079036",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 977,
+        "country": "Turkey",
+        "locality": "TR; Izmir; NA",
+        "voucher": "iNaturalist:Observations:20776742",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.414665,
+          38.999486
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.999486,
+        "longitude": 26.414665,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2013706765",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:21077013",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.676946,
+          36.173044
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.173044,
+        "longitude": 29.676946,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596453043",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 5114,
+        "country": "Turkey",
+        "locality": "TR; Antalya; NA",
+        "voucher": "iNaturalist:Observations:40685722",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.420372,
+          36.553982
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.553982,
+        "longitude": 29.420372,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2620045934",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 4,
+        "country": "Turkey",
+        "locality": "TR; Mugla; NA",
+        "voucher": "iNaturalist:Observations:44458478",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.175356,
+          39.20707
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.20707,
+        "longitude": 26.175356,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832193312",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 999,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos",
+        "voucher": "NA:Observations:OBS.44635672",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.86425,
+          39.198418
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.198418,
+        "longitude": 25.86425,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832297824",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos",
+        "voucher": "NA:Observations:OBS.68665582",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.176128,
+          39.206661
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.206661,
+        "longitude": 26.176128,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832554169",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Potamia Valley",
+        "voucher": "NA:Observations:OBS.102800308",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.196922,
+          39.211116
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.211116,
+        "longitude": 26.196922,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833008363",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 5,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Christou / West River",
+        "voucher": "NA:Observations:OBS.157118583",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.38,
+          39.09
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.09,
+        "longitude": 26.38,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833051892",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 1000,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Agiasos (municipality)",
+        "voucher": "NA:Observations:OBS.138531980",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.935369,
+          39.230605
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.230605,
+        "longitude": 25.935369,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833279074",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Ipsilou Monastery",
+        "voucher": "NA:Observations:OBS.158942569",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.714876,
+          37.714046
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.714046,
+        "longitude": 26.714876,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2834020807",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Samos",
+        "voucher": "NA:Observations:OBS.172219512",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.161981,
+          39.216893
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.216893,
+        "longitude": 26.161981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2835972247",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Potamia Valley",
+        "voucher": "NA:Observations:OBS.103173133",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.898034,
+          40.90111
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.90111,
+        "longitude": 25.898034,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836073460",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Alexandroupolis",
+        "voucher": "NA:Observations:OBS.104620885",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8981,
+          40.9009
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.9009,
+        "longitude": 25.8981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836116322",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Alexandroupolis",
+        "voucher": "NA:Observations:OBS.104653704",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.238044,
+          39.131276
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.131276,
+        "longitude": 26.238044,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836681417",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 5,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Achladeri to Skamnioudi",
+        "voucher": "NA:Observations:OBS.155891817",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.284704,
+          39.362631
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.362631,
+        "longitude": 26.284704,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2838363359",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 999,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos",
+        "voucher": "NA:Observations:OBS.44636754",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.176128,
+          39.206661
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.206661,
+        "longitude": 26.176128,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839125909",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Potamia Valley",
+        "voucher": "NA:Observations:OBS.102152279",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.898,
+          40.9011
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.9011,
+        "longitude": 25.898,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839127267",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 5,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Alexandroupolis",
+        "voucher": "NA:Observations:OBS.104122119",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.188374,
+          39.221324
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.221324,
+        "longitude": 26.188374,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839171875",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Kalloni area",
+        "voucher": "NA:Observations:OBS.85352635",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.370333,
+          39.070611
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.070611,
+        "longitude": 26.370333,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839931634",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Agiasos (municipality)",
+        "voucher": "NA:Observations:OBS.105056920",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.935369,
+          39.230605
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.230605,
+        "longitude": 25.935369,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2840737133",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Ipsilou Monastery",
+        "voucher": "NA:Observations:OBS.158942557",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.935369,
+          39.230605
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.230605,
+        "longitude": 25.935369,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841021398",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Ipsilou Monastery",
+        "voucher": "NA:Observations:OBS.155830136",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.196922,
+          39.211116
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.211116,
+        "longitude": 26.196922,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841126387",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 5,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Christou / West River",
+        "voucher": "NA:Observations:OBS.156365319",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.038828,
+          40.868568
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.868568,
+        "longitude": 26.038828,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841942107",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Evros delta",
+        "voucher": "NA:Observations:OBS.133272772",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.714909,
+          37.71418
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.71418,
+        "longitude": 26.714909,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2842055619",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Samos",
+        "voucher": "NA:Observations:OBS.172215620",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.041682,
+          40.857269
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.857269,
+        "longitude": 26.041682,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2842351645",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Evros delta",
+        "voucher": "NA:Observations:OBS.97772827",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8981,
+          40.9009
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.9009,
+        "longitude": 25.8981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2842495393",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 10,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Alexandroupolis",
+        "voucher": "NA:Observations:OBS.121787152",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.86761,
+          39.23995
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.23995,
+        "longitude": 25.86761,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2842670808",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 100,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Faneromeni",
+        "voucher": "NA:Observations:OBS.51638960",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.935369,
+          39.230605
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.230605,
+        "longitude": 25.935369,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2843108508",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Ipsilou Monastery",
+        "voucher": "NA:Observations:OBS.155701171",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.935369,
+          39.230605
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.230605,
+        "longitude": 25.935369,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2843161273",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Ipsilou Monastery",
+        "voucher": "NA:Observations:OBS.155705972",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.898,
+          40.9011
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.9011,
+        "longitude": 25.898,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2843740199",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 5,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Alexandroupolis",
+        "voucher": "NA:Observations:OBS.159414212",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.884776,
+          39.173524
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.173524,
+        "longitude": 25.884776,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2843744942",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 999,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos",
+        "voucher": "NA:Observations:OBS.158320049",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.824936,
+          37.72953
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.72953,
+        "longitude": 26.824936,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2844538556",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 25,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Samos",
+        "voucher": "NA:Observations:OBS.174306022",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.014167,
+          39.283383
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.283383,
+        "longitude": 26.014167,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2845445691",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 19,
+        "country": "Greece",
+        "locality": "GR; NA; Greece - Lesbos - Voulgaris River",
+        "voucher": "NA:Observations:OBS.179155087",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.923431,
+          37.724857
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.724857,
+        "longitude": 26.923431,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851026771",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 1953,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:55802395",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.04,
+          40.86
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.86,
+        "longitude": 26.04,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_3011367520",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "GR; NA; NA",
+        "voucher": "Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:1620129",
+        "issue": "BASIS_OF_RECORD_INVALID",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.83,
+          37.71
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.71,
+        "longitude": 26.83,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_3011568889",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "GR; NA; NA",
+        "voucher": "Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:1774969",
+        "issue": "BASIS_OF_RECORD_INVALID",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71,
+          37.73
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.73,
+        "longitude": 26.71,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_3011688857",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "GR; NA; NA",
+        "voucher": "Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:1774916",
+        "issue": "BASIS_OF_RECORD_INVALID",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.78,
+          37.72
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.72,
+        "longitude": 26.78,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_3012053453",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Greece",
+        "locality": "GR; NA; NA",
+        "voucher": "Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:Biodiversit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ºtsdatenbank Salzburg:1774914",
+        "issue": "BASIS_OF_RECORD_INVALID",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.018819,
+          39.233851
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.233851,
+        "longitude": 26.018819,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3097049147",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 2,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:74503410",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82843,
+          36.619908
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.619908,
+        "longitude": 27.82843,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302069546",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": 5,
+        "country": "Greece",
+        "locality": "GR; Aegean; NA",
+        "voucher": "iNaturalist:Observations:75836839",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1287,
+          38.418
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.418,
+        "longitude": 27.1287,
+        "date": "",
+        "source": "Werner, F. 1902. Die Reptilien und Ambphibienfauna von Keinasien.",
+        "ID": "Martins06944",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Smyrna, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4302,
+          37.0353
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.0353,
+        "longitude": 27.4302,
+        "date": "",
+        "source": "Werner, F. 1902. Die Reptilien und Ambphibienfauna von Keinasien.",
+        "ID": "Martins06945",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Bodrum, TUrkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31667,
+          36.333333
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.333333,
+        "longitude": 29.31667,
+        "date": "",
+        "source": "Werner, F. 1902. Die Reptilien und Ambphibienfauna von Keinasien.",
+        "ID": "Martins06946",
+        "database_recorded_species": "Macrovipera lebetinus",
+        "database_recorded_subspecies": "Macrovipera lebetinus xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Xanthos, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.81209,
+          39.1114
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.1114,
+        "longitude": 27.81209,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07017",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Karakurt, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.654461,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.81209,
+          39.1114
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.1114,
+        "longitude": 27.81209,
+        "date": "",
+        "source": "Fenwick, A. M., H. W. Greene, and C. L. Parkinson 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers?. Journal of Zoological Systematica and Evolutionary Research, 50(1):59-66.",
+        "ID": "Martins07018",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Karakurt, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.654461,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.81209,
+          39.1114
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.1114,
+        "longitude": 27.81209,
+        "date": "",
+        "source": "Fenwick et al. 2012. The serpent and the egg: unidirectional evolution of reproductive mode in vipers. J zool syst evol res 50:59-70",
+        "ID": "Martins07019",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Karakurt, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.654461,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45083,
+          38.535
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.535,
+        "longitude": 35.45083,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins07317",
+        "database_recorded_species": "Montivipera albizona",
+        "database_recorded_subspecies": "Montivipera albizona",
+        "taxonomy_updated_species": "Montivipera_albizona",
+        "taxonomy_updated_subspecies2": "Montivipera_albizona",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Erciyas Dagi, Kayseri, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.654461,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.81209,
+          39.1114
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.1114,
+        "longitude": 27.81209,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-106",
+        "ID": "Martins08258",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Karakurt, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.654461,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.81209,
+          39.1114
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.1114,
+        "longitude": 27.81209,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-105",
+        "ID": "Martins08259",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Karakurt, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.654461,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.81209,
+          39.1114
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 39.1114,
+        "longitude": 27.81209,
+        "date": "",
+        "source": "Joger et al. 1988. Morphological characterization of Vipera wagneri Nilson & Andr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n 1984 (Reptilia: Viperidae), with first description of the males. Bonn. zool. beitr. 39 (2/3): 221-228",
+        "ID": "Martins08260",
+        "database_recorded_species": "Montivipera wagneri",
+        "database_recorded_subspecies": "Montivipera wagneri",
+        "taxonomy_updated_species": "Montivipera_wagneri",
+        "taxonomy_updated_subspecies2": "Montivipera_wagneri",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Aras Valley, near Karakourt, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 2.654461,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.96169,
+          38.494025
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.494025,
+        "longitude": 26.96169,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W. et al. 2008. A nesting of vipers: phylogeny and historical biogeography of the viperidae (squamata: serpentes). Molecular Phylogenetics and Evolution 49: 445-459.",
+        "ID": "Martins08262",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ciglikara Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.96169,
+          38.494025
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.494025,
+        "longitude": 26.96169,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-106",
+        "ID": "Martins08263",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ciglikara Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.96169,
+          38.494025
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.494025,
+        "longitude": 26.96169,
+        "date": "",
+        "source": "Lenk, P et al. 2001. Evolutionary relationships among the true vipers (reptilia:viperidae) inferred from mitochondrial DNA sequences. Molecular phylogenetics and evolution 19:94-105",
+        "ID": "Martins08264",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Ciglikara Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1287,
+          38.418
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.418,
+        "longitude": 27.1287,
+        "date": "",
+        "source": "Werner, F. 1902. Die Reptilien und Ambphibienfauna von Keinasien.",
+        "ID": "Martins08265",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Smyrna, turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4302,
+          37.0353
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 37.0353,
+        "longitude": 27.4302,
+        "date": "",
+        "source": "Werner, F. 1902. Die Reptilien und Ambphibienfauna von Keinasien.",
+        "ID": "Martins08266",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Budrum, turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31667,
+          36.333333
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.333333,
+        "longitude": 29.31667,
+        "date": "",
+        "source": "W‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•ster, W. et al. 2008. A nesting of vipers: phylogeny and historical biogeography of the viperidae (squamata: serpentes). Molecular Phylogenetics and Evolution 49: 445-459.",
+        "ID": "Martins08267",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Xanthos, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31667,
+          36.333333
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.333333,
+        "longitude": 29.31667,
+        "date": "",
+        "source": "Mallow, D et al. 2003.True vipers and toxinology of wold world vipers. Krieger Publishing company.",
+        "ID": "Martins08268",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Xanthos, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31667,
+          36.333333
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.333333,
+        "longitude": 29.31667,
+        "date": "",
+        "source": "Werner, F. 1902. Die Reptilien und Ambphibienfauna von Keinasien.",
+        "ID": "Martins08269",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Xanthos, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31667,
+          36.333333
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 36.333333,
+        "longitude": 29.31667,
+        "date": "",
+        "source": "Strauch, A. 1869. Synopsis der viperiden nebst Bemerkungen uber die geographische verbreitung dieser giftschlandgen-familie. Memoires de l'academie imperiale des sciences de st petersburg vii serie. tome xiv n6.",
+        "ID": "Martins08270",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Xanthos, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5144,
+          40.0817
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 40.0817,
+        "longitude": 29.5144,
+        "date": "",
+        "source": "Teyni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, A. 1987. Observations herpetologiques en Turquie. Iere partie. Bull. Soc. Herp. Fr. 43:9-19",
+        "ID": "Martins08271",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Inegol, Prov Bursa, turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45083,
+          38.535
+        ]
+      },
+      "properties": {
+        "scientificName": "Montivipera_xanthina",
+        "latitude": 38.535,
+        "longitude": 35.45083,
+        "date": "",
+        "source": "Nilson, G. 1998. Venomous snakes in west asia: applicability of current species concepts",
+        "ID": "Martins08275",
+        "database_recorded_species": "Montivipera xanthina",
+        "database_recorded_subspecies": "Montivipera xanthina",
+        "taxonomy_updated_species": "Montivipera_xanthina",
+        "taxonomy_updated_subspecies2": "Montivipera_xanthina",
+        "final_species": "Montivipera_xanthina",
+        "final_subspecies": "Montivipera_xanthina",
+        "accuracy_m": "NA",
+        "country": "Turkey",
+        "locality": "Erciyas Dagi, Kayseri, Turkey",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.95,
+          24.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 24.4667,
+        "longitude": 32.95,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039463005",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Aswan Governorate; 1 mile nnw of Kom Ombo pumping station",
+        "voucher": "YPM:VZ:YPM HERR 003915",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.608,
+          22.258
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.258,
+        "longitude": 31.608,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039477222",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Aswan Governorate; NA",
+        "voucher": "YPM:VZ:YPM HERR 005257",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8,
+          29.916667
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 29.916667,
+        "longitude": 31.8,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055465858",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Al Qahirah; Wadi Gindali",
+        "voucher": "NHMUK:ZOO:1986.794",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.025,
+          20.3706
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.3706,
+        "longitude": 9.025,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055609079",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Niger",
+        "locality": "NE; NA; Adrar Bouss, Air",
+        "voucher": "NHMUK:ZOO:1970.1760",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5239,
+          18.5958
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 18.5958,
+        "longitude": 9.5239,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056991377",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Niger",
+        "locality": "NE; NA; Arakao and Wadi Azanyares, Takolokouzet",
+        "voucher": "NHMUK:ZOO:1978.2103-2105",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2086,
+          30.0131
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.0131,
+        "longitude": 31.2086,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057021370",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; NA; Giza",
+        "voucher": "NHMUK:ZOO:1897.10.28.626",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.733333,
+          18.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 18.3,
+        "longitude": 42.733333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057576520",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; `Asir; Khamis Mushayt, 1950m",
+        "voucher": "NHMUK:ZOO:1985.726",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.409287,
+          30.939556
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.939556,
+        "longitude": 34.409287,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1065580615",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:851337",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.49,
+          31.01
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.01,
+        "longitude": 34.49,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094702872",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.133333,
+          29.983333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 29.983333,
+        "longitude": 31.133333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145515603",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 3041,
+        "country": "Egypt",
+        "locality": "EG; Giza Governorate; El Quatta, 36 km from Pyramids [Cheops, Etc.], W of Delta, NW of Cairo",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:206939",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.929167,
+          12.9575
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 12.9575,
+        "longitude": 44.929167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145548589",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 25,
+        "country": "Yemen",
+        "locality": "YE; Lahij Governorate; Bir Nasr Farm, 3 km SW (by air) Sabir",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:236625",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.25,
+          31.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.35,
+        "longitude": 27.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211728453",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; NA; Marsa Matruh",
+        "voucher": "ROM:Reptiles and Amphibians:12514",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.16667,
+          25.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 25.5,
+        "longitude": 29.16667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211761093",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Western Desert; Dakleh Oasis",
+        "voucher": "ROM:Reptiles and Amphibians:11549",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.05,
+        "longitude": 31.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317403520",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 9670.54999999999,
+        "country": "Egypt",
+        "locality": "EG; Cairo Governorate; Cairo",
+        "voucher": "USNM:Amphibians & Reptiles:37338",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8363,
+          27.0798
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 27.0798,
+        "longitude": 30.8363,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317870584",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 749832,
+        "country": "Egypt",
+        "locality": "EG; NA; Wadi Nasum",
+        "voucher": "USNM:Amphibians & Reptiles:133645",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.88,
+          30.07
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.07,
+        "longitude": -6.88,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319122095",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Morocco",
+        "locality": "MA; Ouarzazate; Foum-Zguid, 4 km S of",
+        "voucher": "USNM:Amphibians & Reptiles:196483",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3235807566291,
+          28.7087901516652
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 28.7087901516652,
+        "longitude": 33.3235807566291,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320432869",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 49891.3,
+        "country": "Egypt",
+        "locality": "EG; Sinai; Wadi Faran",
+        "voucher": "USNM:Amphibians & Reptiles:131440",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7173,
+          29.6775
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 29.6775,
+        "longitude": 24.7173,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321315063",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 48990,
+        "country": "Libya",
+        "locality": "LY; Cyrenaica; Bahr El Tubat, 21 km ESE of Giarabub (= Al Jaghbub)",
+        "voucher": "USNM:Amphibians & Reptiles:146794",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322364723",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; NA; Abi Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131188",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.284302,
+          27.775912
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 27.775912,
+        "longitude": 28.284302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453353638",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 7813,
+        "country": "Egypt",
+        "locality": "EG; Al Jizah; NA",
+        "voucher": "iNaturalist:Observations:4948389",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63903,
+          26.296141
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 26.296141,
+        "longitude": 8.63903,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586137689",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Algeria",
+        "locality": "DZ; Illizi; NA",
+        "voucher": "iNaturalist:Observations:7363812",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.761353,
+          24.524122
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 24.524122,
+        "longitude": 9.761353,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586138675",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 25,
+        "country": "Algeria",
+        "locality": "DZ; Illizi; NA",
+        "voucher": "iNaturalist:Observations:7367686",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.367067,
+          23.960601
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.960601,
+        "longitude": 25.367067,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586140200",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1,
+        "country": "Egypt",
+        "locality": "EG; Al Wadi al Jadid; NA",
+        "voucher": "iNaturalist:Observations:7372747",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.362625,
+          23.849013
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.849013,
+        "longitude": 25.362625,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586140274",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 10,
+        "country": "Egypt",
+        "locality": "EG; Al Wadi al Jadid; NA",
+        "voucher": "iNaturalist:Observations:7372740",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.253554,
+          26.441079
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 26.441079,
+        "longitude": 8.253554,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586140573",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1,
+        "country": "Algeria",
+        "locality": "DZ; Illizi; NA",
+        "voucher": "iNaturalist:Observations:7373835",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.261268,
+          25.376712
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 25.376712,
+        "longitude": 8.261268,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586140669",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 10,
+        "country": "Algeria",
+        "locality": "DZ; Illizi; NA",
+        "voucher": "iNaturalist:Observations:7374157",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.59314,
+          22.77061
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.77061,
+        "longitude": -14.59314,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1677308785",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 8385,
+        "country": "Western Sahara",
+        "locality": "MA; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:8430924",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.860956,
+          21.521194
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 21.521194,
+        "longitude": -12.860956,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1805396811",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 145,
+        "country": "Mauritania",
+        "locality": "MR; Adrar; NA",
+        "voucher": "iNaturalist:Observations:9470544",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.784611,
+          18.562561
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 18.562561,
+        "longitude": 9.784611,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1805411848",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Niger",
+        "locality": "NE; Agadez; NA",
+        "voucher": "iNaturalist:Observations:9508913",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.764712,
+          24.916998
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 24.916998,
+        "longitude": 17.764712,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1831113221",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 3,
+        "country": "Libya",
+        "locality": "LY; Murzuq; NA",
+        "voucher": "iNaturalist:Observations:3130785",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.878214,
+          23.045339
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.045339,
+        "longitude": -14.878214,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2238948950",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Western Sahara",
+        "locality": "MA; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:23910948",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.616075,
+          20.770672
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.770672,
+        "longitude": -16.616075,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795522",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Kerekchet et Teint‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢ne, W side 4",
+        "voucher": "CIBIO:BiodesertsCollection:5178",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.463573,
+          16.343802
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 16.343802,
+        "longitude": 11.463573,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795552",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Zinder; Termit, Nourou Nga",
+        "voucher": "CIBIO:BiodesertsCollection:6748",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.612723,
+          20.48458
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.48458,
+        "longitude": -15.612723,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795562",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Imkebdene, 1km W of",
+        "voucher": "CIBIO:BiodesertsCollection:5279",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.577907,
+          21.192347
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 21.192347,
+        "longitude": -13.577907,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795579",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Adrar; Inemmo‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢dene, 1km N of",
+        "voucher": "CIBIO:BiodesertsCollection:1621",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.14205,
+          20.14976
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.14976,
+        "longitude": -16.14205,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795594",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Aguil‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢l 4",
+        "voucher": "CIBIO:BiodesertsCollection:5136",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.171913,
+          20.149803
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.149803,
+        "longitude": -16.171913,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795604",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Aguil‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢l, 1km W of",
+        "voucher": "CIBIO:BiodesertsCollection:5124",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.650368,
+          20.815353
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.815353,
+        "longitude": -16.650368,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795606",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; El Moun‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢ne, 5km E of",
+        "voucher": "CIBIO:BiodesertsCollection:2774",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42469,
+          16.324485
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 16.324485,
+        "longitude": 11.42469,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795611",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Zinder; Termit, Nourou Nga",
+        "voucher": "CIBIO:BiodesertsCollection:6746",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.415012,
+          20.739577
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.739577,
+        "longitude": -16.415012,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795615",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Sebkhet Db‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢deb et Teint‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢ne, 8km SE of",
+        "voucher": "CIBIO:BiodesertsCollection:6427",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62465,
+          31.299567
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.299567,
+        "longitude": 10.62465,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795618",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Libya",
+        "locality": "LY; Ghadamis; Nalut, 73km S of",
+        "voucher": "CIBIO:BiodesertsCollection:325",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.356395,
+          16.181423
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 16.181423,
+        "longitude": 11.356395,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795623",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Zinder; Termit, Louli Agadem Nga",
+        "voucher": "CIBIO:BiodesertsCollection:6756",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.718,
+          21.015
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 21.015,
+        "longitude": -11.718,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795634",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Adrar; Foum N. Mouei, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:2909",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.452675,
+          15.861802
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 15.861802,
+        "longitude": 11.452675,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795637",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Zinder; Termit, Madaranga",
+        "voucher": "CIBIO:BiodesertsCollection:6734",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.88447,
+          21.60765
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 21.60765,
+        "longitude": -12.88447,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795638",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tiris Zemmour; Ch‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢r, 10km NW of",
+        "voucher": "CIBIO:BiodesertsCollection:1635",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.07643,
+          20.19711
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.19711,
+        "longitude": -13.07643,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795648",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Adrar; Terj‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö√∫t, 10km S of",
+        "voucher": "CIBIO:BiodesertsCollection:1759",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.452587,
+          15.80434
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 15.80434,
+        "longitude": 11.452587,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795656",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Zinder; Termit, Diora Aouoranga",
+        "voucher": "CIBIO:BiodesertsCollection:6714",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.415772,
+          21.05947
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 21.05947,
+        "longitude": -11.415772,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795659",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Adrar; Guelb er Rich‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢t",
+        "voucher": "CIBIO:BiodesertsCollection:2908",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.37285,
+          20.731542
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.731542,
+        "longitude": -13.37285,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795661",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Adrar; Ech Chig",
+        "voucher": "CIBIO:BiodesertsCollection:2864",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.442467,
+          20.92712
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.92712,
+        "longitude": -15.442467,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795667",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; ‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚àûtel Ogm‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢ne, 20km SW of",
+        "voucher": "CIBIO:BiodesertsCollection:5269",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.058292,
+          20.050058
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.050058,
+        "longitude": -16.058292,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795670",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Adeim el Marr‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢r",
+        "voucher": "CIBIO:BiodesertsCollection:3619",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.124797,
+          20.394535
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 20.394535,
+        "longitude": -16.124797,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795672",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; N-Ted‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢tene, 1km E of",
+        "voucher": "CIBIO:BiodesertsCollection:6399",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.452587,
+          15.80434
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 15.80434,
+        "longitude": 11.452587,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795678",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Zinder; Termit, Diora Aouoranga",
+        "voucher": "CIBIO:BiodesertsCollection:6717",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.331722,
+          21.493688
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 21.493688,
+        "longitude": -11.331722,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795706",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tiris Zemmour; El Beyyed",
+        "voucher": "CIBIO:BiodesertsCollection:2898",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10038,
+          31.079267
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.079267,
+        "longitude": -4.10038,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2579373235",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 61,
+        "country": "Morocco",
+        "locality": "MA; Mekn‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ús - Tafilalet; NA",
+        "voucher": "iNaturalist:Observations:39722883",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6502,
+          22.8227
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.8227,
+        "longitude": -14.6502,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832713708",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 5,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.117966670",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6502,
+          22.8227
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.8227,
+        "longitude": -14.6502,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832786666",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 5,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.117925803",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.97306,
+          23.118628
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.118628,
+        "longitude": -14.97306,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833461129",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 25,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.164377886",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.970144,
+          23.117437
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.117437,
+        "longitude": -14.970144,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833491055",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 10,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.164491846",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.45,
+          15.86
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 15.86,
+        "longitude": 11.45,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2834534364",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Niger",
+        "locality": "NE; NA; Niger - Zinder",
+        "voucher": "NA:Observations:OBS.74295191",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.729233,
+          22.89452
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.89452,
+        "longitude": -14.729233,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2835217638",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 999,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Western Sahara",
+        "voucher": "NA:Observations:OBS.47912972",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.45,
+          15.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 15.8,
+        "longitude": 11.45,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2835745535",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Niger",
+        "locality": "NE; NA; Niger - Zinder",
+        "voucher": "NA:Observations:OBS.74295186",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6358,
+          22.8113
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.8113,
+        "longitude": -14.6358,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2835915723",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 5,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.117925868",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6502,
+          22.8227
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.8227,
+        "longitude": -14.6502,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836193642",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 5,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.117919729",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6358,
+          22.8113
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.8113,
+        "longitude": -14.6358,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839498641",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 5,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.117966736",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9467,
+          23.1094
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.1094,
+        "longitude": -14.9467,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839777495",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 10,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.117966529",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9467,
+          23.1094
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.1094,
+        "longitude": -14.9467,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2840064589",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 10,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.117925875",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.414227,
+          30.963801
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.963801,
+        "longitude": 34.414227,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2840302793",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 25,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Negev",
+        "voucher": "NA:Observations:OBS.149442748",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.415269,
+          30.961566
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.961566,
+        "longitude": 34.415269,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841529154",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 10,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Negev",
+        "voucher": "NA:Observations:OBS.173715429",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6358,
+          22.8113
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.8113,
+        "longitude": -14.6358,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2842145659",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 5,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.116843368",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9367,
+          23.1042
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.1042,
+        "longitude": -14.9367,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2842875986",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 30,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.150517827",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.503328,
+          22.533969
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.533969,
+        "longitude": -15.503328,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3058827315",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 122,
+        "country": "Western Sahara",
+        "locality": "EH; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:70721509",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.506732,
+          24.745811
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 24.745811,
+        "longitude": 9.506732,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3058971352",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 244,
+        "country": "Algeria",
+        "locality": "DZ; Illizi; NA",
+        "voucher": "iNaturalist:Observations:70722166",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.863853,
+          23.030236
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 23.030236,
+        "longitude": -14.863853,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070525702",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Western Sahara",
+        "locality": "MA; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:32779718",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.845999,
+          26.817488
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 26.817488,
+        "longitude": -11.845999,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302199917",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 45,
+        "country": "Western Sahara",
+        "locality": "MA; Es Semara; NA",
+        "voucher": "iNaturalist:Observations:80602854",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.123325,
+          29.193477
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 29.193477,
+        "longitude": 28.123325,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307539857",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 75892,
+        "country": "Egypt",
+        "locality": "EG; Matrouh; NA",
+        "voucher": "iNaturalist:Observations:83201957",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.799698,
+          31.340152
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.340152,
+        "longitude": -4.799698,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3327885696",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 2747,
+        "country": "Morocco",
+        "locality": "MA; Mekn‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ús - Tafilalet; NA",
+        "voucher": "iNaturalist:Observations:87212989",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.159062,
+          26.266885
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 26.266885,
+        "longitude": -0.159062,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3327914804",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 11573,
+        "country": "Algeria",
+        "locality": "DZ; Adrar; NA",
+        "voucher": "iNaturalist:Observations:86381323",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.412,
+          30.927
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.927,
+        "longitude": 34.412,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333905726",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Northern Negev, Lakhish",
+        "voucher": "SMNHTAU:Reptilia:16430",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.431,
+          30.91
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.91,
+        "longitude": 34.431,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333907001",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Northern Negev, Kemehin",
+        "voucher": "SMNHTAU:Reptilia:18801",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.68,
+          30.96
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.96,
+        "longitude": 34.68,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333908043",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Ashalim, Ashalim power station",
+        "voucher": "SMNHTAU:Reptilia:18975",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.388,
+          30.923
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.923,
+        "longitude": 34.388,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333914152",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Between Kadesh Barnea & Beer Milka",
+        "voucher": "SMNHTAU:Reptilia:17355",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.464884,
+          31.013392
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.013392,
+        "longitude": 34.464884,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_42232372",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30499",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.466022,
+          31.001673
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.001673,
+        "longitude": 34.466022,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_42253903",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30514",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.492117,
+          31.012643
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.012643,
+        "longitude": 34.492117,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43560059",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30518",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.450132,
+          31.025031
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.025031,
+        "longitude": 34.450132,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43560672",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:57186",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.450132,
+          31.025031
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.025031,
+        "longitude": 34.450132,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43560698",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:57410",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.439573,
+          31.035792
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.035792,
+        "longitude": 34.439573,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43598275",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30501",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.450132,
+          31.025031
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.025031,
+        "longitude": 34.450132,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43688705",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30544",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_HIGHERRANK",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.977048,
+          29.808766
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 29.808766,
+        "longitude": -6.977048,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476660767",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1200,
+        "country": "Morocco",
+        "locality": "MA; NA; Ain, Sefra",
+        "voucher": "MCZ:Herp:R-27508",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.455312,
+          31.032277
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 31.032277,
+        "longitude": 34.455312,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48629446",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30486",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.157167,
+          33.6485
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 33.6485,
+        "longitude": 8.157167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543477564",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 15112,
+        "country": "Tunisia",
+        "locality": "TN; NA; 36 km SE of Nefta",
+        "voucher": "CAS:HERP:132772",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.499,
+          22.810833
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 22.810833,
+        "longitude": 5.499,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543484144",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 3620,
+        "country": "Algeria",
+        "locality": "DZ; Tamanrasset Prov.; 4 km W of Tamanrasset on rd to airport",
+        "voucher": "CAS:HERP:138695",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633833,
+          33.730833
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 33.730833,
+        "longitude": 7.633833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543484204",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 6850,
+        "country": "Tunisia",
+        "locality": "TN; NA; Hazoua, 35 km W of Nefta",
+        "voucher": "CAS:HERP:138749",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633833,
+          33.730833
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 33.730833,
+        "longitude": 7.633833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543489334",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 6850,
+        "country": "Tunisia",
+        "locality": "TN; NA; Hazoua, 35 km W of Nefta",
+        "voucher": "CAS:HERP:143365",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2122,
+          30.0861
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.0861,
+        "longitude": 31.2122,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543518860",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 615,
+        "country": "Egypt",
+        "locality": "EG; Giza Gover.; Giza",
+        "voucher": "CAS:HERP:16994",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95,
+          27.03333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 27.03333,
+        "longitude": 30.95,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_621069274",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 827479,
+        "country": "Egypt",
+        "locality": "EG; NA; Egypt",
+        "voucher": "SMNS:Herpetologie:4249",
+        "issue": "COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95,
+          27.03333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 27.03333,
+        "longitude": 30.95,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_621069275",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 827479,
+        "country": "Egypt",
+        "locality": "EG; NA; Egypt",
+        "voucher": "SMNS:Herpetologie:4250",
+        "issue": "COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.616699,
+          30.4
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 30.4,
+        "longitude": 30.616699,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762201",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 24.64,
+        "country": "Egypt",
+        "locality": "EG; Al Buhayrah; Eir Victoria",
+        "voucher": "OMNH:Reptiles:28105.0",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.299999,
+          29.766701
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_cerastes",
+        "latitude": 29.766701,
+        "longitude": 31.299999,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762216",
+        "database_recorded_species": "Cerastes cerastes",
+        "database_recorded_subspecies": "Cerastes cerastes",
+        "taxonomy_updated_species": "Cerastes_cerastes",
+        "taxonomy_updated_subspecies2": "Cerastes_cerastes",
+        "final_species": "Cerastes_cerastes",
+        "final_subspecies": "Cerastes_cerastes",
+        "accuracy_m": 402349,
+        "country": "Egypt",
+        "locality": "EG; Giza; NA",
+        "voucher": "OMNH:Reptiles:28158.0",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

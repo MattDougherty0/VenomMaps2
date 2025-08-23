@@ -1,0 +1,1622 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10879,
+          15.13231
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.13231,
+        "longitude": -92.10879,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2365",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 3000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0277",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.25,
+          15.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.1,
+        "longitude": -92.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319229668",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Chicharras (= Las Chicharras)",
+        "voucher": "USNM:Amphibians & Reptiles:46511",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.16163,
+          15.844083
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.844083,
+        "longitude": -93.16163,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453507688",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 30855,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:5305189",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.088056,
+          15.799722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.799722,
+        "longitude": -93.088056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893581155",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; EL TRIUNFO, POLIGONO V, EL SANTUARIO",
+        "voucher": "IHNE:CZRHE:1833",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.590556,
+          16.1075
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 16.1075,
+        "longitude": -93.590556,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894742634",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Rancho Solo Dios",
+        "voucher": "IHNE:CZRHE:2352",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.845535,
+          15.633165
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.633165,
+        "longitude": -92.845535,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2447938589",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 30870,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:34896244",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.151195,
+          15.866703
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.866703,
+        "longitude": -93.151195,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2573860911",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 30855,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:38596779",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.100028,
+          15.094583
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.094583,
+        "longitude": -92.100028,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629188320",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Volcan tacana",
+        "voucher": "FC-UNAM:MZFC:26545",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.607305,
+          16.132083
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 16.132083,
+        "longitude": -93.607305,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629267213",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Ejido Sierra Morena, campamento Las Limas",
+        "voucher": "ECOSUR:ECO-SC-H:ECO-SCH-3932",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.083333,
+          15.084722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.084722,
+        "longitude": -92.083333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630326051",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Talqui‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn, Volc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn Tacan‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ª",
+        "voucher": "IHNE:CZRHE:1655",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.609722,
+          15.384722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.384722,
+        "longitude": -92.609722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630379218",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Mount Ovando",
+        "voucher": "UMMZ:UMMZ:94644",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.609722,
+          15.384722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.384722,
+        "longitude": -92.609722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630380223",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Mount Ovando, Dist Soconusco",
+        "voucher": "UMMZ:UMMZ:87707",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.654167,
+          15.3625
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.3625,
+        "longitude": -92.654167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630386523",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Regi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Soconusco, zona cafetelera",
+        "voucher": "IBUNAM:CNAR:1704",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.083889,
+          15.086111
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.086111,
+        "longitude": -92.083889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630387245",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Colonia Talquian, Volcan Tacana",
+        "voucher": "MVZ-UCB:MVZ:159460",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7375,
+          15.444444
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.444444,
+        "longitude": -92.7375,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630395315",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Chicharras",
+        "voucher": "NMNH-SI:USNM:46511",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1833,
+          14.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.5,
+        "longitude": -91.1833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951305",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Suchitepequez; Finca Santa Adelaida",
+        "voucher": "UVG:UVGR:UVGR000152",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0545,
+          14.5613
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.5613,
+        "longitude": -91.0545,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951339",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Chimaltenango; Finca San Francisco",
+        "voucher": "UVG:UVGR:UVGR000164",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.100028,
+          15.094583
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.094583,
+        "longitude": -92.100028,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3306277069",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Volcan tacana",
+        "voucher": "FC-UNAM:MZFC:26545",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.973907,
+          15.716493
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.716493,
+        "longitude": -92.973907,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891098712",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": 30870,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; NA",
+        "voucher": "iNaturalist:Observations:127381",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.049,
+          15.808
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.808,
+        "longitude": -93.049,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07384",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.088,
+          15.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.8,
+        "longitude": -93.088,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07385",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.083,
+          15.085
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.085,
+        "longitude": -92.083,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07386",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.084,
+          15.086
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.086,
+        "longitude": -92.084,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07387",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.11409487,
+          15.13028585
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.13028585,
+        "longitude": -92.11409487,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07388",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.61,
+          15.385
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.385,
+        "longitude": -92.61,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07389",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.738,
+          15.444
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.444,
+        "longitude": -92.738,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07390",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.25,
+          15.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.1,
+        "longitude": -92.25,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07391",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.654,
+          15.362
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.362,
+        "longitude": -92.654,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07392",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.08333,
+          15.08333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.08333,
+        "longitude": -92.08333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07393",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.240833,
+          15.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.1,
+        "longitude": -92.240833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07394",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.65,
+          15.44
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.44,
+        "longitude": -92.65,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07395",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.08805556,
+          15.79972222
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.79972222,
+        "longitude": -93.08805556,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07396",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.08333333,
+          15.08416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.08416667,
+        "longitude": -92.08333333,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07397",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.07444444,
+          15.80111111
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.80111111,
+        "longitude": -93.07444444,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07398",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.62,
+          15.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.35,
+        "longitude": -92.62,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07399",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.951538,
+          14.492013
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.492013,
+        "longitude": -90.951538,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07400",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.08351,
+          14.551505
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.551505,
+        "longitude": -91.08351,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins02761",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Pochuta, Chimaltenango, Guatemala",
+        "voucher": "MCZ 31941",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18336,
+          14.766698
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.766698,
+        "longitude": -91.18336,
+        "date": "",
+        "source": "Stuart, L. C. 1963. A checklist of the herpetofauna of Guatemala. University of Michigan Museum of Zoology Miscellaneous Publications 122: 1-150.",
+        "ID": "Martins03234",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Solol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢, Guatemala",
+        "voucher": "MNHN 13G2, 6137",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10846,
+          15.133248
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.133248,
+        "longitude": -92.10846,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03609",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Volcan Tacana, Chiapas, Mexico",
+        "voucher": "MVZ 159460",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10846,
+          15.133248
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.133248,
+        "longitude": -92.10846,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03610",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Volcan Tacana, Chiapas, Mexico",
+        "voucher": "MVZ 159460",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10854,
+          15.132766
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 15.132766,
+        "longitude": -92.10854,
+        "date": "",
+        "source": "Estudio previo justificativo para la modificaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la declaratoria de la Reserva de Biosfera Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Tacan‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Chiapas, Mexico. 2011. CONANP.",
+        "ID": "Martins05389",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Tacan‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Chiapas, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18667,
+          14.583333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.583333,
+        "longitude": -91.18667,
+        "date": "",
+        "source": "Bogert, C. M. 1968. A new arboreal Pit Viper of the Genus Bothrops from the Isthmus of Tehuantepec, Mexico. American Museum Novitates, 2341: 1-14.",
+        "ID": "Martins05390",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Atitl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Guatemala",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95,
+          14.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.5,
+        "longitude": -90.95,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09136",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Yepocapa, Chimaltenango, Guatemala",
+        "voucher": "USNM 127973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95,
+          14.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.5,
+        "longitude": -90.95,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09137",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Yepocapa, Chimaltenango, Guatemala",
+        "voucher": "USNM 127973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.94982,
+          14.501379
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.501379,
+        "longitude": -90.94982,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09138",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "San Pedro Yepocapa, Chimaltenango, Guatemala",
+        "voucher": "USNM 127973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95,
+          14.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.5,
+        "longitude": -90.95,
+        "date": "",
+        "source": "Bogert, C. M. 1968. A new arboreal Pit Viper of the Genus Bothrops from the Isthmus of Tehuantepec, Mexico. American Museum Novitates, 2341: 1-14.",
+        "ID": "Martins09139",
+        "database_recorded_species": "Bothriechis rowleyi",
+        "database_recorded_subspecies": "Bothriechis rowleyi",
+        "taxonomy_updated_species": "Bothriechis_rowleyi",
+        "taxonomy_updated_subspecies2": "Bothriechis_rowleyi",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Yepocapa, Chimaltenango, Guatemala",
+        "voucher": "USNM 127973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.1681015,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95,
+          14.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.5,
+        "longitude": -90.95,
+        "date": "",
+        "source": "Bogert, C. M. 1968. A new arboreal Pit Viper of the Genus Bothrops from the Isthmus of Tehuantepec, Mexico. American Museum Novitates, 2341: 1-14.",
+        "ID": "Martins09140",
+        "database_recorded_species": "Bothriechis rowleyi",
+        "database_recorded_subspecies": "Bothriechis rowleyi",
+        "taxonomy_updated_species": "Bothriechis_rowleyi",
+        "taxonomy_updated_subspecies2": "Bothriechis_rowleyi",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Yepocapa, Chimaltenango, Guatemala",
+        "voucher": "USNM 127973",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.1681015,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.91363,
+          14.932736
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.932736,
+        "longitude": -91.91363,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09983",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "San Rafaell Pie de la Cuesta, San Marcos, Guatemala",
+        "voucher": "UTA R-38149",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.82577,
+          14.942168
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_bicolor",
+        "latitude": 14.942168,
+        "longitude": -91.82577,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10170",
+        "database_recorded_species": "Bothriechis bicolor",
+        "database_recorded_subspecies": "Bothriechis bicolor",
+        "taxonomy_updated_species": "Bothriechis_bicolor",
+        "taxonomy_updated_subspecies2": "Bothriechis_bicolor",
+        "final_species": "Bothriechis_bicolor",
+        "final_subspecies": "Bothriechis_bicolor",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Esquipulas Palo Gordo, San Marcos, Guatemala",
+        "voucher": "UTAR-39412",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.03982,
+          3.521144
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_broadleyi",
+        "latitude": 3.521144,
+        "longitude": 16.03982,
+        "date": "",
+        "source": "Lawson, D. P., and P. C. Ustach. 2000. A Redescription of Atheris squamigera (Serpentes: Viperidae) with Comments on the Validity of Atheris anisolepis. Journal of Herpetology, 34(3):386-389.",
+        "ID": "Martins00197",
+        "database_recorded_species": "Atheris broadleyi",
+        "database_recorded_subspecies": "Atheris broadleyi",
+        "taxonomy_updated_species": "Atheris_broadleyi",
+        "taxonomy_updated_subspecies2": "Atheris_broadleyi",
+        "final_species": "Atheris_broadleyi",
+        "final_subspecies": "Atheris_broadleyi",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Nola, Central Africa Republic",
+        "voucher": "ANSP 20334",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

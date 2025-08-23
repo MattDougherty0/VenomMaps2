@@ -1,0 +1,2117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27,
+          30.76
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.76,
+        "longitude": 35.27,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703531",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24,
+          30.76
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.76,
+        "longitude": 35.24,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703665",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1528,
+          26.2625
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 26.2625,
+        "longitude": 50.1528,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318303331",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Eastern Province; Dharan Airfield (= King Abdulaziz Air Base)",
+        "voucher": "USNM:Amphibians & Reptiles:129454",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.696851,
+          25.52387
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.52387,
+        "longitude": 55.696851,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1323002216",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Umm Al Qaywayn; NA",
+        "voucher": "iNaturalist:Observations:4175398",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.711708,
+          25.265895
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.265895,
+        "longitude": 55.711708,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453158049",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:4402815",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.635222,
+          25.432632
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.432632,
+        "longitude": 55.635222,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1562979188",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6348465",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.627281,
+          25.427671
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.427671,
+        "longitude": 55.627281,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563439260",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6431698",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.626091,
+          25.426253
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.426253,
+        "longitude": 55.626091,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563439296",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6431804",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.625901,
+          25.426288
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.426288,
+        "longitude": 55.625901,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563439316",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6431790",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.624745,
+          25.426512
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.426512,
+        "longitude": 55.624745,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563439456",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6432248",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.622481,
+          25.424969
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.424969,
+        "longitude": 55.622481,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563439642",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6433023",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.620368,
+          25.426382
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.426382,
+        "longitude": 55.620368,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563446913",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6457070",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.620588,
+          25.42588
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.42588,
+        "longitude": 55.620588,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563447007",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6456840",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.620974,
+          25.426549
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.426549,
+        "longitude": 55.620974,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563447012",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6457098",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.623924,
+          25.424596
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.424596,
+        "longitude": 55.623924,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563447067",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6457357",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.624105,
+          25.42676
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.42676,
+        "longitude": 55.624105,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563447105",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6458019",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.62371,
+          25.429458
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.429458,
+        "longitude": 55.62371,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1563447267",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6458477",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.621895,
+          25.42483
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.42483,
+        "longitude": 55.621895,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1571085650",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6481054",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.624467,
+          25.427442
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.427442,
+        "longitude": 55.624467,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1571085776",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6481525",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.624194,
+          25.42652
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.42652,
+        "longitude": 55.624194,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1571085922",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:6481933",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.621597,
+          25.42741
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.42741,
+        "longitude": 55.621597,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586132867",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:7347452",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.262275,
+          24.830144
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 24.830144,
+        "longitude": 55.262275,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1677349154",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Dubay; NA",
+        "voucher": "iNaturalist:Observations:8559067",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.787826,
+          25.214303
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.214303,
+        "longitude": 55.787826,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1831198840",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 4165,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:9890456",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.622422,
+          25.427827
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.427827,
+        "longitude": 55.622422,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847563825",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:12643852",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61621,
+          25.422622
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.422622,
+        "longitude": 55.61621,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847607312",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ajman; NA",
+        "voucher": "iNaturalist:Observations:12832250",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.619577,
+          25.424839
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.424839,
+        "longitude": 55.619577,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847607355",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ajman; NA",
+        "voucher": "iNaturalist:Observations:12831427",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.619537,
+          25.426283
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.426283,
+        "longitude": 55.619537,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847607926",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:12834717",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.633455,
+          25.431938
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.431938,
+        "longitude": 55.633455,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847614216",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:12864708",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.633141,
+          25.430194
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.430194,
+        "longitude": 55.633141,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847614419",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:12865339",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.621309,
+          25.427756
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.427756,
+        "longitude": 55.621309,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880550502",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:13707597",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.620879,
+          25.427977
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.427977,
+        "longitude": 55.620879,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1914322092",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:17000017",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.619732,
+          25.427855
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.427855,
+        "longitude": 55.619732,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1914322147",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:16999737",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.623822,
+          25.426921
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.426921,
+        "longitude": 55.623822,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1914322447",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:17001494",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.626483,
+          25.429746
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.429746,
+        "longitude": 55.626483,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1948746923",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:18737539",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.268731,
+          30.752759
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.752759,
+        "longitude": 35.268731,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2238882469",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:23544748",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.755961,
+          25.528873
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.528873,
+        "longitude": 55.755961,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2243015823",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Umm Al Qaywayn; NA",
+        "voucher": "iNaturalist:Observations:25222480",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.620963,
+          25.42811
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.42811,
+        "longitude": 55.620963,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2251940056",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:25947098",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.619973,
+          25.42488
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.42488,
+        "longitude": 55.619973,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2251942834",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ajman; NA",
+        "voucher": "iNaturalist:Observations:25954287",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.820179,
+          30.416243
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.416243,
+        "longitude": 47.820179,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265778944",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 19667,
+        "country": "Iraq",
+        "locality": "IQ; Al-Basrah; NA",
+        "voucher": "iNaturalist:Observations:15612417",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.588966,
+          25.274467
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.274467,
+        "longitude": 55.588966,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265840985",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 3948,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:26667688",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.113985,
+          29.957342
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 29.957342,
+        "longitude": 35.113985,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2269297677",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 29433,
+        "country": "Jordan",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:27219484",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.626667,
+          25.424105
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.424105,
+        "longitude": 55.626667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423246878",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:33436992",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.749836,
+          25.317243
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.317243,
+        "longitude": 55.749836,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596079124",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 47,
+        "country": "United Arab Emirates",
+        "locality": "AE; Sharjah; NA",
+        "voucher": "iNaturalist:Observations:40286145",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.625348,
+          25.423032
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 25.423032,
+        "longitude": 55.625348,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596330992",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": 855,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ajman; NA",
+        "voucher": "iNaturalist:Observations:40684914",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43444,
+          30.883333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.883333,
+        "longitude": 35.43444,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins01713",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• Khuneizi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•ra, Jordan",
+        "voucher": "JUMR 911",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43444,
+          30.883333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.883333,
+        "longitude": 35.43444,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins01714",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• Khuneizi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•ra, Jordan",
+        "voucher": "JUMR 911",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37806,
+          30.672222
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.672222,
+        "longitude": 35.37806,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins01715",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• Fida‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•n, Jordan",
+        "voucher": "JUMR 986, JUMR1000",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37806,
+          30.672222
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.672222,
+        "longitude": 35.37806,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins01716",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• Fida‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•n, Jordan",
+        "voucher": "JUMR 986, JUMR1000",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16722,
+          30.399722
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.399722,
+        "longitude": 35.16722,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins03520",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√üAraba, Jordan",
+        "voucher": "MUM 0029 & 30, MUM 0400 ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü 401, 414 ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü 417 & 419,",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16722,
+          30.399722
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.399722,
+        "longitude": 35.16722,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins03521",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√üAraba, Jordan",
+        "voucher": "MUM 0029 & 30, MUM 0400 ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü 401, 414 ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü 417 & 419,",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43444,
+          30.883333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.883333,
+        "longitude": 35.43444,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins03522",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• Ramm, Jordan",
+        "voucher": "MUM 0404 & 425",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43444,
+          30.883333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.883333,
+        "longitude": 35.43444,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins03523",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Wa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•di‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬• Ramm, Jordan",
+        "voucher": "MUM 0404 & 425",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.91888,
+          29.955983
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 29.955983,
+        "longitude": 36.91888,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06046",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Al Inab, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.91888,
+          29.955983
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 29.955983,
+        "longitude": 36.91888,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06047",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Al Inab, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.21111,
+          31.584165
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 31.584165,
+        "longitude": 37.21111,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06048",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Al Hazi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•m, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.21111,
+          31.584165
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 31.584165,
+        "longitude": 37.21111,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06049",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii gasperettii",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_gasperettii",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Al Hazi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•m, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19077,
+          30.150625
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.150625,
+        "longitude": 35.19077,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06050",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Qa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√ü as Sa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√üdi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•yi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•n, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19077,
+          30.150625
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.150625,
+        "longitude": 35.19077,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06051",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Qa‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√ü as Sa‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√üdi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•yi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•n, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21722,
+          30.063333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.063333,
+        "longitude": 35.21722,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06052",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Gharandal, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21722,
+          30.063333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.063333,
+        "longitude": 35.21722,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06053",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Gharandal, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35,
+          30.4
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.4,
+        "longitude": 35.35,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06054",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Bi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•r Madhku‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•r, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35,
+          30.4
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 30.4,
+        "longitude": 35.35,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06055",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Bi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•r Madhku‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•r, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46667,
+          31.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 31.033333,
+        "longitude": 35.46667,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06056",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Ghawr as‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´ S‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´a‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•fi, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46667,
+          31.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_gasperettii",
+        "latitude": 31.033333,
+        "longitude": 35.46667,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06057",
+        "database_recorded_species": "Cerastes gasperettii",
+        "database_recorded_subspecies": "Cerastes gasperettii mendelssohni",
+        "taxonomy_updated_species": "Cerastes_gasperettii",
+        "taxonomy_updated_subspecies2": "Cerastes_gasperettii_mendelssohni",
+        "final_species": "Cerastes_gasperettii",
+        "final_subspecies": "Cerastes_gasperettii",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Ghawr as‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´ S‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨‚à´a‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•fi, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

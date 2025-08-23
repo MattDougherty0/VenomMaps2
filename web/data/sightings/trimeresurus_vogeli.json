@@ -1,0 +1,1919 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.549444,
+          14.444167
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.444167,
+        "longitude": 108.549444,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211745677",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Gia Lai; An Khe vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:31135",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.600842,
+          14.297501
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.297501,
+        "longitude": 101.600842,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1227734449",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 15379,
+        "country": "Thailand",
+        "locality": "TH; Prachin Buri; NA",
+        "voucher": "iNaturalist:Observations:2431749",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.304,
+          14.74
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.74,
+        "longitude": 101.304,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321089545",
+        "database_recorded_species": "Trimeresurus gumprechti",
+        "database_recorded_subspecies": "Trimeresurus gumprechti",
+        "taxonomy_updated_species": "Trimeresurus_gumprechti",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gumprechti",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; Lam Ton Lang (= Ban Lam Thong Lang), WNW of Pak Chong",
+        "voucher": "USNM:Amphibians & Reptiles:70353",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.5744175,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.406692,
+          14.365637
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.365637,
+        "longitude": 101.406692,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1831152870",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:8477488",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.371165,
+          14.454587
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.454587,
+        "longitude": 101.371165,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1850936227",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 131,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:13230331",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.403313,
+          14.432133
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.432133,
+        "longitude": 101.403313,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1850943757",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 122,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:13261065",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.277199,
+          14.058324
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.058324,
+        "longitude": 108.277199,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880526317",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 1048306,
+        "country": "Vietnam",
+        "locality": "VN; Gia Lai; NA",
+        "voucher": "iNaturalist:Observations:13611584",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.410056,
+          14.439985
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.439985,
+        "longitude": 101.410056,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1913184950",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 175,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:16416764",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.377505,
+          14.426569
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.426569,
+        "longitude": 101.377505,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1978817212",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 349,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:17569174",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.618842,
+          14.419119
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.419119,
+        "longitude": 108.618842,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2005403613",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; B‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ünh ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬£nh; NA",
+        "voucher": "iNaturalist:Observations:5452109",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.461092,
+          16.055846
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 16.055846,
+        "longitude": 107.461092,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2005403685",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Th¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢¬¨¬®¬¨‚Ä¢a Thi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö√´¬¨¬¢n - Hu¬¨¬®‚Äö√†√´‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•‚Äö√†√∂‚Äö√†√®; NA",
+        "voucher": "iNaturalist:Observations:554118",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.397008,
+          15.874122
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.874122,
+        "longitude": 107.397008,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265824085",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Qu¬¨¬®‚Äö√†√´‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•¬¨¬®¬¨¬£ng Nam; NA",
+        "voucher": "iNaturalist:Observations:26587779",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.371648,
+          14.439138
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.439138,
+        "longitude": 101.371648,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397656655",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 22,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:31901017",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.37123,
+          14.43822
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.43822,
+        "longitude": 101.37123,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2422866275",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 22,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:29838866",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.101505,
+          11.44609
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 11.44609,
+        "longitude": 108.101505,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423229354",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 3039,
+        "country": "Vietnam",
+        "locality": "VN; L‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢m ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng; NA",
+        "voucher": "iNaturalist:Observations:33346310",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.10031,
+          11.451495
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 11.451495,
+        "longitude": 108.10031,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423230566",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 3140,
+        "country": "Vietnam",
+        "locality": "VN; L‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢m ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng; NA",
+        "voucher": "iNaturalist:Observations:33361396",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.065675,
+          11.44687
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 11.44687,
+        "longitude": 108.065675,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429268715",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; L‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢m ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng; NA",
+        "voucher": "iNaturalist:Observations:33474801",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.372565,
+          14.437929
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.437929,
+        "longitude": 101.372565,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429386315",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 100,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:33895164",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.389155,
+          14.42381
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.42381,
+        "longitude": 101.389155,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429387354",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 1023,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:33895161",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.372223,
+          14.439002
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.439002,
+        "longitude": 101.372223,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2447826800",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 3078,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:20417543",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.051201,
+          10.6591
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 10.6591,
+        "longitude": 104.051201,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2542882774",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Cambodia",
+        "locality": "KH; Kampot; Bokor National Park, Popokvil Waterfall",
+        "voucher": "NCSM:Herp:99039",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.051201,
+          10.6595
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 10.6595,
+        "longitude": 104.051201,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2542888285",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Cambodia",
+        "locality": "KH; Kampot; Bokor National Park",
+        "voucher": "NCSM:Herp:99040",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0522,
+          10.6797
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 10.6797,
+        "longitude": 104.0522,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2542889288",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Cambodia",
+        "locality": "KH; Kampot; Bokor National Park, \"Bird Camp\"",
+        "voucher": "NCSM:Herp:99037",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.032097,
+          10.636
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 10.636,
+        "longitude": 104.032097,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2542889289",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Cambodia",
+        "locality": "KH; Kampot; Bokor National Park, near colonial tea plantation",
+        "voucher": "NCSM:Herp:99038",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.372277,
+          14.439294
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.439294,
+        "longitude": 101.372277,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2557814676",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 45991,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:37645330",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.86383,
+          14.490453
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.490453,
+        "longitude": 101.86383,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2580208696",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:40071334",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.066853,
+          12.320436
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 12.320436,
+        "longitude": 107.066853,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596435399",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 429,
+        "country": "Cambodia",
+        "locality": "KH; M‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√Ñ¬¢nd‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢l Kiri; NA",
+        "voucher": "iNaturalist:Observations:40815241",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.413898,
+          14.435696
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.435696,
+        "longitude": 101.413898,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2609079109",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 10,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:32256412",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.351206,
+          14.150014
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.150014,
+        "longitude": 102.351206,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2620008469",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 4684,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:45124968",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.414935,
+          14.432503
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.432503,
+        "longitude": 101.414935,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851061114",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 15,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:56005736",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.372277,
+          14.439294
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.439294,
+        "longitude": 101.372277,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851070565",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 33852,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:55598962",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.372277,
+          14.439294
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.439294,
+        "longitude": 101.372277,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2862343749",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 45991,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:58629158",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.415233,
+          14.433317
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.433317,
+        "longitude": 101.415233,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2984374932",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 15,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:64670213",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.843821,
+          12.37391
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 12.37391,
+        "longitude": 108.843821,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988648495",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 488,
+        "country": "Vietnam",
+        "locality": "VN; Kh‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªnh H‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√üa; NA",
+        "voucher": "iNaturalist:Observations:65259367",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.365324,
+          14.487903
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.487903,
+        "longitude": 101.365324,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988678382",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 36829,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Ratchasima; NA",
+        "voucher": "iNaturalist:Observations:65200567",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.352981,
+          14.427607
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.427607,
+        "longitude": 101.352981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3032000066",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 9678,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:68229573",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.856981,
+          16.110548
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 16.110548,
+        "longitude": 106.856981,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070554304",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Saravan; NA",
+        "voucher": "iNaturalist:Observations:91778",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.402537,
+          14.358774
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.358774,
+        "longitude": 101.402537,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302278537",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 26466,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:81428617",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.706932,
+          11.738436
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 11.738436,
+        "longitude": 107.706932,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302414343",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; L‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢m ‚Äö√†√ú‚àö‚â†‚Äö√†√∂‚Äö√ë¬¢¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬Æng; NA",
+        "voucher": "iNaturalist:Observations:81824726",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.205936,
+          12.192975
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 12.192975,
+        "longitude": 107.205936,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3320893941",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 50,
+        "country": "Vietnam",
+        "locality": "VN; B‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ünh Ph‚Äö√Ñ√∂‚àö‚Ä†‚àö√∫‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™¬¨¬®‚Äö√†√´¬¨¬®‚Äö√ë¬¢‚Äö√†√∂¬¨¬µc; NA",
+        "voucher": "iNaturalist:Observations:84673522",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.37085,
+          14.44
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 14.44,
+        "longitude": 101.37085,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333088821",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": 7813,
+        "country": "Thailand",
+        "locality": "TH; Nakhon Nayok; NA",
+        "voucher": "iNaturalist:Observations:88354706",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6847,
+          12.1283
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 12.1283,
+        "longitude": 108.6847,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895451132",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Lam Dong; Bidoup-Nui Ba National Park, Jarit, 1724 m elevation",
+        "voucher": "NCSM:Herp:77338",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.213898,
+          15.0652
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.0652,
+        "longitude": 106.213898,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895451504",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Champasak; Dong Hua Sao National Protected Area, Houay Tad Seua Stream, 1245 m elevation",
+        "voucher": "NCSM:Herp:77937",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.213898,
+          15.0652
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.0652,
+        "longitude": 106.213898,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895451516",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Champasak; Dong Hua Sao National Protected Area, Houay Tad Seua Stream, 1245 m elevation",
+        "voucher": "NCSM:Herp:77934",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.213898,
+          15.0652
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.0652,
+        "longitude": 106.213898,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895451532",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Champasak; Dong Hua Sao National Protected Area, Houay Tad Seua Stream, 1245 m elevation",
+        "voucher": "NCSM:Herp:77935",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2174,
+          15.0664
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.0664,
+        "longitude": 106.2174,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895451553",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Champasak; Dong Hua Sao National Protected Area, Houay Tad Seua Stream, 1240 m elevation",
+        "voucher": "NCSM:Herp:77936",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.194199,
+          15.6824
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.6824,
+        "longitude": 107.194199,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895452108",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Laos",
+        "locality": "LA; Xekong; Phou Ajol, 1475 m elevation",
+        "voucher": "NCSM:Herp:78629",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.731102,
+          15.3431
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.3431,
+        "longitude": 107.731102,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895452342",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Quang Nam; Song Thanh Nature Preserve, Phuoc Son District, Phuoc My Commune, Long Vien Village.",
+        "voucher": "NCSM:Herp:79192",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.858704,
+          15.0628
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.0628,
+        "longitude": 107.858704,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895452955",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Kon Tum; Ngoc Linh Nature Reserve",
+        "voucher": "NCSM:Herp:79775",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.858704,
+          15.0628
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.0628,
+        "longitude": 107.858704,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895453001",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "VN; Kon Tum; Ngoc Linh Nature Reserve",
+        "voucher": "NCSM:Herp:79774",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.85,
+          16.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 16.25,
+        "longitude": 107.85,
+        "date": "",
+        "source": "Bain, R. H.; N. Q. Truong; D. V. Kien. 2007. New herpetofaunal records from Vietnam. Herpetological Review, V. 38, N. 1: 107-117.",
+        "ID": "Martins00183",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Thua Thien-Hue, Luoi, Vietin",
+        "voucher": "AMNH R-154632",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.85,
+          16.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 16.25,
+        "longitude": 107.85,
+        "date": "",
+        "source": "Bain, R. H.; N. Q. Truong; D. V. Kien. 2007. New herpetofaunal records from Vietnam. Herpetological Review, V. 38, N. 1: 107-117.",
+        "ID": "Martins00184",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Thua Thien-Hue, Luoi, Vietin",
+        "voucher": "AMNH R-154632",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82137,
+          12.178415
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 12.178415,
+        "longitude": 103.82137,
+        "date": "",
+        "source": "Stuart, B.L., and D.A. Emmett. 2006. A collection of amphibiand and reptiles from the Cardamom Mountains, Southwestern Combodia. Fieldiana Zoology, 109:1-27.",
+        "ID": "Martins01131",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Cambodia",
+        "locality": "Phnum Kravanh, Pursat, Cambodia",
+        "voucher": "FMNH 267733",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82137,
+          12.178415
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 12.178415,
+        "longitude": 103.82137,
+        "date": "",
+        "source": "Stuart, B.L., and D.A. Emmett. 2006. A collection of amphibiand and reptiles from the Cardamom Mountains, Southwestern Combodia. Fieldiana Zoology, 109:1-27.",
+        "ID": "Martins01132",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Cambodia",
+        "locality": "Phnum Kravanh, Pursat, Cambodia",
+        "voucher": "FMNH 267733",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9942,
+          15.995667
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.995667,
+        "longitude": 107.9942,
+        "date": "",
+        "source": "Bain, R. H.; N. Q. Truong; D. V. Kien. 2007. New herpetofaunal records from Vietnam. Herpetological Review, V. 38, N. 1: 107-117.",
+        "ID": "Martins07313",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Ba Na, Danang, Vietnam",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9942,
+          15.995667
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 15.995667,
+        "longitude": 107.9942,
+        "date": "",
+        "source": "Bain, R. H.; N. Q. Truong; D. V. Kien. 2007. New herpetofaunal records from Vietnam. Herpetological Review, V. 38, N. 1: 107-117.",
+        "ID": "Martins07314",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Ba Na, Danang, Vietnam",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6571,
+          13.96042
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 13.96042,
+        "longitude": 108.6571,
+        "date": "",
+        "source": "Bain, R. H.; N. Q. Truong; D. V. Kien. 2007. New herpetofaunal records from Vietnam. Herpetological Review, V. 38, N. 1: 107-117.",
+        "ID": "Martins07315",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Ah Khe, Gia Lai, Vietnam",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6571,
+          13.96042
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_vogeli",
+        "latitude": 13.96042,
+        "longitude": 108.6571,
+        "date": "",
+        "source": "Bain, R. H.; N. Q. Truong; D. V. Kien. 2007. New herpetofaunal records from Vietnam. Herpetological Review, V. 38, N. 1: 107-117.",
+        "ID": "Martins07316",
+        "database_recorded_species": "Trimeresurus vogeli",
+        "database_recorded_subspecies": "Trimeresurus vogeli",
+        "taxonomy_updated_species": "Trimeresurus_vogeli",
+        "taxonomy_updated_subspecies2": "Trimeresurus_vogeli",
+        "final_species": "Trimeresurus_vogeli",
+        "final_subspecies": "Trimeresurus_vogeli",
+        "accuracy_m": "NA",
+        "country": "Vietnam",
+        "locality": "Ah Khe, Gia Lai, Vietnam",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

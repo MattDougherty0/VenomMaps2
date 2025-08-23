@@ -1,0 +1,3140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.271275,
+          8.695807
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 8.695807,
+        "longitude": 77.271275,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1024332588",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 112,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:903191",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090487,
+          13.505251
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.505251,
+        "longitude": 75.090487,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1092876625",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 258,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:1082284",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.119511,
+          13.476285
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.476285,
+        "longitude": 75.119511,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1098909653",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 10200,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:1630271",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0959,
+          13.5087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.5087,
+        "longitude": 75.0959,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_1147041408",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; Agumbe, Western Ghats",
+        "voucher": "CLO:ML:470976",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0959,
+          13.5087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.5087,
+        "longitude": 75.0959,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_1147055800",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; Agumbe, Western Ghats",
+        "voucher": "CLO:ML:470973",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0959,
+          13.5087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.5087,
+        "longitude": 75.0959,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_1147089623",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; Agumbe, Western Ghats",
+        "voucher": "CLO:ML:470972",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0959,
+          13.5087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.5087,
+        "longitude": 75.0959,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_1147160459",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; Agumbe, Western Ghats",
+        "voucher": "CLO:ML:470975",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.378955,
+          14.993684
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 14.993684,
+        "longitude": 74.378955,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1914241258",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 5577,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:16948172",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.088684,
+          13.518099
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.518099,
+        "longitude": 75.088684,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2244267296",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 20,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:25396725",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.816616,
+          14.641813
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 14.641813,
+        "longitude": 74.816616,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2283253817",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 526,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:28540419",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.558045,
+          14.569633
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 14.569633,
+        "longitude": 74.558045,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294526123",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 5304,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:28930078",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.10073,
+          13.556451
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.556451,
+        "longitude": 75.10073,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294569063",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 62,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29090150",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.12708,
+          13.580632
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.580632,
+        "longitude": 75.12708,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294641898",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 977,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29371069",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.106878,
+          13.575319
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.575319,
+        "longitude": 75.106878,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294642369",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29370504",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.794053,
+          16.940522
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 16.940522,
+        "longitude": 73.794053,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294652818",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 8,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:29411252",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.696045,
+          10.12506
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.12506,
+        "longitude": 76.696045,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311312442",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 157,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:29548908",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.657499,
+          12.929087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.929087,
+        "longitude": 75.657499,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311312933",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1257,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29556384",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.657499,
+          12.929087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.929087,
+        "longitude": 75.657499,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311313557",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1257,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29556389",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.657499,
+          12.929087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.929087,
+        "longitude": 75.657499,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311313631",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1257,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29556382",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.657499,
+          12.929087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.929087,
+        "longitude": 75.657499,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311314536",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1257,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29556376",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.657499,
+          12.929087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.929087,
+        "longitude": 75.657499,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311315490",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1257,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29556373",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.657499,
+          12.929087
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.929087,
+        "longitude": 75.657499,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311315840",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1257,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29556381",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.250823,
+          13.222606
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.222606,
+        "longitude": 75.250823,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311348730",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1430,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:29691820",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.736018,
+          17.450305
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 17.450305,
+        "longitude": 73.736018,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2331966549",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 3066,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:30438264",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090367,
+          13.518359
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.518359,
+        "longitude": 75.090367,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2366103459",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 15,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:31123396",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.089115,
+          13.517903
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.517903,
+        "longitude": 75.089115,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2366104983",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:31131300",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.089648,
+          13.518078
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.518078,
+        "longitude": 75.089648,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2366106017",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 15,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:31131286",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.089886,
+          13.517983
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.517983,
+        "longitude": 75.089886,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2366117708",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:31181212",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090163,
+          13.518787
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.518787,
+        "longitude": 75.090163,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397518596",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 15,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:31343346",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090315,
+          13.502664
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.502664,
+        "longitude": 75.090315,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397566991",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2994,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:31531850",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090315,
+          13.502664
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.502664,
+        "longitude": 75.090315,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397567139",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2994,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:31531869",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.229671,
+          15.568573
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.568573,
+        "longitude": 74.229671,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2422904260",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:32106010",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.974549,
+          11.596705
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.596705,
+        "longitude": 75.974549,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2422933595",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 526,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:32222373",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.973662,
+          11.597399
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.597399,
+        "longitude": 75.973662,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2422935375",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 526,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:32222293",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86084,
+          15.008464
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.008464,
+        "longitude": 74.86084,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423104065",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:32854051",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.766784,
+          10.351244
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.351244,
+        "longitude": 76.766784,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423204110",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31199,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:33251762",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.309467,
+          8.68834
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 8.68834,
+        "longitude": 77.309467,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429383872",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 210,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:33884187",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.177485,
+          9.412784
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 9.412784,
+        "longitude": 77.177485,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429548569",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1408,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:34214581",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.700118,
+          10.105163
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.105163,
+        "longitude": 76.700118,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429569200",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 122,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:34292128",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.687118,
+          10.129791
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.129791,
+        "longitude": 76.687118,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429572142",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 209,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:34306584",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.647734,
+          17.930729
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 17.930729,
+        "longitude": 73.647734,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465341795",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 3331,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:36323688",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.128487,
+          13.566083
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.566083,
+        "longitude": 75.128487,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2563651675",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2109,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:38116820",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.700461,
+          10.10398
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.10398,
+        "longitude": 76.700461,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596200003",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1174,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:41156512",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.955397,
+          10.326973
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.326973,
+        "longitude": 76.955397,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596376898",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 4208,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:41056736",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090563,
+          13.518688
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.518688,
+        "longitude": 75.090563,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2597734525",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 209,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:41525166",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090563,
+          13.518688
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.518688,
+        "longitude": 75.090563,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2597748500",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 209,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:41525047",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.951425,
+          11.842907
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.842907,
+        "longitude": 75.951425,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2609336258",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1795,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:42434309",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.052329,
+          11.544228
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.544228,
+        "longitude": 76.052329,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2626282083",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 190,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:46229992",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.094264,
+          13.517519
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.517519,
+        "longitude": 75.094264,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2634137230",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2641,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:48424065",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.094264,
+          13.517519
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.517519,
+        "longitude": 75.094264,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2634576288",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2641,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:48423970",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.571397,
+          8.59735
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 8.59735,
+        "longitude": 77.571397,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802576276",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31279,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:49446513",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.088779,
+          13.518135
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.518135,
+        "longitude": 75.088779,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802604234",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 39,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:50025467",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.524622,
+          8.547275
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 8.547275,
+        "longitude": 77.524622,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2813984343",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31279,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:51878972",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.509434,
+          8.440578
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 8.440578,
+        "longitude": 77.509434,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2814028245",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31279,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:51892601",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850635711",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:56397906",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850701667",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:55691108",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850747537",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:55608310",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090315,
+          13.502664
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.502664,
+        "longitude": 75.090315,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850824278",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2994,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:56766298",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2850866713",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:56397900",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.121136,
+          13.41299
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.41299,
+        "longitude": 75.121136,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851071861",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 349,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:55795025",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851094747",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:56397884",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851121725",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:56397875",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851208684",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:56397890",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.288354,
+          15.333902
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.333902,
+        "longitude": 74.288354,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851239533",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 208,
+        "country": "India",
+        "locality": "IN; Goa; NA",
+        "voucher": "iNaturalist:Observations:55608343",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.792458,
+          11.922379
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.922379,
+        "longitude": 75.792458,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2856533480",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 176,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:54824717",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.186487,
+          13.472236
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.472236,
+        "longitude": 75.186487,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864569724",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31020,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:59655999",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.160011,
+          13.504541
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.504541,
+        "longitude": 75.160011,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864624717",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31020,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:59655996",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.683577,
+          12.66777
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.66777,
+        "longitude": 75.683577,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864649557",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 3123,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:59210306",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.039005,
+          13.46715
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.46715,
+        "longitude": 75.039005,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864656049",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31020,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:59655991",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.937061,
+          11.950003
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.950003,
+        "longitude": 75.937061,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2864777663",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2870,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:59210289",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.750612,
+          13.554973
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.554973,
+        "longitude": 75.750612,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2873999878",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 5,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:61282733",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.687118,
+          10.129791
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.129791,
+        "longitude": 76.687118,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2874030446",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 209,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:61077246",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090315,
+          13.502664
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.502664,
+        "longitude": 75.090315,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2963914981",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2994,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:63617838",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090315,
+          13.502664
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.502664,
+        "longitude": 75.090315,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2981032652",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2994,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:63836906",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96514,
+          16.121961
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 16.121961,
+        "longitude": 73.96514,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2992702433",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:51068537",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.673173,
+          12.918276
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.918276,
+        "longitude": 75.673173,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3017964674",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 3211,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:67407055",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.673173,
+          12.918276
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.918276,
+        "longitude": 75.673173,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3031908506",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 3211,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:68492822",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.673173,
+          12.918276
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.918276,
+        "longitude": 75.673173,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3032046479",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 3211,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:68405880",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.673173,
+          12.918276
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.918276,
+        "longitude": 75.673173,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039352079",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 3211,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:69413933",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.310355,
+          15.43643
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.43643,
+        "longitude": 74.310355,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3070291184",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1167,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:57379236",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.428002,
+          11.069422
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.069422,
+        "longitude": 76.428002,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090630039",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 210,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:73404841",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.872,
+          10.307
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.307,
+        "longitude": 76.872,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090762851",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 6,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:61219862",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.588247,
+          12.397334
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 12.397334,
+        "longitude": 75.588247,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090840866",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 51,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:65162039",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.273219,
+          15.762104
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 15.762104,
+        "longitude": 74.273219,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3097065152",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 285,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:74494392",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.676097,
+          17.930144
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 17.930144,
+        "longitude": 73.676097,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3112510893",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2457,
+        "country": "India",
+        "locality": "IN; Maharashtra; NA",
+        "voucher": "iNaturalist:Observations:77633737",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.134205,
+          13.56631
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.56631,
+        "longitude": 75.134205,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113361365",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 213,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:78222076",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.134205,
+          13.56631
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.56631,
+        "longitude": 75.134205,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113615454",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 213,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:78291157",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45529,
+          8.590591
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 8.590591,
+        "longitude": 77.45529,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3113638543",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31279,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:78338726",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.462267,
+          11.125891
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.125891,
+        "longitude": 76.462267,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3124867717",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": "NA",
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:80225478",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090401,
+          13.508589
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.508589,
+        "longitude": 75.090401,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302202285",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 1926,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:80776204",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.126334,
+          13.529635
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.529635,
+        "longitude": 75.126334,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307211121",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 31020,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:82828329",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.090315,
+          13.502725
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 13.502725,
+        "longitude": 75.090315,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3321254531",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 2994,
+        "country": "India",
+        "locality": "IN; Karnataka; NA",
+        "voucher": "iNaturalist:Observations:85232749",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.815691,
+          10.447006
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.447006,
+        "longitude": 76.815691,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3330455121",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 199,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:87729841",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.083346,
+          10.38332
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 10.38332,
+        "longitude": 77.083346,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333455463",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 210,
+        "country": "India",
+        "locality": "IN; Tamil Nadu; NA",
+        "voucher": "iNaturalist:Observations:89037309",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.085803,
+          11.704552
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_malabaricus",
+        "latitude": 11.704552,
+        "longitude": 76.085803,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3335530556",
+        "database_recorded_species": "Trimeresurus malabaricus",
+        "database_recorded_subspecies": "Trimeresurus malabaricus",
+        "taxonomy_updated_species": "Trimeresurus_malabaricus",
+        "taxonomy_updated_subspecies2": "Trimeresurus_malabaricus",
+        "final_species": "Trimeresurus_malabaricus",
+        "final_subspecies": "Trimeresurus_malabaricus",
+        "accuracy_m": 488,
+        "country": "India",
+        "locality": "IN; Kerala; NA",
+        "voucher": "iNaturalist:Observations:90005844",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

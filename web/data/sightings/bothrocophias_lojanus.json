@@ -1,0 +1,1457 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09199,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.09199,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0054",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™05.520¬¨¬®‚Äö√Ñ¬¢W, Alt. 2503 msnm",
+        "voucher": "QCAZR11125",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1457,
+          -4.3768
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4.3768,
+        "longitude": -79.1457,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0057",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Loja; Desconocido; Desconocido; A 6 km de Yangana en la v‚Äö√†√∂‚àö‚Ä¢a al Cerro Toledo; Loja, A 6 km de Yangana en la v‚Äö√†√∂‚àö‚Ä¢a al Cerro Toledo, S4‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™22.608¬¨¬®‚Äö√Ñ¬¢, W79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™08.742¬¨¬®‚Äö√Ñ¬¢, alt. 2302",
+        "voucher": "QCAZR11286",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1457,
+          -4.3768
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4.3768,
+        "longitude": -79.1457,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0058",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Loja; Desconocido; Desconocido; A 6 km de Yangana en la v‚Äö√†√∂‚àö‚Ä¢a al Cerro Toledo; Loja, A 6 km de Yangana en la v‚Äö√†√∂‚àö‚Ä¢a al Cerro Toledo, S4‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™22.608¬¨¬®‚Äö√Ñ¬¢, W79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™08.742¬¨¬®‚Äö√Ñ¬¢, alt. 2302",
+        "voucher": "QCAZR11287",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1457,
+          -4.3768
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4.3768,
+        "longitude": -79.1457,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0059",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Loja; Desconocido; Desconocido; A 6 km de Yangana en la v‚Äö√†√∂‚àö‚Ä¢a al Cerro Toledo; Loja, A 6 km de Yangana en la v‚Äö√†√∂‚àö‚Ä¢a al Cerro Toledo, S4‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™22.608¬¨¬®‚Äö√Ñ¬¢, W79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™08.742¬¨¬®‚Äö√Ñ¬¢, alt. 2302",
+        "voucher": "QCAZR11289",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0060",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™5.520¬¨¬®‚Äö√Ñ¬¢W, alt. 2503 msnm",
+        "voucher": "QCAZR11291",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0061",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™5.520¬¨¬®‚Äö√Ñ¬¢W, alt. 2503 msnm",
+        "voucher": "QCAZR11292",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0062",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™5.520¬¨¬®‚Äö√Ñ¬¢W, alt. 2503 msnm",
+        "voucher": "QCAZR11293",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0063",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™5.520¬¨¬®‚Äö√Ñ¬¢W, alt. 2503 msnm",
+        "voucher": "QCAZR11294",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0064",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™5.520¬¨¬®‚Äö√Ñ¬¢W, alt. 2503 msnm",
+        "voucher": "QCAZR11295",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0065",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™5.520¬¨¬®‚Äö√Ñ¬¢W, alt. 2503 msnm",
+        "voucher": "QCAZR11296",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0066",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™5.520¬¨¬®‚Äö√Ñ¬¢W, alt. 2503 msnm",
+        "voucher": "QCAZR11297",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24211,
+          -3.958722
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.958722,
+        "longitude": -79.24211,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0070",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Loja; Loja; Desconocido; a 5 km en la carretera a Cuenca; Loja, Ciudad de Loja, a 5 km en la carretera a Cuenca, S3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™57¬¨¬®‚Äö√Ñ¬¢31.4\", W79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™14¬¨¬®‚Äö√Ñ¬¢31.6\", alt. 2191 msnm",
+        "voucher": "QCAZR11398",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27144,
+          -3.794
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.794,
+        "longitude": -79.27144,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0071",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Loja; Desconocido; Desconocido; A 8 km de San Lucas en la v‚Äö√†√∂‚àö‚Ä¢a a Loja; Loja, A 8 km de San Lucas en la v‚Äö√†√∂‚àö‚Ä¢a a Loja, S3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™47¬¨¬®‚Äö√Ñ¬¢38.4\", W79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™16¬¨¬®‚Äö√Ñ¬¢17.2\", alt. 2552 msnm",
+        "voucher": "QCAZR11399",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.14569,
+          -4.376805
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4.376805,
+        "longitude": -79.14569,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0105",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Loja; Loja; Desconocido; Km 6 v‚Äö√†√∂‚àö‚Ä¢a Yangana-Cerro Toledo; km 6 v‚Äö√†√∂‚àö‚Ä¢a Yangana-Cerro Toledo",
+        "voucher": "QCAZR11633",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0106",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Gulag",
+        "voucher": "QCAZR11635",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06222,
+          -3.33625
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.33625,
+        "longitude": -79.06222,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0107",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Nab‚Äö√†√∂‚àö¬µn; Nab‚Äö√†√∂‚àö¬µn, en las afueras del pueblo",
+        "voucher": "QCAZR11636",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0493",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™05.520¬¨¬®‚Äö√Ñ¬¢W, 2503 msnm",
+        "voucher": "QCAZR4459",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0494",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™05.520¬¨¬®‚Äö√Ñ¬¢W, 2503 msnm",
+        "voucher": "QCAZR4460",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0495",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™05.520¬¨¬®‚Äö√Ñ¬¢W, 2503 msnm",
+        "voucher": "QCAZR4461",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.092,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.092,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0499",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Azuay, Cant‚Äö√†√∂‚àö¬µn Nab‚Äö√†√∂‚àö¬µn, Gulag, 3‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™19.455¬¨¬®‚Äö√Ñ¬¢S, 79‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™05.520¬¨¬®‚Äö√Ñ¬¢W, 2503 msnm",
+        "voucher": "QCAZR4476",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09277,
+          -3.972221
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.972221,
+        "longitude": -79.09277,
+        "date": "",
+        "source": "Desconocido",
+        "ID": "bioweb0532",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Zamora Chinchipe; Desconocido; Desconocido; Estaci‚Äö√†√∂‚àö¬µn Cient‚Äö√†√∂‚àö‚Ä¢fica San Francisco; Ecuador: Provincia Zamora Chinchipe: Cant‚Äö√†√∂‚àö¬µn Zamora: Parroquia Sabanilla: Poblado Sabanilla: Localidad Estaci‚Äö√†√∂‚àö¬µn Cient‚Äö√†√∂‚àö‚Ä¢fica San Francisco",
+        "voucher": "QCAZR5054",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09277,
+          -3.972221
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.972221,
+        "longitude": -79.09277,
+        "date": "",
+        "source": "Desconocido",
+        "ID": "bioweb0533",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Zamora Chinchipe; Desconocido; Desconocido; Estaci‚Äö√†√∂‚àö¬µn Cient‚Äö√†√∂‚àö‚Ä¢fica San Francisco; Ecuador: Provincia Zamora Chinchipe: Cant‚Äö√†√∂‚àö¬µn Zamora: Parroquia Sabanilla: Poblado Sabanilla: Localidad Estaci‚Äö√†√∂‚àö¬µn Cient‚Äö√†√∂‚àö‚Ä¢fica San Francisco",
+        "voucher": "QCAZR5055",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09199,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.09199,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0569",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Gulag. Coordenadas: 79‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•05.520' W; 3‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•19.455' S; 2503 m",
+        "voucher": "QCAZR5754",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09199,
+          -3.32425
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.32425,
+        "longitude": -79.09199,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0570",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Azuay; Nab‚Äö√†√∂‚àö¬µn; Desconocido; Gulag; Gulag. Coordenadas: 79‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•05.520' W; 3‚Äö√Ñ√∂‚àö‚Ä†¬¨¬•19.455' S; 2503 m",
+        "voucher": "QCAZR5755",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25311,
+          -3.939583
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.939583,
+        "longitude": -79.25311,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0623",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Loja; Desconocido; Desconocido; Loja a la salida de Loja, v‚Äö√†√∂‚àö‚Ä¢a a Cuenca; NA",
+        "voucher": "QCAZR6018",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1722,
+          -3.98389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.98389,
+        "longitude": -79.1722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322337742",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": 2344,
+        "country": "Ecuador",
+        "locality": "EC; Loja; LOJA, 3 KM E OF, IN MOUNTAINS E OF TOWN,",
+        "voucher": "USNM:Amphibians & Reptiles:232519",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.216667,
+          -4
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4,
+        "longitude": -79.216667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476770440",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": 3815,
+        "country": "Ecuador",
+        "locality": "EC; Loja; Loja: Loja: Ecuador",
+        "voucher": "MCZ:Herp:R-93587",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.216667,
+          -3.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.6,
+        "longitude": -79.216667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686842081",
+        "database_recorded_species": "Bothrops lojanus",
+        "database_recorded_subspecies": "Bothrops lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Loja; Saraguro",
+        "voucher": "KU:KUH:135213",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2167,
+          -4
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4,
+        "longitude": -79.2167,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10702",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2167,
+          -4
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4,
+        "longitude": -79.2167,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10703",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.216667,
+          -3.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.6,
+        "longitude": -79.216667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10704",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.216667,
+          -4
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4,
+        "longitude": -79.216667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10705",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1722,
+          -3.98389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.98389,
+        "longitude": -79.1722,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10706",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23807,
+          -3.621748
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.621748,
+        "longitude": -79.23807,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01780",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Saraguro, Loja, Ecuador",
+        "voucher": "KU 135213",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23807,
+          -3.621748
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.621748,
+        "longitude": -79.23807,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01781",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Saraguro, Loja, Ecuador",
+        "voucher": "KU 135213",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23807,
+          -3.621748
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.621748,
+        "longitude": -79.23807,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01782",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Saraguro, Loja, Ecuador",
+        "voucher": "KU 135213",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17222,
+          -3.983889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.983889,
+        "longitude": -79.17222,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09479",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mountains near Loja, Loja, Ecuador",
+        "voucher": "USNM 232519",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17222,
+          -3.983889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.983889,
+        "longitude": -79.17222,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09480",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mountains near Loja, Loja, Ecuador",
+        "voucher": "USNM 232519",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17222,
+          -3.983889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.983889,
+        "longitude": -79.17222,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09481",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Mountains near Loja, Loja, Ecuador",
+        "voucher": "USNM 232519",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20446,
+          -3.990138
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.990138,
+        "longitude": -79.20446,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09849",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Loja, Loja, Ecuador",
+        "voucher": "USNM 98927, 98935",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20446,
+          -3.990138
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.990138,
+        "longitude": -79.20446,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09850",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Loja, Loja, Ecuador",
+        "voucher": "USNM 98927, 98935",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20446,
+          -3.990138
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -3.990138,
+        "longitude": -79.20446,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09851",
+        "database_recorded_species": "Bothrocophias lojanus",
+        "database_recorded_subspecies": "Bothrocophias lojanus",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Loja, Loja, Ecuador",
+        "voucher": "USNM 98927, 98935",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9509856118098,
+          -4.06506013806143
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -4.06506013806143,
+        "longitude": -78.9509856118098,
+        "date": "",
+        "source": "Cisneros-Heredia, DF. 2019. IUCN",
+        "ID": "VM00029",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9172813464876,
+          -6.71785118434947
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrocophias_lojanus",
+        "latitude": -6.71785118434947,
+        "longitude": -78.9172813464876,
+        "date": "",
+        "source": "Carrasco et al. 2016",
+        "ID": "VM00030",
+        "database_recorded_species": "NA",
+        "database_recorded_subspecies": "NA",
+        "taxonomy_updated_species": "Bothrocophias_lojanus",
+        "taxonomy_updated_subspecies2": "Bothrocophias_lojanus",
+        "final_species": "Bothrocophias_lojanus",
+        "final_subspecies": "Bothrocophias_lojanus",
+        "accuracy_m": "NA",
+        "country": "Peru",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.950087,
+          12.481606
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_unicolor",
+        "latitude": 12.481606,
+        "longitude": -69.950087,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV35958",
+        "database_recorded_species": "Crotalus unicolor",
+        "database_recorded_subspecies": "Crotalus unicolor",
+        "taxonomy_updated_species": "Crotalus_unicolor",
+        "taxonomy_updated_subspecies2": "Crotalus_unicolor",
+        "final_species": "Crotalus_unicolor",
+        "final_subspecies": "Crotalus_unicolor",
+        "accuracy_m": "NA",
+        "country": "Aruba",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97836,
+          12.512972
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_unicolor",
+        "latitude": 12.512972,
+        "longitude": -69.97836,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins08520",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus unicolor",
+        "taxonomy_updated_species": "Crotalus_unicolor",
+        "taxonomy_updated_subspecies2": "Crotalus_unicolor",
+        "final_species": "Crotalus_unicolor",
+        "final_subspecies": "Crotalus_unicolor",
+        "accuracy_m": "NA",
+        "country": "Aruba",
+        "locality": "Aruba Island",
+        "voucher": "ROM-18150",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97836,
+          12.512972
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_unicolor",
+        "latitude": 12.512972,
+        "longitude": -69.97836,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins08521",
+        "database_recorded_species": "Crotalus durissus",
+        "database_recorded_subspecies": "Crotalus durissus unicolor",
+        "taxonomy_updated_species": "Crotalus_unicolor",
+        "taxonomy_updated_subspecies2": "Crotalus_unicolor",
+        "final_species": "Crotalus_unicolor",
+        "final_subspecies": "Crotalus_unicolor",
+        "accuracy_m": "NA",
+        "country": "Aruba",
+        "locality": "Aruba Island",
+        "voucher": "ROM-18150",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1292 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.35083,
+          6.439125
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.439125,
+        "longitude": 80.35083,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1572349827",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 31350,
+        "country": "Sri Lanka",
+        "locality": "LK; Kalutara; NA",
+        "voucher": "iNaturalist:Observations:6882168",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.616236,
+          7.205048
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.205048,
+        "longitude": 80.616236,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2236848838",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:22388672",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.515525,
+          6.442825
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.442825,
+        "longitude": 80.515525,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423110600",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:32875907",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.32765,
+          6.453522
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.453522,
+        "longitude": 80.32765,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423112569",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; Kalutara; NA",
+        "voucher": "iNaturalist:Observations:32878107",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6,
+          7.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.2,
+        "longitude": 80.6,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2432657294",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.642456,
+          7.303296
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.303296,
+        "longitude": 80.642456,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2460153283",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 122,
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:35656298",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.642456,
+          7.303296
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.303296,
+        "longitude": 80.642456,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465148319",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 122,
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:35656662",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.413863,
+          6.429553
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.429553,
+        "longitude": 80.413863,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2550105100",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:37364941",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.678616,
+          7.374554
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.374554,
+        "longitude": 80.678616,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2563493569",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 221,
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:37683216",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64378,
+          7.300286
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.300286,
+        "longitude": 80.64378,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2576422584",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 8,
+        "country": "Sri Lanka",
+        "locality": "LK; Kandy; NA",
+        "voucher": "iNaturalist:Observations:39404896",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6,
+          7.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.3,
+        "longitude": 80.6,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2855701529",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6,
+          7.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.3,
+        "longitude": 80.6,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2855707734",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "LK; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.488955,
+          6.357788
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.357788,
+        "longitude": 80.488955,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2862308924",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 211,
+        "country": "Sri Lanka",
+        "locality": "LK; Matara; NA",
+        "voucher": "iNaturalist:Observations:58735212",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.468156,
+          6.393713
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.393713,
+        "longitude": 80.468156,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2862359692",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 349,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:58572062",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.380681,
+          6.471695
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.471695,
+        "longitude": 80.380681,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2963750084",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": 11198,
+        "country": "Sri Lanka",
+        "locality": "LK; Ratnapura; NA",
+        "voucher": "iNaturalist:Observations:63688776",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.63824,
+          6.43354
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.43354,
+        "longitude": 80.63824,
+        "date": "",
+        "source": "Janzen, P., and M. Bopage. 2011. The herpetofauna of a small and unprotected patch of tropical rainforest  in Morningside, Sri Lanka. Amphibian and Reptile Conservation, 5(2):1-13.",
+        "ID": "Martins06852",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Suriyakanda, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.63824,
+          6.43354
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.43354,
+        "longitude": 80.63824,
+        "date": "",
+        "source": "Janzen, P., and M. Bopage. 2011. The herpetofauna of a small and unprotected patch of tropical rainforest  in Morningside, Sri Lanka. Amphibian and Reptile Conservation, 5(2):1-13.",
+        "ID": "Martins06853",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Suriyakanda, Sri Lanka",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69788,
+          7.054939
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.054939,
+        "longitude": 80.69788,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10227",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Ramboda, Sri Lanka",
+        "voucher": "WHT 5835",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69788,
+          7.054939
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.054939,
+        "longitude": 80.69788,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10228",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Ramboda, Sri Lanka",
+        "voucher": "WHT 5835",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.31861,
+          6.093272
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.093272,
+        "longitude": 80.31861,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10233",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kottawa Forest Reserve, Sri Lanka",
+        "voucher": "WHT 5840, 5932, 5935, 6087-88, 6165",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.31861,
+          6.093272
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.093272,
+        "longitude": 80.31861,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10234",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kottawa Forest Reserve, Sri Lanka",
+        "voucher": "WHT 5840, 5932, 5935, 6087-88, 6165",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64278,
+          7.298889
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.298889,
+        "longitude": 80.64278,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10237",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Udawattakele Forest Reserve, Kandy, Sri Lanka",
+        "voucher": "WHT 5846",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64278,
+          7.298889
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.298889,
+        "longitude": 80.64278,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10238",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Udawattakele Forest Reserve, Kandy, Sri Lanka",
+        "voucher": "WHT 5846",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.59105,
+          7.283183
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.283183,
+        "longitude": 80.59105,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10239",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Gannoruwa, Sri Lanka",
+        "voucher": "WHT 5848",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.59105,
+          7.283183
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.283183,
+        "longitude": 80.59105,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10240",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Gannoruwa, Sri Lanka",
+        "voucher": "WHT 5848",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.62415,
+          7.467817
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.467817,
+        "longitude": 80.62415,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10243",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Matale, Sri Lanka",
+        "voucher": "WHT 5854, 5933, 5942",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.62415,
+          7.467817
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.467817,
+        "longitude": 80.62415,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10244",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Matale, Sri Lanka",
+        "voucher": "WHT 5854, 5933, 5942",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51058,
+          6.337302
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.337302,
+        "longitude": 80.51058,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10257",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Mideripitiya rd, Sri Lanka",
+        "voucher": "WHT 5940, 5934",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51058,
+          6.337302
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.337302,
+        "longitude": 80.51058,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10258",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Mideripitiya rd, Sri Lanka",
+        "voucher": "WHT 5940, 5934",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1596,
+          6.287997
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.287997,
+        "longitude": 80.1596,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10259",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Elpitiya, Sri Lanka",
+        "voucher": "WHT 5941",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1596,
+          6.287997
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.287997,
+        "longitude": 80.1596,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10260",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Elpitiya, Sri Lanka",
+        "voucher": "WHT 5941",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66667,
+          7.216667
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.216667,
+        "longitude": 80.66667,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10261",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Galaha, Sri Lanka",
+        "voucher": "WHT 5943",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66667,
+          7.216667
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.216667,
+        "longitude": 80.66667,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10262",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Galaha, Sri Lanka",
+        "voucher": "WHT 5943",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53763,
+          7.044995
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.044995,
+        "longitude": 80.53763,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10263",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Nawalapitiya, Sri Lanka",
+        "voucher": "WHT 5951-52, 5958-59, 5961, 5964, 5950, 5963",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53763,
+          7.044995
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.044995,
+        "longitude": 80.53763,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10264",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Nawalapitiya, Sri Lanka",
+        "voucher": "WHT 5951-52, 5958-59, 5961, 5964, 5950, 5963",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.57671,
+          7.164652
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.164652,
+        "longitude": 80.57671,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10267",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Gampola, Central, Sri Lanka",
+        "voucher": "WHT 5956",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.57671,
+          7.164652
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 7.164652,
+        "longitude": 80.57671,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10268",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Gampola, Central, Sri Lanka",
+        "voucher": "WHT 5956",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.35846,
+          6.277196
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.277196,
+        "longitude": 80.35846,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10285",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kanneliya Forest Reserve, Sri Lanka",
+        "voucher": "WHT 7498",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.35846,
+          6.277196
+        ]
+      },
+      "properties": {
+        "scientificName": "Hypnale_zara",
+        "latitude": 6.277196,
+        "longitude": 80.35846,
+        "date": "",
+        "source": "Maduwage, K, A. Silva, K. Manamendra-Arachchi, R. Pethiyagoda. 2009. A taxonomic revision of the South Asian hump-nosed pit vipers (Squamata: Viperidae: Hypnale). Zootaxa, 2232:1-28.",
+        "ID": "Martins10286",
+        "database_recorded_species": "Hypnale zara",
+        "database_recorded_subspecies": "Hypnale zara",
+        "taxonomy_updated_species": "Hypnale_zara",
+        "taxonomy_updated_subspecies2": "Hypnale_zara",
+        "final_species": "Hypnale_zara",
+        "final_subspecies": "Hypnale_zara",
+        "accuracy_m": "NA",
+        "country": "Sri Lanka",
+        "locality": "Kanneliya Forest Reserve, Sri Lanka",
+        "voucher": "WHT 7498",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

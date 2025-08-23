@@ -1,0 +1,2216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21977,
+          15.21251
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.21251,
+        "longitude": -90.21977,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CRVA3757",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21,
+          15.21251
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.21251,
+        "longitude": -90.21,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CRVA3758",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22138,
+          15.20851
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.20851,
+        "longitude": -90.22138,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CRVA3759",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2233,
+          15.20796
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.20796,
+        "longitude": -90.2233,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CRVA3760",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21785,
+          15.21057
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.21057,
+        "longitude": -90.21785,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CRVA3761",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.57985,
+          15.37893
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.37893,
+        "longitude": -90.57985,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061354951",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 29000,
+        "country": "Guatemala",
+        "locality": "GT; Alta Verapaz; San Cristobal Verapaz Municipality, Baleu",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:34300",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.85629,
+          15.50503
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.50503,
+        "longitude": -90.85629,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145579520",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 10,
+        "country": "Guatemala",
+        "locality": "GT; El Quiche; 1.9 km N (by road) of Palo Viejo hydroelectric dam on road to La Gloria",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:265626",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288519,
+          15.214114
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.214114,
+        "longitude": -90.288519,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1562923193",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; NA",
+        "voucher": "iNaturalist:Observations:6171681",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.351811,
+          15.274557
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.274557,
+        "longitude": -90.351811,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1562923231",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; NA",
+        "voucher": "iNaturalist:Observations:6171682",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.276728,
+          15.387815
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.387815,
+        "longitude": -90.276728,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2283241561",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; NA",
+        "voucher": "iNaturalist:Observations:28493550",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.295859,
+          15.318307
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.318307,
+        "longitude": -90.295859,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397620531",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; NA",
+        "voucher": "iNaturalist:Observations:31742580",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.356842,
+          15.283301
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.283301,
+        "longitude": -90.356842,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423010154",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; NA",
+        "voucher": "iNaturalist:Observations:32493637",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.315448,
+          15.20199
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.20199,
+        "longitude": -90.315448,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2460018534",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; NA",
+        "voucher": "iNaturalist:Observations:35835316",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.233333,
+          16.488889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.488889,
+        "longitude": -92.233333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_2630354690",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Santa Rosa",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.134167,
+          16.251111
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.251111,
+        "longitude": -92.134167,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_2630357376",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Comit‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ªn",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.233333,
+          16.488889
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.488889,
+        "longitude": -92.233333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_2630359704",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Santa Rosa",
+        "voucher": "NO DISPONIBLE:NO DISPONIBLE:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7,
+          16.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.1,
+        "longitude": -91.7,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630378071",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Lagos de Montebello, entre Dos Lagunas y Tzizcao",
+        "voucher": "IHNE:CZRHE:1654",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.441667,
+          16.820833
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.820833,
+        "longitude": -92.441667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2630399997",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Chiapas; Paraje Yashanal,",
+        "voucher": "NO DISPONIBLE:NO APLICA:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951363",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000259",
+        "issue": "RECORDED_DATE_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951446",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000260",
+        "issue": "RECORDED_DATE_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951448",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000262",
+        "issue": "RECORDED_DATE_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951449",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000261",
+        "issue": "RECORDED_DATE_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951464",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000227",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951613",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000140",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951628",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Cerca de Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000145",
+        "issue": "RECORDED_DATE_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2863951631",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR000146",
+        "issue": "RECORDED_DATE_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.322549,
+          15.264637
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.264637,
+        "longitude": -90.322549,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039414971",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Alta Verapaz; NA",
+        "voucher": "iNaturalist:Observations:69340106",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.278558,
+          15.292184
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.292184,
+        "longitude": -90.278558,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039484969",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Alta Verapaz; NA",
+        "voucher": "iNaturalist:Observations:69323920",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2339,
+          15.2369
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.2369,
+        "longitude": -90.2339,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3053233336",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; curva antes del Biotopo del Quetzal",
+        "voucher": "UVG:UVGR:UVGR001489",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1667,
+          15.15
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.15,
+        "longitude": -90.1667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3053233594",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; Cumbre del Carpintero",
+        "voucher": "UVG:UVGR:UVGR001093",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.205,
+          15.1778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.1778,
+        "longitude": -90.205,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3126866303",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "GT; Alta Verapaz; Union Barrios",
+        "voucher": "UVG:UVGR:UVGR002245",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.393042,
+          15.314483
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.314483,
+        "longitude": -90.393042,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3301954979",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Alta Verapaz; NA",
+        "voucher": "iNaturalist:Observations:81082014",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.303565,
+          15.345414
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.345414,
+        "longitude": -90.303565,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3314206133",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": 30899,
+        "country": "Guatemala",
+        "locality": "GT; Baja Verapaz; NA",
+        "voucher": "iNaturalist:Observations:83942611",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.85629,
+          15.50503
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.50503,
+        "longitude": -90.85629,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07365",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.442,
+          16.821
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.821,
+        "longitude": -92.442,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07366",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7,
+          16.1
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.1,
+        "longitude": -91.7,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07367",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.41,
+          15.33
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.33,
+        "longitude": -90.41,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07368",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.233,
+          16.489
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.489,
+        "longitude": -92.233,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07369",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.134,
+          16.251
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.251,
+        "longitude": -92.134,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07370",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.678443,
+          16.105578
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 16.105578,
+        "longitude": -91.678443,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07372",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68384,
+          15.185661
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.185661,
+        "longitude": -89.68384,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07375",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.405035,
+          15.495898
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.495898,
+        "longitude": -90.405035,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07376",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.154802,
+          15.383858
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.383858,
+        "longitude": -90.154802,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07377",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.215193,
+          15.20679
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.20679,
+        "longitude": -90.215193,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07378",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.223979,
+          15.182225
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182225,
+        "longitude": -90.223979,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07379",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.187788,
+          15.131187
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.131187,
+        "longitude": -90.187788,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07380",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.239264,
+          15.226825
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.226825,
+        "longitude": -90.239264,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07381",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.755539,
+          15.48572
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.48572,
+        "longitude": -90.755539,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07382",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.695265,
+          15.160591
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.160591,
+        "longitude": -89.695265,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07383",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37154,
+          15.47098
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.47098,
+        "longitude": -90.37154,
+        "date": "",
+        "source": "Smith, H. M. and E. O. Moll. 1969. A Taxonomic Rearrgement of the Pit Vipers of the Bothrops nigrovirides Complex of Southern Mexico. Journal of Herpetology, 3(3/4): 151-155.",
+        "ID": "Martins00382",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Cob‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Alta Verapaz, Guatemala",
+        "voucher": "CAS 67049",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20691,
+          15.182977
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182977,
+        "longitude": -90.20691,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01857",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "La Union Barrios, Baja Verapaz, Guatemala",
+        "voucher": "KU 187430, KU 187431, KU 187432, 187435, 187436, 187437",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20691,
+          15.182977
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182977,
+        "longitude": -90.20691,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01858",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "La Union Barrios, Baja Verapaz, Guatemala",
+        "voucher": "KU 187430, KU 187431, KU 187432, 187435, 187436, 187437",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63301,
+          15.118214
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.118214,
+        "longitude": -89.63301,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins01868",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "San Lorenzo, Zacapa, Guatemala",
+        "voucher": "KU 191201",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37194,
+          15.472447
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.472447,
+        "longitude": -90.37194,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03667",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Coban, Alta Verapaz, Guatemala",
+        "voucher": "MVZ 201398",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37194,
+          15.472447
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.472447,
+        "longitude": -90.37194,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03668",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Coban, Alta Verapaz, Guatemala",
+        "voucher": "MVZ 201398",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37156,
+          15.47096
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.47096,
+        "longitude": -90.37156,
+        "date": "",
+        "source": "Stuart, L. C. 1963. A checklist of the herpetofauna of Guatemala. University of Michigan Museum of Zoology Miscellaneous Publications 122: 1-150.",
+        "ID": "Martins08412",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Coban, Alta Verapaz, Guatemala",
+        "voucher": "RMNH 1946.1.17.7 1",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20691,
+          15.182977
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182977,
+        "longitude": -90.20691,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08446",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "La Union Barrios, Baja Verapaz, Guatemala",
+        "voucher": "ROM 42220, 42221",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20691,
+          15.182977
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182977,
+        "longitude": -90.20691,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08447",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "La Union Barrios, Baja Verapaz, Guatemala",
+        "voucher": "ROM 42220, 42221",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47961,
+          15.366633
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.366633,
+        "longitude": -90.47961,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08872",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "San Cristobal, Alta Verapaz, Guatemala",
+        "voucher": "UCM 34300",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47961,
+          15.366633
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.366633,
+        "longitude": -90.47961,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08873",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "San Cristobal, Alta Verapaz, Guatemala",
+        "voucher": "UCM 34300",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23499,
+          15.235574
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.235574,
+        "longitude": -90.23499,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09884",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Purulh‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Baja Verapaz, Guatemala",
+        "voucher": "UTA R-16062‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü63, 37226",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20688,
+          15.182823
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182823,
+        "longitude": -90.20688,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins09962",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "La Union de Barrios, Baja Verapaz, Guatemala",
+        "voucher": "UTA R-35031",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20688,
+          15.182905
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182905,
+        "longitude": -90.20688,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, 163: 943-958.",
+        "ID": "Martins09963",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Uni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Barrios, Baja Verapaz, Guatemala",
+        "voucher": "UTA R-35031",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17833,
+          15.140439
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.140439,
+        "longitude": -90.17833,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09990",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Ni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±o Perdido, Baja Verapaz, Guatemala",
+        "voucher": "UTA R-39219‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü23, 45870‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü71",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3716,
+          15.471167
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.471167,
+        "longitude": -90.3716,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10015",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Cob‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Alta Verapaz, Guatemala",
+        "voucher": "UTA R-4494",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20695,
+          15.182975
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.182975,
+        "longitude": -90.20695,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10082",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "La Uni‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Barrios, Baja Verapaz, Guatemala",
+        "voucher": "UTA R-7046, 7048, 7635‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü36, 7762, 7788, 12949‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü51, 13030‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü31, 13614‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü16, 14223, 16060‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü61, 17906, 21842, 22439‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü47, 22449, 26163‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü64, 26388‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü91, 28551‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü52, 31207, 31978, 32085‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü86, 32424, 34486, 35031, 36211",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23499,
+          15.235574
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_aurifer",
+        "latitude": 15.235574,
+        "longitude": -90.23499,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10085",
+        "database_recorded_species": "Bothriechis aurifer",
+        "database_recorded_subspecies": "Bothriechis aurifer",
+        "taxonomy_updated_species": "Bothriechis_aurifer",
+        "taxonomy_updated_subspecies2": "Bothriechis_aurifer",
+        "final_species": "Bothriechis_aurifer",
+        "final_subspecies": "Bothriechis_aurifer",
+        "accuracy_m": "NA",
+        "country": "Guatemala",
+        "locality": "Purulh‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™, Baja Verapaz, Guatemala",
+        "voucher": "UTA R-8777, UTA R-6241, 6275‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü76, 6459, 6504‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü05, 6525",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

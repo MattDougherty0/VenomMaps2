@@ -1,0 +1,1226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.281389,
+          24.181389
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.181389,
+        "longitude": 121.281389,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1677255703",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 845,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:1082266",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.73775,
+          24.702107
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.702107,
+        "longitude": 121.73775,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1677272972",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 61000,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:747355",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.227124,
+          23.771285
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.771285,
+        "longitude": 121.227124,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1850945377",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 2258,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:13269451",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.889554,
+          23.48703
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.48703,
+        "longitude": 120.889554,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864112323",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.890407,
+          23.48751
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.48751,
+        "longitude": 120.890407,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864113975",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55627,
+          24.50351
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.50351,
+        "longitude": 121.55627,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864114290",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.288464,
+          24.164918
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.164918,
+        "longitude": 121.288464,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864114935",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.009056,
+          23.225667
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.225667,
+        "longitude": 121.009056,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864115263",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.015246,
+          24.265544
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.265544,
+        "longitude": 121.015246,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864115695",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.037818,
+          24.290895
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.290895,
+        "longitude": 121.037818,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864118857",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.287081,
+          24.161565
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.161565,
+        "longitude": 121.287081,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864123452",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.014995,
+          24.262119
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.262119,
+        "longitude": 121.014995,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864128978",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.811667,
+          23.5025
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.5025,
+        "longitude": 120.811667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864129331",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.026937,
+          24.278895
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.278895,
+        "longitude": 121.026937,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864130557",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.798056,
+          23.506667
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.506667,
+        "longitude": 120.798056,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864130886",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.018801,
+          24.268
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.268,
+        "longitude": 121.018801,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864131523",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.867455,
+          23.480798
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.480798,
+        "longitude": 120.867455,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864132628",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5695,
+          24.512067
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.512067,
+        "longitude": 121.5695,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864136137",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.027257,
+          24.2802
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.2802,
+        "longitude": 121.027257,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864138555",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01782,
+          24.26697
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.26697,
+        "longitude": 121.01782,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864142199",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56863,
+          24.5114
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.5114,
+        "longitude": 121.56863,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864150926",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5792,
+          24.51842
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.51842,
+        "longitude": 121.5792,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864155162",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88667,
+          23.48641
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.48641,
+        "longitude": 120.88667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864155405",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.87048,
+          23.47775
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.47775,
+        "longitude": 120.87048,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1864156288",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; NA; NA",
+        "voucher": "NA:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.885605,
+          23.475145
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.475145,
+        "longitude": 120.885605,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880547947",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:13692683",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.985511,
+          23.248421
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.248421,
+        "longitude": 120.985511,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880611096",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 98,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:13942581",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.526595,
+          24.496053
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.496053,
+        "longitude": 121.526595,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2350406941",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 3,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:30741021",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.110334,
+          24.502563
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.502563,
+        "longitude": 121.110334,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2529258569",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 219,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:36744628",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.857261,
+          23.227779
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.227779,
+        "longitude": 120.857261,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2634144051",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 30196,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:48230818",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.80883,
+          23.466327
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.466327,
+        "longitude": 120.80883,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2634463022",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 30175,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:48227709",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.288117,
+          24.430957
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.430957,
+        "longitude": 121.288117,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2641353985",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 5,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:48753887",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.985,
+          23.24766
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.24766,
+        "longitude": 120.985,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2818736924",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 7,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:52779479",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.985069,
+          23.247796
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.247796,
+        "longitude": 120.985069,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2818776893",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 9,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:52779474",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.87021,
+          23.477877
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.477877,
+        "longitude": 120.87021,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851144490",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": "NA",
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:55586491",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.869628,
+          23.480462
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.480462,
+        "longitude": 120.869628,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2856481040",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 5,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:57442497",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.526576,
+          24.496055
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 24.496055,
+        "longitude": 121.526576,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2984358327",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 3,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:30741027",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.899993,
+          23.475835
+        ]
+      },
+      "properties": {
+        "scientificName": "Trimeresurus_gracilis",
+        "latitude": 23.475835,
+        "longitude": 120.899993,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3031927964",
+        "database_recorded_species": "Trimeresurus gracilis",
+        "database_recorded_subspecies": "Trimeresurus gracilis",
+        "taxonomy_updated_species": "Trimeresurus_gracilis",
+        "taxonomy_updated_subspecies2": "Trimeresurus_gracilis",
+        "final_species": "Trimeresurus_gracilis",
+        "final_subspecies": "Trimeresurus_gracilis",
+        "accuracy_m": 1990,
+        "country": "Taiwan",
+        "locality": "TW; Taiwan; NA",
+        "voucher": "iNaturalist:Observations:68212963",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

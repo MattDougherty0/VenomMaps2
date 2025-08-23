@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.682197,
+          42.584288
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_dinniki",
+        "latitude": 42.584288,
+        "longitude": 44.682197,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1227776095",
+        "database_recorded_species": "Vipera dinniki",
+        "database_recorded_subspecies": "Vipera dinniki",
+        "taxonomy_updated_species": "Vipera_dinniki",
+        "taxonomy_updated_subspecies2": "Vipera_dinniki",
+        "final_species": "Vipera_dinniki",
+        "final_subspecies": "Vipera_dinniki",
+        "accuracy_m": 27630,
+        "country": "Georgia",
+        "locality": "GE; Mtskheta-Mtianeti; NA",
+        "voucher": "iNaturalist:Observations:788440",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.714392,
+          42.749777
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_dinniki",
+        "latitude": 42.749777,
+        "longitude": 44.714392,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265840072",
+        "database_recorded_species": "Vipera dinniki",
+        "database_recorded_subspecies": "Vipera dinniki",
+        "taxonomy_updated_species": "Vipera_dinniki",
+        "taxonomy_updated_subspecies2": "Vipera_dinniki",
+        "final_species": "Vipera_dinniki",
+        "final_subspecies": "Vipera_dinniki",
+        "accuracy_m": 27599,
+        "country": "Russia",
+        "locality": "GE; Mtskheta-Mtianeti; NA",
+        "voucher": "iNaturalist:Observations:26663626",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.620839,
+          42.66247
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_dinniki",
+        "latitude": 42.66247,
+        "longitude": 44.620839,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2835774927",
+        "database_recorded_species": "Vipera dinniki",
+        "database_recorded_subspecies": "Vipera dinniki",
+        "taxonomy_updated_species": "Vipera_dinniki",
+        "taxonomy_updated_subspecies2": "Vipera_dinniki",
+        "final_species": "Vipera_dinniki",
+        "final_subspecies": "Vipera_dinniki",
+        "accuracy_m": 10,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Kazbegi",
+        "voucher": "NA:Observations:OBS.110619535",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.450822,
+          42.590681
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_dinniki",
+        "latitude": 42.590681,
+        "longitude": 44.450822,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2840248109",
+        "database_recorded_species": "Vipera dinniki",
+        "database_recorded_subspecies": "Vipera dinniki",
+        "taxonomy_updated_species": "Vipera_dinniki",
+        "taxonomy_updated_subspecies2": "Vipera_dinniki",
+        "final_species": "Vipera_dinniki",
+        "final_subspecies": "Vipera_dinniki",
+        "accuracy_m": 25,
+        "country": "Georgia",
+        "locality": "GE; NA; Georgia - Kazbegi",
+        "voucher": "NA:Observations:OBS.155710003",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.189084,
+          41.432346
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_dinniki",
+        "latitude": 41.432346,
+        "longitude": 46.189084,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302002696",
+        "database_recorded_species": "Vipera eriwanensis",
+        "database_recorded_subspecies": "Vipera eriwanensis",
+        "taxonomy_updated_species": "Vipera_eriwanensis",
+        "taxonomy_updated_subspecies2": "Vipera_eriwanensis",
+        "final_species": "Vipera_dinniki",
+        "final_subspecies": "Vipera_dinniki",
+        "accuracy_m": 27785,
+        "country": "Georgia",
+        "locality": "GE; Kakheti; NA",
+        "voucher": "iNaturalist:Observations:79435089",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 1.149963,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.28333,
+          41.8166
+        ]
+      },
+      "properties": {
+        "scientificName": "Vipera_dinniki",
+        "latitude": 41.8166,
+        "longitude": 46.28333,
+        "date": "",
+        "source": "Orlov, & tuniyev. 1990. Three species in the Vipera kaznakowi complex (eurosiberian group) in the Caucasus: their present distribution, possible genesis and phylogeny. Asiatic Herpetological Resarch, 3: 1-36",
+        "ID": "Martins08201",
+        "database_recorded_species": "Vipera berus",
+        "database_recorded_subspecies": "Vipera berus",
+        "taxonomy_updated_species": "Vipera_berus",
+        "taxonomy_updated_subspecies2": "Vipera_berus",
+        "final_species": "Vipera_dinniki",
+        "final_subspecies": "Vipera_dinniki",
+        "accuracy_m": "NA",
+        "country": "Georgia",
+        "locality": "Lagodekhi, Georgia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.430648,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

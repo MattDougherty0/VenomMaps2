@@ -1,0 +1,4130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.742389,
+          8.944778
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.944778,
+        "longitude": -82.742389,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP1856",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.87831,
+          9.6818
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.6818,
+        "longitude": -83.87831,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP1864",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.93875,
+          9.99828
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.99828,
+        "longitude": -83.93875,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0626",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.90482,
+          9.58944
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.58944,
+        "longitude": -83.90482,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0628",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6997393192387,
+          10.3011114791429
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.3011114791429,
+        "longitude": -84.6997393192387,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145525683",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 16544,
+        "country": "Costa Rica",
+        "locality": "CR; Puntarenas; Monteverde",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:215983",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8570583952836,
+          9.9822792295095
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.9822792295095,
+        "longitude": -83.8570583952836,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319774182",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 3396,
+        "country": "Costa Rica",
+        "locality": "CR; Cartago Province; Irazu, west slope of",
+        "voucher": "USNM:Amphibians & Reptiles:68856",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.61512,
+          8.893972
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.893972,
+        "longitude": -82.61512,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2028447323",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 64,
+        "country": "Panama",
+        "locality": "PA; Chiriqu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†; NA",
+        "voucher": "iNaturalist:Observations:21246394",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73,
+          8.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.95,
+        "longitude": -82.73,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2286514494",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "PA; NA; Costa Rica:Puntarenas, vicinity Sitio Las Tablas, Prov. Puntarenas, Costa Rica 1750-1950 m elev. Trail to Panama",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.943594,
+          10.031677
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.031677,
+        "longitude": -83.943594,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311361531",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 2290,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:29738561",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.624124,
+          8.90243
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.90243,
+        "longitude": -82.624124,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2397552146",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 132,
+        "country": "Panama",
+        "locality": "PA; Bocas del Toro; NA",
+        "voucher": "iNaturalist:Observations:31474173",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.753428,
+          9.748917
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.748917,
+        "longitude": -83.753428,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465341822",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 212090,
+        "country": "Costa Rica",
+        "locality": "CR; Cartago; NA",
+        "voucher": "iNaturalist:Observations:36332444",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.102973,
+          10.108372
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.108372,
+        "longitude": -84.102973,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2576493260",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 2,
+        "country": "Costa Rica",
+        "locality": "CR; Heredia; NA",
+        "voucher": "iNaturalist:Observations:39564094",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06012,
+          10.095079
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.095079,
+        "longitude": -84.06012,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3013925715",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 702,
+        "country": "Costa Rica",
+        "locality": "CR; Heredia; NA",
+        "voucher": "iNaturalist:Observations:67065722",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.798382,
+          10.340695
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.340695,
+        "longitude": -84.798382,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3031998869",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 249,
+        "country": "Costa Rica",
+        "locality": "CR; Guanacaste; NA",
+        "voucher": "iNaturalist:Observations:68130674",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.341776,
+          10.190851
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.190851,
+        "longitude": -84.341776,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3039220954",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 210,
+        "country": "Costa Rica",
+        "locality": "CR; Alajuela; NA",
+        "voucher": "iNaturalist:Observations:69314134",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.494622,
+          9.513437
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.513437,
+        "longitude": -83.494622,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3058762666",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 210,
+        "country": "Costa Rica",
+        "locality": "CR; Lim‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n; NA",
+        "voucher": "iNaturalist:Observations:66320950",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.033024,
+          10.051147
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.051147,
+        "longitude": -84.033024,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3124596941",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; Heredia; NA",
+        "voucher": "iNaturalist:Observations:80047025",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.577628,
+          9.472151
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.472151,
+        "longitude": -83.577628,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3321044447",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 210,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:85081698",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.931209908752,
+          9.6960498285864
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.6960498285864,
+        "longitude": -83.931209908752,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657496934",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 4697,
+        "country": "Costa Rica",
+        "locality": "CR; Cartago; Cerro de La Muerte, 3.2 km S of El Empalme, Pan Am Hwy",
+        "voucher": "LACM:Herps:154554",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.05,
+          9.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.95,
+        "longitude": -84.05,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657496937",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": 3598,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Guadalupe (suburb of San Jose)",
+        "voucher": "LACM:Herps:154557",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7,
+          9.3833
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.3833,
+        "longitude": -83.7,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686731399",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; San Jose; ca San Isidro del General",
+        "voucher": "KU:KUH:25699",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7,
+          9.3833
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.3833,
+        "longitude": -83.7,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686737689",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; San Jose; San Isidro del General",
+        "voucher": "KU:KUH:31954",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.207736575671,
+          10.1666083624683
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.1666083624683,
+        "longitude": -84.207736575671,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686769261",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; Alajuela; Rio Poasito, 1 km E Poasito",
+        "voucher": "KU:KUH:63919",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.207736575671,
+          10.1666083624683
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.1666083624683,
+        "longitude": -84.207736575671,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686769262",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; Alajuela; Rio Poasito, 1 km E Poasito",
+        "voucher": "KU:KUH:63920",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.85,
+          9.5667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.5667,
+        "longitude": -83.85,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686835823",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; San Jose; Providencia, Rio Brujo",
+        "voucher": "KU:KUH:128994",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8572006,
+          8.9834003
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.9834003,
+        "longitude": -82.8572006,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07457",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1396027,
+          9.3497601
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.3497601,
+        "longitude": -83.1396027,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07458",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4557037,
+          9.4496403
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.4496403,
+        "longitude": -83.4557037,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07459",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3304977,
+          9.6658297
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.6658297,
+        "longitude": -83.3304977,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07460",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9549026,
+          9.7507696
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.7507696,
+        "longitude": -83.9549026,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07461",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9246979,
+          10.0309
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.0309,
+        "longitude": -83.9246979,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07462",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0157013,
+          10.0685997
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.0685997,
+        "longitude": -84.0157013,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07463",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0531006,
+          10.1357002
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.1357002,
+        "longitude": -84.0531006,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07465",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1706009,
+          10.2528
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.2528,
+        "longitude": -84.1706009,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07466",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2304001,
+          10.2101002
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.2101002,
+        "longitude": -84.2304001,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07467",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2990036,
+          10.2796001
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.2796001,
+        "longitude": -84.2990036,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07468",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7545013,
+          10.3554001
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.3554001,
+        "longitude": -84.7545013,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07469",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8702011,
+          10.3525
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.3525,
+        "longitude": -84.8702011,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07470",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1001,
+          10.133988
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.133988,
+        "longitude": -84.1001,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins00155",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Barba, Heredia, Costa Rica",
+        "voucher": "AMNH 17283",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10009,
+          10.133988
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.133988,
+        "longitude": -84.10009,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins00156",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Barba, Heredia, Costa Rica",
+        "voucher": "AMNH 17283",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80162,
+          9.570464
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.570464,
+        "longitude": -83.80162,
+        "date": "",
+        "source": "Taggart, T. W.; B. I. Crother; M. E. White. 2001. Palm-Pitvipers (Bothriechis) phylogeny, mtDNA, and consilience. Cladistics, V. 17: 355-370.",
+        "ID": "Martins00512",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerondo de Dota, Costa Rica",
+        "voucher": "CLP 49",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80162,
+          9.570464
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.570464,
+        "longitude": -83.80162,
+        "date": "",
+        "source": "Taggart, T. W.; B. I. Crother; M. E. White. 2001. Palm-Pitvipers (Bothriechis) phylogeny, mtDNA, and consilience. Cladistics, V. 17: 355-370.",
+        "ID": "Martins00513",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerondo de Dota, Costa Rica",
+        "voucher": "CLP 49",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          9.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.566667,
+        "longitude": -83.75,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00631",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro de la Muerte, San Jose, Costa Rica",
+        "voucher": "CM 145874, 148063, 148064",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          9.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.566667,
+        "longitude": -83.75,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00632",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro de la Muerte, San Jose, Costa Rica",
+        "voucher": "CM 145874, 148063, 148064",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          9.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.566667,
+        "longitude": -83.75,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00633",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro de la Muerte, San Jose, Costa Rica",
+        "voucher": "CM 145874, 148063, 148064",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81667,
+          9.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.033333,
+        "longitude": -82.81667,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins01757",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro Pando, Bocas del Toro, Panama",
+        "voucher": "KU 112598",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81667,
+          9.033333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.033333,
+        "longitude": -82.81667,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins01758",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro Pando, Bocas del Toro, Panama",
+        "voucher": "KU 112598",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81652,
+          9.03442
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.03442,
+        "longitude": -82.81652,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01759",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro Pando, Bocas del Toro, Panama",
+        "voucher": "KU 112598",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81652,
+          9.03442
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.03442,
+        "longitude": -82.81652,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01760",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro Pando, Bocas del Toro, Panama",
+        "voucher": "KU 112598",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81652,
+          9.03442
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.03442,
+        "longitude": -82.81652,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01761",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro Pando, Bocas del Toro, Panama",
+        "voucher": "KU 112598",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.86607,
+          9.554246
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.554246,
+        "longitude": -83.86607,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins01775",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Providencia, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "KU 128994",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.86607,
+          9.554246
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.554246,
+        "longitude": -83.86607,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins01776",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Providencia, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "KU 128994",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.86501,
+          9.556271
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.556271,
+        "longitude": -83.86501,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01777",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Providencia, San Jose, Costa Rica",
+        "voucher": "KU 128994",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.86501,
+          9.556271
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.556271,
+        "longitude": -83.86501,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01778",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Providencia, San Jose, Costa Rica",
+        "voucher": "KU 128994",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.86501,
+          9.556271
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.556271,
+        "longitude": -83.86501,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01779",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Providencia, San Jose, Costa Rica",
+        "voucher": "KU 128994",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70692,
+          9.36896
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.36896,
+        "longitude": -83.70692,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01926",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Isidro del General, San Jose, Costa Rica",
+        "voucher": "KU 25699, 31954",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70692,
+          9.36896
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.36896,
+        "longitude": -83.70692,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01927",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Isidro del General, San Jose, Costa Rica",
+        "voucher": "KU 25699, 31954",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70692,
+          9.36896
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.36896,
+        "longitude": -83.70692,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01928",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Isidro del General, San Jose, Costa Rica",
+        "voucher": "KU 25699, 31954",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19297,
+          10.164564
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.164564,
+        "longitude": -84.19297,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins02034",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Poasito, Alajuela, Costa Rica",
+        "voucher": "KU 63919‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü20",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19297,
+          10.164564
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.164564,
+        "longitude": -84.19297,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins02035",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Poasito, Alajuela, Costa Rica",
+        "voucher": "KU 63919‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü20",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          9.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.566667,
+        "longitude": -83.75,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02183",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro de la Muerte, San Jose, Costa Rica",
+        "voucher": "LACM 154551, 154553, 154554, 154556, 154557",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          9.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.566667,
+        "longitude": -83.75,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02184",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro de la Muerte, San Jose, Costa Rica",
+        "voucher": "LACM 154551, 154553, 154554, 154556, 154557",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          9.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.566667,
+        "longitude": -83.75,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02185",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cerro de la Muerte, San Jose, Costa Rica",
+        "voucher": "LACM 154551, 154553, 154554, 154556, 154557",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81005,
+          10.310991
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.310991,
+        "longitude": -84.81005,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02186",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "LACM 154555",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81005,
+          10.310991
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.310991,
+        "longitude": -84.81005,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02187",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "LACM 154555",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81005,
+          10.310991
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.310991,
+        "longitude": -84.81005,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02188",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "LACM 154555",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80973,
+          10.306982
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.306982,
+        "longitude": -84.80973,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03674",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "MVZ 215983",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80973,
+          10.306982
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.306982,
+        "longitude": -84.80973,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03675",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "MVZ 215983",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80973,
+          10.306982
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.306982,
+        "longitude": -84.80973,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03676",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "MVZ 215983",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92083,
+          9.856872
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.856872,
+        "longitude": -83.92083,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03697",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cartago, Cartago, Costa Rica",
+        "voucher": "MVZ 24228",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92083,
+          9.856872
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.856872,
+        "longitude": -83.92083,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03698",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cartago, Cartago, Costa Rica",
+        "voucher": "MVZ 24228",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92083,
+          9.856872
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.856872,
+        "longitude": -83.92083,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03699",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cartago, Cartago, Costa Rica",
+        "voucher": "MVZ 24228",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80194,
+          9.568116
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.568116,
+        "longitude": -83.80194,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins03772",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUC R-11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80194,
+          9.568116
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.568116,
+        "longitude": -83.80194,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, V. 163: 943-958.",
+        "ID": "Martins03773",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUC R-11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80276,
+          9.570025
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.570025,
+        "longitude": -83.80276,
+        "date": "",
+        "source": "Parkinson, C. L. 1999. Molecular systematics and biogeographical history of pitvipers as determined by mitochondrial ribosomal DNA sequences. Copeia, V. 1999, N. 3: 576-586.",
+        "ID": "Martins03779",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUCR 11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80276,
+          9.570025
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.570025,
+        "longitude": -83.80276,
+        "date": "",
+        "source": "Parkinson, C. L. 1999. Molecular systematics and biogeographical history of pitvipers as determined by mitochondrial ribosomal DNA sequences. Copeia, V. 1999, N. 3: 576-586.",
+        "ID": "Martins03780",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUCR 11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80162,
+          9.570464
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.570464,
+        "longitude": -83.80162,
+        "date": "",
+        "source": "Taggart, T. W.; B. I. Crother; M. E. White. 2001. Palm-Pitvipers (Bothriechis) phylogeny, mtDNA, and consilience. Cladistics, V. 17: 355-370.",
+        "ID": "Martins03781",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerondo de Dota, Costa Rica",
+        "voucher": "MZUCR 11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80162,
+          9.570464
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.570464,
+        "longitude": -83.80162,
+        "date": "",
+        "source": "Taggart, T. W.; B. I. Crother; M. E. White. 2001. Palm-Pitvipers (Bothriechis) phylogeny, mtDNA, and consilience. Cladistics, V. 17: 355-370.",
+        "ID": "Martins03782",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerondo de Dota, Costa Rica",
+        "voucher": "MZUCR 11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00732,
+          10.19799
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.19799,
+        "longitude": -84.00732,
+        "date": "",
+        "source": "Fernandes, D. S., F. L. Franco, and R. Fernandes. 2004. Systematic revision of the genus Lachesis Daudin, 1803 (Serpentes, Viperidae). Herpetologia, 60(2):245-260.",
+        "ID": "Martins03801",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Parque Nacional Braulio Carrillo, Heredia, Costa Rica",
+        "voucher": "MZUCR 9441",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00732,
+          10.19799
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.19799,
+        "longitude": -84.00732,
+        "date": "",
+        "source": "Fernandes, D. S., F. L. Franco, and R. Fernandes. 2004. Systematic revision of the genus Lachesis Daudin, 1803 (Serpentes, Viperidae). Herpetologia, 60(2):245-260.",
+        "ID": "Martins03802",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Parque Nacional Braulio Carrillo, Heredia, Costa Rica",
+        "voucher": "MZUCR 9441",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80124,
+          9.564251
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.564251,
+        "longitude": -83.80124,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins03808",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUCR-11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80124,
+          9.564251
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.564251,
+        "longitude": -83.80124,
+        "date": "",
+        "source": "Castoe, T. A., and C. L. Parkinson. 2006. Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes). Molecular Phylogenetic and Evolution, 39:91-110.",
+        "ID": "Martins03809",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUCR-11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79683,
+          9.572105
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.572105,
+        "longitude": -83.79683,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins03810",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUCR-11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79683,
+          9.572105
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.572105,
+        "longitude": -83.79683,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins03811",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Gerardo de Dota, Costa Rica",
+        "voucher": "MZUCR-11151",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95815,
+          10.006598
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.006598,
+        "longitude": -83.95815,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05425",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cascajal de Coronado, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95815,
+          10.006598
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.006598,
+        "longitude": -83.95815,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05426",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cascajal de Coronado, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.85417,
+          9.976667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.976667,
+        "longitude": -83.85417,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05427",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Iraz‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢, Cartago, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.85417,
+          9.976667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.976667,
+        "longitude": -83.85417,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05428",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Iraz‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢, Cartago, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70692,
+          9.368958
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.368958,
+        "longitude": -83.70692,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05429",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Isidro, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70692,
+          9.368958
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.368958,
+        "longitude": -83.70692,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05430",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Isidro, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50702,
+          9.396586
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.396586,
+        "longitude": -83.50702,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05433",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Talamanca, Lim‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50702,
+          9.396586
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.396586,
+        "longitude": -83.50702,
+        "date": "",
+        "source": "Savage, J. M. 1966. The origins and history of Central American herpetofauna. Copeia, V.1966, N. 4: 719-766.",
+        "ID": "Martins05434",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Talamanca, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50702,
+          9.396586
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.396586,
+        "longitude": -83.50702,
+        "date": "",
+        "source": "Sol‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢rzano, A. 1997. Reproducci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n de la toboba de ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rbol, Bothriechis nigroviridis (Serpentes: Viperidae), em Costa Rica. Revista de Biologia Tropical, V. 45, N. 4: 1675-1677.",
+        "ID": "Martins05435",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Talamanca, Lim‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50702,
+          9.396586
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.396586,
+        "longitude": -83.50702,
+        "date": "",
+        "source": "Savage, J. M. 1966. The origins and history of Central American herpetofauna. Copeia, V.1966, N. 4: 719-766.",
+        "ID": "Martins05436",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Talamanca, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4836,
+          8.812947
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.812947,
+        "longitude": -82.4836,
+        "date": "",
+        "source": "Dunn, E. R. 1947. Snakes of the L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida Farm (Chiriqui Volcano, western Panam‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™). Copeia, V. 1947, N. 3: 153-157.",
+        "ID": "Martins05439",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Finca L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4836,
+          8.812947
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.812947,
+        "longitude": -82.4836,
+        "date": "",
+        "source": "Dunn, E. R. 1947. Snakes of the L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida Farm (Chiriqui Volcano, western Panam‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™). Copeia, V. 1947, N. 3: 153-157.",
+        "ID": "Martins05440",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Finca L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.432,
+          8.774566
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.774566,
+        "longitude": -82.432,
+        "date": "",
+        "source": "Dunn, E. R. 1940. New and Noteworthy Herpetological Material from Panama. Proceedings of Academy of Natural Sciences of Philadelphia, V. 92: 105-122.",
+        "ID": "Martins05441",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Boquete, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.432,
+          8.774566
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.774566,
+        "longitude": -82.432,
+        "date": "",
+        "source": "Dunn, E. R. 1947. Snakes of the L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida Farm (Chiriqui Volcano, western Panam‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™). Copeia, V. 1947, N. 3: 153-157.",
+        "ID": "Martins05442",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Boquete, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.432,
+          8.774566
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.774566,
+        "longitude": -82.432,
+        "date": "",
+        "source": "Dunn, E. R. 1940. New and Noteworthy Herpetological Material from Panama. Proceedings of Academy of Natural Sciences of Philadelphia, V. 92: 105-122.",
+        "ID": "Martins05443",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Boquete, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.432,
+          8.774566
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 8.774566,
+        "longitude": -82.432,
+        "date": "",
+        "source": "Dunn, E. R. 1947. Snakes of the L‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rida Farm (Chiriqui Volcano, western Panam‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™). Copeia, V. 1947, N. 3: 153-157.",
+        "ID": "Martins05444",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Boquete, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03333,
+          9.283333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.283333,
+        "longitude": -83.03333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09605",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Pico Blanco, Limon, Costa Rica",
+        "voucher": "USNM 32580, 32581",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03333,
+          9.283333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.283333,
+        "longitude": -83.03333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09606",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Pico Blanco, Limon, Costa Rica",
+        "voucher": "USNM 32580, 32581",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03333,
+          9.283333
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.283333,
+        "longitude": -83.03333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09607",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Pico Blanco, Limon, Costa Rica",
+        "voucher": "USNM 32580, 32581",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8591,
+          9.983539
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.983539,
+        "longitude": -83.8591,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09817",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Irazu, Cartago, Costa Rica",
+        "voucher": "USNM 68856",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8591,
+          9.983539
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.983539,
+        "longitude": -83.8591,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09818",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Irazu, Cartago, Costa Rica",
+        "voucher": "USNM 68856",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8591,
+          9.983539
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.983539,
+        "longitude": -83.8591,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09819",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Irazu, Cartago, Costa Rica",
+        "voucher": "USNM 68856",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09981,
+          10.092724
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.092724,
+        "longitude": -84.09981,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09826",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "El Gallito, San Jose, Costa Rica",
+        "voucher": "USNM 76408",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09981,
+          10.092724
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.092724,
+        "longitude": -84.09981,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09827",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "El Gallito, San Jose, Costa Rica",
+        "voucher": "USNM 76408",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09981,
+          10.092724
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.092724,
+        "longitude": -84.09981,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09828",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "El Gallito, San Jose, Costa Rica",
+        "voucher": "USNM 76408",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.85413,
+          9.977123
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.977123,
+        "longitude": -83.85413,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09886",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Iraz‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢, Cartago, Costa Rica",
+        "voucher": "UTA R-16075, 16077‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü78",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.85412,
+          9.977123
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.977123,
+        "longitude": -83.85412,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09887",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Iraz‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢, Cartago, Costa Rica",
+        "voucher": "UTA R-16075, 16077‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü78",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95819,
+          10.006762
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.006762,
+        "longitude": -83.95819,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09901",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cascajal de Coronado, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA R-21851",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95819,
+          10.006762
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.006762,
+        "longitude": -83.95819,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09902",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cascajal de Coronado, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA R-21851",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20006,
+          10.200166
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.200166,
+        "longitude": -84.20006,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09903",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Po‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Alajuela, Costa Rica",
+        "voucher": "UTA R-21852",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20006,
+          10.200166
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.200166,
+        "longitude": -84.20006,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09904",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Volc‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n Po‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™s, Alajuela, Costa Rica",
+        "voucher": "UTA R-21852",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98331,
+          10.06316
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.06316,
+        "longitude": -83.98331,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09905",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Bajo La Hondura, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA R-21853",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98331,
+          10.06316
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.06316,
+        "longitude": -83.98331,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09906",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Bajo La Hondura, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA R-21853",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15806,
+          10.168153
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.168153,
+        "longitude": -84.15806,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09907",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Vara Blanca, Heredia, Costa Rica",
+        "voucher": "UTA R-21926",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15806,
+          10.168153
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.168153,
+        "longitude": -84.15806,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09908",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Vara Blanca, Heredia, Costa Rica",
+        "voucher": "UTA R-21926",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70705,
+          9.369003
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.369003,
+        "longitude": -83.70705,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09939",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Isidro del General, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA R-2801, 2808, 2850, 6799, 7327, 7463, 9364‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü65, 9635‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü37, 10432‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü33",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70705,
+          9.369003
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.369003,
+        "longitude": -83.70705,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09940",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "San Isidro del General, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA R-2801, 2808, 2850, 6799, 7327, 7463, 9364‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü65, 9635‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü37, 10432‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü33",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80973,
+          10.306982
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.306982,
+        "longitude": -84.80973,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09954",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "UTA R-32458",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80973,
+          10.306982
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 10.306982,
+        "longitude": -84.80973,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins09955",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Monteverde, Puntarenas, Costa Rica",
+        "voucher": "UTA R-32458",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95014,
+          9.734397
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.734397,
+        "longitude": -83.95014,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10168",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "El Empalme, Cartago, Costa Rica",
+        "voucher": "UTAR-24841",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95014,
+          9.734397
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nigroviridis",
+        "latitude": 9.734397,
+        "longitude": -83.95014,
+        "date": "",
+        "source": "Campbell, J. A. and E. N. Smith. 2000. A new species of arboreal pitviper from the Atlantic versant of northern Central America. Revista de Biolog‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†a Tropical, 48(4): 1001-10013.",
+        "ID": "Martins10169",
+        "database_recorded_species": "Bothriechis nigroviridis",
+        "database_recorded_subspecies": "Bothriechis nigroviridis",
+        "taxonomy_updated_species": "Bothriechis_nigroviridis",
+        "taxonomy_updated_subspecies2": "Bothriechis_nigroviridis",
+        "final_species": "Bothriechis_nigroviridis",
+        "final_subspecies": "Bothriechis_nigroviridis",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "El Empalme, Cartago, Costa Rica",
+        "voucher": "UTAR-24841",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

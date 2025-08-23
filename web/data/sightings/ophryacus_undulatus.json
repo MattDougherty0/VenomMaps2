@@ -1,0 +1,3305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.10399,
+          18.778119
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.778119,
+        "longitude": -97.10399,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2325",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 10,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0237",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.56893,
+          17.82975
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.82975,
+        "longitude": -100.56893,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2407",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0319",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.56893,
+          17.82975
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.82975,
+        "longitude": -100.56893,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2410",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0322",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.56893,
+          17.82975
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.82975,
+        "longitude": -100.56893,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2411",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 1000,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0323",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6950386049718,
+          17.1274020935361
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1274020935361,
+        "longitude": -96.6950386049718,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361271",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro San Felipe",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40072",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7167090349102,
+          17.1007363323463
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1007363323463,
+        "longitude": -96.7167090349102,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061361301",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; San Felipe del Agua, Cerro San Felipe",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:40071",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6950386049718,
+          17.1274020935361
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1274020935361,
+        "longitude": -96.6950386049718,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061362562",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro San Felipe",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:41214",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6950386049718,
+          17.1274020935361
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1274020935361,
+        "longitude": -96.6950386049718,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061375099",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro San Felipe",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:52513",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6950386049718,
+          17.1274020935361
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1274020935361,
+        "longitude": -96.6950386049718,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061375146",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro San Felipe",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:52589",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6950386049718,
+          17.1274020935361
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1274020935361,
+        "longitude": -96.6950386049718,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1061375171",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro San Felipe",
+        "voucher": "UCM:Amphibian and reptile specimens:UCM:Herp:52588",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.640872,
+          17.650217
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.650217,
+        "longitude": -100.640872,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1228051547",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Ajuchitln del Progreso, Puerto Rico, 2210 m el.,",
+        "voucher": "UAZ:Herpetology:UAZ 57624-PSV",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.778557,
+          17.667309
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.667309,
+        "longitude": -100.778557,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1228051668",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Ajuchitln del Progreso, La Trinidad, 2007 m el.",
+        "voucher": "UAZ:Herpetology:UAZ 57625-PSV",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.103281,
+          17.483156
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.483156,
+        "longitude": -100.103281,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1228051766",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; General Heliodoro Castillo, 2273 m el.",
+        "voucher": "UAZ:Herpetology:UAZ 57629-PSV",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.603682,
+          17.203892
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.203892,
+        "longitude": -96.603682,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1265893494",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 30748,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:2756130",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6864,
+          17.5561
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.5561,
+        "longitude": -99.6864,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319959303",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Omiltemi",
+        "voucher": "USNM:Amphibians & Reptiles:46345",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.742069,
+          17.107921
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.107921,
+        "longitude": -96.742069,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586119754",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 32491,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:7307512",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.626227,
+          17.373166
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.373166,
+        "longitude": -96.626227,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1839261277",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 30748,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:11410582",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.779101,
+          17.337305
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.337305,
+        "longitude": -96.779101,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1839261280",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 30748,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:11410584",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75012,
+          17.218549
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.218549,
+        "longitude": -96.75012,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1839261288",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 30748,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:11410583",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.691667,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558333,
+        "longitude": -99.691667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893821460",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; NA; Las Joyas, 1.3 Km WNW de Omiltemi",
+        "voucher": "FC-UNAM:MZFC:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.675,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558333,
+        "longitude": -99.675,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893821462",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; NA; Potrerillos",
+        "voucher": "FC-UNAM:MZFC:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.675,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558333,
+        "longitude": -99.675,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893821464",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; NA; Potrerillos, barranca de",
+        "voucher": "FC-UNAM:MZFC:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658333,
+          17.541667
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.541667,
+        "longitude": -99.658333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893821466",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; NA; Cueva del Borrego",
+        "voucher": "FC-UNAM:MZFC:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.691667,
+          17.541667
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.541667,
+        "longitude": -99.691667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1893821468",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; NA; Omiltemi",
+        "voucher": "FC-UNAM:MZFC:NO DISPONIBLE",
+        "issue": "TYPE_STATUS_INVALID;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.977778,
+          18.6675
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.6675,
+        "longitude": -96.977778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894785751",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Sierra de Zongolica",
+        "voucher": "IBUNAM:CNAR:19732",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.103889,
+          18.779722
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.779722,
+        "longitude": -97.103889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894785755",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Veracruz de ignacio de la llave; Petlacala",
+        "voucher": "IBUNAM:CNAR:19733",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.725,
+          17.108333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.108333,
+        "longitude": -96.725,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911209",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; San Felipe",
+        "voucher": "UCM:UCM:40071-072",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.508333,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558333,
+        "longitude": -99.508333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911213",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Chilpancingo",
+        "voucher": "MCZ-HU:MCZ:33680",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.725,
+          17.075
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.075,
+        "longitude": -96.725,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911218",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; OAXACA, CD.",
+        "voucher": "NMNH-SI:USNM:46466",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.675,
+          17.175
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.175,
+        "longitude": -96.675,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911224",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro san felipe",
+        "voucher": "UIUC:UIMNH:52967",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.508333,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558333,
+        "longitude": -99.508333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911229",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Chilpancingo",
+        "voucher": "UIUC:UIMNH:35015",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.675,
+          17.175
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.175,
+        "longitude": -96.675,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911233",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro san felipe",
+        "voucher": "UIUC:UIMNH:56855",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.275,
+          16.141667
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 16.141667,
+        "longitude": -96.275,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911246",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; San juan ozoltepec",
+        "voucher": "UIUC:UIMNH:46906",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.725,
+          17.108333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.108333,
+        "longitude": -96.725,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911250",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; San Felipe",
+        "voucher": "UCM:UCM:41314",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658808,
+          17.541802
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.541802,
+        "longitude": -99.658808,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911263",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 2670,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, CAMINO A LA CUEVA DEL BORREGO",
+        "voucher": "FC-UNAM:MZFC:2890",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.508333,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558333,
+        "longitude": -99.508333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911266",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Chilpancingo",
+        "voucher": "AMNH:AMNH:72479-481",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.708333,
+          17.575
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.575,
+        "longitude": -99.708333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911276",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, 1.3 KM WNW, CAMINO A LAS JOYAS",
+        "voucher": "FC-UNAM:MZFC:2888",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.025,
+          16.258333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 16.258333,
+        "longitude": -96.025,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911352",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Santo domingo chontecomatlan",
+        "voucher": "UIUC:UIMNH:27840",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.675008,
+          17.558402
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558402,
+        "longitude": -99.675008,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911356",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 2470,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, CAMINO A POTRERILLOS",
+        "voucher": "FC-UNAM:MZFC:2891",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.675,
+          17.175
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.175,
+        "longitude": -96.675,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911361",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; Cerro san felipe",
+        "voucher": "UIUC:UIMNH:56120",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.508333,
+          17.558333
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558333,
+        "longitude": -99.508333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911370",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Chilpancingo",
+        "voucher": "FMNH:FMNH:38505",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.691667,
+          17.575
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.575,
+        "longitude": -99.691667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911377",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Omiltemi",
+        "voucher": "NMNH-SI:USNM:46345-346",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.691667,
+          17.575
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.575,
+        "longitude": -99.691667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911383",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Omiltemi",
+        "voucher": "NMNH-SI:USNM:46348",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.675008,
+          17.558332
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.558332,
+        "longitude": -99.675008,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911392",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 750,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, BARRANCA DE POTRERILLOS",
+        "voucher": "FC-UNAM:MZFC:2889",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.691667,
+          17.575
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.575,
+        "longitude": -99.691667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911407",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Omiltemi",
+        "voucher": "MCZ-HU:MCZ:42680-682",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;RECORDED_DATE_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.658808,
+          17.541802
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.541802,
+        "longitude": -99.658808,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1894911413",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 2670,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; OMILTEMI, CAMINO A LA CUEVA DEL BORREGO",
+        "voucher": "FC-UNAM:MZFC:2892",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.733611,
+          17.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.566667,
+        "longitude": -96.733611,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895595923",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; SIERRA MONTE FLOR, LADO DE ZOQUIAPAN, CERCA DEL ARROYO MONTE FLOR",
+        "voucher": "EB-BUAP:EBUAP:1889",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.986944,
+          18.269722
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.269722,
+        "longitude": -96.986944,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1895769177",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Puebla; COYOMEAPAN (EN LA SIERRA DE TEHUACAN)",
+        "voucher": "EB-BUAP:EBUAP:722",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.165665,
+          18.638584
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.638584,
+        "longitude": -97.165665,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1978440500",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 30632,
+        "country": "Mexico",
+        "locality": "MX; Veracruz; NA",
+        "voucher": "iNaturalist:Observations:19045728",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.806602,
+          17.146299
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.146299,
+        "longitude": -97.806602,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629118975",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; 18.15 km NE Putla",
+        "voucher": "ENCB-IPN:ENCB:8332",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.862999,
+          17.591499
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.591499,
+        "longitude": -99.862999,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2629128542",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Campo de Aviaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n, 35 km SW Xochipala",
+        "voucher": "ENCB-IPN:ENCB:162",
+        "issue": "TYPE_STATUS_INVALID;OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;ELEVATION_MIN_MAX_SWAPPED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.691667,
+          17.575
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.575,
+        "longitude": -99.691667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630242342",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Omiltemi",
+        "voucher": "NHM:NHM:95.3.15.12",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.691667,
+          17.575
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.575,
+        "longitude": -99.691667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2630243023",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 90,
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Omiltemi",
+        "voucher": "NHM:NHM:95.3.15.9",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.537942,
+          17.065014
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.065014,
+        "longitude": -96.537942,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3307374139",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": 30764,
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; NA",
+        "voucher": "iNaturalist:Observations:82995508",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9901171988538,
+          17.5007072609076
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.5007072609076,
+        "longitude": -99.9901171988538,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543518503",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; 20 mi NE of Puerto El Gallo on rd to Milpillas",
+        "voucher": "CAS:HERP:169618",
+        "issue": "COORDINATE_REPROJECTED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8201137525857,
+          17.6607000203975
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.6607000203975,
+        "longitude": -99.8201137525857,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686790379",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; Campo de Aviacion, ca 35 km SW Sochipala",
+        "voucher": "KU:KUH:85012",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6601096407707,
+          17.5507058407087
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.5507058407087,
+        "longitude": -99.6601096407707,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686796738",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Guerrero; 2 mi E Omilteme",
+        "voucher": "KU:KUH:91430",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6000365567062,
+          17.1907322759723
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1907322759723,
+        "longitude": -96.6000365567062,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686823667",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; Oaxaca; about 25 km NE Oaxaca",
+        "voucher": "KU:KUH:116949",
+        "issue": "COORDINATE_REPROJECTED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.575883,
+          15.975883
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 15.975883,
+        "longitude": -96.575883,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_911998063",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "MX; NA; near Tierra Blanca",
+        "voucher": "SMF:Collection Herpetology:96783",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2299,
+          18.6797
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.6797,
+        "longitude": -97.2299,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36534",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0229,
+          18.644
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.644,
+        "longitude": -97.0229,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36535",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0407,
+          18.3081
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.3081,
+        "longitude": -97.0407,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36536",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0258,
+          18.2546
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.2546,
+        "longitude": -97.0258,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36537",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0359,
+          18.1344
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 18.1344,
+        "longitude": -97.0359,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36538",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8849,
+          17.8628
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.8628,
+        "longitude": -96.8849,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36539",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7611,
+          17.5345
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.5345,
+        "longitude": -96.7611,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36540",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7326,
+          17.4155
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.4155,
+        "longitude": -96.7326,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36541",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4804,
+          17.2965
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.2965,
+        "longitude": -96.4804,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36542",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0045,
+          17.168
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.168,
+        "longitude": -96.0045,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36543",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5042,
+          17.0824
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.0824,
+        "longitude": -96.5042,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36544",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5993,
+          17.0967
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.0967,
+        "longitude": -96.5993,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36545",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7516,
+          17.2489
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.2489,
+        "longitude": -96.7516,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36546",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9087,
+          16.9539
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 16.9539,
+        "longitude": -96.9087,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36547",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0229,
+          17.2109
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.2109,
+        "longitude": -97.0229,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36548",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0235,
+          16.2305
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 16.2305,
+        "longitude": -96.0235,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36549",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2614,
+          16.1163
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 16.1163,
+        "longitude": -96.2614,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36550",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.409,
+          16.0211
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 16.0211,
+        "longitude": -96.409,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36551",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6231,
+          15.9688
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 15.9688,
+        "longitude": -96.6231,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36552",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8557,
+          17.1776
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.1776,
+        "longitude": -97.8557,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36553",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8542,
+          17.3341
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.3341,
+        "longitude": -98.8542,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36554",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6494,
+          17.5533
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.5533,
+        "longitude": -99.6494,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36555",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7094,
+          17.559
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.559,
+        "longitude": -99.7094,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36556",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8707,
+          17.6161
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.6161,
+        "longitude": -99.8707,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36557",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8764,
+          17.6532
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.6532,
+        "longitude": -99.8764,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36558",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8407,
+          17.6718
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.6718,
+        "longitude": -99.8407,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36559",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.122,
+          17.4919
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.4919,
+        "longitude": -100.122,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36560",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.567,
+          17.6986
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.6986,
+        "longitude": -100.567,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36561",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.683,
+          17.654
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.654,
+        "longitude": -100.683,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36562",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7225,
+          17.564722
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.564722,
+        "longitude": -96.7225,
+        "date": "",
+        "source": "M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rquez, L. C. & M. G. G. May‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n. 2010. Anfibios y reptiles del Valle de Tehuac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n-Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n. Comisi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Nacional para el conocimiento y uso de la biodiversidad (CONABIO), Fundaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n para la Reserva de la Biosfera Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, A. C., y la Benem‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rita Universidad Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢noma de Puebla.",
+        "ID": "Martins00834",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra Monteflor, Oaxaca, Mexico",
+        "voucher": "EBUAP 1889",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7225,
+          17.564722
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.564722,
+        "longitude": -96.7225,
+        "date": "",
+        "source": "M‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™rquez, L. C. & M. G. G. May‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n. 2010. Anfibios y reptiles del Valle de Tehuac‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n-Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n. Comisi‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n Nacional para el conocimiento y uso de la biodiversidad (CONABIO), Fundaci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n para la Reserva de la Biosfera Cuicatl‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, A. C., y la Benem‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©rita Universidad Aut‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢noma de Puebla.",
+        "ID": "Martins00835",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Sierra Monteflor, Oaxaca, Mexico",
+        "voucher": "EBUAP 1889",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.687,
+          17.55512
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.55512,
+        "longitude": -99.687,
+        "date": "",
+        "source": "Flores-Villela, O. and S‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nchez-H, O. 2003. A new species of Abronia (Squamata: Anguidae) from the Sierra Madre del Sur of Guerrero, Mexico, with comments on Abronia Deppii. Herpetologica,  59(4):524-531.",
+        "ID": "Martins07025",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Omiltemi, Guerrero, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.68699,
+          17.55512
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.55512,
+        "longitude": -99.68699,
+        "date": "",
+        "source": "Flores-Villela, O. and S‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™nchez-H, O. 2003. A new species of Abronia (Squamata: Anguidae) from the Sierra Madre del Sur of Guerrero, Mexico, with comments on Abronia Deppii. Herpetologica,  59(4):524-531.",
+        "ID": "Martins07026",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Omiltemi, Guerrero, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.68105,
+          17.166301
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.166301,
+        "longitude": -96.68105,
+        "date": "",
+        "source": "Lynch, J. D. and H. M. Smith, 1966. New or Unusual Amphibians and Reptiles from Oaxaca, Mexico, II. Transactions of the kansas Academy os Science, 69(1): 58-75.",
+        "ID": "Martins07029",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro San Felipe, Oaxaca, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.68104,
+          17.166301
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.166301,
+        "longitude": -96.68104,
+        "date": "",
+        "source": "Lynch, J. D. and H. M. Smith, 1966. New or Unusual Amphibians and Reptiles from Oaxaca, Mexico, II. Transactions of the kansas Academy os Science, 69(1): 58-75.",
+        "ID": "Martins07030",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Cerro San Felipe, Oaxaca, Mexico",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.687,
+          17.55512
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.55512,
+        "longitude": -99.687,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08786",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Omiltemi, Guerrero, Mexico",
+        "voucher": "TCWC 9456-57, 11598, KU 91430, USNM  46345, 46, 48, 464663, 304849",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.68699,
+          17.55512
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.55512,
+        "longitude": -99.68699,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08787",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Omiltemi, Guerrero, Mexico",
+        "voucher": "TCWC 9456-57, 11598, KU 91430, USNM  46345, 46, 48, 464663, 304849",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.68699,
+          17.55512
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.55512,
+        "longitude": -99.68699,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08788",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "Omiltemi, Guerrero, Mexico",
+        "voucher": "TCWC 9456-57, 11598, KU 91430, USNM  46345, 46, 48, 464663, 304849",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.69666,
+          17.10747
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.10747,
+        "longitude": -96.69666,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08918",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Felipe del Agua, Oaxaca, Mexico",
+        "voucher": "UCM 40071",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.69666,
+          17.10747
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.10747,
+        "longitude": -96.69666,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08919",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Felipe del Agua, Oaxaca, Mexico",
+        "voucher": "UCM 40071",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.69666,
+          17.10747
+        ]
+      },
+      "properties": {
+        "scientificName": "Ophryacus_undulatus",
+        "latitude": 17.10747,
+        "longitude": -96.69666,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins08920",
+        "database_recorded_species": "Ophryacus undulatus",
+        "database_recorded_subspecies": "Ophryacus undulatus",
+        "taxonomy_updated_species": "Ophryacus_undulatus",
+        "taxonomy_updated_subspecies2": "Ophryacus_undulatus",
+        "final_species": "Ophryacus_undulatus",
+        "final_subspecies": "Ophryacus_undulatus",
+        "accuracy_m": "NA",
+        "country": "Mexico",
+        "locality": "San Felipe del Agua, Oaxaca, Mexico",
+        "voucher": "UCM 40071",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

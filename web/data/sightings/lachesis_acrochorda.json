@@ -1,0 +1,3305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.72201,
+          0.8284639
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.8284639,
+        "longitude": -78.72201,
+        "date": "",
+        "source": "Indeterminada",
+        "ID": "bioweb0036",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Desconocido; Desconocido; Zona Baja de Reserva Ecol‚Äö√†√∂‚àö¬µgica Cotacachi Cayapas, Playa de Oro, Estero Pote y estero Angostura; ECUADOR: Esmeraldas: Playa de Oro, Zona Baja de Reserva Ecol‚Äö√†√∂‚àö¬µgica Cotacachi Cayapas, Playa de Oro, Estero Pote y estero Angostura",
+        "voucher": "QCAZR10718",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51603,
+          0.8811063
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.8811063,
+        "longitude": -78.51603,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0215",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; San Lorenzo; Desconocido; Chuchub‚Äö√†√∂‚àö‚Ä¢, en sendero arriba del balneario de Chuchub‚Äö√†√∂‚àö‚Ä¢; Chuchub‚Äö√†√∂‚àö‚Ä¢, en sendero arriba del balneario de Chuchub‚Äö√†√∂‚àö‚Ä¢",
+        "voucher": "QCAZR13132",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.14158,
+          0.54488
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.54488,
+        "longitude": -79.14158,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0293",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Eloy Alfaro; Telemb‚Äö√†√∂‚àö‚Ä¢; Reserva Tesoro Escondido. R‚Äö√†√∂‚àö‚Ä¢o Camar‚Äö√†√∂‚àö¬µn; Ecuador. Provincia: Esmeraldas. Cat‚Äö√†√∂‚àö¬µn: Eloy Alfaro. Parroquia: Telemb‚Äö√†√∂‚àö‚Ä¢. Localidad: Reserva Tesoro Escondido. R‚Äö√†√∂‚àö‚Ä¢o Camar‚Äö√†√∂‚àö¬µn. Coordenadas: 0,54488; -79,14159; 219m.",
+        "voucher": "QCAZR15091",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05111,
+          0.87544
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.87544,
+        "longitude": -79.05111,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0410",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Desconocido; Desconocido; Comunidad de Loma Linda, R‚Äö√†√∂‚àö‚Ä¢o Cayapas; Esmeraldas, Comunidad de Loma Linda, R‚Äö√†√∂‚àö‚Ä¢o Cayapas, 130 -140 m",
+        "voucher": "QCAZR2073",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28,
+          1.042
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 1.042,
+        "longitude": -79.28,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0430",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Desconocido; Desconocido; Alrededores de Mayronga, Lagarto; ECUADOR: Esmeraldas: La Mayronga, Lagarto, Mayronga, Lagarto  Informaci‚Äö√†√∂‚àö¬µn Ecol‚Äö√†√∂‚àö¬µgica: Recolecci‚Äö√†√∂‚àö¬µn del 5 al 8 de Diciembre",
+        "voucher": "QCAZR2283",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.45103,
+          0.8764345
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.8764345,
+        "longitude": -78.45103,
+        "date": "",
+        "source": "GPS",
+        "ID": "bioweb0588",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Carchi; Mira; Desconocido; Km 2 v‚Äö√†√∂‚àö‚Ä¢a Lita-R‚Äö√†√∂‚àö‚Ä¢o Baboso; A 2 km en la v‚Äö√†√∂‚àö‚Ä¢a Lita - R‚Äö√†√∂‚àö‚Ä¢o El Baboso",
+        "voucher": "QCAZR5844",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94499,
+          0.045
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.045,
+        "longitude": -79.94499,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0701",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Manab‚Äö√†√∂‚àö‚Ä¢; Desconocido; Desconocido; Km 16 v‚Äö√†√∂‚àö‚Ä¢a Pedernales-El Carmen, bosque detr¬¨¬®‚Äö√†√´s de la propiedad familia Salazar-Valenzuela; NA",
+        "voucher": "QCAZR7582",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.64,
+          0.393
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.393,
+        "longitude": -79.64,
+        "date": "",
+        "source": "Georeferenciaci‚Äö√†√∂‚àö¬µn",
+        "ID": "bioweb0702",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Ecuador; Esmeraldas; Desconocido; Desconocido; La Y de la Laguna de Cube; NA",
+        "voucher": "QCAZR7583",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6,
+          8.967
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.967,
+        "longitude": -78.6,
+        "date": "",
+        "source": "Fuentes and Corrales 2016",
+        "ID": "EPH0069",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Panama; Panama; Viento Frio",
+        "voucher": "three individuals found in general area",
+        "issue": "converted from published coordinates",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0993,
+          7.20438
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 7.20438,
+        "longitude": -75.0993,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1078954234",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 34912,
+        "country": "Colombia",
+        "locality": "CO; Antioquia; NA",
+        "voucher": "Universidad del Valle:UVC:UVC-5441",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72638,
+          8.01333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.01333,
+        "longitude": -77.72638,
+        "date": "",
+        "source": "MACHINE_OBSERVATION",
+        "ID": "gbif_1147056756",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "PA; Dari‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©n; Darien National Park; Rancho Frio",
+        "voucher": "CLO:ML:515103",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3914,
+          -0.007
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": -0.007,
+        "longitude": -79.3914,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319842601",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 3994,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; Santo Domingo de los Colorados, 38 km NNW of, Hacienda Equinox",
+        "voucher": "USNM:Amphibians & Reptiles:237086",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959183,
+          0.610531
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.610531,
+        "longitude": -79.959183,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1457584849",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 2093,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:5152600",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.877605,
+          0.165901
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.165901,
+        "longitude": -78.877605,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1571090448",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 3000,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:6495928",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.668525,
+          3.929808
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.929808,
+        "longitude": -76.668525,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1703266598",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; Campo alegre",
+        "voucher": "Fundaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n Tr‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢pico:FUNTROPICO_RFPR_RIOBRAVO_PARAGUERO:3088",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.566767,
+          6.719675
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.719675,
+        "longitude": -76.566767,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1801439232",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; Sector Pantanos, Rio Amparrado",
+        "voucher": "Instituto de Investigaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Recursos Biol‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢gicos Alexander von Humboldt (IAvH):Colecci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Reptiles del Instituto de Investigaci‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n de Recursos Biol‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢gicos Alexander von Humboldt (IAvH-R):IAvH-R-8255",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.388794,
+          6.16521
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.16521,
+        "longitude": -77.388794,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1802600928",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; NA",
+        "voucher": "iNaturalist:Observations:1514946",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.511598,
+          6.698923
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.698923,
+        "longitude": -73.511598,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1836601482",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 459,
+        "country": "Colombia",
+        "locality": "CO; Santander; NA",
+        "voucher": "iNaturalist:Observations:10151718",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.323889,
+          5.61
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.61,
+        "longitude": -77.323889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1899847298",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Qda. Bejuquillal",
+        "voucher": "Universidad de Antioquia (UdeA):MHUA-R:MHUA-R 14439",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028333,
+          3.883333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.883333,
+        "longitude": -77.028333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912807828",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 2091,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; Campamento \"Cart‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢n Colombia\", Km. 13 carretera Buenaventura.",
+        "voucher": "ICN:ICN-MHN-Rep:301",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.333333,
+          7.316667
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 7.316667,
+        "longitude": -73.333333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912808544",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 350,
+        "country": "Colombia",
+        "locality": "CO; Santander; La Girona.",
+        "voucher": "ICN:ICN-MHN-Rep:1369",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.003333,
+          3.747778
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.747778,
+        "longitude": -77.003333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912808577",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 1578,
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; Anchicay‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ª.",
+        "voucher": "ICN:ICN-MHN-Rep:1474",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.830278,
+          6.2925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.2925,
+        "longitude": -73.830278,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912813776",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 3586,
+        "country": "Colombia",
+        "locality": "CO; Santander; Morro Negro, finca La Fortuna.",
+        "voucher": "ICN:ICN-MHN-Rep:8926",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.830278,
+          6.2925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.2925,
+        "longitude": -73.830278,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1912813821",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 3586,
+        "country": "Colombia",
+        "locality": "CO; Santander; Vereda Morro Negro, finca La Fortuna.",
+        "voucher": "ICN:ICN-MHN-Rep:8931",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.421609,
+          6.162244
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.162244,
+        "longitude": -77.421609,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1920846266",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 488,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; NA",
+        "voucher": "iNaturalist:Observations:17429265",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.261953,
+          5.597668
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.597668,
+        "longitude": -74.261953,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1930061422",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 3036,
+        "country": "Colombia",
+        "locality": "CO; Boyac‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√†√ª; Humbo",
+        "voucher": "Universidad de La Salle (La Salle):MLS-ofi:1728",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.063333,
+          6.708889
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.708889,
+        "longitude": -77.063333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1930061423",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 210,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Napipi",
+        "voucher": "Universidad de La Salle (La Salle):MLS-ofi:1727",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.99188,
+          7.009011
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 7.009011,
+        "longitude": -74.99188,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2350357508",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 2000,
+        "country": "Colombia",
+        "locality": "CO; Antioquia; NA",
+        "voucher": "iNaturalist:Observations:30559191",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.653612,
+          2.326349
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 2.326349,
+        "longitude": -77.653612,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2429373134",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 54998,
+        "country": "Colombia",
+        "locality": "CO; Cauca; NA",
+        "voucher": "iNaturalist:Observations:33853633",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00444,
+          1.635
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 1.635,
+        "longitude": -79.00444,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2451542453",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Nari‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬±o; Bajo Cumilinche",
+        "voucher": "Universidad Pedag‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢gica y Tecnol‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢gica de Colombia (UPTC):NA:NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.414754,
+          6.99673
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.99673,
+        "longitude": -73.414754,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2569354053",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 30,
+        "country": "Colombia",
+        "locality": "CO; Santander; Vereda Sogamoso, sector Corintios, Finca La Esperanza",
+        "voucher": "Universidad Industrial de Santander (UIS):UIS-MHN:UIS-MHN-R-3767",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.414754,
+          6.99673
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.99673,
+        "longitude": -73.414754,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2569354505",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 30,
+        "country": "Colombia",
+        "locality": "CO; Santander; Vereda Sogamoso, sector Corintios, Finca La Esperanza",
+        "voucher": "Universidad Industrial de Santander (UIS):UIS-MHN:UIS-MHN-R-4009",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.414754,
+          6.99673
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.99673,
+        "longitude": -73.414754,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2569354639",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 30,
+        "country": "Colombia",
+        "locality": "CO; Santander; Vereda Sogamoso, sector Corintios, Finca La Esperanza",
+        "voucher": "Universidad Industrial de Santander (UIS):UIS-MHN:UIS-MHN-R-4011",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.839785,
+          0.696296
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.696296,
+        "longitude": -78.839785,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2802891275",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 2887,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:49531640",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.905615,
+          0.028983
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.028983,
+        "longitude": -78.905615,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2984438832",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 79,
+        "country": "Ecuador",
+        "locality": "EC; Pichincha; NA",
+        "voucher": "iNaturalist:Observations:64594297",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.877778,
+          3.408056
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.408056,
+        "longitude": -76.877778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2985538452",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; Anchicaya, Carretera Yatacue",
+        "voucher": "Universidad Icesi (ICESI):CZI:ICZ-H039",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.665317,
+          0.372969
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.372969,
+        "longitude": -79.665317,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3058962932",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:70553641",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889943,
+          3.550871
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.550871,
+        "longitude": -76.889943,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3061583607",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Valle del Cauca; NA",
+        "voucher": "iNaturalist:Observations:71189368",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39302,
+          6.188922
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.188922,
+        "longitude": -77.39302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3068114590",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 64,
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; NA",
+        "voucher": "iNaturalist:Observations:71855054",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.206079,
+          0.511674
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.511674,
+        "longitude": -79.206079,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3112778044",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 5414,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:77048308",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.651064,
+          5.3679
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.3679,
+        "longitude": -76.651064,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3126890301",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢; Cerro Ir‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢, cerca del corregimiento Tadocitico, Municipio del R‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†o Ir‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢, Choc‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢",
+        "voucher": "IIAP:NA:NA",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;TAXON_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.667267,
+          0.370963
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.370963,
+        "longitude": -79.667267,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3325686214",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 4,
+        "country": "Ecuador",
+        "locality": "EC; Esmeraldas; NA",
+        "voucher": "iNaturalist:Observations:85912594",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.581314,
+          8.048795
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.048795,
+        "longitude": -77.581314,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476643787",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 5000,
+        "country": "Panama",
+        "locality": "PA; Dari‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©n; Boca de Cupe: Darien: Panama",
+        "voucher": "MCZ:Herp:R-32444",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.696302,
+          5.096575
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.096575,
+        "longitude": -76.696302,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476665203",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 1393,
+        "country": "Colombia",
+        "locality": "CO; Choco; Andagoya,Choco,Colombia",
+        "voucher": "MCZ:Herp:R-29253",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.693082,
+          8.153701
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.153701,
+        "longitude": -77.693082,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476691550",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": 3036,
+        "country": "Panama",
+        "locality": "PA; Dari‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©n; Yavisa, Chucunaque River",
+        "voucher": "MCZ:Herp:R-37138",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.405323,
+          6.488281
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.488281,
+        "longitude": -74.405323,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_730261599",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; NA",
+        "voucher": "Corantioquia:Corantioquia-R:4816-155",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.787487,
+          6.551981
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.551981,
+        "longitude": -74.787487,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_730261611",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; NA",
+        "voucher": "Corantioquia:Corantioquia-R:4816-153",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.014467,
+          6.594083
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.594083,
+        "longitude": -75.014467,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_730261619",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; NA",
+        "voucher": "Corantioquia:Corantioquia-R:4816-156",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.787487,
+          6.551981
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.551981,
+        "longitude": -74.787487,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_730261729",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; NA",
+        "voucher": "Corantioquia:Corantioquia-R:4816-154",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.785473,
+          5.790822
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.790822,
+        "longitude": -75.785473,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_730261817",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "CO; Antioquia; NA",
+        "voucher": "Corantioquia:Corantioquia-R:4816-152",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.440278,
+          5.704722
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.704722,
+        "longitude": -76.440278,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36372",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72638,
+          8.01333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.01333,
+        "longitude": -77.72638,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36373",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.877605,
+          0.165901
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.165901,
+        "longitude": -78.877605,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36374",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959183,
+          0.610531
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.610531,
+        "longitude": -79.959183,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36375",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.323889,
+          5.61
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.61,
+        "longitude": -77.323889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36376",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0993,
+          7.20438
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 7.20438,
+        "longitude": -75.0993,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36377",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7772,
+          1.0661
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 1.0661,
+        "longitude": -78.7772,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36378",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3914,
+          -0.007
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": -0.007,
+        "longitude": -79.3914,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36379",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.014467,
+          6.594083
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 6.594083,
+        "longitude": -75.014467,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36380",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.785473,
+          5.790822
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.790822,
+        "longitude": -75.785473,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36381",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.271354,
+          5.600521
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.600521,
+        "longitude": -74.271354,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36382",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.645833,
+          5.360278
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.360278,
+        "longitude": -76.645833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36383",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.645833,
+          5.360278
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.360278,
+        "longitude": -76.645833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36384",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72638,
+          8.01333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.01333,
+        "longitude": -77.72638,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36402",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72638,
+          8.01333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.01333,
+        "longitude": -77.72638,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36403",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72638,
+          8.01333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.01333,
+        "longitude": -77.72638,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36404",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72638,
+          8.01333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.01333,
+        "longitude": -77.72638,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36405",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72638,
+          8.01333
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.01333,
+        "longitude": -77.72638,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV36406",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73778,
+          7.770925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 7.770925,
+        "longitude": -77.73778,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01766",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Serrania de Pirre, Darien National Park, Panama",
+        "voucher": "KU 117479",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73778,
+          7.770925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 7.770925,
+        "longitude": -77.73778,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01767",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Serrania de Pirre, Darien National Park, Panama",
+        "voucher": "KU 117479",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73778,
+          7.770925
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 7.770925,
+        "longitude": -77.73778,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins01768",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Serrania de Pirre, Darien National Park, Panama",
+        "voucher": "KU 117479",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93369,
+          8.335159
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.335159,
+        "longitude": -77.93369,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02044",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Laguna, Darien, Panama",
+        "voucher": "KU 75767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93369,
+          8.335159
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.335159,
+        "longitude": -77.93369,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02045",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Laguna, Darien, Panama",
+        "voucher": "KU 75767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93369,
+          8.335159
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.335159,
+        "longitude": -77.93369,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02046",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Laguna, Darien, Panama",
+        "voucher": "KU 75767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93353,
+          8.334983
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.334983,
+        "longitude": -77.93353,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02047",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Laguna, Darien, Panama",
+        "voucher": "KU 75767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93353,
+          8.334983
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.334983,
+        "longitude": -77.93353,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02048",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Laguna, Darien, Panama",
+        "voucher": "KU 75767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93353,
+          8.334983
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 8.334983,
+        "longitude": -77.93353,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02049",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Panama",
+        "locality": "Laguna, Darien, Panama",
+        "voucher": "KU 75767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8174,
+          5.259929
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.259929,
+        "longitude": -76.8174,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02810",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Choco, Colombia",
+        "voucher": "MCZ R-13303",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8174,
+          5.259929
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.259929,
+        "longitude": -76.8174,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02811",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Choco, Colombia",
+        "voucher": "MCZ R-13303",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8174,
+          5.259929
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.259929,
+        "longitude": -76.8174,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02812",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Choco, Colombia",
+        "voucher": "MCZ R-13303",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69469,
+          5.096013
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.096013,
+        "longitude": -76.69469,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02908",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Andagoya, Choco, Colombia",
+        "voucher": "MCZ R-29253",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69469,
+          5.096013
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.096013,
+        "longitude": -76.69469,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02909",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Andagoya, Choco, Colombia",
+        "voucher": "MCZ R-29253",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69469,
+          5.096013
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.096013,
+        "longitude": -76.69469,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02910",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Andagoya, Choco, Colombia",
+        "voucher": "MCZ R-29253",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69468,
+          5.095997
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.095997,
+        "longitude": -76.69468,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02911",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Andagoya, Choco, Colombia",
+        "voucher": "MCZ R-29253",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69468,
+          5.095997
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.095997,
+        "longitude": -76.69468,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02912",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Andagoya, Choco, Colombia",
+        "voucher": "MCZ R-29253",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69468,
+          5.095997
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 5.095997,
+        "longitude": -76.69468,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02913",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Andagoya, Choco, Colombia",
+        "voucher": "MCZ R-29253",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76024,
+          0.46131
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.46131,
+        "longitude": -79.76024,
+        "date": "",
+        "source": "Ortega-Andrade, M., J. Bermingham, C. Aulestia, C. Paucar. 2010. Herpetofauna of the Bilse Biological Station, province of Esmeraldas, Ecuador. Check List, 6(1):119-154.",
+        "ID": "Martins06854",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Bilsa Biological Station, Esmeraldas, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76024,
+          0.46131
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 0.46131,
+        "longitude": -79.76024,
+        "date": "",
+        "source": "Ortega-Andrade, M., J. Bermingham, C. Aulestia, C. Paucar. 2010. Herpetofauna of the Bilse Biological Station, province of Esmeraldas, Ecuador. Check List, 6(1):119-154.",
+        "ID": "Martins06855",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Ecuador",
+        "locality": "Bilsa Biological Station, Esmeraldas, Panama",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75347,
+          9.008517
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 9.008517,
+        "longitude": -73.75347,
+        "date": "",
+        "source": "Medina-Rangel, G. F. 2011. Diversidad alfa y beta de la comunidad de reptiles en el complejo cenagoso de Zapatosa, Colombia. Rev. Biol. Trop., V. 59, N. 2: 935-968.",
+        "ID": "Martins06856",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Zapatosa, Cesar, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75347,
+          9.008517
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 9.008517,
+        "longitude": -73.75347,
+        "date": "",
+        "source": "Medina-Rangel, G. F. 2011. Diversidad alfa y beta de la comunidad de reptiles en el complejo cenagoso de Zapatosa, Colombia. Rev. Biol. Trop., V. 59, N. 2: 935-968.",
+        "ID": "Martins06857",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Zapatosa, Cesar, Colombia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09578,
+          3.690554
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.690554,
+        "longitude": -77.09578,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09190",
+        "database_recorded_species": "Lachesis stenophrys",
+        "database_recorded_subspecies": "Lachesis stenophrys",
+        "taxonomy_updated_species": "Lachesis_stenophrys",
+        "taxonomy_updated_subspecies2": "Lachesis_stenophrys",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Raposo, Buenaventura, Valle de Cauca, Colombia",
+        "voucher": "USNM 151714-16",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09578,
+          3.690554
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.690554,
+        "longitude": -77.09578,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09191",
+        "database_recorded_species": "Lachesis stenophrys",
+        "database_recorded_subspecies": "Lachesis stenophrys",
+        "taxonomy_updated_species": "Lachesis_stenophrys",
+        "taxonomy_updated_subspecies2": "Lachesis_stenophrys",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Raposo, Buenaventura, Valle de Cauca, Colombia",
+        "voucher": "USNM 151714-16",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09578,
+          3.690554
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.690554,
+        "longitude": -77.09578,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09192",
+        "database_recorded_species": "Lachesis stenophrys",
+        "database_recorded_subspecies": "Lachesis stenophrys",
+        "taxonomy_updated_species": "Lachesis_stenophrys",
+        "taxonomy_updated_subspecies2": "Lachesis_stenophrys",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Raposo, Buenaventura, Valle de Cauca, Colombia",
+        "voucher": "USNM 151714-16",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 4.274079,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1333,
+          3.71664
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.71664,
+        "longitude": -77.1333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09193",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Rio Raposo, Valle del Cauca, Colombia",
+        "voucher": "USNM 151714, 151715, 151716",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1333,
+          3.71664
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.71664,
+        "longitude": -77.1333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09194",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Rio Raposo, Valle del Cauca, Colombia",
+        "voucher": "USNM 151714, 151715, 151716",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1333,
+          3.71664
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.71664,
+        "longitude": -77.1333,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09195",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Rio Raposo, Valle del Cauca, Colombia",
+        "voucher": "USNM 151714, 151715, 151716",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07024,
+          3.886614
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.886614,
+        "longitude": -77.07024,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09196",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151714, 151715, 151716",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07024,
+          3.886614
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.886614,
+        "longitude": -77.07024,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09197",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151714, 151715, 151716",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07024,
+          3.886614
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.886614,
+        "longitude": -77.07024,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09198",
+        "database_recorded_species": "Lachesis muta",
+        "database_recorded_subspecies": "Lachesis muta",
+        "taxonomy_updated_species": "Lachesis_muta",
+        "taxonomy_updated_subspecies2": "Lachesis_muta",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Buenaventura, Valle del Cauca, Colombia",
+        "voucher": "USNM 151714, 151715, 151716",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 1.030495,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64508,
+          3.810554
+        ]
+      },
+      "properties": {
+        "scientificName": "Lachesis_acrochorda",
+        "latitude": 3.810554,
+        "longitude": -76.64508,
+        "date": "",
+        "source": "Castro-Herrera, F and F. Vargas-Salinas. 2008. Anfibios y reptiles  em el departamento del Valle del Cauca, Colombia. Biota Colombiana, V. 9, N. 2: 251-277.",
+        "ID": "Martins10207",
+        "database_recorded_species": "Lachesis acrochorda",
+        "database_recorded_subspecies": "Lachesis acrochorda",
+        "taxonomy_updated_species": "Lachesis_acrochorda",
+        "taxonomy_updated_subspecies2": "Lachesis_acrochorda",
+        "final_species": "Lachesis_acrochorda",
+        "final_subspecies": "Lachesis_acrochorda",
+        "accuracy_m": "NA",
+        "country": "Colombia",
+        "locality": "Valle del Cauca (Departamento), Colombia",
+        "voucher": "UVC 5442",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

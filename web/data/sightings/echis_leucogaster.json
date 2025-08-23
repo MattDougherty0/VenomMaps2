@@ -1,0 +1,1127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.97,
+          15.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 15.3,
+        "longitude": -13.97,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322190139",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": "NA",
+        "country": "Senegal",
+        "locality": "SN; River; Ranerou",
+        "voucher": "USNM:Amphibians & Reptiles:199232",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.731568,
+          13.331253
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.331253,
+        "longitude": 1.731568,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2005329926",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": "NA",
+        "country": "Niger",
+        "locality": "NE; Tillab‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©ry; NA",
+        "voucher": "iNaturalist:Observations:20320955",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.211667,
+          16.318333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 16.318333,
+        "longitude": -14.211667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796067",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Senegal",
+        "locality": "SN; Saint-Louis; S.Louis, 270km of",
+        "voucher": "CIBIO:BiodesertsCollection:478",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.929082,
+          15.944687
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 15.944687,
+        "longitude": -11.929082,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796093",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Guidimaka; El Barda, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:7777",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.942891,
+          18.053485
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 18.053485,
+        "longitude": -11.942891,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796098",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tagant; Tin Waadine, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:6039",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.056183,
+          16.640367
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 16.640367,
+        "longitude": -11.056183,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796103",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Assaba; Megta es Sfeira barrage",
+        "voucher": "CIBIO:BiodesertsCollection:2424",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.39485,
+          17.451667
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 17.451667,
+        "longitude": -12.39485,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796106",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tagant; Garaouel, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:2626",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.101667,
+          17.240833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 17.240833,
+        "longitude": -12.101667,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796108",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tagant; Laout, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:3199",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.452908,
+          16.515562
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 16.515562,
+        "longitude": -10.452908,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796117",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Hodh El Gharbi; Chegg el M‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢leh source",
+        "voucher": "CIBIO:BiodesertsCollection:2265",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.39485,
+          17.451667
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 17.451667,
+        "longitude": -12.39485,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796126",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tagant; Garaouel, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:2627",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.871748,
+          16.002553
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 16.002553,
+        "longitude": -11.871748,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796139",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Assaba; Meyla, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:7744",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.871748,
+          16.002553
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 16.002553,
+        "longitude": -11.871748,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796170",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Assaba; Meyla, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:7740",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.929082,
+          15.944687
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 15.944687,
+        "longitude": -11.929082,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796198",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Guidimaka; El Barda, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:7771",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.319137,
+          17.957738
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 17.957738,
+        "longitude": -12.319137,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796217",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tagant; Oued el Msila",
+        "voucher": "CIBIO:BiodesertsCollection:2727",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.942891,
+          18.053485
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 18.053485,
+        "longitude": -11.942891,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796228",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tagant; Tin Waadine, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:6038",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.997233,
+          16.756482
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 16.756482,
+        "longitude": -11.997233,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796308",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Assaba; Legleyta, guelta",
+        "voucher": "CIBIO:BiodesertsCollection:3320",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.915772,
+          17.372698
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 17.372698,
+        "longitude": -11.915772,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421796351",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tagant; Oued Lardedia, extreme S of",
+        "voucher": "CIBIO:BiodesertsCollection:3229",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465148504",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962275",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465155440",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962283",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465156434",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962282",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.167277,
+          13.5027
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.5027,
+        "longitude": 2.167277,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465158593",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 3439,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35968610",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465162615",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962278",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465164556",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962272",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465176663",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962277",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465195875",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962279",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465200892",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962281",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.159346,
+          13.488669
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.488669,
+        "longitude": 2.159346,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465238422",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 7813,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35960572",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.159346,
+          13.488669
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.488669,
+        "longitude": 2.159346,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465248610",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 7813,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35960573",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189322,
+          13.481317
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.481317,
+        "longitude": 2.189322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465336264",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 5669,
+        "country": "Niger",
+        "locality": "NE; Niamey; NA",
+        "voucher": "iNaturalist:Observations:35962270",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.003678,
+          16.23656
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 16.23656,
+        "longitude": -0.003678,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2641406638",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 500,
+        "country": "Mali",
+        "locality": "ML; Gao; NA",
+        "voucher": "iNaturalist:Observations:48517030",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.3,
+          14.233333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 14.233333,
+        "longitude": -15.3,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024567202",
+        "database_recorded_species": "Echis leucogaster",
+        "database_recorded_subspecies": "Echis leucogaster",
+        "taxonomy_updated_species": "Echis_leucogaster",
+        "taxonomy_updated_subspecies2": "Echis_leucogaster",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 1000,
+        "country": "Senegal",
+        "locality": "SN; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:17133",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.951833,
+          13.615
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.615,
+        "longitude": 1.951833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543467274",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 11430,
+        "country": "Niger",
+        "locality": "NE; Tillaberi Region; 14 mi NW of Niamey",
+        "voucher": "CAS:HERP:123510",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.946,
+          18.2315
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 18.2315,
+        "longitude": -15.946,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543479624",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 13452,
+        "country": "Mauritania",
+        "locality": "MR; Nouakchott Region; 15 km N of Nouakchott Airport",
+        "voucher": "CAS:HERP:134626",
+        "issue": "TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.059167,
+          13.550167
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_leucogaster",
+        "latitude": 13.550167,
+        "longitude": 2.059167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543481405",
+        "database_recorded_species": "Echis pyramidum",
+        "database_recorded_subspecies": "Echis pyramidum",
+        "taxonomy_updated_species": "Echis_pyramidum",
+        "taxonomy_updated_subspecies2": "Echis_pyramidum",
+        "final_species": "Echis_leucogaster",
+        "final_subspecies": "Echis_leucogaster",
+        "accuracy_m": 11430,
+        "country": "Niger",
+        "locality": "NE; Niamey Capital District; 7 km NW of Niamey on rd to Tillabery",
+        "voucher": "CAS:HERP:136229",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_HIGHERRANK;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 1.16358,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    }
+  ]
+}

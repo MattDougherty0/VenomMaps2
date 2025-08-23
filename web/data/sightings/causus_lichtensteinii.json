@@ -1,0 +1,4493 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5833,
+          6.5666
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.5666,
+        "longitude": 2.5833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791498",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Akpro-Miss‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©t‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11354",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6666,
+          6.55
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.55,
+        "longitude": 2.6666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791513",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Avrankou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11355",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55,
+          6.5833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.5833,
+        "longitude": 2.55,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791551",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Dangbo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11357",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          6.4833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.4833,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791571",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Porto-Novo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11358",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          6.3833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.3833,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791590",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; S‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úm‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú-Kpodji",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11359",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7166,
+          6.6666
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.6666,
+        "longitude": 2.7166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791628",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Plateau; Ifangni",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11361",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          6.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.45,
+        "longitude": 2.35,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791669",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Abomey-Calavi",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11313",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15,
+          6.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.65,
+        "longitude": 2.15,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791693",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Allada",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11314",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0208,
+          6.4617
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.4617,
+        "longitude": 2.0208,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791717",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Kpomass‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11315",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0833,
+          6.3666
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.3666,
+        "longitude": 2.0833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791744",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Ouidah",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11316",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4,
+          6.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.5,
+        "longitude": 2.4,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791769",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; S‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√Ñ¬¢-Ava",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11317",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15,
+          6.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.5,
+        "longitude": 2.15,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791792",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Tori-Bossito",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11318",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3833,
+          6.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.7,
+        "longitude": 2.3833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042791817",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Atlantique; Z‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11319",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8166,
+          6.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.8333,
+        "longitude": 1.8166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792379",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Kouffo; Toviklin",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11342",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4333,
+          6.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.35,
+        "longitude": 2.4333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792402",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Littoral; Cotonou",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11343",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6666,
+          6.5833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.5833,
+        "longitude": 1.6666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792429",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Togo",
+        "locality": "BJ; Mono; Athi‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11344",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9833,
+          6.5833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.5833,
+        "longitude": 1.9833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792457",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Bopa",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11345",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8833,
+          6.4
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.4,
+        "longitude": 1.8833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792483",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Com‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√ú",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11346",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7833,
+          6.8166
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.8166,
+        "longitude": 1.7833,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792507",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Dogbo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11347",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8333,
+          6.2833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.2833,
+        "longitude": 1.8333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792531",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Grand-Popo",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11348",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9333,
+          6.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.45,
+        "longitude": 1.9333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792556",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Hou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©yogb‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11349",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7166,
+          6.6333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.6333,
+        "longitude": 1.7166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792580",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Mono; Lokossa",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11350",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6166,
+          6.5333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.5333,
+        "longitude": 2.6166,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792605",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Adjarra",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11351",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4666,
+          6.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.7,
+        "longitude": 2.4666,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792628",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Adjohoun",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11352",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5333,
+          6.4833
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.4833,
+        "longitude": 2.5333,
+        "date": "",
+        "source": "UNKNOWN",
+        "ID": "gbif_1042792652",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Benin",
+        "locality": "BJ; Ou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©m‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; Agu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©gu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©s",
+        "voucher": "Laboratoire des Sciences Foresti‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚àö√úres (LSF/UAC):UAC:LSF/UAC11353",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14,
+          4
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4,
+        "longitude": 14,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056403230",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Est; Batouri district",
+        "voucher": "NHMUK:ZOO:1933.3.8.13-15",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5,
+          -1.833333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.833333,
+        "longitude": 28.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056538831",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kivu; Irangi, 2400ft",
+        "voucher": "NHMUK:ZOO:1970.1700",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14,
+          4
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4,
+        "longitude": 14,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056824796",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Est; Batouri district",
+        "voucher": "NHMUK:ZOO:1934.12.1.34",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.066667,
+          1.4
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.4,
+        "longitude": 28.066667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057152791",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Orientale; Babeke, Ituri",
+        "voucher": "NHMUK:ZOO:1975.1591",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25,
+          3.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.25,
+        "longitude": 13.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057160223",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Est; Lomie district",
+        "voucher": "NHMUK:ZOO:1937.12.1.102-103",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5073,
+          0.8234
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.8234,
+        "longitude": 30.5073,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1098630141",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; Itwara Forest Reserve",
+        "voucher": "NBDB:NBDB RECORDS: 1900s-2000s:104150",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5,
+          5.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 5.5,
+        "longitude": -9.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211735743",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "LR; Sinoe; Sapo National Park; Gbabone; research station vicinity",
+        "voucher": "ROM:Reptiles and Amphibians:19935",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65,
+          6.4906
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.4906,
+        "longitude": -10.65,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317342815",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "LR; Montserrado County; Mt. Coffee",
+        "voucher": "USNM:Amphibians & Reptiles:24206",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.53,
+          -4.63
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.63,
+        "longitude": 21.53,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318492400",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kasai-Occidental; Bulape",
+        "voucher": "USNM:Amphibians & Reptiles:167014",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65,
+          6.4906
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.4906,
+        "longitude": -10.65,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318601127",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Liberia",
+        "locality": "LR; Montserrado County; Mt. Coffee",
+        "voucher": "USNM:Amphibians & Reptiles:24238",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98,
+          4.88
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.88,
+        "longitude": 9.98,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319415117",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Littoral Region; Eyimba",
+        "voucher": "USNM:Amphibians & Reptiles:571025",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.53,
+          -4.63
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.63,
+        "longitude": 21.53,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319711491",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kasai-Occidental; Bulape",
+        "voucher": "USNM:Amphibians & Reptiles:167015",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.53,
+          -4.63
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.63,
+        "longitude": 21.53,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320199822",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kasai-Occidental; Bulape",
+        "voucher": "USNM:Amphibians & Reptiles:167013",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.53,
+          -4.63
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.63,
+        "longitude": 21.53,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320761213",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kasai-Occidental; Bulape",
+        "voucher": "USNM:Amphibians & Reptiles:167016",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.53,
+          -4.63
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.63,
+        "longitude": 21.53,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321757032",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Kasai-Occidental; Bulape",
+        "voucher": "USNM:Amphibians & Reptiles:167017",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98,
+          4.88
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.88,
+        "longitude": 9.98,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322285779",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Littoral Region; Eyimba",
+        "voucher": "USNM:Amphibians & Reptiles:571027",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.957,
+          -4.18647
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.18647,
+        "longitude": 14.957,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1456202908",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Republic of Congo",
+        "locality": "CG; Pool; Mayongongo",
+        "voucher": "USNM:Amphibians & Reptiles:584385",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.957,
+          -4.18647
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.18647,
+        "longitude": 14.957,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1456249560",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Republic of Congo",
+        "locality": "CG; Pool; Mayongongo",
+        "voucher": "USNM:Amphibians & Reptiles:584384",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.39412,
+          3.16589
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.16589,
+        "longitude": 25.39412,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2234846765",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 12,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Bas-Uele; Mungemi",
+        "voucher": "UTEP:Amphibian and reptile specimens:UTEP:Herp:21946",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.96,
+          -4.19
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.19,
+        "longitude": 14.96,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_2286502236",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Republic of Congo",
+        "locality": "CG; NA; Republic of the Congo:Pool, Mayongongo",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.39,
+          3.17
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.17,
+        "longitude": 25.39,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2306159707",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; Democratic Republic of the Congo:Orientale Province, Mungemi",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.39,
+          3.17
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.17,
+        "longitude": 25.39,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2306226620",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; Democratic Republic of the Congo:Orientale Province, Mungemi",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.39,
+          3.17
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.17,
+        "longitude": 25.39,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_2309640453",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; Democratic Republic of the Congo:Orientale Province, Mungemi",
+        "voucher": "NA:NA:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.125679,
+          0.84129
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.84129,
+        "longitude": 30.125679,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2557762569",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 5000,
+        "country": "Uganda",
+        "locality": "UG; Bundibugyo; NA",
+        "voucher": "iNaturalist:Observations:37499555",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.543677,
+          1.717177
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.717177,
+        "longitude": 31.543677,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2873728441",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 347,
+        "country": "Uganda",
+        "locality": "UG; Masindi; NA",
+        "voucher": "iNaturalist:Observations:54937663",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.350134,
+          -1.818474
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.818474,
+        "longitude": 10.350134,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3018151690",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 15625,
+        "country": "Gabon",
+        "locality": "GA; Ngouni‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:67419380",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024552020",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:4007",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024552634",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:10305",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53,
+          0.87
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.87,
+        "longitude": 10.53,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024553285",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; Woleu-Ntem",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16253",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.933333,
+          2.983333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.983333,
+        "longitude": 25.933333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024555692",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:4004",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78,
+          -1.145
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.145,
+        "longitude": 11.78,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024557192",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; Ogoou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©-Lolo",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16329",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78,
+          -1.145
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.145,
+        "longitude": 11.78,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024559213",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; Ogoou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©-Lolo",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16330",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024562827",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:2480",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024563469",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:4009",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.933333,
+          2.983333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.983333,
+        "longitude": 25.933333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024564599",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:4005",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.604722,
+          0.926667
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.926667,
+        "longitude": 10.604722,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024564672",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; Woleu-Ntem",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16297",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024567164",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:4010",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024568950",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:4011",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53,
+          0.87
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.87,
+        "longitude": 10.53,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3025567261",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; Woleu-Ntem",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16253",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.957,
+          -4.18647
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.18647,
+        "longitude": 14.957,
+        "date": "",
+        "source": "MATERIAL_SAMPLE",
+        "ID": "gbif_3028038833",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Republic of Congo",
+        "locality": "CG; Pool; Mayongongo",
+        "voucher": "USNM:Amphibians %26 Reptiles:584384.11242077",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6,
+          6.166711
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.166711,
+        "longitude": -0.6,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3044733051",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 2159,
+        "country": "Ghana",
+        "locality": "GH; Eastern; NA",
+        "voucher": "iNaturalist:Observations:69516379",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.716667,
+          4.016667
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.016667,
+        "longitude": 32.716667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462386825",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "South Sudan",
+        "locality": "SS; NA; Talanga Forest, Imatong Mts, 5 ml. W of Katire",
+        "voucher": "ZMUC:Squamata:ZMUC-R68239",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.762703,
+          3.442929
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.442929,
+        "longitude": 11.762703,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476492712",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 2650,
+        "country": "Cameroon",
+        "locality": "CM; Centre; Metet",
+        "voucher": "MCZ:Herp:R-13225",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.583334,
+          1.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.75,
+        "longitude": 31.583334,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476495024",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 6799.48,
+        "country": "Uganda",
+        "locality": "UG; Masindi; Bisu,Budongo Forest",
+        "voucher": "MCZ:Herp:R-48505",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.567,
+          4.033
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.033,
+        "longitude": 10.567,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476659000",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 8600,
+        "country": "Cameroon",
+        "locality": "CM; Littoral; Sakbayeme",
+        "voucher": "MCZ:Herp:R-17563",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.762703,
+          3.442929
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.442929,
+        "longitude": 11.762703,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476663630",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 2650,
+        "country": "Cameroon",
+        "locality": "CM; Centre; Metet",
+        "voucher": "MCZ:Herp:R-13224",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476670246",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40756",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.416667,
+          0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.5,
+        "longitude": 30.416667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476672785",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 35115,
+        "country": "Uganda",
+        "locality": "UG; Kabale/Kabarole; Kibale Forest,Uganda",
+        "voucher": "MCZ:Herp:R-48508",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.916667,
+          0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.5,
+        "longitude": 32.916667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476674296",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 24615,
+        "country": "Uganda",
+        "locality": "UG; Mukono; Mubango, Mabira Forest",
+        "voucher": "MCZ:Herp:R-48502",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.916667,
+          0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.5,
+        "longitude": 32.916667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476674297",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 24615,
+        "country": "Uganda",
+        "locality": "UG; Mukono; Mubango, Mabira Forest",
+        "voucher": "MCZ:Herp:R-48503",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.583334,
+          1.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.75,
+        "longitude": 31.583334,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476674299",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 6799.48,
+        "country": "Uganda",
+        "locality": "UG; Masindi; Bisu,Budongo Forest",
+        "voucher": "MCZ:Herp:R-48506",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.583334,
+          1.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.75,
+        "longitude": 31.583334,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476674300",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 6799.48,
+        "country": "Uganda",
+        "locality": "UG; Masindi; Bisu,Budongo Forest",
+        "voucher": "MCZ:Herp:R-48507",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.25,
+          -1.083333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.083333,
+        "longitude": 26.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476678844",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 3036,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; Mayala, Ituri Forest",
+        "voucher": "MCZ:Herp:R-53999",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.54,
+          6.242778
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.242778,
+        "longitude": -10.54,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476681559",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 301,
+        "country": "Liberia",
+        "locality": "LR; NA; Plantation No 3, Du River, Liberia",
+        "voucher": "MCZ:Herp:R-22536",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.644266,
+          6.729451
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 6.729451,
+        "longitude": -10.644266,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476681560",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 3036,
+        "country": "Liberia",
+        "locality": "LR; NA; N of Moyla, Liberia",
+        "voucher": "MCZ:Herp:R-22537",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75,
+          0.283333
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.283333,
+        "longitude": 34.75,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543454255",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 2742.33,
+        "country": "Kenya",
+        "locality": "KE; Western Prov.; Kakamega",
+        "voucher": "CAS:HERP:111794",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.35,
+          0.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.566667,
+        "longitude": 30.35,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543557104",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 7165,
+        "country": "Uganda",
+        "locality": "UG; Toro Dist.; Kibale National Park, Makerere University Biological Field Station, trail Q-6 intersection",
+        "voucher": "CAS:HERP:204358",
+        "issue": "COORDINATE_ROUNDED;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.15,
+          0.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.8,
+        "longitude": 30.15,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657381007",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 3901,
+        "country": "Uganda",
+        "locality": "UG; NA; Ntandi, Bwamba Forest; Western Uganda",
+        "voucher": "LACM:Herps:38647",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.15,
+          0.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.8,
+        "longitude": 30.15,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657388883",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 3901,
+        "country": "Uganda",
+        "locality": "UG; NA; Ntandi, Bwamba Forest; Western Uganda",
+        "voucher": "LACM:Herps:46394",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.15,
+          0.8
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.8,
+        "longitude": 30.15,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657388885",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": 3901,
+        "country": "Uganda",
+        "locality": "UG; NA; Ntandi, Bwamba Forest; Western Uganda",
+        "voucher": "LACM:Herps:46396",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54385,
+          1.318467
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.318467,
+        "longitude": 27.54385,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00121",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Avakubi, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11764",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54385,
+          1.318467
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.318467,
+        "longitude": 27.54385,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00122",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Avakubi, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11764",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04209,
+          -4.808942
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.808942,
+        "longitude": 17.04209,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00123",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Kenge, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.04209,
+          -4.808942
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.808942,
+        "longitude": 17.04209,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00124",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Kenge, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4381,
+          2.420502
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.420502,
+        "longitude": 26.4381,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00125",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Niapu, Democratic Republic of Congo",
+        "voucher": "AMNH 11768-72",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4381,
+          2.420502
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.420502,
+        "longitude": 26.4381,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00126",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Niapu, Democratic Republic of Congo",
+        "voucher": "AMNH 11768-72",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3036,
+          2.388258
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.388258,
+        "longitude": 27.3036,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00127",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Medje, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11773-79, 11780-88",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3036,
+          2.388258
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.388258,
+        "longitude": 27.3036,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00128",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Medje, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11773-79, 11780-88",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00575,
+          0.38949
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.38949,
+        "longitude": 33.00575,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02783",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Mabira Forest, Uganda",
+        "voucher": "MCZ 48502-3",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00575,
+          0.38949
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.38949,
+        "longitude": 33.00575,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02784",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Mabira Forest, Uganda",
+        "voucher": "MCZ 48502-3",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.55485,
+          1.752832
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.752832,
+        "longitude": 31.55485,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02785",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Budongo Forest, Uganda",
+        "voucher": "MCZ 48504-7",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.55485,
+          1.752832
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.752832,
+        "longitude": 31.55485,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02786",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Budongo Forest, Uganda",
+        "voucher": "MCZ 48504-7",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.39387,
+          0.438258
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.438258,
+        "longitude": 30.39387,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02787",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Kibale Forest, Uganda",
+        "voucher": "MCZ 48508",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.39387,
+          0.438258
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.438258,
+        "longitude": 30.39387,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02788",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Kibale Forest, Uganda",
+        "voucher": "MCZ 48508",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.26834,
+          2.900393
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.900393,
+        "longitude": 16.26834,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03256",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Bayanga, Central African Republic",
+        "voucher": "MNHN 1992.4674; 1996.7125",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.26834,
+          2.900393
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 2.900393,
+        "longitude": 16.26834,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03257",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Bayanga, Central African Republic",
+        "voucher": "MNHN 1992.4674; 1996.7125",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78338,
+          4.266624
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.266624,
+        "longitude": 15.78338,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03286",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Berberati, Central African Republic",
+        "voucher": "MNHN 1995.3781",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78338,
+          4.266624
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.266624,
+        "longitude": 15.78338,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03287",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Berberati, Central African Republic",
+        "voucher": "MNHN 1995.3781",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.10114,
+          5.890616
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 5.890616,
+        "longitude": 21.10114,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03288",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Seko, Central African Republic",
+        "voucher": "MNHN 1995.3784",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.10114,
+          5.890616
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 5.890616,
+        "longitude": 21.10114,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03289",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Seko, Central African Republic",
+        "voucher": "MNHN 1995.3784",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10003,
+          3.983327
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.983327,
+        "longitude": 17.10003,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03312",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Grima, Central African Republic",
+        "voucher": "MNHN 1996.7133-4, 1996.7210; 1996.7612",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10003,
+          3.983327
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.983327,
+        "longitude": 17.10003,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03313",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Grima, Central African Republic",
+        "voucher": "MNHN 1996.7133-4, 1996.7210; 1996.7612",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.95717,
+          5.315195
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 5.315195,
+        "longitude": 25.95717,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03314",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Mboki, Central African Republic",
+        "voucher": "MNHN 1996.7138",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.95717,
+          5.315195
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 5.315195,
+        "longitude": 25.95717,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03315",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Mboki, Central African Republic",
+        "voucher": "MNHN 1996.7138",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.24281,
+          3.926297
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.926297,
+        "longitude": 17.24281,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03316",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Foret de Ngotto, Central African Republic",
+        "voucher": "MNHN 1996.7140-4",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.24281,
+          3.926297
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.926297,
+        "longitude": 17.24281,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03317",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Foret de Ngotto, Central African Republic",
+        "voucher": "MNHN 1996.7140-4",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.41761,
+          4.263062
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.263062,
+        "longitude": 22.41761,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03318",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Wazoua, Central African Republic",
+        "voucher": "MNHN 1996.7145",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.41761,
+          4.263062
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 4.263062,
+        "longitude": 22.41761,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03319",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Wazoua, Central African Republic",
+        "voucher": "MNHN 1996.7145",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.41132,
+          7.575543
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 7.575543,
+        "longitude": 20.41132,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03340",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Sangba, Central African Republic",
+        "voucher": "MNHN 1996.7557-9",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.41132,
+          7.575543
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 7.575543,
+        "longitude": 20.41132,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03341",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Sangba, Central African Republic",
+        "voucher": "MNHN 1996.7557-9",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95653,
+          3.944565
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.944565,
+        "longitude": 16.95653,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03342",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Bambio, Central African Republic",
+        "voucher": "MNHN 19967123",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95653,
+          3.944565
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 3.944565,
+        "longitude": 16.95653,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03343",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Bambio, Central African Republic",
+        "voucher": "MNHN 19967123",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47955,
+          -11.664456
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -11.664456,
+        "longitude": 27.47955,
+        "date": "",
+        "source": "Broadley, D. G. and F. P. D. Cotterill. 2004. The reptiles of southeast Katanga, na overlooked 'hot spot'. African Journal of Herpetology, 53(1):35-61.",
+        "ID": "Martins05948",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Lubumbashi, Democratic Republic of Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47955,
+          -11.664456
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -11.664456,
+        "longitude": 27.47955,
+        "date": "",
+        "source": "Broadley, D. G. and F. P. D. Cotterill. 2004. The reptiles of southeast Katanga, na overlooked 'hot spot'. African Journal of Herpetology, 53(1):35-61.",
+        "ID": "Martins05949",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Lubumbashi, Democratic Republic of Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.00975,
+          -7.324437
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -7.324437,
+        "longitude": 28.00975,
+        "date": "",
+        "source": "Broadley, D. G. and F. P. D. Cotterill. 2004. The reptiles of southeast Katanga, na overlooked 'hot spot'. African Journal of Herpetology, 53(1):35-61.",
+        "ID": "Martins05950",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Kiambi, Democratic Republic of Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.00975,
+          -7.324437
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -7.324437,
+        "longitude": 28.00975,
+        "date": "",
+        "source": "Broadley, D. G. and F. P. D. Cotterill. 2004. The reptiles of southeast Katanga, na overlooked 'hot spot'. African Journal of Herpetology, 53(1):35-61.",
+        "ID": "Martins05951",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Kiambi, Democratic Republic of Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.243788889,
+          7.654552778
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 7.654552778,
+        "longitude": -8.243788889,
+        "date": "",
+        "source": "B‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞hme, W., M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del, C. Brede, and P. Wagner. 2011. The reptiles (Testudines, Squamata, Crocodylia) of the forested southeast of the Republic of Guinea (Guin‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©e foresti‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√†√∂‚àö√∫re), with a country-wide checklist. Bonn Zoological Bulletin, 60(1):35-61.",
+        "ID": "Martins05953",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Guinea",
+        "locality": "Nimba Mountains, Guinea",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73483,
+          5.598983
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 5.598983,
+        "longitude": 9.73483,
+        "date": "",
+        "source": "Lebreton, M., L. Chirio, and D. Foguekem. 2003. Reptiles of Takamanda Forest Reserve, Cameroon. In: J. A. Comiskey, T. C. H. Sunderland, and J. L. Sunderland-Groves (Eds.), Takamanda: The Biodiversity of na African Rainforest, pp.83-94, Man and the Biosphere Series 8. Smithsonian Institution, Washington, D.C.",
+        "ID": "Martins05954",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "South Border of Takamanda Forest Reserve, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73483,
+          5.598983
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 5.598983,
+        "longitude": 9.73483,
+        "date": "",
+        "source": "Lebreton, M., L. Chirio, and D. Foguekem. 2003. Reptiles of Takamanda Forest Reserve, Cameroon. In: J. A. Comiskey, T. C. H. Sunderland, and J. L. Sunderland-Groves (Eds.), Takamanda: The Biodiversity of na African Rainforest, pp.83-94, Man and the Biosphere Series 8. Smithsonian Institution, Washington, D.C.",
+        "ID": "Martins05955",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "South Border of Takamanda Forest Reserve, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98889,
+          -1.941111
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.941111,
+        "longitude": 9.98889,
+        "date": "",
+        "source": "Pauwels, O.S.G., M. Burger, W.R. Branch, E. Tobi, J. Yoga and E. Mikolo. 2006. Reptiles of the Gamba Complex of Protected Areas, southwestern Gabon. In: Alonso, A., M.E. Lee, P. Campbell, O.S.G. Pauwels and F. Dallmeier, (Eds.), Gamba, Gabon: Biodiversity of an Equatorial African Rainforest. Bulletin of the Biological Society of Washington, 12:309-318.",
+        "ID": "Martins05956",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Rabi-Toucan, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98889,
+          -1.941111
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.941111,
+        "longitude": 9.98889,
+        "date": "",
+        "source": "Pauwels, O.S.G., M. Burger, W.R. Branch, E. Tobi, J. Yoga and E. Mikolo. 2006. Reptiles of the Gamba Complex of Protected Areas, southwestern Gabon. In: Alonso, A., M.E. Lee, P. Campbell, O.S.G. Pauwels and F. Dallmeier, (Eds.), Gamba, Gabon: Biodiversity of an Equatorial African Rainforest. Bulletin of the Biological Society of Washington, 12:309-318.",
+        "ID": "Martins05957",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Rabi-Toucan, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1255,
+          1.535363
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.535363,
+        "longitude": 10.1255,
+        "date": "",
+        "source": "Lasso, C. A., A. I. Rial, J. Castroviejo, and I. De La Riva. 2002. Herpetofauna del Parque Nacional de Monte Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n (R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†o Muni, Guinea Ecuatorial). Graellsia, 58(2):21:34.",
+        "ID": "Martins05958",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Equatorial Guinea",
+        "locality": "Monte Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n National Park, Guinea Ecuadorial",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1255,
+          1.535363
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 1.535363,
+        "longitude": 10.1255,
+        "date": "",
+        "source": "Lasso, C. A., A. I. Rial, J. Castroviejo, and I. De La Riva. 2002. Herpetofauna del Parque Nacional de Monte Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n (R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†o Muni, Guinea Ecuatorial). Graellsia, 58(2):21:34.",
+        "ID": "Martins05959",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Equatorial Guinea",
+        "locality": "Monte Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n National Park, Guinea Ecuadorial",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34977,
+          -2.49835
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -2.49835,
+        "longitude": 10.34977,
+        "date": "",
+        "source": "Pauwels, O. S. G., P. Christy, and A. Honorez. 2005. Reptiles and National Parks in Gabon, Western Central Africa. Hamadryad, 30(1, 2):181-196.",
+        "ID": "Martins05960",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Moukalaba-Doudou National Park, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34977,
+          -2.49835
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -2.49835,
+        "longitude": 10.34977,
+        "date": "",
+        "source": "Pauwels, O. S. G., P. Christy, and A. Honorez. 2005. Reptiles and National Parks in Gabon, Western Central Africa. Hamadryad, 30(1, 2):181-196.",
+        "ID": "Martins05961",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Moukalaba-Doudou National Park, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33737,
+          -4.162286
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.162286,
+        "longitude": 12.33737,
+        "date": "",
+        "source": "Trape, J.F. 1985. Les serpents de la r‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©gion de Dimonika (Mayombe, R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©publique Populaire du Congo). Revue Zoo/. afr. 99: 135-140.",
+        "ID": "Martins05962",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Republic of Congo",
+        "locality": "Dimonika Biosphere Reserve, Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33737,
+          -4.162286
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -4.162286,
+        "longitude": 12.33737,
+        "date": "",
+        "source": "Trape, J.F. 1985. Les serpents de la r‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©gion de Dimonika (Mayombe, R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©publique Populaire du Congo). Revue Zoo/. afr. 99: 135-140.",
+        "ID": "Martins05963",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Republic of Congo",
+        "locality": "Dimonika Biosphere Reserve, Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.17606,
+          -1.060614
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.060614,
+        "longitude": 17.17606,
+        "date": "",
+        "source": "Bogert, C. M. 1940. Herpetological results of the Vernay Angola Expedition. I. Snakes, including an arrangement of the African Colubridae. Bulletin American Museum of Natural History, 77:1-107.",
+        "ID": "Martins05964",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Lukolela, Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.17606,
+          -1.060614
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": -1.060614,
+        "longitude": 17.17606,
+        "date": "",
+        "source": "Bogert, C. M. 1940. Herpetological results of the Vernay Angola Expedition. I. Snakes, including an arrangement of the African Colubridae. Bulletin American Museum of Natural History, 77:1-107.",
+        "ID": "Martins05965",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Lukolela, Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75182,
+          0.282659
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.282659,
+        "longitude": 34.75182,
+        "date": "",
+        "source": "Wagner, P. and W. Bohme. 2006. Herpetofauna Kakamegensis  - The Amphibians and reptiles of Kakamega Forest, Western Kenya. 55:123-150.",
+        "ID": "Martins08328",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Kakamega Forest, Kenya",
+        "voucher": "NMK S/2499; ZFMK 82033-34",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75182,
+          0.282659
+        ]
+      },
+      "properties": {
+        "scientificName": "Causus_lichtensteinii",
+        "latitude": 0.282659,
+        "longitude": 34.75182,
+        "date": "",
+        "source": "Wagner, P. and W. Bohme. 2006. Herpetofauna Kakamegensis  - The Amphibians and reptiles of Kakamega Forest, Western Kenya. 55:123-150.",
+        "ID": "Martins08329",
+        "database_recorded_species": "Causus lichtensteinii",
+        "database_recorded_subspecies": "Causus lichtensteinii",
+        "taxonomy_updated_species": "Causus_lichtensteinii",
+        "taxonomy_updated_subspecies2": "Causus_lichtensteinii",
+        "final_species": "Causus_lichtensteinii",
+        "final_subspecies": "Causus_lichtensteinii",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Kakamega Forest, Kenya",
+        "voucher": "NMK S/2499; ZFMK 82033-34",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

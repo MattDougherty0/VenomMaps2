@@ -1,0 +1,401 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.491,
+          13.983
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 13.983,
+        "longitude": -86.491,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145581247",
+        "database_recorded_species": "Atropoides indomitus",
+        "database_recorded_subspecies": "Atropoides indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "HN; El Paraiso; Mapach‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†n",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:267165",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22,
+          15.38
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.38,
+        "longitude": -86.22,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318661437",
+        "database_recorded_species": "Atropoides indomitus",
+        "database_recorded_subspecies": "Atropoides indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "HN; Olancho; Cuaca",
+        "voucher": "USNM:Amphibians & Reptiles:578404",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22,
+          15.38
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.38,
+        "longitude": -86.22,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319403636",
+        "database_recorded_species": "Atropoides indomitus",
+        "database_recorded_subspecies": "Atropoides indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "HN; Olancho; Cuaca",
+        "voucher": "USNM:Amphibians & Reptiles:578405",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.946,
+          14.997
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 14.997,
+        "longitude": -85.946,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320810162",
+        "database_recorded_species": "Atropoides indomitus",
+        "database_recorded_subspecies": "Atropoides indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "HN; Olancho; Praque Nacional Sierra de Agalta, trail to La Picucha",
+        "voucher": "USNM:Amphibians & Reptiles:578901",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7,
+          15.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.2,
+        "longitude": -86.7,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321563821",
+        "database_recorded_species": "Atropoides indomitus",
+        "database_recorded_subspecies": "Atropoides indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "HN; Olancho; Terrero Blanco",
+        "voucher": "USNM:Amphibians & Reptiles:337487",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.143694,
+          15.434278
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.434278,
+        "longitude": -86.143694,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07223",
+        "database_recorded_species": "Metlapilcoatlus indomitus",
+        "database_recorded_subspecies": "Metlapilcoatlus indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7,
+          15.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.2,
+        "longitude": -86.7,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07224",
+        "database_recorded_species": "Metlapilcoatlus indomitus",
+        "database_recorded_subspecies": "Metlapilcoatlus indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.354472,
+          13.941556
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 13.941556,
+        "longitude": -87.354472,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV38387",
+        "database_recorded_species": "Metlapilcoatlus indomitus",
+        "database_recorded_subspecies": "Metlapilcoatlus indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7,
+          15.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.2,
+        "longitude": -86.7,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09616",
+        "database_recorded_species": "Metlapilcoatlus indomitus",
+        "database_recorded_subspecies": "Metlapilcoatlus indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Terrero Blanco, Olancho, Honduras",
+        "voucher": "USNM 337487",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7,
+          15.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.2,
+        "longitude": -86.7,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09617",
+        "database_recorded_species": "Metlapilcoatlus indomitus",
+        "database_recorded_subspecies": "Metlapilcoatlus indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Terrero Blanco, Olancho, Honduras",
+        "voucher": "USNM 337487",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7,
+          15.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.2,
+        "longitude": -86.7,
+        "date": "",
+        "source": "Smith, E. N. & J. A. Ferrari-Castro. 2008. A New species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos and the Sierra La Muralla, Honduras. Zootaxa, p: 57-68.",
+        "ID": "Martins09618",
+        "database_recorded_species": "Metlapilcoatlus indomitus",
+        "database_recorded_subspecies": "Metlapilcoatlus indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Hacienda Terrero Blanco, Olancho, Honduras",
+        "voucher": "USNM 337487",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14369,
+          15.434278
+        ]
+      },
+      "properties": {
+        "scientificName": "Metlapilcoatlus_indomitus",
+        "latitude": 15.434278,
+        "longitude": -86.14369,
+        "date": "",
+        "source": "Smith, E. N. and J. A. Ferrari-Castro. 2008. A new species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos nad the Sierra la Muralla, Honduras. Zootaxa, 1948:57-68.",
+        "ID": "Martins10044",
+        "database_recorded_species": "Metlapilcoatlus indomitus",
+        "database_recorded_subspecies": "Metlapilcoatlus indomitus",
+        "taxonomy_updated_species": "Metlapilcoatlus_indomitus",
+        "taxonomy_updated_subspecies2": "Metlapilcoatlus_indomitus",
+        "final_species": "Metlapilcoatlus_indomitus",
+        "final_subspecies": "Metlapilcoatlus_indomitus",
+        "accuracy_m": "NA",
+        "country": "Honduras",
+        "locality": "Near the edge of Quebrada de Botaderos, Monta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬±a de Botaderos, Col‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n, Honduras",
+        "voucher": "UTA R-52952",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

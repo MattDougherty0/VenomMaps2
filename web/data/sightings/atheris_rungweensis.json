@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6333,
+          -4.8833
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -4.8833,
+        "longitude": 29.6333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055331752",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Kigoma",
+        "voucher": "NHMUK:ZOO:1979.982-983",
+        "issue": "RECORDED_DATE_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.583333,
+          -9.166666
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.166666,
+        "longitude": 33.583333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3314767396",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mt Rungwe, Rungwe Mission",
+        "voucher": "NHMD:HP:876515",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.583333,
+          -9.166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.166667,
+        "longitude": 33.583333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_462390170",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "TZ; NA; Mt Rungwe, Rungwe Mission",
+        "voucher": "ZMUC:Squamata:ZMUC-R68285",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.662097,
+          -9.745525
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.745525,
+        "longitude": 33.662097,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476498506",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": 18000,
+        "country": "Malawi",
+        "locality": "MW; NA; Matipa Forest, Misuki Mtns",
+        "voucher": "MCZ:Herp:R-51615",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.662097,
+          -9.745525
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.745525,
+        "longitude": 33.662097,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476706279",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": 18000,
+        "country": "Malawi",
+        "locality": "MW; NA; Matipa Forest, Misuki Mtns",
+        "voucher": "MCZ:Herp:R-51614",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.662097,
+          -9.745525
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.745525,
+        "longitude": 33.662097,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476706280",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": 18000,
+        "country": "Malawi",
+        "locality": "MW; NA; Matipa Forest, Misuki Mtns",
+        "voucher": "MCZ:Herp:R-51616",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.662097,
+          -9.745525
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.745525,
+        "longitude": 33.662097,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476706381",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": 18000,
+        "country": "Malawi",
+        "locality": "MW; NA; Matipa Forest, Misuki Mtns",
+        "voucher": "MCZ:Herp:R-51617",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.63168889,
+          -4.684077778
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -4.684077778,
+        "longitude": 29.63168889,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05138",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "Gombe National Park, Tanzania",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.63329167,
+          -4.883291667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -4.883291667,
+        "longitude": 29.63329167,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05139",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "Kigoma, Tanzania",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.95085833,
+          -6.208475
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -6.208475,
+        "longitude": 29.95085833,
+        "date": "",
+        "source": "Menegon, M., T. R. B. Davenport, K. M Howell. 2011. Description of a new and critically endangered species of Atheris (Serpentes: Viperidae) from the Southern Highlands of Tanzania, with na overview of the country's tree viper fauna. Zootaxa, 3120:43-54.",
+        "ID": "Martins05140",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "Mahale National Park, Tanzania",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.37442,
+          -8.846318
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -8.846318,
+        "longitude": 31.37442,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05142",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Zambia",
+        "locality": "Mbala, Zambia",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.54969444,
+          -9.666652778
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.666652778,
+        "longitude": 33.54969444,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05145",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Malawi",
+        "locality": "Matipa Forest, Misuku Hills, Malawi",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.667,
+          -9.134087
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_rungweensis",
+        "latitude": -9.134087,
+        "longitude": 33.667,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05146",
+        "database_recorded_species": "Atheris rungweensis",
+        "database_recorded_subspecies": "Atheris rungweensis",
+        "taxonomy_updated_species": "Atheris_rungweensis",
+        "taxonomy_updated_subspecies2": "Atheris_rungweensis",
+        "final_species": "Atheris_rungweensis",
+        "final_subspecies": "Atheris_rungweensis",
+        "accuracy_m": "NA",
+        "country": "Tanzania",
+        "locality": "Rungwe Mountain, Tanzania",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

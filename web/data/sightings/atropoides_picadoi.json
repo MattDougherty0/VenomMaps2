@@ -1,0 +1,1193 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.939044,
+          10.027377
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.027377,
+        "longitude": -83.939044,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2311359695",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": 1735,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:29738214",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.9667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657496926",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": 3694,
+        "country": "Costa Rica",
+        "locality": "CR; Guanacaste; 1 mi (1.6 km) SE Tilaran, Lombardia",
+        "voucher": "LACM:Herps:154546",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.4667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657496930",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": 4596,
+        "country": "Costa Rica",
+        "locality": "CR; Alajuela; vic Muelle San Carlos",
+        "voucher": "LACM:Herps:154550",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6833,
+          9.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 9.9,
+        "longitude": -83.6833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686731445",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; Cartago; Turrialba",
+        "voucher": "KU:KUH:25748",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6833,
+          9.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 9.9,
+        "longitude": -83.6833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686731446",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; Cartago; Turrialba",
+        "voucher": "KU:KUH:25749",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6833,
+          9.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 9.9,
+        "longitude": -83.6833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686736753",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; Cartago; Turrialba",
+        "voucher": "KU:KUH:31007",
+        "issue": "COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.082012,
+          10.035328
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.035328,
+        "longitude": -84.082012,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891021419",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": 49044,
+        "country": "Costa Rica",
+        "locality": "CR; Heredia; NA",
+        "voucher": "iNaturalist:Observations:125253",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08201,
+          10.03533
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.03533,
+        "longitude": -84.08201,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07359",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6833,
+          9.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 9.9,
+        "longitude": -83.6833,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07360",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98444252,
+          10.03908196
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.03908196,
+        "longitude": -83.98444252,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07361",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.9667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07362",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0167,
+          10.4833
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4833,
+        "longitude": -84.0167,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07363",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.4667,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07364",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04932,
+          9.963782
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 9.963782,
+        "longitude": -84.04932,
+        "date": "",
+        "source": "Smith, E. N. and J. A. Ferrari-Castro. 2008. A new species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos nad the Sierra la Muralla, Honduras. Zootaxa, 1948:57-68.",
+        "ID": "Martins00001",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Moravia, San Jose, Costa Rica",
+        "voucher": 24834,
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15811,
+          10.168304
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.168304,
+        "longitude": -84.15811,
+        "date": "",
+        "source": "Jadin, R. C.; E. N. Smith; J. A. Campbell. 2011. Unravelling a tangle of Mexican serpents: a systematic revision of highland pitvipers. Zoological Journal of the Linnean Society, 163: 943-958.",
+        "ID": "Martins00511",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Vara blanca, Alajuela, Costa Rica",
+        "voucher": "CLP 45",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15816,
+          10.16799
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.16799,
+        "longitude": -84.15816,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins00539",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Vara Blanca, Alajuela, Costa Rica",
+        "voucher": "CLP-45",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15813,
+          10.167944
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.167944,
+        "longitude": -84.15813,
+        "date": "",
+        "source": "Castoe, T. A., P. T. Chippindale, J. A. Campbell,L. K. Ammerman, and C. L. Parkinson. 2003. Molecular systematics of the middle american jumping pitvipers (genus Metlapilcoatlus) and phylogeography of the Metlapilcoatlus nummifer complex. Herpetologica, 59(3):420-431.",
+        "ID": "Martins00540",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Varablanca, Alajuella, Costa Rica",
+        "voucher": "CLP-45",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15809,
+          10.16825
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.16825,
+        "longitude": -84.15809,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00541",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Vara Blanca, Alajuela, Costa Rica",
+        "voucher": "CLP-45",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15818,
+          10.176039
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.176039,
+        "longitude": -84.15818,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00554",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Vara blanca, Alajuela, Costa Rica",
+        "voucher": "CLP‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü45",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15,
+          10.166701
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.166701,
+        "longitude": -84.15,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins00555",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Varablanca, Alajuela, Costa Rica",
+        "voucher": "CLP‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü45",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98817,
+          10.03985
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.03985,
+        "longitude": -83.98817,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00588",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Alto La Palma, San Jose, Costa Rica",
+        "voucher": "CM 107346, 107346",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98817,
+          10.03985
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.03985,
+        "longitude": -83.98817,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00589",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Alto La Palma, San Jose, Costa Rica",
+        "voucher": "CM 107346, 107346",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.4667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02089",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Muelle San Carlos, Alajuela, Costa Rica",
+        "voucher": "LACM  154550",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.4667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02090",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Muelle San Carlos, Alajuela, Costa Rica",
+        "voucher": "LACM  154550",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.9667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02181",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Tilaran, Guanacaste, Costa Rica",
+        "voucher": "LACM 154546",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.4667,
+        "longitude": -84.9667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02182",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Tilaran, Guanacaste, Costa Rica",
+        "voucher": "LACM 154546",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9834,
+          10.062552
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.062552,
+        "longitude": -83.9834,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins03503",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Bajo la Hondura, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "MSM-10350",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96667,
+          10.466667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.466667,
+        "longitude": -84.96667,
+        "date": "",
+        "source": "Heyer, W. R. 1967. A herpetofaunal study of an ecological transect through the Cordillera de Tilar‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Costa Rica. Copeia, V.1967, N.2: 259-271.",
+        "ID": "Martins05210",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Tilar‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™n, Costa Rica",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00732,
+          10.19799
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.19799,
+        "longitude": -84.00732,
+        "date": "",
+        "source": "Kraus, F., D. G. Mink, and W. M. Brown. 1996. Crotaline Intergeneric Relationships Based on Mitochondrial DNA Sequence Data. Copeia, 1996(4):763-773.",
+        "ID": "Martins09026",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Parque Nacional Braulio Carrillo, Heredia, Costa Rica",
+        "voucher": "UMMZ 177000",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.97543,
+          10.158381
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.158381,
+        "longitude": -83.97543,
+        "date": "",
+        "source": "Smith, E. N. and J. A. Ferrari-Castro. 2008. A new species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos nad the Sierra la Muralla, Honduras. Zootaxa, 1948:57-68.",
+        "ID": "Martins09914",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Braulio Carillo National Park, Bajo la Hondura, San Jose, Costa Rica",
+        "voucher": "UTA R-23837‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü52, UTA R-16112‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü19",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18258,
+          10.264783
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.264783,
+        "longitude": -84.18258,
+        "date": "",
+        "source": "Smith, E. N. and J. A. Ferrari-Castro. 2008. A new species of jumping pitviper of the genus Metlapilcoatlus (Serpentes: Viperidae: Crotalinae) from the Sierra de Botaderos nad the Sierra la Muralla, Honduras. Zootaxa, 1948:57-68.",
+        "ID": "Martins09919",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Cariblanco, Sarapiqu‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†, Heredia, Costa Rica",
+        "voucher": "UTA R-24820‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü21, 24835‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü36",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9834,
+          10.062552
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.062552,
+        "longitude": -83.9834,
+        "date": "",
+        "source": "Castoe, T. A.; J. M. Daza; E. N. Smith; M. M. Sasa; U. Kuch; J. A. Campbell; P. T. Chippindale; C. L. Parkinson. 2009. Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography. Journal of Biogeography, V. 36: 88-103.",
+        "ID": "Martins10096",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Bajo la Hondura, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA-R-23837",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98334,
+          10.062522
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.062522,
+        "longitude": -83.98334,
+        "date": "",
+        "source": "Castoe, T. A., P. T. Chippindale, J. A. Campbell,L. K. Ammerman, and C. L. Parkinson. 2003. Molecular systematics of the middle american jumping pitvipers (genus Metlapilcoatlus) and phylogeography of the Metlapilcoatlus nummifer complex. Herpetologica, 59(3):420-431.",
+        "ID": "Martins10097",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Bajo la Hondura, San Jose, Costa Rica",
+        "voucher": "UTA-R-23837",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00551,
+          10.455534
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.455534,
+        "longitude": -84.00551,
+        "date": "",
+        "source": "Castoe, T. A., P. T. Chippindale, J. A. Campbell,L. K. Ammerman, and C. L. Parkinson. 2003. Molecular systematics of the middle american jumping pitvipers (genus Metlapilcoatlus) and phylogeography of the Metlapilcoatlus nummifer complex. Herpetologica, 59(3):420-431.",
+        "ID": "Martins10100",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Sarapiqui, Heredia, Costa Rica",
+        "voucher": "UTA-R-24821",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9834,
+          10.062552
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.062552,
+        "longitude": -83.9834,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and diversification in the neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. A dissertation submitted in partial fulfillment of the requiements for the degree of Doctor of Philosophy in COnservation Biology in the Department of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10136",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Bajo la Hondura, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü23837",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98401,
+          10.067294
+        ]
+      },
+      "properties": {
+        "scientificName": "Atropoides_picadoi",
+        "latitude": 10.067294,
+        "longitude": -83.98401,
+        "date": "",
+        "source": "Daza, J. M. 2010. Biogeography and Diversification in the Neotropics: testing macroevolutionary hypotheses using molecular phylogenetic data. Thesi for the degree of Doctor of Philosophy in Conservation Biology in the Departament of Biology in the College of Sciences at the University of Central Florida Orlando, Florida.",
+        "ID": "Martins10137",
+        "database_recorded_species": "Atropoides picadoi",
+        "database_recorded_subspecies": "Atropoides picadoi",
+        "taxonomy_updated_species": "Atropoides_picadoi",
+        "taxonomy_updated_subspecies2": "Atropoides_picadoi",
+        "final_species": "Atropoides_picadoi",
+        "final_subspecies": "Atropoides_picadoi",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "Bajo la Hondura, San Jos‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©, Costa Rica",
+        "voucher": "UTA‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√ÜR‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü23837, MSM‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨√Ü10350",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

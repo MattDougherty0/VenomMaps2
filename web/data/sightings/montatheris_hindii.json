@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1583,
+          -0.7114
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.7114,
+        "longitude": 37.1583,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056048645",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "KE; NA; Fort Hall",
+        "voucher": "NHMUK:ZOO:1946.1.18.10",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476504688",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70160",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.733337,
+          -0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.5,
+        "longitude": 36.733337,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476729137",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 16294.61,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Magura: Aberdare Mts",
+        "voucher": "MCZ:Herp:R-70152",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476733652",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70163",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.733337,
+          -0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.5,
+        "longitude": 36.733337,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476745117",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 16294.61,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Magura: Aberdare Mts",
+        "voucher": "MCZ:Herp:R-70153",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476745120",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70156",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476745121",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70157",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476745122",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70158",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476745226",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70159",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476745227",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70161",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633333,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.633333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476745228",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": 49286.16,
+        "country": "Kenya",
+        "locality": "KE; Central; Kenya: Aberdare highlands",
+        "voucher": "MCZ:Herp:R-70162",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66667,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.66667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00309",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Aberdare Range, Nyandarua, Kenya",
+        "voucher": "CAS 140238",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66667,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.66667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00310",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Aberdare Range, Nyandarua, Kenya",
+        "voucher": "CAS 140238",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66667,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Montatheris_hindii",
+        "latitude": -0.416667,
+        "longitude": 36.66667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00311",
+        "database_recorded_species": "Montatheris hindii",
+        "database_recorded_subspecies": "Montatheris hindii",
+        "taxonomy_updated_species": "Montatheris_hindii",
+        "taxonomy_updated_subspecies2": "Montatheris_hindii",
+        "final_species": "Montatheris_hindii",
+        "final_subspecies": "Montatheris_hindii",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Aberdare Range, Nyandarua, Kenya",
+        "voucher": "CAS 140238",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

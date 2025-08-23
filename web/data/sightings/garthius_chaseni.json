@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.549278,
+          5.997311
+        ]
+      },
+      "properties": {
+        "scientificName": "Garthius_chaseni",
+        "latitude": 5.997311,
+        "longitude": 116.549278,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847546911",
+        "database_recorded_species": "Garthius chaseni",
+        "database_recorded_subspecies": "Garthius chaseni",
+        "taxonomy_updated_species": "Garthius_chaseni",
+        "taxonomy_updated_subspecies2": "Garthius_chaseni",
+        "final_species": "Garthius_chaseni",
+        "final_subspecies": "Garthius_chaseni",
+        "accuracy_m": 135,
+        "country": "Malaysia",
+        "locality": "MY; Sabah; NA",
+        "voucher": "iNaturalist:Observations:12569750",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.542067,
+          6.008592
+        ]
+      },
+      "properties": {
+        "scientificName": "Garthius_chaseni",
+        "latitude": 6.008592,
+        "longitude": 116.542067,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2350359652",
+        "database_recorded_species": "Garthius chaseni",
+        "database_recorded_subspecies": "Garthius chaseni",
+        "taxonomy_updated_species": "Garthius_chaseni",
+        "taxonomy_updated_subspecies2": "Garthius_chaseni",
+        "final_species": "Garthius_chaseni",
+        "final_subspecies": "Garthius_chaseni",
+        "accuracy_m": 31,
+        "country": "Malaysia",
+        "locality": "MY; Sabah; NA",
+        "voucher": "iNaturalist:Observations:30559973",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5168,
+          6.0342
+        ]
+      },
+      "properties": {
+        "scientificName": "Garthius_chaseni",
+        "latitude": 6.0342,
+        "longitude": 116.5168,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476698146",
+        "database_recorded_species": "Garthius chaseni",
+        "database_recorded_subspecies": "Garthius chaseni",
+        "taxonomy_updated_species": "Garthius_chaseni",
+        "taxonomy_updated_subspecies2": "Garthius_chaseni",
+        "final_species": "Garthius_chaseni",
+        "final_subspecies": "Garthius_chaseni",
+        "accuracy_m": 3036,
+        "country": "Malaysia",
+        "locality": "MY; Sabah; Kenokok River, nr. Kiau",
+        "voucher": "MCZ:Herp:R-43616",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5168,
+          6.0342
+        ]
+      },
+      "properties": {
+        "scientificName": "Garthius_chaseni",
+        "latitude": 6.0342,
+        "longitude": 116.5168,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476698249",
+        "database_recorded_species": "Garthius chaseni",
+        "database_recorded_subspecies": "Garthius chaseni",
+        "taxonomy_updated_species": "Garthius_chaseni",
+        "taxonomy_updated_subspecies2": "Garthius_chaseni",
+        "final_species": "Garthius_chaseni",
+        "final_subspecies": "Garthius_chaseni",
+        "accuracy_m": 3036,
+        "country": "Malaysia",
+        "locality": "MY; Sabah; Kenokok River, nr. Kiau",
+        "voucher": "MCZ:Herp:R-43617",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5168,
+          6.0342
+        ]
+      },
+      "properties": {
+        "scientificName": "Garthius_chaseni",
+        "latitude": 6.0342,
+        "longitude": 116.5168,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476698250",
+        "database_recorded_species": "Garthius chaseni",
+        "database_recorded_subspecies": "Garthius chaseni",
+        "taxonomy_updated_species": "Garthius_chaseni",
+        "taxonomy_updated_subspecies2": "Garthius_chaseni",
+        "final_species": "Garthius_chaseni",
+        "final_subspecies": "Garthius_chaseni",
+        "accuracy_m": 3036,
+        "country": "Malaysia",
+        "locality": "MY; Sabah; Kiau, Mt. Kinabalu",
+        "voucher": "MCZ:Herp:R-43618",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

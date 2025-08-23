@@ -1,0 +1,632 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.165394,
+          32.236907
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.236907,
+        "longitude": 77.165394,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586134223",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 1617,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; NA",
+        "voucher": "iNaturalist:Observations:7352766",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.34355,
+          28.531257
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 28.531257,
+        "longitude": 84.34355,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1913682761",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 1247,
+        "country": "Nepal",
+        "locality": "NP; West; NA",
+        "voucher": "iNaturalist:Observations:16591776",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.847302,
+          28.998507
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 28.998507,
+        "longitude": 83.847302,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2813983993",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 48638,
+        "country": "Nepal",
+        "locality": "NP; West; NA",
+        "voucher": "iNaturalist:Observations:51574752",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.276145,
+          32.486784
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.486784,
+        "longitude": 76.276145,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2814473799",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 29093,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; NA",
+        "voucher": "iNaturalist:Observations:52247726",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.218781,
+          32.298161
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.298161,
+        "longitude": 77.218781,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2842670366",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 999,
+        "country": "India",
+        "locality": "IN; NA; India - Himachal Pradesh",
+        "voucher": "NA:Observations:OBS.45662368",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.192703,
+          32.270425
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.270425,
+        "longitude": 77.192703,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2883094370",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 48,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; NA",
+        "voucher": "iNaturalist:Observations:61759250",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.233144,
+          30.07692
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 30.07692,
+        "longitude": 80.233144,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3330792789",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 28,
+        "country": "India",
+        "locality": "IN; Uttarakhand; NA",
+        "voucher": "iNaturalist:Observations:87428538",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779816,
+          32.074605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.074605,
+        "longitude": 76.779816,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476497309",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 116622,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley,Himalaya",
+        "voucher": "MCZ:Herp:R-179596",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.110357,
+          31.956346
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 31.956346,
+        "longitude": 77.110357,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476637177",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 3036,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo [Kulu] Valley",
+        "voucher": "MCZ:Herp:R-3138",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.110357,
+          31.956346
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 31.956346,
+        "longitude": 77.110357,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476637178",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 3036,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo [Kulu] Valley",
+        "voucher": "MCZ:Herp:R-3139",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.110357,
+          31.956346
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 31.956346,
+        "longitude": 77.110357,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476637294",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 3036,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo [Kulu] Valley",
+        "voucher": "MCZ:Herp:R-3149",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.110357,
+          31.956346
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 31.956346,
+        "longitude": 77.110357,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476648673",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 37363,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley",
+        "voucher": "MCZ:Herp:R-3227",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.110357,
+          31.956346
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 31.956346,
+        "longitude": 77.110357,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476648676",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 37363,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley",
+        "voucher": "MCZ:Herp:R-3230",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779816,
+          32.074605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.074605,
+        "longitude": 76.779816,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686598",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 116622,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley,Himalaya",
+        "voucher": "MCZ:Herp:R-179598",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779816,
+          32.074605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.074605,
+        "longitude": 76.779816,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686599",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 116622,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley,Himalaya",
+        "voucher": "MCZ:Herp:R-179599",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779816,
+          32.074605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.074605,
+        "longitude": 76.779816,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686600",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 116622,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley,Himalaya",
+        "voucher": "MCZ:Herp:R-179600",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779816,
+          32.074605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.074605,
+        "longitude": 76.779816,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686699",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 116622,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley,Himalaya",
+        "voucher": "MCZ:Herp:R-179601",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779816,
+          32.074605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.074605,
+        "longitude": 76.779816,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476686700",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 116622,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley,Himalaya",
+        "voucher": "MCZ:Herp:R-179602",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779816,
+          32.074605
+        ]
+      },
+      "properties": {
+        "scientificName": "Gloydius_himalayanus",
+        "latitude": 32.074605,
+        "longitude": 76.779816,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476689619",
+        "database_recorded_species": "Gloydius himalayanus",
+        "database_recorded_subspecies": "Gloydius himalayanus",
+        "taxonomy_updated_species": "Gloydius_himalayanus",
+        "taxonomy_updated_subspecies2": "Gloydius_himalayanus",
+        "final_species": "Gloydius_himalayanus",
+        "final_subspecies": "Gloydius_himalayanus",
+        "accuracy_m": 116622,
+        "country": "India",
+        "locality": "IN; Himachal Pradesh; Kooloo Valley,Himalaya",
+        "voucher": "MCZ:Herp:R-179606",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

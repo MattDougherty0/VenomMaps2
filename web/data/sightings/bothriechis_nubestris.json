@@ -1,0 +1,764 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.806646,
+          9.54248
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.54248,
+        "longitude": -83.806646,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP1859",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.815633,
+          9.547772
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.547772,
+        "longitude": -83.815633,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP1865",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75551,
+          9.55351
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.55351,
+        "longitude": -83.75551,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0621",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75551,
+          9.55351
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.55351,
+        "longitude": -83.75551,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0622",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75551,
+          9.55351
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.55351,
+        "longitude": -83.75551,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLPT0623",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.801669,
+          9.549181
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.549181,
+        "longitude": -83.801669,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2445093503",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 441,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:33234868",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.813933,
+          9.540083
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.540083,
+        "longitude": -83.813933,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2573832983",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:28801885",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.803567,
+          9.548628
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.548628,
+        "longitude": -83.803567,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2963909467",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 10,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:61678763",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.487353,
+          9.371251
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.371251,
+        "longitude": -83.487353,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090883988",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 1468,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:74015070",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.942423,
+          9.691989
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.691989,
+        "longitude": -83.942423,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3301845908",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": 1263506,
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:81131576",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.466217,
+          9.34257
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.34257,
+        "longitude": -83.466217,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302528702",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "CR; San Jos‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:80946316",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7517014,
+          9.4347296
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.4347296,
+        "longitude": -83.7517014,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07472",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7796021,
+          9.5429897
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.5429897,
+        "longitude": -83.7796021,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07473",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7284012,
+          9.6036701
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.6036701,
+        "longitude": -83.7284012,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07474",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8146973,
+          9.6065197
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.6065197,
+        "longitude": -83.8146973,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07475",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8648987,
+          9.6027298
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.6027298,
+        "longitude": -83.8648987,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07476",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9578018,
+          9.6387596
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.6387596,
+        "longitude": -83.9578018,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07477",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0062027,
+          9.6340199
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.6340199,
+        "longitude": -84.0062027,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07478",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9897003,
+          9.7502699
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.7502699,
+        "longitude": -83.9897003,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07479",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0273972,
+          9.7474298
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.7474298,
+        "longitude": -84.0273972,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07480",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0061035,
+          9.7858295
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.7858295,
+        "longitude": -84.0061035,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07481",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0466003,
+          9.83846
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.83846,
+        "longitude": -84.0466003,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07482",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.075798,
+          9.8555298
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothriechis_nubestris",
+        "latitude": 9.8555298,
+        "longitude": -84.075798,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07483",
+        "database_recorded_species": "Bothriechis nubestris",
+        "database_recorded_subspecies": "Bothriechis nubestris",
+        "taxonomy_updated_species": "Bothriechis_nubestris",
+        "taxonomy_updated_subspecies2": "Bothriechis_nubestris",
+        "final_species": "Bothriechis_nubestris",
+        "final_subspecies": "Bothriechis_nubestris",
+        "accuracy_m": "NA",
+        "country": "Costa Rica",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

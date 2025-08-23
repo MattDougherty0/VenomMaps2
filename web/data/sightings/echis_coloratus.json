@@ -1,0 +1,4493 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5,
+          28
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 28,
+        "longitude": 35.5,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055459373",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Tabuk; Wadi Urnut, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1985.738",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2,
+          21.6667
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.6667,
+        "longitude": 39.2,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055637913",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah; Jidda (E. of new airport), Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1980.334",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8333,
+          17.0167
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 17.0167,
+        "longitude": 42.8333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055664726",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Jizan; Hakimah, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1985.733",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.85,
+          23.4833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 23.4833,
+        "longitude": 40.85,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055683801",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Al Madinah; Mabd adh Dhahab, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1986.454",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.95,
+          23.8167
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 23.8167,
+        "longitude": 40.95,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055947690",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Al Madinah; Jabal Sayid, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1986.451-453",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.95,
+          23.8167
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 23.8167,
+        "longitude": 40.95,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056305919",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Al Madinah; Jebel Sayid, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1985.731",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9167,
+          21.2167
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.2167,
+        "longitude": 39.9167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056363546",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah; km 109 Mecca by-pass, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1979.723",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.95,
+          23.825
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 23.825,
+        "longitude": 40.95,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056455987",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Al Madinah; Jabal Sayid, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1986.450",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.95,
+          23.825
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 23.825,
+        "longitude": 40.95,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056501727",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Al Madinah; Jabal Sayid, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1986.456",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1,
+          17
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 17,
+        "longitude": 43.1,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056611368",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Jizan; Juwa, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1985.736",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7833,
+          27.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 27.95,
+        "longitude": 35.7833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057173993",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Tabuk; Jabal as Sinfa, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1986.455",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65,
+          21.3
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.3,
+        "longitude": 39.65,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057328590",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah; km 71 Mecca by-pass, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1979.724",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.825,
+          21.2333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.2333,
+        "longitude": 39.825,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057630144",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah; km 69, Mecca by-pass, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1985.730",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7167,
+          24.6333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 24.6333,
+        "longitude": 46.7167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057637258",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Ar Riyad; Riyadh, Saudi Arabia",
+        "voucher": "NHMUK:ZOO:1979.725",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27,
+          30.82
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.82,
+        "longitude": 35.27,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703169",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43,
+          32.46
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.46,
+        "longitude": 35.43,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703390",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42,
+          32.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.45,
+        "longitude": 35.42,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703433",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44,
+          32.43
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.43,
+        "longitude": 35.44,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703455",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41,
+          31.57
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.57,
+        "longitude": 35.41,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703562",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44,
+          31.69
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.69,
+        "longitude": 35.44,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703564",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.38,
+          31.51
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.51,
+        "longitude": 35.38,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703586",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25,
+          30.76
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.76,
+        "longitude": 35.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703598",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41,
+          31.57
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.57,
+        "longitude": 35.41,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094703615",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78,
+          30.92
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.92,
+        "longitude": 34.78,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094704331",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75,
+          30.84
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.84,
+        "longitude": 34.75,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094704332",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.33,
+          29.58
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.58,
+        "longitude": 32.33,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317743635",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Al Bahr Al Ahmar; Moya Sulkna, Red Sea",
+        "voucher": "USNM:Amphibians & Reptiles:130615",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.33,
+          29.58
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.58,
+        "longitude": 32.33,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320695694",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Al Bahr Al Ahmar; Moya Sulkna, Red Sea",
+        "voucher": "USNM:Amphibians & Reptiles:130616",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.959612,
+          30.33062
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.33062,
+        "longitude": 34.959612,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453269094",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 61,
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:4730874",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.971,
+          29.574
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.574,
+        "longitude": 34.971,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1950003431",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:18916408",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.028736,
+          29.845722
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.845722,
+        "longitude": 35.028736,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2005351500",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 5,
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:20385033",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.428531,
+          32.4862
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.4862,
+        "longitude": 35.428531,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2265858537",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1906,
+        "country": "Israel",
+        "locality": "IL; HaZafon; NA",
+        "voucher": "iNaturalist:Observations:26739247",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.969829,
+          29.574367
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.574367,
+        "longitude": 34.969829,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832409689",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 10,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Eilat",
+        "voucher": "NA:Observations:OBS.75711018",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.968313,
+          29.573399
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.573399,
+        "longitude": 34.968313,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2833678977",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 10,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Eilat",
+        "voucher": "NA:Observations:OBS.173715445",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.972779,
+          29.573513
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.573513,
+        "longitude": 34.972779,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836521617",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 10,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Eilat",
+        "voucher": "NA:Observations:OBS.141238372",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.972763,
+          29.570082
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.570082,
+        "longitude": 34.972763,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839520547",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 25,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Eilat",
+        "voucher": "NA:Observations:OBS.116388750",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.971228,
+          29.574029
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.574029,
+        "longitude": 34.971228,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839611575",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 100,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Eilat",
+        "voucher": "NA:Observations:OBS.75363937",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.997182,
+          29.638395
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.638395,
+        "longitude": 34.997182,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2840200795",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 25,
+        "country": "Israel",
+        "locality": "IL; NA; Israel - Negev",
+        "voucher": "NA:Observations:OBS.149197559",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.367462,
+          31.401044
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.401044,
+        "longitude": 35.367462,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2883139773",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 970,
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:62010702",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.264817,
+          30.747041
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.747041,
+        "longitude": 35.264817,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3302011402",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 192,
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:80998910",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.448,
+          32.428
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.428,
+        "longitude": 35.448,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333905695",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:17749",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.423,
+          32.496
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.496,
+        "longitude": 35.423,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333905730",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Gilboa' road",
+        "voucher": "SMNHTAU:Reptilia:17761",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4,
+          31.56
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.56,
+        "longitude": 35.4,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333905801",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "PS; NA; Dead Sea Area, Ashalim",
+        "voucher": "SMNHTAU:Reptilia:16349",
+        "issue": "INDIVIDUAL_COUNT_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.383,
+          31.455
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.455,
+        "longitude": 35.383,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333906299",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Dead Sea Area, Nahal 'Arugot, Parking area",
+        "voucher": "SMNHTAU:Reptilia:17821",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.423,
+          32.492
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.492,
+        "longitude": 35.423,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333906369",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 6666, Ma'ale Gilboa",
+        "voucher": "SMNHTAU:Reptilia:17879",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.442,
+          32.428
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.428,
+        "longitude": 35.442,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333906408",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:17892",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.428,
+          32.497
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.497,
+        "longitude": 35.428,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333906429",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 6666",
+        "voucher": "SMNHTAU:Reptilia:17885",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.428,
+          32.497
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.497,
+        "longitude": 35.428,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333906431",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 6666",
+        "voucher": "SMNHTAU:Reptilia:17886",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.433,
+          32.503
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.503,
+        "longitude": 35.433,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333906493",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Gilboa' road",
+        "voucher": "SMNHTAU:Reptilia:16488",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.448,
+          32.428
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.428,
+        "longitude": 35.448,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333907858",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:18926",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.435,
+          32.442
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.442,
+        "longitude": 35.435,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333908567",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:19065",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07,
+          31
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31,
+        "longitude": 35.07,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333909226",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Mishor Yamin, 1 km east to Mishor Yamin",
+        "voucher": "SMNHTAU:Reptilia:19178",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.696,
+          30.763
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.763,
+        "longitude": 34.696,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333909388",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Ramat Matred, Ramon Air Force base",
+        "voucher": "SMNHTAU:Reptilia:16945",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.426,
+          32.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.47,
+        "longitude": 35.426,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333909450",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa'",
+        "voucher": "SMNHTAU:Reptilia:16933",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.448,
+          32.428
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.428,
+        "longitude": 35.448,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333909451",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa'",
+        "voucher": "SMNHTAU:Reptilia:16934",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.439,
+          32.436
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.436,
+        "longitude": 35.439,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333909461",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa'",
+        "voucher": "SMNHTAU:Reptilia:16932",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.032,
+          29.829
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.829,
+        "longitude": 35.032,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333910356",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; 'Arava Valley, Yotvata",
+        "voucher": "SMNHTAU:Reptilia:16625",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.943,
+          30.415
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.415,
+        "longitude": 34.943,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333910402",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Southern Negev, HaMeshar",
+        "voucher": "SMNHTAU:Reptilia:17961",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19,
+          30.62
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.62,
+        "longitude": 35.19,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333910435",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; 'Arava Valley, Hazeva",
+        "voucher": "SMNHTAU:Reptilia:16663",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.448,
+          32.428
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.428,
+        "longitude": 35.448,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333910554",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa'",
+        "voucher": "SMNHTAU:Reptilia:15273",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1,
+          30.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.95,
+        "longitude": 35.1,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333910572",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Zofar",
+        "voucher": "SMNHTAU:Reptilia:15262",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.438,
+          32.436
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.436,
+        "longitude": 35.438,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333910604",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:15284",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.438,
+          32.436
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.436,
+        "longitude": 35.438,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333910608",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:15283",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3,
+          31.27
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.27,
+        "longitude": 35.3,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333911366",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Dead Sea Area, Bene Yehuda",
+        "voucher": "SMNHTAU:Reptilia:15918",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.427,
+          32.456
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.456,
+        "longitude": 35.427,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333911791",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:19436",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.426,
+          32.47
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.47,
+        "longitude": 35.426,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333911796",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:19423",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.439,
+          32.436
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.436,
+        "longitude": 35.439,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333911798",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:19422",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.448,
+          32.428
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.428,
+        "longitude": 35.448,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333911799",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:19425",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.426,
+          32.452
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.452,
+        "longitude": 35.426,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333911801",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Merav",
+        "voucher": "SMNHTAU:Reptilia:19426",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.319,
+          31.89
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.89,
+        "longitude": 35.319,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333911849",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "PS; NA; Judean Desert, Ma'ale Mikhmas, near Maghayer al Dir village",
+        "voucher": "SMNHTAU:Reptilia:19468",
+        "issue": "INDIVIDUAL_COUNT_INVALID;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.438,
+          32.486
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.486,
+        "longitude": 35.438,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333912432",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:15730",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42,
+          32.45
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.45,
+        "longitude": 35.42,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333912436",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Palestina",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:15726",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.427,
+          32.456
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.456,
+        "longitude": 35.427,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333912441",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:15742",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79,
+          30.88
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.88,
+        "longitude": 34.79,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333912539",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Hazeva",
+        "voucher": "SMNHTAU:Reptilia:15796",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97,
+          30.58
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.58,
+        "longitude": 34.97,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333912541",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Hazeva",
+        "voucher": "SMNHTAU:Reptilia:15797",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7778,
+          30.91088
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.91088,
+        "longitude": 34.7778,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913029",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Har Haluqim",
+        "voucher": "SMNHTAU:Reptilia:15835",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.13,
+          30.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.9,
+        "longitude": 35.13,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913033",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Zomet Haluqim",
+        "voucher": "SMNHTAU:Reptilia:15821",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.927495,
+          30.977716
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.977716,
+        "longitude": 34.927495,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913066",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Haifa (Hefa)",
+        "voucher": "SMNHTAU:Reptilia:15890",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.432,
+          32.461
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.461,
+        "longitude": 35.432,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913491",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Road 667",
+        "voucher": "SMNHTAU:Reptilia:19387",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.428,
+          32.502
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.502,
+        "longitude": 35.428,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333914188",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma`Ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:16028",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.364,
+          31.143
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.143,
+        "longitude": 35.364,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333914283",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Dead Sea Area, Nahal Zohar, Near Nahal Zohar estuary",
+        "voucher": "SMNHTAU:Reptilia:17365",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.394,
+          31.466
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.466,
+        "longitude": 35.394,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333914284",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Dead Sea Area, Nahal Dawid, Ein Gedi",
+        "voucher": "SMNHTAU:Reptilia:17366",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.439,
+          32.436
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.436,
+        "longitude": 35.439,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333914966",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma'ale Merav road",
+        "voucher": "SMNHTAU:Reptilia:17081",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.084,
+          30.951
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.951,
+        "longitude": 35.084,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333915124",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Nahal Yamin",
+        "voucher": "SMNHTAU:Reptilia:17114",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.429,
+          32.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.5,
+        "longitude": 35.429,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333915183",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Shomeron (Samaria), Hare Gilboa', Ma'ale Gilboa' road",
+        "voucher": "SMNHTAU:Reptilia:17133",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.393598,
+          31.462724
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.462724,
+        "longitude": 35.393598,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_42233143",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30214",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.377827,
+          31.46906
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.46906,
+        "longitude": 35.377827,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43296898",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29789",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.257469,
+          30.747614
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.747614,
+        "longitude": 35.257469,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43473520",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30945",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.383054,
+          31.451015
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.451015,
+        "longitude": 35.383054,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43687865",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29883",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.478611,
+          31.749364
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.749364,
+        "longitude": 35.478611,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43688067",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30154",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.365177,
+          31.455548
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.455548,
+        "longitude": 35.365177,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43689069",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30736",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39681,
+          31.489776
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.489776,
+        "longitude": 35.39681,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43689539",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30936",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.423287,
+          32.495976
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.495976,
+        "longitude": 35.423287,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43893207",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:451937",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.997696,
+          29.627997
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.627997,
+        "longitude": 34.997696,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48324096",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:157586",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.964282,
+          29.784009
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.784009,
+        "longitude": 34.964282,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48373314",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:371548",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.391508,
+          31.469942
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.469942,
+        "longitude": 35.391508,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48383808",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29901",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.007981,
+          29.648762
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.648762,
+        "longitude": 35.007981,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48393285",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29712",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.939623,
+          30.114129
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.114129,
+        "longitude": 34.939623,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48415977",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:163843",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03554,
+          29.843659
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.843659,
+        "longitude": 35.03554,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48420060",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:156692",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.389047,
+          31.822574
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.822574,
+        "longitude": 35.389047,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48420430",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:158279",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.920415,
+          29.570117
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.570117,
+        "longitude": 34.920415,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48450708",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:37360",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.879853,
+          29.668357
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.668357,
+        "longitude": 34.879853,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48461665",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29194",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.391508,
+          31.469942
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.469942,
+        "longitude": 35.391508,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48461846",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29774",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.055432,
+          30.380419
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.380419,
+        "longitude": 35.055432,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48466910",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:157360",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.070492,
+          30.016001
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.016001,
+        "longitude": 35.070492,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48492040",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:158176",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.797512,
+          30.607178
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.607178,
+        "longitude": 34.797512,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48507657",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30728",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.951194,
+          29.64235
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.64235,
+        "longitude": 34.951194,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48525716",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29812",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.940867,
+          29.64233
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.64233,
+        "longitude": 34.940867,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48525719",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29815",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.904465,
+          29.728858
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.728858,
+        "longitude": 34.904465,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48531473",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29255",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.88411,
+          29.628673
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.628673,
+        "longitude": 34.88411,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48594465",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:156770",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46347,
+          31.996496
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.996496,
+        "longitude": 35.46347,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48615390",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29467",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.940867,
+          29.64233
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.64233,
+        "longitude": 34.940867,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48715198",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29811",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.391508,
+          31.469942
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.469942,
+        "longitude": 35.391508,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48821232",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30766",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.397756,
+          31.947014
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.947014,
+        "longitude": 35.397756,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48857304",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30004",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.883244,
+          29.576347
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.576347,
+        "longitude": 34.883244,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48857315",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30748",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.464364,
+          32.31212
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.31212,
+        "longitude": 35.464364,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48899989",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30040",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.391508,
+          31.469942
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.469942,
+        "longitude": 35.391508,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48900317",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30215",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000821,
+          30.625695
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.625695,
+        "longitude": 35.000821,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48900659",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30315",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000821,
+          30.625695
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.625695,
+        "longitude": 35.000821,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48900732",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30328",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.858095,
+          29.687247
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.687247,
+        "longitude": 34.858095,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48900880",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30574",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.382007,
+          31.453722
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.453722,
+        "longitude": 35.382007,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48901114",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:31039",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.340993,
+          31.465497
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.465497,
+        "longitude": 35.340993,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48914616",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:31049",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.391508,
+          31.469942
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 31.469942,
+        "longitude": 35.391508,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48929603",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30844",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.188508,
+          30.959588
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.959588,
+        "longitude": 35.188508,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48934149",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29178",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.910069,
+          29.579116
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.579116,
+        "longitude": 34.910069,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48934158",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29230",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.920937,
+          30.478518
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.478518,
+        "longitude": 34.920937,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48934163",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29249",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.421524,
+          32.158899
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 32.158899,
+        "longitude": 35.421524,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_48934178",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": 1000,
+        "country": "Palestina",
+        "locality": "PS; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:29422",
+        "issue": "COORDINATE_ROUNDED;COUNTRY_DERIVED_FROM_COORDINATES;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.883333,
+          21.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.25,
+        "longitude": 39.883333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543485075",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah Prov.; ca 115 km from Jiddah on the Mecca by-pass, 21 15 N, 39 53 E",
+        "voucher": "CAS:HERP:139532",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.180253,
+          21.359694
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.359694,
+        "longitude": 40.180253,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543485363",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah Prov.; 44 km from Taif, Taif-Mecca rd",
+        "voucher": "CAS:HERP:139792",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.099464,
+          21.3497
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.3497,
+        "longitude": 40.099464,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543486024",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah Prov.; 115 km from Jiddah on Mecca by-pass, Jiddah-Taif rd",
+        "voucher": "CAS:HERP:140386",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.75,
+          21.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 21.25,
+        "longitude": 39.75,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543495124",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Saudi Arabia",
+        "locality": "SA; Makkah Prov.; Mecca By-pass, 21 15 N, 39 45 E",
+        "voucher": "CAS:HERP:148577",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35,
+          30.166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.166667,
+        "longitude": 35.35,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06788",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Jabal Mas‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√üu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•dah, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35,
+          30.166667
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.166667,
+        "longitude": 35.35,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06789",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Jabal Mas‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¥‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢¬¨√üu‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬¢‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂¬¨¬•dah, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44258,
+          30.328878
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.328878,
+        "longitude": 35.44258,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06790",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Petra, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44258,
+          30.328878
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 30.328878,
+        "longitude": 35.44258,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06791",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Petra, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36,
+          29.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.35,
+        "longitude": 36,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06802",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Al Mudawwarah, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36,
+          29.35
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_coloratus",
+        "latitude": 29.35,
+        "longitude": 36,
+        "date": "",
+        "source": "Amr, Z. S., and A. M. Disi. 2011. Systematics, distribution and ecology of the snakes of Jordan. 61(2):179-266.",
+        "ID": "Martins06803",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_coloratus",
+        "final_subspecies": "Echis_coloratus",
+        "accuracy_m": "NA",
+        "country": "Jordan",
+        "locality": "Al Mudawwarah, Jordan",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

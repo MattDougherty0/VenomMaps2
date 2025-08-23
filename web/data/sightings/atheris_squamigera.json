@@ -1,0 +1,5285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.441769,
+          4.400258
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.400258,
+        "longitude": 9.441769,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039454422",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 3036,
+        "country": "Cameroon",
+        "locality": "CM; NA; Banga Bakundu",
+        "voucher": "YPM:VZ:YPM HERR 008575",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4333,
+          4.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.65,
+        "longitude": 9.4333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039456403",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; NA; NA",
+        "voucher": "YPM:VZ:YPM HERR 008292",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7707,
+          5.8719
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 5.8719,
+        "longitude": 9.7707,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039456650",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 3036,
+        "country": "Cameroon",
+        "locality": "CM; NA; Widekum",
+        "voucher": "YPM:VZ:YPM HERR 008294",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.441769,
+          4.400258
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.400258,
+        "longitude": 9.441769,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039461230",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 3036,
+        "country": "Cameroon",
+        "locality": "CM; NA; Banga Bakundu",
+        "voucher": "YPM:VZ:YPM HERR 008293",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.441769,
+          4.400258
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.400258,
+        "longitude": 9.441769,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039464889",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 3036,
+        "country": "Cameroon",
+        "locality": "CM; NA; Banga Bakundu",
+        "voucher": "YPM:VZ:YPM HERR 008583",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7707,
+          5.8719
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 5.8719,
+        "longitude": 9.7707,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039479927",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 3036,
+        "country": "Cameroon",
+        "locality": "CM; NA; Widekum",
+        "voucher": "YPM:VZ:YPM HERR 008295",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.441769,
+          4.400258
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.400258,
+        "longitude": 9.441769,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1039482916",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 3036,
+        "country": "Cameroon",
+        "locality": "CM; NA; Banga Bakundu",
+        "voucher": "YPM:VZ:YPM HERR 008495",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.46,
+          0.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.05,
+        "longitude": 32.46,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055612640",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; Entebbe",
+        "voucher": "NHMUK:ZOO:1901.6.24.67",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0053,
+          0.3919
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.3919,
+        "longitude": 33.0053,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056046390",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; Mabira Forest, Chagwe",
+        "voucher": "NHMUK:ZOO:1908.10.20.23-25",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.46,
+          0.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.05,
+        "longitude": 32.46,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056048768",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; Entebbe",
+        "voucher": "NHMUK:ZOO:1901.6.24.65-66",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99,
+          4.21
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.21,
+        "longitude": 8.99,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056147997",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; NA; Idenau",
+        "voucher": "NHMUK:ZOO:1968.52",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5725,
+          1.4403
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 1.4403,
+        "longitude": 10.5725,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056754487",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Equatorial Guinea",
+        "locality": "GQ; NA; Rio Benito, Mosoc, near Evinayong, Rio Muni",
+        "voucher": "NHMUK:ZOO:1965.1434",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3894,
+          0.4861
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.4861,
+        "longitude": 30.3894,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057172859",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; R. Nyakagera headwaters, Kanyaware, Kibale Forest Reserve, Toro District",
+        "voucher": "NHMUK:ZOO:1983.1234",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6167,
+          3.1667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.1667,
+        "longitude": 13.6167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057425786",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; NA; Lomie district, Cameroons",
+        "voucher": "NHMUK:ZOO:1937.12.1.104",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4263,
+          0.7784
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.7784,
+        "longitude": 30.4263,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1098630139",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; Itwara Forest Reserve",
+        "voucher": "NBDB:NBDB RECORDS: 1900s-2000s:104157",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4263,
+          0.7784
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.7784,
+        "longitude": 30.4263,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1098630146",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "UG; NA; Itwara Forest Reserve",
+        "voucher": "NBDB:NBDB RECORDS: 1900s-2000s:104158",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.450745,
+          0.346067
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.346067,
+        "longitude": 10.450745,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1305164514",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 7813,
+        "country": "Gabon",
+        "locality": "GA; Estuaire; NA",
+        "voucher": "iNaturalist:Observations:3971446",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85979,
+          5.06921
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 5.06921,
+        "longitude": 8.85979,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1309944487",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Southwest Region; Mundemba town vicinity, Korup National Park; Chimpanzee Camp",
+        "voucher": "KU:KUH:341897",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2443,
+          4.9287
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.9287,
+        "longitude": 9.2443,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1309944670",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Southwest Region; Dikome-Balue Town (2.8 NNW of town), rumpi Hills",
+        "voucher": "KU:KUH:342074",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8544,
+          -1.8872
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -1.8872,
+        "longitude": 9.8544,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318244692",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "GA; Ogoou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©-Maritime; Rabi (Shell Gabon), on way to Rabi 061",
+        "voucher": "USNM:Amphibians & Reptiles:561558",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3,
+          3.33
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.33,
+        "longitude": 20.3,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320659168",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Equateur; Karawa, Mission Station",
+        "voucher": "USNM:Amphibians & Reptiles:318060",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.966667,
+          4.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.9,
+        "longitude": 9.966667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320678063",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Littoral Region; Mt. Nlonako",
+        "voucher": "USNM:Amphibians & Reptiles:570999",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3,
+          3.33
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.33,
+        "longitude": 20.3,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322673247",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Equateur; Karawa, Mission Station",
+        "voucher": "USNM:Amphibians & Reptiles:318061",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.497437,
+          0.373533
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.373533,
+        "longitude": 10.497437,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453104990",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 15625,
+        "country": "Gabon",
+        "locality": "GA; Estuaire; NA",
+        "voucher": "iNaturalist:Observations:3971424",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.432779,
+          -0.727758
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.727758,
+        "longitude": 9.432779,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2460136649",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 7914,
+        "country": "Gabon",
+        "locality": "GA; Ogoou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©-Maritime; NA",
+        "voucher": "iNaturalist:Observations:35845424",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.567198,
+          0.416027
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.416027,
+        "longitude": 10.567198,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2465203913",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2606,
+        "country": "Gabon",
+        "locality": "GA; Estuaire; NA",
+        "voucher": "iNaturalist:Observations:35974716",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.990794,
+          6.309522
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 6.309522,
+        "longitude": 8.990794,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2901687402",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 33657,
+        "country": "Nigeria",
+        "locality": "NG; Cross River; NA",
+        "voucher": "iNaturalist:Observations:45469032",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.28589,
+          0.44194
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.44194,
+        "longitude": 10.28589,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988493745",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 3,
+        "country": "Gabon",
+        "locality": "GA; Estuaire; NA",
+        "voucher": "iNaturalist:Observations:65486272",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.232541,
+          2.985421
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.985421,
+        "longitude": 16.232541,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2988513684",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 241,
+        "country": "Central African Republic",
+        "locality": "CF; Sangha-Mba‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©r‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©; NA",
+        "voucher": "iNaturalist:Observations:65400854",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.36,
+          0.72
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.72,
+        "longitude": 10.36,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024550626",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; Woleu-Ntem",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16296",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43359,
+          0.81021
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.81021,
+        "longitude": 24.43359,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024554338",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 10000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; Tshopo",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:10308",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.316667,
+          0.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.566667,
+        "longitude": 10.316667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024555981",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16287",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45,
+          0.766667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.766667,
+        "longitude": 24.45,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024559028",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 1000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:4288",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024564779",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:10311",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.266667,
+          0.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.633333,
+        "longitude": 10.266667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3024565585",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; Woleu-Ntem",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16246",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.616667,
+          2.633333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.633333,
+        "longitude": 23.616667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3025548242",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:10311",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43359,
+          0.81021
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.81021,
+        "longitude": 24.43359,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3025670465",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 10000,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; NA; Tshopo",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:10308",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.316667,
+          0.566667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.566667,
+        "longitude": 10.316667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3025816306",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 1000,
+        "country": "Gabon",
+        "locality": "GA; NA; NA",
+        "voucher": "RBINS-Scientific Heritage:urn:catalog:RBINS:BE-RBINS-VZ-Reptilia:16287",
+        "issue": "TYPE_STATUS_INVALID;COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.46588,
+          0.292624
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.292624,
+        "longitude": 11.46588,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3044695304",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2751,
+        "country": "Gabon",
+        "locality": "GA; Wouleu-Ntem; NA",
+        "voucher": "iNaturalist:Observations:69672132",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76667,
+          0.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.65,
+        "longitude": 12.76667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_440129133",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "GA; NA; Makokou",
+        "voucher": "MNHN:RA:1967.480",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76667,
+          0.65
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.65,
+        "longitude": 12.76667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_440147656",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "GA; NA; Makokou",
+        "voucher": "MNHN:RA:1967.479",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476493772",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40808",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476493774",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40829",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.916667,
+          0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.5,
+        "longitude": 32.916667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476495026",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 24615,
+        "country": "Uganda",
+        "locality": "UG; Mukono; Mubango, Mabira Forest",
+        "voucher": "MCZ:Herp:R-48526",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.367,
+          3.017
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.017,
+        "longitude": 12.367,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476659293",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 6300,
+        "country": "Cameroon",
+        "locality": "CM; South; Bitye Ja River,Kamerun",
+        "voucher": "MCZ:Herp:R-8986",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.762703,
+          3.442929
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.442929,
+        "longitude": 11.762703,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476663626",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2650,
+        "country": "Cameroon",
+        "locality": "CM; Centre; Metet",
+        "voucher": "MCZ:Herp:R-13220",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.762703,
+          3.442929
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.442929,
+        "longitude": 11.762703,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476663627",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2650,
+        "country": "Cameroon",
+        "locality": "CM; Centre; Metet",
+        "voucher": "MCZ:Herp:R-13221",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.762703,
+          3.442929
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.442929,
+        "longitude": 11.762703,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476663628",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2650,
+        "country": "Cameroon",
+        "locality": "CM; Centre; Metet",
+        "voucher": "MCZ:Herp:R-13222",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476666098",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40803",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667784",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40804",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667787",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40807",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667892",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40810",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667893",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40811",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667894",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40812",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667896",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40814",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667996",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40815",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667997",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40816",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667998",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40817",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476667999",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40818",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668097",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40821",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668098",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40822",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668099",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40823",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668100",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40824",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668101",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40825",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668197",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40828",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668198",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40830",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668199",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40831",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668296",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40833",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668297",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40834",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668298",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40835",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668299",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40836",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668389",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40837",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668390",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40838",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476668391",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40839",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476669247",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40796",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476669358",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40799",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476669359",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40800",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476669360",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40801",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.283333,
+          0.666667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.666667,
+        "longitude": 30.283333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476673009",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 5978.71,
+        "country": "Uganda",
+        "locality": "UG; Kabarole; Kibale Forest,Fort Partal,Uganda [VERBATIM ELEVATION:5000ft]",
+        "voucher": "MCZ:Herp:R-54742",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28333,
+          0.06667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.06667,
+        "longitude": 18.28333,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476675991",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 7615,
+        "country": "Democratic Republic of the Congo",
+        "locality": "CD; Equateur; Leopoldville: Belgian Congo",
+        "voucher": "MCZ:Herp:R-24748",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476678465",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western; Kaimosa",
+        "voucher": "MCZ:Herp:R-40840",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15,
+          2.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.9,
+        "longitude": 11.15,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476682317",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 4023.36,
+        "country": "Cameroon",
+        "locality": "CM; NA; Ebolowa",
+        "voucher": "MCZ:Herp:R-9226",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15,
+          2.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.9,
+        "longitude": 11.15,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476682319",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 4023.36,
+        "country": "Cameroon",
+        "locality": "CM; NA; Ebolowa",
+        "voucher": "MCZ:Herp:R-9228",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;TAXON_MATCH_FUZZY;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543466424",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 10628.13,
+        "country": "Kenya",
+        "locality": "KE; Western Prov.; Kakamega Forest, near Kaimosi",
+        "voucher": "CAS:HERP:122746",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.806111,
+          0.340278
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.340278,
+        "longitude": 34.806111,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543487545",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 1804,
+        "country": "Kenya",
+        "locality": "KE; Western Prov.; 11.3 km N of Kakamega near Buyangu Forest Station",
+        "voucher": "CAS:HERP:141755",
+        "issue": "COORDINATE_REPROJECTION_SUSPICIOUS;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.811667,
+          3.190556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.190556,
+        "longitude": 12.811667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543549924",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Est Region; Dja Reserve, Boumir Camp, 03 11 26 N, 12 48 42 E",
+        "voucher": "CAS:HERP:197898",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.811667,
+          3.190556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.190556,
+        "longitude": 12.811667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543549925",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "CM; Est Region; Dja Reserve, Boumir Camp, 03 11 26 N, 12 48 42 E",
+        "voucher": "CAS:HERP:197899",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.491667,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.491667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543675950",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 2259.52,
+        "country": "Kenya",
+        "locality": "KE; Western Prov.; Kakamega, Kaimosi",
+        "voucher": "CAS:HERP:85296",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.416667,
+          0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.5,
+        "longitude": 30.416667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657377776",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 35115,
+        "country": "Uganda",
+        "locality": "UG; Western; Western Uganda, Kibale forest, Toro",
+        "voucher": "LACM:Herps:35290",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.083334,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.416667,
+        "longitude": 30.083334,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657403203",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 8414,
+        "country": "Uganda",
+        "locality": "UG; NA; Kalinzu Forest,",
+        "voucher": "LACM:Herps:60700",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.083334,
+          -0.416667
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.416667,
+        "longitude": 30.083334,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_657403205",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": 8414,
+        "country": "Uganda",
+        "locality": "UG; NA; Kalinzu Forest,",
+        "voucher": "LACM:Herps:60702",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.841667,
+          0.233333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.233333,
+        "longitude": 34.841667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686901667",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "KE; Western; Bukura, Kakamega Forest Region",
+        "voucher": "KU:KUH:195096",
+        "issue": "COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.841667,
+          0.233333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.233333,
+        "longitude": 34.841667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_686901668",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "KE; Western; Bukura, Kakamega Forest Region",
+        "voucher": "KU:KUH:195097",
+        "issue": "COORDINATE_ROUNDED;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5726,
+          0.2905
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.2905,
+        "longitude": 12.5726,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_895451138",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "GA; Ogoou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬©-Ivindo; Ivindo National Park, Kongou Camp, 490 m elevation",
+        "voucher": "NCSM:Herp:77586",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54385,
+          1.318467
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 1.318467,
+        "longitude": 27.54385,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00144",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Avakubi, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11857-58",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3036,
+          2.388258
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.388258,
+        "longitude": 27.3036,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00145",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Medje, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11859, 11861-64, 11892-96, 11883, 11884-91",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8708,
+          3.171801
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.171801,
+        "longitude": 27.8708,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00146",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Rungu, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11865-66",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.62594,
+          0.873753
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.873753,
+        "longitude": 26.62594,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00147",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Nala, Rep‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†¬¨¬®¬¨‚Ä¢blica Democr‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ‚Äö√Ñ√∂‚àö‚Ä†‚àö¬™tica do Congo",
+        "voucher": "AMNH 11867",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4381,
+          2.420502
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.420502,
+        "longitude": 26.4381,
+        "date": "",
+        "source": "Schmidt, K. P. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915. Part II. Snakes, with field notes by Herbert Lang and James P. Chapin. Bulletin American Museum of Natural History, 49(1):1-146.",
+        "ID": "Martins00149",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Niapu, Democratic Republic of Congo",
+        "voucher": "AMNH 11870-82",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.17606,
+          -1.060614
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -1.060614,
+        "longitude": 17.17606,
+        "date": "",
+        "source": "Lawson, D. P., and P. C. Ustach. 2000. A Redescription of Atheris squamigera (Serpentes: Viperidae) with Comments on the Validity of Atheris anisolepis. Journal of Herpetology, 34(3):386-389.",
+        "ID": "Martins00169",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Lukolela, Congo",
+        "voucher": "AMNH 45940, 45943, 45945, 51840",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.17606,
+          -1.060614
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -1.060614,
+        "longitude": 17.17606,
+        "date": "",
+        "source": "Lawson, D. P., and P. C. Ustach. 2000. A Redescription of Atheris squamigera (Serpentes: Viperidae) with Comments on the Validity of Atheris anisolepis. Journal of Herpetology, 34(3):386-389.",
+        "ID": "Martins00170",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Lukolela, Congo",
+        "voucher": "AMNH 45941",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35111,
+          3.01165
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.01165,
+        "longitude": 12.35111,
+        "date": "",
+        "source": "Lawson, D. P., and P. C. Ustach. 2000. A Redescription of Atheris squamigera (Serpentes: Viperidae) with Comments on the Validity of Atheris anisolepis. Journal of Herpetology, 34(3):386-389.",
+        "ID": "Martins00175",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Bitye, Cameroon",
+        "voucher": "AMNH 5254",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98331,
+          2.933313
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.933313,
+        "longitude": 11.98331,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00581",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Sangmelima, Cameroon",
+        "voucher": "CM  6801, 6842, 6843, 6844, 6845, 6846, 6847, 7020, 8038",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98331,
+          2.933313
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.933313,
+        "longitude": 11.98331,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00582",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Sangmelima, Cameroon",
+        "voucher": "CM  6801, 6842, 6843, 6844, 6845, 6846, 6847, 7020, 8038",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.893127778,
+          2.845663889
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.845663889,
+        "longitude": 9.893127778,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00636",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Grand Batanga, Cameroon",
+        "voucher": "CM 15005",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.893127778,
+          2.845663889
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.845663889,
+        "longitude": 9.893127778,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00637",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Grand Batanga, Cameroon",
+        "voucher": "CM 15005",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13017,
+          6.084528
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 6.084528,
+        "longitude": 10.13017,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00765",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Bafut, Cameroon",
+        "voucher": "CM 92717, 92718,  92719, 92720",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13017,
+          6.084528
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 6.084528,
+        "longitude": 10.13017,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00766",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Bafut, Cameroon",
+        "voucher": "CM 92717, 92718,  92719, 92720",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.325,
+          4.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.95,
+        "longitude": 8.325,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00767",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Calabar, Nigeria",
+        "voucher": "CM 93105",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.325,
+          4.95
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.95,
+        "longitude": 8.325,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins00768",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Calabar, Nigeria",
+        "voucher": "CM 93105",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.45,
+          -1.18336
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -1.18336,
+        "longitude": 29.45,
+        "date": "",
+        "source": "Loveridge, A. 1936. African reptiles and amphibians in the Field Museum of Natural History. Field Museum of Natural History, Zoology Series, 22 (1): 1-131",
+        "ID": "Martins01085",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Rutshuru, Democratic Republic of Congo",
+        "voucher": "FMNH 12837",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09953,
+          2.365122
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.365122,
+        "longitude": 10.09953,
+        "date": "",
+        "source": "Ota, H., T. Hikida, and J. Barcelo. 1987. On a small collection  of lizards and snakes from cameroon, west Africa. African Study Monographs, 8(2):111-123.",
+        "ID": "Martins02084",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Reserve de Faune de Campo, Cameroon",
+        "voucher": "KUZ R8343, KUZ R8344",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00575,
+          0.38949
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.38949,
+        "longitude": 33.00575,
+        "date": "",
+        "source": "Loveridge, A. 1942, Scientific results of a fourth expedition to forested areas in east and central Africa. IV Reptiles. Bulletin: Museum of Comparative Zoology, Harvard University, 91:237-373.",
+        "ID": "Martins02797",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Mabira Forest, Uganda",
+        "voucher": "MCZ 48524-6",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.49167,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.49167,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02968",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Kakamega, Kenya",
+        "voucher": "MCZ R-40796 - R-40841",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.49167,
+          0.205556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.205556,
+        "longitude": 34.49167,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins02969",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Kakamega, Kenya",
+        "voucher": "MCZ R-40796 - R-40841",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.91667,
+          0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.5,
+        "longitude": 32.91667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03004",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Mubango, Mabira Forest, Nakifuma, Mukono, Uganda",
+        "voucher": "MCZ R-48524, 25, 26",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.91667,
+          0.5
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.5,
+        "longitude": 32.91667,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03005",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Mubango, Mabira Forest, Nakifuma, Mukono, Uganda",
+        "voucher": "MCZ R-48524, 25, 26",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.24039,
+          -0.701533
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.701533,
+        "longitude": 10.24039,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03019",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Lambarene, Gabon",
+        "voucher": "MCZ R-51911",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.24039,
+          -0.701533
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.701533,
+        "longitude": 10.24039,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03020",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Lambarene, Gabon",
+        "voucher": "MCZ R-51911",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.55629,
+          4.364883
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.364883,
+        "longitude": 18.55629,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03243",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Bangui, Central African Republic",
+        "voucher": "MNHN 1991.368, 1994.8388-9",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.26834,
+          2.900393
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.900393,
+        "longitude": 16.26834,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03275",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Bayanga, Central African Republic",
+        "voucher": "MNHN 1995.3737, 1996.7056-7, 1996.7216",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.95717,
+          5.315195
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 5.315195,
+        "longitude": 25.95717,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03276",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Mboki, Central African Republic",
+        "voucher": "MNHN 1995.3739",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10003,
+          3.983327
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.983327,
+        "longitude": 17.10003,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03301",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Grima, Central African Republic",
+        "voucher": "MNHN 1996.7064-5",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.24281,
+          3.926297
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.926297,
+        "longitude": 17.24281,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03302",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Foret de Ngotto, Central African Republic",
+        "voucher": "MNHN 1996.7066-9",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.41761,
+          4.263062
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.263062,
+        "longitude": 22.41761,
+        "date": "",
+        "source": "Chirio, L. and I. Ineich. 2006. Biogeography of the reptiles of the Central African Republic. African Journal of Herpetology, 55(1):23-59.",
+        "ID": "Martins03303",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Central African Republic",
+        "locality": "Wazoua, Central African Republic",
+        "voucher": "MNHN 1996.7070-1",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92561111,
+          -0.790080556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.790080556,
+        "longitude": 29.92561111,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03680",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Rukungiri District, Uganda",
+        "voucher": "MVZ 220809",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92561111,
+          -0.790080556
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.790080556,
+        "longitude": 29.92561111,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins03681",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Uganda",
+        "locality": "Rukungiri District, Uganda",
+        "voucher": "MVZ 220809",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25,
+          4.9
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.9,
+        "longitude": 6.25,
+        "date": "",
+        "source": "Akani, G. C., N. Ebere, L. Luiselli, and E. A. Eniang. 2007. Community structure and ecology of snakes in fields of oil palm trees (Elaeis guineensis) in the Niger Delta, southern Nigeria. African Journal of Ecology, 46:500-506.",
+        "ID": "Martins05147",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Arounds of Yeanagoa, Nigeria",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.68172,
+          4.677722
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.677722,
+        "longitude": 6.68172,
+        "date": "",
+        "source": "Akani, G. C., L. Luiselli, and E. Politano. 1999. Ecological and conservation considerations on the reptile fauna f the eastern Niger Delta (Nigeria). Herpetozoa, 11:141-153.",
+        "ID": "Martins05148",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Soku, Nigeria",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6888,
+          4.889523
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.889523,
+        "longitude": 6.6888,
+        "date": "",
+        "source": "Akani, G. C., L. Luiselli, and E. Politano. 1999. Ecological and conservation considerations on the reptile fauna f the eastern Niger Delta (Nigeria). Herpetozoa, 11:141-153.",
+        "ID": "Martins05149",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Otari, Nigeria",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.01667,
+          4.75
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.75,
+        "longitude": 7.01667,
+        "date": "",
+        "source": "Akani, G. C., N. Ebere, L. Luiselli, and E. A. Eniang. 2007. Community structure and ecology of snakes in fields of oil palm trees (Elaeis guineensis) in the Niger Delta, southern Nigeria. African Journal of Ecology, 46:500-506.",
+        "ID": "Martins05150",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Arounds of Port Harcourt city, Nigeria",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.98333,
+          4.833333
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.833333,
+        "longitude": 7.98333,
+        "date": "",
+        "source": "Akani, G. C., I. F. Barieenee, D. Capizzi, and L. Luiselli. 1999. Snake communities of moist rainforest and derived savanna sites of Nigeria: biodiversity patterns and conservation priorities. Biodiversity and Conservation, 8:629-642.",
+        "ID": "Martins05152",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Nigeria",
+        "locality": "Environs of Eket, Nigeria",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.417186111,
+          5.337094444
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 5.337094444,
+        "longitude": 9.417186111,
+        "date": "",
+        "source": "Lawson, D. P., B. O. Noonan, and P. C. Ustach. 2001. Atheris subocularis (Serpentes: Viperidae) Revisited: Molecular and Morphological Evidence for the Resurrection of an Enigmatic Taxon. Copeia, 2001(3):737-744.",
+        "ID": "Martins05153",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Nguti, Southwest Province, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44998,
+          4.633396
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.633396,
+        "longitude": 9.44998,
+        "date": "",
+        "source": "Ernst, R., and M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del. 2002. A new Atheris species  (Serpentes: Viperidae), from Ta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√¢¬ß National Park, Ivory Coast. Herpetological Journal, 12:55-61.",
+        "ID": "Martins05154",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Kumba, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.70629,
+          4.04757
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.04757,
+        "longitude": 9.70629,
+        "date": "",
+        "source": "Ernst, R., and M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del. 2002. A new Atheris species  (Serpentes: Viperidae), from Ta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√¢¬ß National Park, Ivory Coast. Herpetological Journal, 12:55-61.",
+        "ID": "Martins05155",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Douala, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73483,
+          5.598983
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 5.598983,
+        "longitude": 9.73483,
+        "date": "",
+        "source": "Lebreton, M., L. Chirio, and D. Foguekem. 2003. Reptiles of Takamanda Forest Reserve, Cameroon. In: J. A. Comiskey, T. C. H. Sunderland, and J. L. Sunderland-Groves (Eds.), Takamanda: The Biodiversity of na African Rainforest, pp.83-94, Man and the Biosphere Series 8. Smithsonian Institution, Washington, D.C.",
+        "ID": "Martins05156",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "South Border of Takamanda Forest Reserve, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97587,
+          3.074407
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.074407,
+        "longitude": 9.97587,
+        "date": "",
+        "source": "Ernst, R., and M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del. 2002. A new Atheris species  (Serpentes: Viperidae), from Ta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√¢¬ß National Park, Ivory Coast. Herpetological Journal, 12:55-61.",
+        "ID": "Martins05157",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Longji, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98889,
+          -1.941111
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -1.941111,
+        "longitude": 9.98889,
+        "date": "",
+        "source": "Pauwels, O.S.G., M. Burger, W.R. Branch, E. Tobi, J. Yoga and E. Mikolo. 2006. Reptiles of the Gamba Complex of Protected Areas, southwestern Gabon. In: Alonso, A., M.E. Lee, P. Campbell, O.S.G. Pauwels and F. Dallmeier, (Eds.), Gamba, Gabon: Biodiversity of an Equatorial African Rainforest. Bulletin of the Biological Society of Washington, 12:309-318.",
+        "ID": "Martins05158",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Rabi-Toucan, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1255,
+          1.535363
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 1.535363,
+        "longitude": 10.1255,
+        "date": "",
+        "source": "Lasso, C. A., A. I. Rial, J. Castroviejo, and I. De La Riva. 2002. Herpetofauna del Parque Nacional de Monte Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n (R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä†o Muni, Guinea Ecuatorial). Graellsia, 58(2):21:34.",
+        "ID": "Martins05159",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Equatorial Guinea",
+        "locality": "Monte Al‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©n National Park, Guinea Ecuadorial",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.36021,
+          0.671513
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.671513,
+        "longitude": 10.36021,
+        "date": "",
+        "source": "Pauwels, O. S. G., P. Christy, and A. Honorez. 2005. Reptiles and National Parks in Gabon, Western Central Africa. Hamadryad, 30(1, 2):181-196.",
+        "ID": "Martins05161",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Crystal Mounstains National Park, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73332,
+          3.233344
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.233344,
+        "longitude": 10.73332,
+        "date": "",
+        "source": "Ernst, R., and M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del. 2002. A new Atheris species  (Serpentes: Viperidae), from Ta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√¢¬ß National Park, Ivory Coast. Herpetological Journal, 12:55-61.",
+        "ID": "Martins05162",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Lolodorf, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.80561,
+          2.778005
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.778005,
+        "longitude": 10.80561,
+        "date": "",
+        "source": "Perret, J. L., and R. Mertens. 1957. ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢tude d'une collection herp‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©tologique faite au Cameroun de 1952 ‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚àö√´‚Äö√Ñ√∂‚àö√ë‚Äö√Ñ‚Ä† 1955. Bulletin de I'I. F. A. N., 19(2):548-601.",
+        "ID": "Martins05163",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Foulassi, Cameroon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.52479,
+          -0.441155
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -0.441155,
+        "longitude": 11.52479,
+        "date": "",
+        "source": "Pauwels, O. S. G., P. Christy, and A. Honorez. 2005. Reptiles and National Parks in Gabon, Western Central Africa. Hamadryad, 30(1, 2):181-196.",
+        "ID": "Martins05164",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Lop‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬© National Park, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7135,
+          1.863137
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 1.863137,
+        "longitude": 12.7135,
+        "date": "",
+        "source": "Pauwels, O. S. G., P. Christy, and A. Honorez. 2005. Reptiles and National Parks in Gabon, Western Central Africa. Hamadryad, 30(1, 2):181-196.",
+        "ID": "Martins05166",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Mink‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬©b‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á¬¨¬®¬¨¬Æ¬¨¬®¬¨¬© National Park, Gabon",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.43843056,
+          2.420325
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.420325,
+        "longitude": 26.43843056,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05172",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Niapu, Democratic Republic of Congo",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75182,
+          0.282659
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 0.282659,
+        "longitude": 34.75182,
+        "date": "",
+        "source": "Broadley, D. G. 1998. A review of the genus Atheris Cope (Serpentes: Viperidae), with the description of a new species from Uganda. Herpetological Journal, 8:117-135.",
+        "ID": "Martins05174",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Kenya",
+        "locality": "Kakamega Forest, Kenya",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.85,
+          2.583
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.583,
+        "longitude": 21.85,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09440",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Yalosemba, Democratic Republic of Congo",
+        "voucher": "USNM 216232",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.85,
+          2.583
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 2.583,
+        "longitude": 21.85,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09441",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Yalosemba, Democratic Republic of Congo",
+        "voucher": "USNM 216232",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.35,
+          3.033
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.033,
+        "longitude": 19.35,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09442",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Tandala, Zaire",
+        "voucher": "USNM 216233",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.35,
+          3.033
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.033,
+        "longitude": 19.35,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09443",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Tandala, Zaire",
+        "voucher": "USNM 216233",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.29636,
+          3.321627
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.321627,
+        "longitude": 20.29636,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09574",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Karawa, Democratic Republic of Congo",
+        "voucher": "USNM 318060, 61, 62, 318087",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.29636,
+          3.321627
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.321627,
+        "longitude": 20.29636,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09575",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Democratic Republic of the Congo",
+        "locality": "Karawa, Democratic Republic of Congo",
+        "voucher": "USNM 318060, 61, 62, 318087",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.85444,
+          -1.887222
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -1.887222,
+        "longitude": 9.85444,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09748",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Rabi (Shell Gabon), on way to Rabi 061, Gabon",
+        "voucher": "USNM 561558",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.85444,
+          -1.887222
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": -1.887222,
+        "longitude": 9.85444,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09749",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Gabon",
+        "locality": "Rabi (Shell Gabon), on way to Rabi 061, Gabon",
+        "voucher": "USNM 561558",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95263,
+          4.906237
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.906237,
+        "longitude": 9.95263,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09770",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Mont Nlonako, Cameroon",
+        "voucher": "USNM 570997-99",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95263,
+          4.906237
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.906237,
+        "longitude": 9.95263,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09771",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Mont Nlonako, Cameroon",
+        "voucher": "USNM 570997-99",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98917,
+          4.91722
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.91722,
+        "longitude": 9.98917,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09772",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Nguengue, Cameroon",
+        "voucher": "USNM 571000",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98917,
+          4.91722
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.91722,
+        "longitude": 9.98917,
+        "date": "",
+        "source": "Herp.net",
+        "ID": "Martins09773",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Nguengue, Cameroon",
+        "voucher": "USNM 571000",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51675,
+          3.866583
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 3.866583,
+        "longitude": 11.51675,
+        "date": "",
+        "source": "Ernst, R., and M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del. 2002. A new Atheris species  (Serpentes: Viperidae), from Ta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√¢¬ß National Park, Ivory Coast. Herpetological Journal, 12:55-61.",
+        "ID": "Martins10372",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Yaounde, Cameroon",
+        "voucher": "ZMH R06311,",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7081,
+          4.801515
+        ]
+      },
+      "properties": {
+        "scientificName": "Atheris_squamigera",
+        "latitude": 4.801515,
+        "longitude": 9.7081,
+        "date": "",
+        "source": "Ernst, R., and M. O. R‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚àö¬∞del. 2002. A new Atheris species  (Serpentes: Viperidae), from Ta‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚Äö√¢¬ß National Park, Ivory Coast. Herpetological Journal, 12:55-61.",
+        "ID": "Martins10373",
+        "database_recorded_species": "Atheris squamigera",
+        "database_recorded_subspecies": "Atheris squamigera",
+        "taxonomy_updated_species": "Atheris_squamigera",
+        "taxonomy_updated_subspecies2": "Atheris_squamigera",
+        "final_species": "Atheris_squamigera",
+        "final_subspecies": "Atheris_squamigera",
+        "accuracy_m": "NA",
+        "country": "Cameroon",
+        "locality": "Bakossi Mountains, Cameroon",
+        "voucher": "ZMH R06323, ZSM 96/1978",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

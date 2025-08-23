@@ -1,0 +1,3602 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.124056,
+          29.072222
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.072222,
+        "longitude": 25.124056,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056367322",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Matrouh; Siwa",
+        "voucher": "NHMUK:ZOO:1938.8.4.70-71",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73,
+          30.99
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.99,
+        "longitude": 34.73,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1094704327",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "HUJ:Reptiles:NA",
+        "issue": "COUNTRY_DERIVED_FROM_COORDINATES;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.045556
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.045556,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1145657173",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1691,
+        "country": "Egypt",
+        "locality": "EG; Giza Governorate; Abu Roash",
+        "voucher": "MVZ:Amphibian and reptile specimens:MVZ:Herp:9263",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9666,
+          25.4666
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 25.4666,
+        "longitude": 28.9666,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211731711",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Western Desert; Dakleh Oasis, Ain Birbiryeh",
+        "voucher": "ROM:Reptiles and Amphibians:16749",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1680692595589,
+          25.4998462099126
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 25.4998462099126,
+        "longitude": 29.1680692595589,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1211739984",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 114.31,
+        "country": "Egypt",
+        "locality": "EG; Western Desert; Dakleh Oasis",
+        "voucher": "ROM:Reptiles and Amphibians:24681",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;INSTITUTION_MATCH_FUZZY;INSTITUTION_COLLECTION_MISMATCH",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2165,
+          29.8712
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.8712,
+        "longitude": 31.2165,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317296556",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 819.16,
+        "country": "Egypt",
+        "locality": "EG; NA; Near sakkara pyramids",
+        "voucher": "USNM:Amphibians & Reptiles:131476",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317645016",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131176",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5833,
+          25.3333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 25.3333,
+        "longitude": 30.5833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317751220",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1865.23,
+        "country": "Egypt",
+        "locality": "EG; Al Wadi Al Jadid; El kharga",
+        "voucher": "USNM:Amphibians & Reptiles:39278",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317808424",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131171",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.301418798025,
+          29.7662383709285
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.7662383709285,
+        "longitude": 31.301418798025,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1317838788",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 402350,
+        "country": "Egypt",
+        "locality": "EG; Giza; GIZA PROV.",
+        "voucher": "USNM:Amphibians & Reptiles:134904",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318222732",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131183",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0325,
+          30.1558
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.1558,
+        "longitude": 31.0325,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318289167",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 851.34,
+        "country": "Egypt",
+        "locality": "EG; Giza Prov.; Manshiyet radwan",
+        "voucher": "USNM:Amphibians & Reptiles:134966",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5833,
+          25.3333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 25.3333,
+        "longitude": 30.5833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318605818",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1865.23,
+        "country": "Egypt",
+        "locality": "EG; Al Wadi Al Jadid; El kharga",
+        "voucher": "USNM:Amphibians & Reptiles:39279",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318764427",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131180",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.05,
+        "longitude": 31.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1318935362",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 11279.9,
+        "country": "Egypt",
+        "locality": "EG; NA; Near cairo",
+        "voucher": "USNM:Amphibians & Reptiles:134710",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2468,
+          30.9987
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.9987,
+        "longitude": 31.2468,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319181593",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 144855,
+        "country": "Egypt",
+        "locality": "EG; NA; Lower Nile Valley, Cairo to Alexandria",
+        "voucher": "USNM:Amphibians & Reptiles:128210",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1319426277",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131172",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320469893",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131167",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0619,
+          30.0374
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0374,
+        "longitude": 31.0619,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320539833",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 4869.87,
+        "country": "Egypt",
+        "locality": "EG; Al Jizah; Cairo, 16-18 mi NW of, 6 mi NW of Giza Pyramids, Affifi Pasha's farm",
+        "voucher": "USNM:Amphibians & Reptiles:131279",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320686589",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131170",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1320780728",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131165",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.05,
+        "longitude": 31.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321074872",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 9670.54999999999,
+        "country": "Egypt",
+        "locality": "EG; Cairo Governorate; Cairo",
+        "voucher": "USNM:Amphibians & Reptiles:133350",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2468,
+          30.9987
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.9987,
+        "longitude": 31.2468,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321338162",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 144855,
+        "country": "Egypt",
+        "locality": "EG; NA; Lower Nile Valley, Cairo to Alexandria",
+        "voucher": "USNM:Amphibians & Reptiles:128211",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2468,
+          30.9987
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.9987,
+        "longitude": 31.2468,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321341318",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 144855,
+        "country": "Egypt",
+        "locality": "EG; NA; Lower Nile Valley, Cairo to Alexandria",
+        "voucher": "USNM:Amphibians & Reptiles:128212",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321456352",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131181",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2468,
+          30.9987
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.9987,
+        "longitude": 31.2468,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1321485765",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 144855,
+        "country": "Egypt",
+        "locality": "EG; NA; Lower Nile Valley, Cairo to Alexandria",
+        "voucher": "USNM:Amphibians & Reptiles:128213",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322083132",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131179",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.93,
+          30.27
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.27,
+        "longitude": 30.93,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322388264",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Egypt",
+        "locality": "EG; Giza; Cairo, 6-8 mi NW of, Abu Ghalib",
+        "voucher": "USNM:Amphibians & Reptiles:131256",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;GEODETIC_DATUM_ASSUMED_WGS84;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18,
+          32.8925
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 32.8925,
+        "longitude": 13.18,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322504451",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1028.36999999998,
+        "country": "Libya",
+        "locality": "LY; NA; Tripolis, Tadschura",
+        "voucher": "USNM:Amphibians & Reptiles:56237",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322688584",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131175",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1567161833245,
+          29.3878641680947
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.3878641680947,
+        "longitude": 31.1567161833245,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322708486",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 175.42,
+        "country": "Egypt",
+        "locality": "EG; NA; MIADUN (= MEIDUM ?) PYRAMIDS, APPROX. 20 MI. S OF GIZA PYRAMIDS OR 35 MI. SE OF CAIRO",
+        "voucher": "USNM:Amphibians & Reptiles:131228",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_REPROJECTED;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5167,
+          29.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.2,
+        "longitude": 25.5167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322717727",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 40015,
+        "country": "Egypt",
+        "locality": "EG; NA; Siwa oasis",
+        "voucher": "USNM:Amphibians & Reptiles:134212",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1322814242",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rawash",
+        "voucher": "USNM:Amphibians & Reptiles:131169",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.1083,
+          23.1489
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 23.1489,
+        "longitude": -16.1083,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1805396794",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Western Sahara",
+        "locality": "EH; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:9470535",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.369232,
+          27.995614
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 27.995614,
+        "longitude": -12.369232,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1831232823",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1953,
+        "country": "Morocco",
+        "locality": "MA; La‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢youne - Boujdour - Sakia El Hamra; NA",
+        "voucher": "iNaturalist:Observations:9980588",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.838813,
+          23.012608
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 23.012608,
+        "longitude": -14.838813,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2234745936",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Western Sahara",
+        "locality": "MA; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:21488260",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.519,
+          30.927
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.927,
+        "longitude": 34.519,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2237508521",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; HaDarom; NA",
+        "voucher": "iNaturalist:Observations:22979882",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6,
+          25.758483
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 25.758483,
+        "longitude": -14.6,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795564",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Western Sahara",
+        "locality": "MA; Atlantic Sahara; Bojador, 40km S of",
+        "voucher": "CIBIO:BiodesertsCollection:553",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.389325,
+          19.510272
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.510272,
+        "longitude": -16.389325,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795596",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Rgueiba, 12km N of",
+        "voucher": "CIBIO:BiodesertsCollection:3543",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.065437,
+          19.901842
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.901842,
+        "longitude": -16.065437,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795599",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; O‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢l el Q‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢di",
+        "voucher": "CIBIO:BiodesertsCollection:5104",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.310896,
+          20.257285
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 20.257285,
+        "longitude": -14.310896,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795605",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Akch‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢r dunes, N of Akjoujt",
+        "voucher": "CIBIO:BiodesertsCollection:3494",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.468322,
+          19.427665
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.427665,
+        "longitude": -16.468322,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795627",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Rgueiba, 1km N of",
+        "voucher": "CIBIO:BiodesertsCollection:3580",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.3924,
+          21.261867
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 21.261867,
+        "longitude": -13.3924,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795629",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Cho‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢m, 40km W of",
+        "voucher": "CIBIO:BiodesertsCollection:524",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.009275,
+          19.906568
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.906568,
+        "longitude": -16.009275,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795639",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Azeff‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢l, Elb en Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬∫‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬∫, 2km N of",
+        "voucher": "CIBIO:BiodesertsCollection:5096",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.619505,
+          21.500223
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 21.500223,
+        "longitude": -11.619505,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795641",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Tiris Zemmour; Tarf Tazazmout",
+        "voucher": "CIBIO:BiodesertsCollection:2888",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.991767,
+          18.776025
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 18.776025,
+        "longitude": -12.991767,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795653",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Adrar; Aouk‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢r dunes, SE of Bo‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√ë¬¢ N‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢ga",
+        "voucher": "CIBIO:BiodesertsCollection:2959",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.052952,
+          19.754518
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.754518,
+        "longitude": -16.052952,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795663",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Azeff‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢l 1",
+        "voucher": "CIBIO:BiodesertsCollection:5072",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.037653,
+          19.803927
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.803927,
+        "longitude": -16.037653,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795675",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Azeff‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢l 3",
+        "voucher": "CIBIO:BiodesertsCollection:5079",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.076155,
+          19.701322
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.701322,
+        "longitude": -16.076155,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795677",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Mednet ed D‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢ya 2",
+        "voucher": "CIBIO:BiodesertsCollection:5065",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.010863,
+          19.892445
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.892445,
+        "longitude": -16.010863,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795698",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Azeff‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢l, Elb en Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬∫‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√†√∂‚àö¬∫, 1km N of",
+        "voucher": "CIBIO:BiodesertsCollection:5095",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.401927,
+          19.558323
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.558323,
+        "longitude": -16.401927,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795716",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Teichott, 2km N of",
+        "voucher": "CIBIO:BiodesertsCollection:3600",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.606627,
+          20.471672
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 20.471672,
+        "longitude": -15.606627,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795730",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Inchiri; Imkebdene",
+        "voucher": "CIBIO:BiodesertsCollection:5284",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.069093,
+          19.97769
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.97769,
+        "longitude": -16.069093,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795749",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Mauritania",
+        "locality": "MR; Dakhlet-Nou‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢dhibou; Taguil‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢let Jreik 2",
+        "voucher": "CIBIO:BiodesertsCollection:5107",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.138393,
+          14.684633
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 14.684633,
+        "longitude": 13.138393,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795764",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Diffa; Nguigmi, 50km N of",
+        "voucher": "CIBIO:BiodesertsCollection:6658",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21645,
+          16.149493
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 16.149493,
+        "longitude": 13.21645,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2421795798",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Niger",
+        "locality": "NE; Diffa; Koussa Arma well",
+        "voucher": "CIBIO:BiodesertsCollection:6670",
+        "issue": "INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.492296,
+          22.677536
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 22.677536,
+        "longitude": -14.492296,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2826222773",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1400,
+        "country": "Western Sahara",
+        "locality": "MA; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:54826473",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14,
+          14.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 14.68,
+        "longitude": 13.14,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2832342461",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Niger",
+        "locality": "NE; NA; Niger - Diffa",
+        "voucher": "NA:Observations:OBS.74295197",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.767349,
+          33.275234
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 33.275234,
+        "longitude": 6.767349,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2836004227",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 100,
+        "country": "Algeria",
+        "locality": "DZ; NA; Algeria - El Oued",
+        "voucher": "NA:Observations:OBS.81706978",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.307716,
+          19.887208
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 19.887208,
+        "longitude": -16.307716,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839161176",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 10,
+        "country": "Mauritania",
+        "locality": "MR; NA; Mauritania - P.N. du Banc d'Arguin - Baie d'Aouatif",
+        "voucher": "NA:Observations:OBS.188087466",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;COORDINATE_ROUNDED;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.5,
+          22.68
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 22.68,
+        "longitude": -14.5,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2839818984",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.132868900",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.53,
+          22.7
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 22.7,
+        "longitude": -14.53,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2841942041",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Western Sahara",
+        "locality": "MA; NA; Morocco - C.R. Aousserd",
+        "voucher": "NA:Observations:OBS.132868918",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_NONE;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.708075,
+          23.706352
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 23.706352,
+        "longitude": -15.708075,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2984500963",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 15,
+        "country": "Western Sahara",
+        "locality": "MA; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:64677846",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.547473,
+          21.984493
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 21.984493,
+        "longitude": -15.547473,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3059127418",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 244,
+        "country": "Western Sahara",
+        "locality": "MA; Oued el Dahab; NA",
+        "voucher": "iNaturalist:Observations:70723196",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.208964,
+          28.016767
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 28.016767,
+        "longitude": -12.208964,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3124571680",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 5,
+        "country": "Morocco",
+        "locality": "MA; La‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢youne - Boujdour - Sakia El Hamra; NA",
+        "voucher": "iNaturalist:Observations:79677832",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.532413,
+          27.951816
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 27.951816,
+        "longitude": -12.532413,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3333472558",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 6377,
+        "country": "Morocco",
+        "locality": "MA; La‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®¬¨¬¢youne - Boujdour - Sakia El Hamra; NA",
+        "voucher": "iNaturalist:Observations:89128335",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.634,
+          30.899
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.899,
+        "longitude": 34.634,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333908566",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; Central Negev, Horvot Shivta, Shivta",
+        "voucher": "SMNHTAU:Reptilia:19062",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.388,
+          30.923
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.923,
+        "longitude": 34.388,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913689",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Between Kadesh Barnea & Beer Milka",
+        "voucher": "SMNHTAU:Reptilia:17255",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.682,
+          30.985
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.985,
+        "longitude": 34.682,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913743",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Ashalim, Future Solar farm 3km W. of Ashalim",
+        "voucher": "SMNHTAU:Reptilia:17272",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.388,
+          30.923
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.923,
+        "longitude": 34.388,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913755",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Between Kadesh Barnea & Beer Milka",
+        "voucher": "SMNHTAU:Reptilia:17263",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.682,
+          30.985
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.985,
+        "longitude": 34.682,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913776",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Ashalim, Future Solar farm 3km W. of Ashalim",
+        "voucher": "SMNHTAU:Reptilia:17289",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.388,
+          30.923
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.923,
+        "longitude": 34.388,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913925",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Between Kadesh Barnea & Beer Milka",
+        "voucher": "SMNHTAU:Reptilia:17412",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.682,
+          30.985
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.985,
+        "longitude": 34.682,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913970",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Ashalim, Future Solar farm 3km W. of Ashalim",
+        "voucher": "SMNHTAU:Reptilia:17312",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.682,
+          30.985
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.985,
+        "longitude": 34.682,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913971",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Ashalim, Future Solar farm 3km W. of Ashalim",
+        "voucher": "SMNHTAU:Reptilia:17311",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.682,
+          30.985
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.985,
+        "longitude": 34.682,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913972",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Ashalim, Future Solar farm 3km W. of Ashalim",
+        "voucher": "SMNHTAU:Reptilia:17313",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.682,
+          30.985
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.985,
+        "longitude": 34.682,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913992",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Ashalim, Future Solar farm 3km W. of Ashalim",
+        "voucher": "SMNHTAU:Reptilia:17314",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.388,
+          30.923
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.923,
+        "longitude": 34.388,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333913993",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Between Kadesh Barnea & Beer Milka",
+        "voucher": "SMNHTAU:Reptilia:17315",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.388,
+          30.923
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.923,
+        "longitude": 34.388,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333914106",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Between Kadesh Barnea & Beer Milka",
+        "voucher": "SMNHTAU:Reptilia:17323",
+        "issue": "INDIVIDUAL_COUNT_INVALID;GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4135,
+          30.9299
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.9299,
+        "longitude": 34.4135,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333915333",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Sand dunes",
+        "voucher": "SMNHTAU:Reptilia:17181",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4192,
+          30.9303
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.9303,
+        "longitude": 34.4192,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3333915348",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Israel",
+        "locality": "IL; NA; northern Negev, Be'er Milka, Sand dunes",
+        "voucher": "SMNHTAU:Reptilia:17180",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;GEODETIC_DATUM_INVALID;INSTITUTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.455312,
+          31.032277
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.032277,
+        "longitude": 34.455312,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_42253901",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30488",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.455312,
+          31.032277
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.032277,
+        "longitude": 34.455312,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43472986",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30481",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.306327,
+          31.171119
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.171119,
+        "longitude": 34.306327,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43560603",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:57122",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.307614,
+          31.145875
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.145875,
+        "longitude": 34.307614,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43560618",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:57140",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.450132,
+          31.025031
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.025031,
+        "longitude": 34.450132,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43560710",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:57411",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.450132,
+          31.025031
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.025031,
+        "longitude": 34.450132,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43688646",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30536",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.450132,
+          31.025031
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.025031,
+        "longitude": 34.450132,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43688673",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30538",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.450132,
+          31.025031
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 31.025031,
+        "longitude": 34.450132,
+        "date": "",
+        "source": "OBSERVATION",
+        "ID": "gbif_43688712",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 1000,
+        "country": "Israel",
+        "locality": "IL; NA; NA",
+        "voucher": "INPA:Israel Nature and Parks Authority:30545",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.836314,
+          27.079796
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 27.079796,
+        "longitude": 30.836314,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_476632154",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 749831.99,
+        "country": "Egypt",
+        "locality": "EG; NA; Egypt",
+        "voucher": "MCZ:Herp:R-5233",
+        "issue": "OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.157167,
+          33.6485
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 33.6485,
+        "longitude": 8.157167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543480194",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 15112,
+        "country": "Tunisia",
+        "locality": "TN; NA; 36 km SE of Nefta",
+        "voucher": "CAS:HERP:135139",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.491833,
+          22.8165
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 22.8165,
+        "longitude": 5.491833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_543484065",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 3620,
+        "country": "Algeria",
+        "locality": "DZ; Tamanrasset Prov.; 5 km NW of Tamanrasset, on airport rd",
+        "voucher": "CAS:HERP:138623",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.05,
+        "longitude": 31.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_621069277",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 32449,
+        "country": "Egypt",
+        "locality": "EG; NA; Cairo",
+        "voucher": "SMNS:Herpetologie:4252",
+        "issue": "COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762137",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rauwash",
+        "voucher": "OMNH:Reptiles:28083.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.93781,
+          30.58333
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.58333,
+        "longitude": 32.93781,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762139",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 50415.8,
+        "country": "Egypt",
+        "locality": "EG; Shamal Sina'; 40.0 mi E Ismeidya",
+        "voucher": "OMNH:Reptiles:28066.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5167,
+          29.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.2,
+        "longitude": 25.5167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762156",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 40015,
+        "country": "Egypt",
+        "locality": "EG; West Desert; Siwa Oasis, Rest House",
+        "voucher": "OMNH:Reptiles:28085.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762158",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rauwash",
+        "voucher": "OMNH:Reptiles:28067.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.28332,
+          29.85
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.85,
+        "longitude": 31.28332,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762164",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 6735.09,
+        "country": "Egypt",
+        "locality": "EG; Al Qahirah; 4.0 mi E Sakara",
+        "voucher": "OMNH:Reptiles:28098.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762171",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rauwash",
+        "voucher": "OMNH:Reptiles:28102.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3667,
+          30.6689
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.6689,
+        "longitude": 34.3667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762183",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 8543.99,
+        "country": "Egypt",
+        "locality": "EG; Shamal Sina'; El Quseim",
+        "voucher": "OMNH:Reptiles:28068.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.05,
+        "longitude": 31.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762185",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 9670.52,
+        "country": "Egypt",
+        "locality": "EG; Al Qahirah; Cairo",
+        "voucher": "OMNH:Reptiles:28086.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.0456
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0456,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762207",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 384.63,
+        "country": "Egypt",
+        "locality": "EG; Giza; Abu Rauwash",
+        "voucher": "OMNH:Reptiles:28069.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3667,
+          30.6689
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.6689,
+        "longitude": 34.3667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762210",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 8543.99,
+        "country": "Egypt",
+        "locality": "EG; Shamal Sina'; El Quscima",
+        "voucher": "OMNH:Reptiles:28143.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3667,
+          30.6689
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.6689,
+        "longitude": 34.3667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762257",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 8543.99,
+        "country": "Egypt",
+        "locality": "EG; Shamal Sina'; El Quscima",
+        "voucher": "OMNH:Reptiles:28142.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9667,
+          29.9833
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.9833,
+        "longitude": 26.9667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762262",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 523036,
+        "country": "Egypt",
+        "locality": "EG; West Desert; El Omaied",
+        "voucher": "OMNH:Reptiles:28159.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0925,
+          30.08911
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.08911,
+        "longitude": 31.0925,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894762313",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 4298.55,
+        "country": "Egypt",
+        "locality": "EG; Giza; 3.0 mi N Abu Rauwash",
+        "voucher": "OMNH:Reptiles:28206.0",
+        "issue": "INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.166667,
+          29.933332
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.933332,
+        "longitude": 31.166667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894768227",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 7485,
+        "country": "Egypt",
+        "locality": "EG; Giza; Zawyet Abu Masallam",
+        "voucher": "OMNH:Reptiles:34191.0",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.299999,
+          29.766701
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 29.766701,
+        "longitude": 31.299999,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894768932",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 402349,
+        "country": "Egypt",
+        "locality": "EG; Giza Province; NA",
+        "voucher": "OMNH:Reptiles:34884.0",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2833,
+          30.0667
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 30.0667,
+        "longitude": 31.2833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_894773901",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": 3429.5,
+        "country": "Egypt",
+        "locality": "EG; Al Qahirah; Cairo, Naval Medical Research Unit 3",
+        "voucher": "OMNH:Reptiles:39922.0",
+        "issue": "COORDINATE_ROUNDED;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_FUZZY",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.27894,
+          27.925502
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 27.925502,
+        "longitude": -12.27894,
+        "date": "",
+        "source": "Barnestein, J. A. M., J. P. G. de la Vega, F. Jimenez-Cazalla, and V. Gabari-Boa. 2010. Contribuci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n al atlas  de la Herpetofauna de Marruecos. Bol. Asoc. Herpetol. Esp., 21:76-82.",
+        "ID": "Martins06060",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Morocco",
+        "locality": "62 km antes de Tarfaya, desde de Tan Tan, Marroco",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.27894,
+          27.925502
+        ]
+      },
+      "properties": {
+        "scientificName": "Cerastes_vipera",
+        "latitude": 27.925502,
+        "longitude": -12.27894,
+        "date": "",
+        "source": "Barnestein, J. A. M., J. P. G. de la Vega, F. Jimenez-Cazalla, and V. Gabari-Boa. 2010. Contribuci‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂‚Äö√Ñ‚Ä†‚Äö√†√∂‚Äö√†√á‚Äö√Ñ√∂‚àö√ë‚àö‚àÇ‚Äö√†√∂¬¨¬¢‚Äö√Ñ√∂‚àö√ë¬¨¬¢n al atlas  de la Herpetofauna de Marruecos. Bol. Asoc. Herpetol. Esp., 21:76-82.",
+        "ID": "Martins06061",
+        "database_recorded_species": "Cerastes vipera",
+        "database_recorded_subspecies": "Cerastes vipera",
+        "taxonomy_updated_species": "Cerastes_vipera",
+        "taxonomy_updated_subspecies2": "Cerastes_vipera",
+        "final_species": "Cerastes_vipera",
+        "final_subspecies": "Cerastes_vipera",
+        "accuracy_m": "NA",
+        "country": "Morocco",
+        "locality": "62 km antes de Tarfaya, desde de Tan Tan, Marroco",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

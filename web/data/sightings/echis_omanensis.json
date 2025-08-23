@@ -1,0 +1,1523 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.26941,
+          25.39592
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.39592,
+        "longitude": 56.26941,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1052573882",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:1051227",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.084303,
+          24.684883
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 24.684883,
+        "longitude": 56.084303,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1052580585",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 6103,
+        "country": "Oman",
+        "locality": "OM; Al Batinah North; NA",
+        "voucher": "iNaturalist:Observations:1098715",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.067824,
+          24.658676
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 24.658676,
+        "longitude": 56.067824,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1052580587",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 6105,
+        "country": "Oman",
+        "locality": "OM; Al Buraymi; NA",
+        "voucher": "iNaturalist:Observations:1098697",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.269014,
+          25.398034
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.398034,
+        "longitude": 56.269014,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1052582549",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 15,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:1103433",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.269486,
+          25.396306
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.396306,
+        "longitude": 56.269486,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1052598525",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 15,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:1144833",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3167,
+          23.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.25,
+        "longitude": 57.3167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055622056",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Ad Dakhliyah; Maqammah, Jabal Akhdar foothills, Oman",
+        "voucher": "NHMUK:ZOO:1977.87",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25,
+          26.1833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 26.1833,
+        "longitude": 56.25,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1055723393",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Musandam; Khasab, Ruus al Jibaal, N. Oman",
+        "voucher": "NHMUK:ZOO:1976.1492",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4167,
+          23.3833
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.3833,
+        "longitude": 57.4167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056054916",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Al Batinah South; Rostaq, Jabal Akhdar, Oman",
+        "voucher": "NHMUK:ZOO:1977.86",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3,
+          23.6
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.6,
+        "longitude": 58.3,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056125951",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Muscat; Azaiba, Batinah, Oman",
+        "voucher": "NHMUK:ZOO:1977.85 [1]",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5667,
+          23.25
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.25,
+        "longitude": 58.5667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056157163",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Ad Dakhliyah; Wadi Serin, Hajar as Sharqi, Oman",
+        "voucher": "NHMUK:ZOO:1975.975",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6167,
+          23.2
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.2,
+        "longitude": 58.6167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1056889866",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Muscat; Saih al Qahmah, Jebel Aswad, Oman",
+        "voucher": "NHMUK:ZOO:1976.1491",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1667,
+          24.8333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 24.8333,
+        "longitude": 56.1667,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057153232",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; 8km E. of Hatta village, U.A.E.",
+        "voucher": "NHMUK:ZOO:1985.1160",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6833,
+          23.05
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.05,
+        "longitude": 58.6833,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057189226",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Muscat; Sawt (and near), Wadi Tayin, Oman (41 and 42 minutes E)",
+        "voucher": "NHMUK:ZOO:1978.937-938",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4167,
+          23.4333
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.4333,
+        "longitude": 57.4167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1057484482",
+        "database_recorded_species": "Echis coloratus",
+        "database_recorded_subspecies": "Echis coloratus",
+        "taxonomy_updated_species": "Echis_coloratus",
+        "taxonomy_updated_subspecies2": "Echis_coloratus",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "Oman",
+        "locality": "OM; Al Batinah South; Rostaq, N. Oman",
+        "voucher": "NHMUK:ZOO:1980.586",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84;INSTITUTION_MATCH_FUZZY;COLLECTION_MATCH_NONE",
+        "geoDist": 0,
+        "phyDist": 4.661624,
+        "flag": "updated",
+        "flag_detailed": "SPECIES_UPDATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.043278,
+          25.058865
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.058865,
+        "longitude": 56.043278,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1453192002",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 263,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:4487880",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.202717,
+          25.044101
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.044101,
+        "longitude": 56.202717,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1571132596",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 10,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:6630964",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.212016,
+          25.0053
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.0053,
+        "longitude": 56.212016,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1586124380",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 10,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:7321241",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.16649,
+          25.570489
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.570489,
+        "longitude": 56.16649,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1677294276",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:8384380",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.15889,
+          25.569906
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.569906,
+        "longitude": 56.15889,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1677294576",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:8385371",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.260783,
+          25.376758
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.376758,
+        "longitude": 56.260783,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1802614268",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:485896",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.184683,
+          25.583788
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.583788,
+        "longitude": 56.184683,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1847528457",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 122,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:12490326",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.086113,
+          25.027357
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.027357,
+        "longitude": 56.086113,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880576165",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 10,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:13804827",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.202336,
+          25.021422
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.021422,
+        "longitude": 56.202336,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1880578264",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 10,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:13813105",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.209329,
+          25.022666
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.022666,
+        "longitude": 56.209329,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_1914206034",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 10,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:16774345",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.177406,
+          25.005357
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.005357,
+        "longitude": 56.177406,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294444608",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:28510322",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.066899,
+          25.094581
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.094581,
+        "longitude": 56.066899,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2294461856",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:28690561",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.069324,
+          25.089341
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.089341,
+        "longitude": 56.069324,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2423118397",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 5,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:32903049",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.197697,
+          25.440535
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.440535,
+        "longitude": 56.197697,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2444997915",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 2287,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:34800317",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.269413,
+          25.396084
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.396084,
+        "longitude": 56.269413,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2445036203",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 91,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:34801292",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.047929,
+          25.116271
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.116271,
+        "longitude": 56.047929,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2529355539",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 60,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:36669614",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.068878,
+          25.086389
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.086389,
+        "longitude": 56.068878,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596191857",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:41072542",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.187245,
+          25.583638
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.583638,
+        "longitude": 56.187245,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2596378042",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 1036,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:40684917",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.145893,
+          25.938434
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.938434,
+        "longitude": 56.145893,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2597681083",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 1629,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:41324215",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.134332,
+          25.940827
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.940827,
+        "longitude": 56.134332,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2851173977",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 22,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:56604102",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.33251,
+          23.277682
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 23.277682,
+        "longitude": 57.33251,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2860089373",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 1953,
+        "country": "Oman",
+        "locality": "OM; Ad Dakhliyah; NA",
+        "voucher": "iNaturalist:Observations:58395570",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.002312,
+          24.694715
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 24.694715,
+        "longitude": 56.002312,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_2860107410",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 1953,
+        "country": "Oman",
+        "locality": "OM; Al Buraymi; NA",
+        "voucher": "iNaturalist:Observations:58464035",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.156545,
+          25.323528
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.323528,
+        "longitude": 56.156545,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3079814832",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:73033206",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.155663,
+          25.542967
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.542967,
+        "longitude": 56.155663,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3090681935",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 2,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:74021911",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.103044,
+          25.416779
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.416779,
+        "longitude": 56.103044,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3109285734",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 4820,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:75071163",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.064472,
+          25.936372
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.936372,
+        "longitude": 56.064472,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3112311392",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 1414,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:65285846",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.052505,
+          25.102352
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.102352,
+        "longitude": 56.052505,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_3320959590",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 15,
+        "country": "United Arab Emirates",
+        "locality": "AE; Ras Al Khaymah; NA",
+        "voucher": "iNaturalist:Observations:83971836",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2578,
+          25.38219
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.38219,
+        "longitude": 56.2578,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891754452",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:437767",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.261475,
+          25.383542
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.383542,
+        "longitude": 56.261475,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891754494",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:437795",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.259,
+          25.38195
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.38195,
+        "longitude": 56.259,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891754525",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:437763",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25784,
+          25.38235
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.38235,
+        "longitude": 56.25784,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_891762424",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": 2047,
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:455688",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.275373,
+          25.399143
+        ]
+      },
+      "properties": {
+        "scientificName": "Echis_omanensis",
+        "latitude": 25.399143,
+        "longitude": 56.275373,
+        "date": "",
+        "source": "HUMAN_OBSERVATION",
+        "ID": "gbif_899943771",
+        "database_recorded_species": "Echis omanensis",
+        "database_recorded_subspecies": "Echis omanensis",
+        "taxonomy_updated_species": "Echis_omanensis",
+        "taxonomy_updated_subspecies2": "Echis_omanensis",
+        "final_species": "Echis_omanensis",
+        "final_subspecies": "Echis_omanensis",
+        "accuracy_m": "NA",
+        "country": "United Arab Emirates",
+        "locality": "AE; Fujayrah; NA",
+        "voucher": "iNaturalist:Observations:493196",
+        "issue": "COORDINATE_ROUNDED",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

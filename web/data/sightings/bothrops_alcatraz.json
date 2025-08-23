@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.6968999999999,
+          -24.1023
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_alcatraz",
+        "latitude": -24.1023,
+        "longitude": -45.6968999999999,
+        "date": "",
+        "source": "NA",
+        "ID": "ABS_010384",
+        "database_recorded_species": "Bothrops alcatraz",
+        "database_recorded_subspecies": "Bothrops alcatraz",
+        "taxonomy_updated_species": "Bothrops_alcatraz",
+        "taxonomy_updated_subspecies2": "Bothrops_alcatraz",
+        "final_species": "Bothrops_alcatraz",
+        "final_subspecies": "Bothrops_alcatraz",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA; Sao Sebastiao; Ilha de Alcatrazes",
+        "voucher": "MZUSP1453",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.692232,
+          -24.101268
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_alcatraz",
+        "latitude": -24.101268,
+        "longitude": -45.692232,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV07731",
+        "database_recorded_species": "Bothrops alcatraz",
+        "database_recorded_subspecies": "Bothrops alcatraz",
+        "taxonomy_updated_species": "Bothrops_alcatraz",
+        "taxonomy_updated_subspecies2": "Bothrops_alcatraz",
+        "final_species": "Bothrops_alcatraz",
+        "final_subspecies": "Bothrops_alcatraz",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

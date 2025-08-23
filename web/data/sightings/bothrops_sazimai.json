@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7541999999999,
+          -20.9267
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.9267,
+        "longitude": -40.7541999999999,
+        "date": "",
+        "source": "Barbo et al. 2016",
+        "ID": "ABS_037817",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "Espirito Santo; Ilha dos Franceses; Ilha dos Franceses",
+        "voucher": "MZUSP22228",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977833",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3318",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977837",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3320",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977844",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3319",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977846",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3325",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977847",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3323",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977852",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3321",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977855",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3327",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977859",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3322",
+        "issue": "GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977866",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3324",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1323977871",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses.",
+        "voucher": "MBML:MBML-REPTEIS:3326",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.755278,
+          -20.9275
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.9275,
+        "longitude": -40.755278,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_1803103015",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses, pr‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ¬¢ximo ao farol.",
+        "voucher": "MBML:MBML-REPTEIS:4165",
+        "issue": "TYPE_STATUS_INVALID;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.754167,
+          -20.926667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926667,
+        "longitude": -40.754167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3108685236",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses",
+        "voucher": "UNICAMP:ZUEC-REP:3883",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.754167,
+          -20.926667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926667,
+        "longitude": -40.754167,
+        "date": "",
+        "source": "PRESERVED_SPECIMEN",
+        "ID": "gbif_3108685652",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "BR; Esp‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ‚Äö√Ñ√∂‚àö¬¢‚Äö√Ñ‚Ä†rito Santo; Ilha dos Franceses",
+        "voucher": "UNICAMP:ZUEC-REP:3884",
+        "issue": "COORDINATE_ROUNDED;GEODETIC_DATUM_ASSUMED_WGS84",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.754167,
+          -20.926667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926667,
+        "longitude": -40.754167,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10884",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.754167,
+          -20.926667
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926667,
+        "longitude": -40.754167,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10885",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10886",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10887",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10888",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10889",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10890",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10891",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10892",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10893",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10894",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.753889,
+          -20.926389
+        ]
+      },
+      "properties": {
+        "scientificName": "Bothrops_sazimai",
+        "latitude": -20.926389,
+        "longitude": -40.753889,
+        "date": "",
+        "source": "NA",
+        "ID": "GJV10895",
+        "database_recorded_species": "Bothrops sazimai",
+        "database_recorded_subspecies": "Bothrops sazimai",
+        "taxonomy_updated_species": "Bothrops_sazimai",
+        "taxonomy_updated_subspecies2": "Bothrops_sazimai",
+        "final_species": "Bothrops_sazimai",
+        "final_subspecies": "Bothrops_sazimai",
+        "accuracy_m": "NA",
+        "country": "Brazil",
+        "locality": "NA",
+        "voucher": "NA",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}

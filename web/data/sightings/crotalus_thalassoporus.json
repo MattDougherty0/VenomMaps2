@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4626,
+          29.012965
+        ]
+      },
+      "properties": {
+        "scientificName": "Crotalus_thalassoporus",
+        "latitude": 29.012965,
+        "longitude": -113.4626,
+        "date": "",
+        "source": "VenomMaps",
+        "ID": "CLP2658",
+        "database_recorded_species": "Crotalus thalassoporus",
+        "database_recorded_subspecies": "Crotalus thalassoporus",
+        "taxonomy_updated_species": "Crotalus_thalassoporus",
+        "taxonomy_updated_subspecies2": "Crotalus_thalassoporus",
+        "final_species": "Crotalus_thalassoporus",
+        "final_subspecies": "Crotalus_thalassoporus",
+        "accuracy_m": 100,
+        "country": "Mexico",
+        "locality": "NA",
+        "voucher": "CHFCB-0435",
+        "issue": "NA",
+        "geoDist": 0,
+        "phyDist": 0,
+        "flag": "NA",
+        "flag_detailed": "NA"
+      }
+    }
+  ]
+}
