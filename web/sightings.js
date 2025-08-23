@@ -10,29 +10,51 @@ let visible = false;
 let recencyDays = null;
 let notificationElement = null;
 
+// Performance optimization settings
+const PERFORMANCE_CONFIG = {
+  MAX_POINTS_PER_RENDER: 5000,        // Maximum points to render at once
+  MAX_POINTS_PER_SPECIES: 2000,       // Maximum points per species to load
+  VIEWPORT_BUFFER: 0.1,               // Extra buffer around viewport for smooth panning
+  RENDER_THROTTLE_MS: 100,            // Throttle render calls
+  CLUSTER_MAX_ZOOM: 8,                // Use clustering below this zoom level
+  HEAT_ONLY_ZOOM: 5                   // Show only heat map below this zoom
+};
+
 // Zoom thresholds for different rendering strategies
 const ZOOM_THRESHOLDS = {
-  HEAT_ONLY: 6,      // Below this: only heat map
-  CLUSTER: 10,        // Below this: use clustering
-  INDIVIDUAL: 12      // Above this: show individual points
+  HEAT_ONLY: PERFORMANCE_CONFIG.HEAT_ONLY_ZOOM,
+  CLUSTER: PERFORMANCE_CONFIG.CLUSTER_MAX_ZOOM,
+  INDIVIDUAL: 12
 };
+
+// Performance tracking
+let renderThrottleTimer = null;
+let lastRenderTime = 0;
+let currentViewport = null;
 
 export function initSightings(map) {
   mapRef = map;
   layerGroup = L.layerGroup();
   clusterLayer = L.markerClusterGroup({
     chunkedLoading: true,
-    maxClusterRadius: 50,
-    spiderfyOnMaxZoom: true,
+    maxClusterRadius: 80,              // Increased for better performance
+    spiderfyOnMaxZoom: false,          // Disabled for performance
     showCoverageOnHover: false,
-    zoomToBoundsOnClick: true
+    zoomToBoundsOnClick: true,
+    chunkInterval: 200,                // Longer intervals between chunks
+    chunkDelay: 50                     // Delay between chunks
   });
   
   onSelectionChange(handleSelectionChange);
   
-  // Listen for zoom and movement changes
+  // Throttled rendering for better performance
   mapRef.on('moveend zoomend', () => {
-    if (visible) render();
+    if (visible && !renderThrottleTimer) {
+      renderThrottleTimer = setTimeout(() => {
+        renderThrottleTimer = null;
+        if (visible) render();
+      }, PERFORMANCE_CONFIG.RENDER_THROTTLE_MS);
+    }
   });
 }
 
@@ -50,6 +72,17 @@ export function setSightingsVisible(v) {
     }
     // Hide notification when turning off sightings
     hideNotification();
+    
+    // Remove performance warning
+    const warning = document.getElementById('performance-warning');
+    if (warning) {
+      warning.parentNode.removeChild(warning);
+    }
+    
+    // Clear performance tracking
+    renderThrottleTimer = null;
+    lastRenderTime = 0;
+    currentViewport = null;
   } else {
     // Render when showing
     render();
@@ -137,16 +170,60 @@ function hideNotification() {
   }
 }
 
+function showPerformanceWarning(pointCount) {
+  if (pointCount > PERFORMANCE_CONFIG.MAX_POINTS_PER_RENDER) {
+    if (!document.getElementById('performance-warning')) {
+      const warning = document.createElement('div');
+      warning.id = 'performance-warning';
+      warning.innerHTML = `
+        <div style="
+          position: fixed;
+          bottom: 20px;
+          left: 20px;
+          background: #dc2626;
+          color: white;
+          padding: 12px 16px;
+          border-radius: 8px;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+          z-index: 1000;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          font-size: 14px;
+          max-width: 300px;
+        ">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+              <line x1="12" y1="9" x2="12" y2="13"/>
+              <line x1="12" y1="17" x2="12.01" y2="17"/>
+            </svg>
+            <span>Performance: Showing ${pointCount.toLocaleString()} points. Zoom in for better performance.</span>
+          </div>
+        </div>
+      `;
+      document.body.appendChild(warning);
+      
+      // Auto-hide after 5 seconds
+      setTimeout(() => {
+        if (warning.parentNode) {
+          warning.parentNode.removeChild(warning);
+        }
+      }, 5000);
+    }
+  }
+}
+
 async function handleSelectionChange() { 
-  console.log('Selection change detected, calling render');
-  await render(); 
+  console.log('Selection change detected, clearing old data and calling render');
+  clearOldData();
+  await render();
+  logPerformanceMetrics();
 }
 
 async function ensureSpeciesLoaded(sci) {
   if (speciesData.has(sci)) return;
+  
   try {
     const url = `${DATA_BASE}/sightings/${sci}.json`;
-    
     const res = await fetch(url);
     if (!res.ok) { 
       console.warn(`Failed to load sightings for ${sci}: ${res.status}`);
@@ -159,7 +236,11 @@ async function ensureSpeciesLoaded(sci) {
     // Transform GeoJSON features to the format expected by the rendering code
     const transformed = [];
     if (data.features && Array.isArray(data.features)) {
-      for (const feature of data.features) {
+      // Limit the number of points per species for performance
+      const maxPoints = Math.min(data.features.length, PERFORMANCE_CONFIG.MAX_POINTS_PER_SPECIES);
+      
+      for (let i = 0; i < maxPoints; i++) {
+        const feature = data.features[i];
         const props = feature.properties;
         const coords = feature.geometry.coordinates;
         
@@ -195,6 +276,35 @@ async function ensureSpeciesLoaded(sci) {
   }
 }
 
+// Smart viewport-based data loading
+async function loadViewportData() {
+  const bounds = mapRef.getBounds();
+  const buffer = PERFORMANCE_CONFIG.VIEWPORT_BUFFER;
+  
+  // Expand bounds with buffer for smooth panning
+  const expandedBounds = L.latLngBounds(
+    [bounds.getSouth() - (bounds.getHeight() * buffer), bounds.getWest() - (bounds.getWidth() * buffer)],
+    [bounds.getNorth() + (bounds.getHeight() * buffer), bounds.getEast() + (bounds.getWidth() * buffer)]
+  );
+  
+  // Only reload if viewport changed significantly
+  if (currentViewport && 
+      currentViewport.contains(expandedBounds) && 
+      expandedBounds.contains(currentViewport)) {
+    return; // Viewport hasn't changed enough to warrant reloading
+  }
+  
+  currentViewport = expandedBounds;
+  
+  const selected = getSelection();
+  if (!selected.length) return;
+  
+  // Load data for selected species
+  for (const sci of selected) {
+    await ensureSpeciesLoaded(sci);
+  }
+}
+
 function popupHtml(s){
   let when = 'Unknown date';
   if (s.date && s.date.trim()) {
@@ -221,6 +331,13 @@ async function render(){
   if (!mapRef || !visible) return;
   
   const currentZoom = mapRef.getZoom();
+  const now = Date.now();
+  
+  // Prevent excessive rendering
+  if (now - lastRenderTime < PERFORMANCE_CONFIG.RENDER_THROTTLE_MS) {
+    return;
+  }
+  lastRenderTime = now;
   
   // Clear all existing layers
   layerGroup.clearLayers();
@@ -233,8 +350,8 @@ async function render(){
   const selected = getSelection();
   if (!selected.length) return;
   
-  // Load data for selected species
-  for (const sci of selected) await ensureSpeciesLoaded(sci);
+  // Load viewport data efficiently
+  await loadViewportData();
   
   // Strategy 1: Very zoomed out - show heat map only
   if (currentZoom < ZOOM_THRESHOLDS.HEAT_ONLY) {
@@ -294,8 +411,17 @@ async function renderClusteredPoints() {
     }
   }
   
+  // Limit total points for performance
+  const maxPoints = Math.min(filtered.length, PERFORMANCE_CONFIG.MAX_POINTS_PER_RENDER);
+  const pointsToRender = filtered.slice(0, maxPoints);
+  
+  console.log(`Clustering ${pointsToRender.length} points (filtered from ${filtered.length})`);
+  
+  // Show performance warning if needed
+  showPerformanceWarning(filtered.length);
+  
   // Add points to cluster layer
-  for (const s of filtered) {
+  for (const s of pointsToRender) {
     const days = ageDays(s.ts);
     const color = recencyColor(days);
     
@@ -327,8 +453,17 @@ async function renderIndividualPoints() {
     }
   }
   
+  // Limit total points for performance
+  const maxPoints = Math.min(filtered.length, PERFORMANCE_CONFIG.MAX_POINTS_PER_RENDER);
+  const pointsToRender = filtered.slice(0, maxPoints);
+  
+  console.log(`Showing ${pointsToRender.length} individual points (filtered from ${filtered.length})`);
+  
+  // Show performance warning if needed
+  showPerformanceWarning(filtered.length);
+  
   // Add individual points to layer group
-  for (const s of filtered) {
+  for (const s of pointsToRender) {
     const days = ageDays(s.ts);
     const color = recencyColor(days);
     
@@ -344,6 +479,30 @@ async function renderIndividualPoints() {
   }
   
   layerGroup.addTo(mapRef);
+}
+
+// Memory management
+function clearOldData() {
+  // Clear data for species that are no longer selected
+  const selected = getSelection();
+  for (const [sci, data] of speciesData.entries()) {
+    if (!selected.includes(sci)) {
+      speciesData.delete(sci);
+    }
+  }
+  
+  // Force garbage collection hint
+  if (window.gc) {
+    window.gc();
+  }
+}
+
+// Performance monitoring
+function logPerformanceMetrics() {
+  const totalPoints = Array.from(speciesData.values()).reduce((sum, arr) => sum + arr.length, 0);
+  const memoryUsage = performance.memory ? Math.round(performance.memory.usedJSHeapSize / 1024 / 1024) : 'N/A';
+  
+  console.log(`Performance: ${totalPoints} total points, ${memoryUsage}MB memory, ${Date.now() - lastRenderTime}ms since last render`);
 }
 
 
