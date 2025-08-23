@@ -17,6 +17,7 @@ let hoverTooltip = null;
 let bboxMap = null;
 let bboxKeys = null;
 let hoverThrottle = null;
+let hoverLabelsGroup = null;
 
 export async function initMap() {
   map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 18, preferCanvas: true })
@@ -26,6 +27,7 @@ export async function initMap() {
   rangeRenderer = L.canvas({ padding: 0.5 });
   allRangesGroup = L.layerGroup().addTo(map);
   hoverGroup = L.layerGroup().addTo(map);
+  hoverLabelsGroup = L.layerGroup().addTo(map);
   map.on('movestart', () => { if (deferRanges && !hasSelection) clearAllRanges(); });
   map.on('moveend', () => { if (deferRanges && !hasSelection) renderAllRanges(); });
 
@@ -246,6 +248,7 @@ async function speciesUnderCursor(latlng){
 
 function clearHoverState(){
   if (hoverGroup) hoverGroup.clearLayers();
+  if (hoverLabelsGroup) hoverLabelsGroup.clearLayers();
   if (hoverTooltip) { map.removeLayer(hoverTooltip); hoverTooltip = null; }
 }
 
@@ -262,11 +265,37 @@ async function handleHoverMove(latlng){
       style: { color: colorFor(sci), weight: 2, fillColor: colorFor(sci), fillOpacity: 0.25 },
       pane: 'overlayPane'
     }).addTo(hoverGroup);
+
+    // Add a centroid label with common (non-scientific) name
+    try {
+      const c = turf.centerOfMass(geo);
+      const coords = c && c.geometry && c.geometry.coordinates;
+      if (Array.isArray(coords) && coords.length === 2) {
+        const [lng, lat] = coords;
+        const commonOnly = (labelOf(sci) || '').split(' (')[0];
+        const marker = L.marker([lat, lng], {
+          interactive: false,
+          icon: L.divIcon({
+            className: 'species-label',
+            html: `<div style="
+              color:#e5e7eb; font-weight:600; font-size:12px; text-shadow:0 1px 2px rgba(0,0,0,0.9);
+              background:rgba(17,24,39,0.35); padding:2px 6px; border-radius:6px; pointer-events:none;
+              border:1px solid rgba(148,163,184,0.3)">
+              ${commonOnly}
+            </div>`,
+            iconSize: null,
+            iconAnchor: [0, 0]
+          })
+        });
+        marker.addTo(hoverLabelsGroup);
+      }
+    } catch {}
   }
   hoverGroup.bringToFront();
+  hoverLabelsGroup.bringToFront();
 
-  // Tooltip with species labels
-  const labels = hits.map(s => labelOf(s));
+  // Tooltip with species labels at cursor (fallback / multi list)
+  const labels = hits.map(s => (labelOf(s) || '').split(' (')[0]);
   const html = labels.map(l => `<div>${l}</div>`).join('');
   hoverTooltip = L.tooltip({ permanent: false, direction: 'top', className: 'hover-tip', offset: [0, -8] })
                    .setLatLng(latlng)
