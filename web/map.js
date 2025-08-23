@@ -19,6 +19,7 @@ let bboxKeys = null;
 let hoverThrottle = null;
 let hoverLabelsGroup = null;
 const HOVER_LABELS_MAX_ZOOM = 11; // show labels only when zoom <= 11 (clusters/heat)
+let hoverLabelRects = [];
 
 export async function initMap() {
   map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 18, preferCanvas: true })
@@ -257,6 +258,7 @@ function clearHoverState(){
   if (hoverGroup) hoverGroup.clearLayers();
   if (hoverLabelsGroup) hoverLabelsGroup.clearLayers();
   if (hoverTooltip) { map.removeLayer(hoverTooltip); hoverTooltip = null; }
+  hoverLabelRects = [];
 }
 
 function visibleLabelCoordsForGeo(geo) {
@@ -276,6 +278,47 @@ function visibleLabelCoordsForGeo(geo) {
     }
   } catch {}
   return null;
+}
+
+function labelSizeFor(text, z){
+  const fontSize = z >= 12 ? 14 : (z >= 9 ? 12 : 11);
+  // Approximate width: swatch(10)+gap(6)+textLen*avgChar(7.2)+padding(左右合計≈16)
+  const width = Math.min(260, 10 + 6 + Math.ceil(text.length * 7.2) + 16);
+  const height = fontSize + 12; // padding + line height
+  return { width, height, fontSize };
+}
+
+function rectsOverlap(a, b){
+  return !(a.x + a.w <= b.x || b.x + b.w <= a.x || a.y + a.h <= b.y || b.y + b.h <= a.y);
+}
+
+function findNonOverlappingScreenPoint(lat, lng, w, h){
+  if (!map) return [lat, lng];
+  const base = map.latLngToContainerPoint([lat, lng]);
+  const size = map.getSize();
+  const candidates = [];
+  const rings = [0, 10, 18, 26, 34, 42];
+  for (const r of rings) {
+    candidates.push([0, 0]);
+    candidates.push([r, 0], [-r, 0], [0, r], [0, -r]);
+    candidates.push([r, r], [r, -r], [-r, r], [-r, -r]);
+    candidates.push([r, 2*r], [2*r, r], [-r, 2*r], [2*r, -r], [-2*r, r], [-r, -2*r], [-2*r, -r], [2*r, -r]);
+  }
+  for (const [dx, dy] of candidates) {
+    const x = base.x + dx - w/2;
+    const y = base.y + dy - h/2;
+    const rect = { x, y, w, h };
+    if (x < 0 || y < 0 || x + w > size.x || y + h > size.y) continue;
+    let collides = false;
+    for (const r of hoverLabelRects) { if (rectsOverlap(rect, r)) { collides = true; break; } }
+    if (!collides) {
+      hoverLabelRects.push(rect);
+      const pt = L.point(base.x + dx, base.y + dy);
+      const latlng2 = map.containerPointToLatLng(pt);
+      return [latlng2.lat, latlng2.lng];
+    }
+  }
+  return [lat, lng];
 }
 
 async function handleHoverMove(latlng){
@@ -305,18 +348,20 @@ async function handleHoverMove(latlng){
       const [lng, lat] = coords;
       const commonOnly = (labelOf(sci) || '').split(' (')[0];
       const z = map.getZoom();
-      const fontSize = z >= 12 ? 14 : (z >= 9 ? 12 : 11);
+      const { width, height, fontSize } = labelSizeFor(commonOnly, z);
       const padding = z >= 12 ? '3px 8px' : '2px 6px';
       const col = colorFor(sci);
+      const placed = findNonOverlappingScreenPoint(lat, lng, width, height);
+      const [plat, plng] = placed;
       const labelHtml = `<div style="
               display:flex; align-items:center; gap:6px;
               color:#e5e7eb; font-weight:600; font-size:${fontSize}px; text-shadow:0 1px 2px rgba(0,0,0,0.9);
               background:rgba(17,24,39,0.35); padding:${padding}; border-radius:6px; pointer-events:none;
               border:1px solid rgba(148,163,184,0.3)">
-              <span style="display:inline-block; width:10px; height:10px; border-radius:2px; background:${col}; border:1px solid rgba(255,255,255,0.6)"></span>
+              <span style=\"display:inline-block; width:10px; height:10px; border-radius:2px; background:${col}; border:1px solid rgba(255,255,255,0.6)\"></span>
               ${commonOnly}
             </div>`;
-      const marker = L.marker([lat, lng], {
+      const marker = L.marker([plat, plng], {
         interactive: false,
         icon: L.divIcon({
           className: 'species-label',
