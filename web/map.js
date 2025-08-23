@@ -18,6 +18,7 @@ let bboxMap = null;
 let bboxKeys = null;
 let hoverThrottle = null;
 let hoverLabelsGroup = null;
+const HOVER_LABELS_MAX_ZOOM = 11; // show labels only when zoom <= 11 (clusters/heat)
 
 export async function initMap() {
   map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 18, preferCanvas: true })
@@ -272,6 +273,11 @@ function visibleLabelCoordsForGeo(geo) {
 }
 
 async function handleHoverMove(latlng){
+  // Disable hover labels when zoomed in to individual points
+  if (map && map.getZoom && map.getZoom() >= (HOVER_LABELS_MAX_ZOOM + 1)) {
+    clearHoverState();
+    return;
+  }
   const hits = await speciesUnderCursor(latlng);
   clearHoverState();
   if (!hits.length) return;
