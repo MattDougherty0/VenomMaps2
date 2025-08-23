@@ -5,6 +5,23 @@ export let COMMON = [];
 export const COMMON_BY_SCI = Object.create(null);
 export let SIGHTINGS_INDEX = [];
 
+function getSightingsCountFor(sci){
+  try {
+    if (Array.isArray(SIGHTINGS_INDEX)) {
+      const rec = SIGHTINGS_INDEX.find(x => x && x.sci === sci);
+      return rec && typeof rec.count === 'number' ? rec.count : 0;
+    }
+    if (SIGHTINGS_INDEX && typeof SIGHTINGS_INDEX === 'object') {
+      const speciesMap = SIGHTINGS_INDEX.species;
+      if (speciesMap && typeof speciesMap === 'object') {
+        const v = speciesMap[sci];
+        return typeof v === 'number' ? v : 0;
+      }
+    }
+  } catch {}
+  return 0;
+}
+
 let fuse;
 
 export async function loadCommon() {
@@ -96,8 +113,8 @@ export function attachSearch() {
     for (const e of items.slice(0, 30)) {
       const li = document.createElement('li');
       li.dataset.sci = e.sci;
-      const idx = SIGHTINGS_INDEX.find(x => x.sci === e.sci);
-      const countBadge = idx && idx.count ? `<span class="badge">${idx.count.toLocaleString()} sightings</span>` : '';
+      const count = getSightingsCountFor(e.sci);
+      const countBadge = count ? `<span class="badge">${count.toLocaleString()} sightings</span>` : '';
       const label = labelOf(e.sci);
       const cleanName = label.split(' (')[0];
       const sciName = sciPretty(e.sci);
