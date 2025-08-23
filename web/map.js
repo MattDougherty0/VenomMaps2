@@ -11,6 +11,14 @@ let hasSelection = false;
 let rangeRenderer;
 let heatLayer = null;
 
+// Hover state
+let hoverGroup = null;
+let hoverTooltip = null;
+let bboxMap = null;
+let bboxKeys = null;
+let hoverThrottle = null;
+let hoverLabelsGroup = null;
+
 export async function initMap() {
   map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 18, preferCanvas: true })
           .setView([39.5, -98.35], 4);
@@ -18,8 +26,20 @@ export async function initMap() {
               { maxZoom: 19, attribution: '&copy; OpenStreetMap' }).addTo(map);
   rangeRenderer = L.canvas({ padding: 0.5 });
   allRangesGroup = L.layerGroup().addTo(map);
+  hoverGroup = L.layerGroup().addTo(map);
+  hoverLabelsGroup = L.layerGroup().addTo(map);
   map.on('movestart', () => { if (deferRanges && !hasSelection) clearAllRanges(); });
   map.on('moveend', () => { if (deferRanges && !hasSelection) renderAllRanges(); });
+
+  // Hover listeners (throttled)
+  map.on('mousemove', (e) => {
+    if (hoverThrottle) return;
+    hoverThrottle = setTimeout(async () => {
+      hoverThrottle = null;
+      await handleHoverMove(e.latlng);
+    }, 120);
+  });
+  map.on('mouseout', clearHoverState);
 }
 
 export function getMap() { return map; }
@@ -165,6 +185,141 @@ export async function toggleHeatLayer(on, m) {
     }).addTo(targetMap);
     if (allRangesGroup && targetMap.hasLayer(allRangesGroup)) allRangesGroup.bringToBack();
   } catch {}
+}
+
+async function ensureBboxesLoaded(){
+  if (bboxMap) return;
+  try {
+    const res = await fetch(`${DATA_BASE}/distributions_bbox.json`);
+    if (res.ok) {
+      bboxMap = await res.json();
+      bboxKeys = Object.keys(bboxMap);
+    } else {
+      bboxMap = {}; bboxKeys = [];
+    }
+  } catch {
+    bboxMap = {}; bboxKeys = [];
+  }
+}
+
+function pointInBbox(lng, lat, bb){
+  // bb = [minX, minY, maxX, maxY]
+  return !(lng < bb[0] || lng > bb[2] || lat < bb[1] || lat > bb[3]);
+}
+
+async function speciesUnderCursor(latlng){
+  await ensureBboxesLoaded();
+  const lng = latlng.lng, lat = latlng.lat;
+  if (!bboxKeys || !bboxKeys.length) return [];
+
+  // Narrow by bbox first
+  const candidates = [];
+  for (const sci of bboxKeys) {
+    const bb = bboxMap[sci];
+    if (!bb) continue;
+    if (pointInBbox(lng, lat, bb)) candidates.push(sci);
+  }
+  if (!candidates.length) return [];
+
+  // Precise test with polygons
+  const p = turf.point([lng, lat]);
+  const hits = [];
+  for (const sci of candidates.slice(0, 40)) { // cap for safety
+    const geo = await loadGeoJSON(sci);
+    if (!geo) continue;
+    try {
+      if (geo.type === 'FeatureCollection') {
+        let matched = false;
+        for (const f of geo.features) {
+          const g = f && f.geometry;
+          if (!g) continue;
+          if (g.type === 'Polygon' || g.type === 'MultiPolygon') {
+            const feature = { type: 'Feature', properties: {}, geometry: g };
+            if (turf.booleanPointInPolygon(p, feature)) { matched = true; break; }
+          }
+        }
+        if (matched) hits.push(sci);
+      }
+    } catch {}
+    if (hits.length >= 6) break; // avoid too many highlights
+  }
+  return hits;
+}
+
+function clearHoverState(){
+  if (hoverGroup) hoverGroup.clearLayers();
+  if (hoverLabelsGroup) hoverLabelsGroup.clearLayers();
+  if (hoverTooltip) { map.removeLayer(hoverTooltip); hoverTooltip = null; }
+}
+
+function visibleLabelCoordsForGeo(geo) {
+  try {
+    const multi = combineToMulti(geo);
+    if (!multi || !map) return null;
+    const b = map.getBounds();
+    const viewPoly = turf.bboxPolygon([b.getWest(), b.getSouth(), b.getEast(), b.getNorth()]);
+    let clipped = null;
+    try {
+      clipped = turf.intersect(multi, viewPoly) || null;
+    } catch {}
+    const target = clipped || multi;
+    const p = turf.pointOnFeature(target);
+    if (p && p.geometry && Array.isArray(p.geometry.coordinates) && p.geometry.coordinates.length === 2) {
+      return p.geometry.coordinates;
+    }
+  } catch {}
+  return null;
+}
+
+async function handleHoverMove(latlng){
+  const hits = await speciesUnderCursor(latlng);
+  clearHoverState();
+  if (!hits.length) return;
+
+  // Highlight matching ranges
+  for (const sci of hits) {
+    const geo = await loadGeoJSON(sci);
+    if (!geo) continue;
+    L.geoJSON(geo, {
+      style: { color: colorFor(sci), weight: 2, fillColor: colorFor(sci), fillOpacity: 0.25 },
+      pane: 'overlayPane'
+    }).addTo(hoverGroup);
+
+    // Add a viewport-aware label with common (non-scientific) name
+    try {
+      const coords = visibleLabelCoordsForGeo(geo) || [latlng.lng, latlng.lat];
+      const [lng, lat] = coords;
+      const commonOnly = (labelOf(sci) || '').split(' (')[0];
+      const z = map.getZoom();
+      const fontSize = z >= 12 ? 14 : (z >= 9 ? 12 : 11);
+      const padding = z >= 12 ? '3px 8px' : '2px 6px';
+      const marker = L.marker([lat, lng], {
+        interactive: false,
+        icon: L.divIcon({
+          className: 'species-label',
+          html: `<div style="
+              color:#e5e7eb; font-weight:600; font-size:${fontSize}px; text-shadow:0 1px 2px rgba(0,0,0,0.9);
+              background:rgba(17,24,39,0.35); padding:${padding}; border-radius:6px; pointer-events:none;
+              border:1px solid rgba(148,163,184,0.3)">
+              ${commonOnly}
+            </div>`,
+          iconSize: null,
+          iconAnchor: [0, 0]
+        })
+      });
+      marker.addTo(hoverLabelsGroup);
+    } catch {}
+  }
+  hoverGroup.bringToFront();
+  hoverLabelsGroup.bringToFront();
+
+  // Tooltip with species labels at cursor (fallback / multi list)
+  const labels = hits.map(s => (labelOf(s) || '').split(' (')[0]);
+  const html = labels.map(l => `<div>${l}</div>`).join('');
+  hoverTooltip = L.tooltip({ permanent: false, direction: 'top', className: 'hover-tip', offset: [0, -8] })
+                   .setLatLng(latlng)
+                   .setContent(html)
+                   .addTo(map);
 }
 
 
