@@ -89,6 +89,23 @@ export function attachSearch() {
   const input = document.getElementById('search');
   const ul = document.getElementById('results');
   const hint = document.getElementById('hint');
+
+  function defaultItems() {
+    try {
+      if (Array.isArray(SIGHTINGS_INDEX) && SIGHTINGS_INDEX.length) {
+        const sorted = [...SIGHTINGS_INDEX].sort((a, b) => (b.count || 0) - (a.count || 0));
+        const mapped = [];
+        for (const r of sorted) {
+          const e = COMMON_BY_SCI[r.sci];
+          if (e) mapped.push(e);
+          if (mapped.length >= 30) break;
+        }
+        if (mapped.length) return mapped;
+      }
+    } catch {}
+    return COMMON.slice(0, 30);
+  }
+
   function render(items) {
     ul.innerHTML = '';
     if (!items.length) { hint.textContent = 'No matches. Try “rattlesnake” or “copperhead”.'; return; }
@@ -114,9 +131,17 @@ export function attachSearch() {
       ul.appendChild(li);
     }
   }
+
+  // Initial autoload of default list
+  render(defaultItems());
+
+  input.addEventListener('focus', () => {
+    if (!input.value.trim()) render(defaultItems());
+  });
+
   input.addEventListener('input', () => {
     const q = input.value;
-    if (!q.trim()) { ul.innerHTML = ''; hint.textContent = 'Type to search e.g. “cottonmouth”, “timber rattlesnake”…'; return; }
+    if (!q.trim()) { render(defaultItems()); return; }
     render(querySpecies(q));
   });
 }
