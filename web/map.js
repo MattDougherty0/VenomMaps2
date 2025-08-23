@@ -282,9 +282,14 @@ function visibleLabelCoordsForGeo(geo) {
 
 function labelSizeFor(text, z){
   const fontSize = z >= 12 ? 14 : (z >= 9 ? 12 : 11);
-  // Approximate width: swatch(10)+gap(6)+textLen*avgChar(7.2)+padding(左右合計≈16)
-  const width = Math.min(260, 10 + 6 + Math.ceil(text.length * 7.2) + 16);
-  const height = fontSize + 12; // padding + line height
+  const charW = 8.2; // slightly conservative to avoid underestimation
+  const maxLineChars = 18;
+  const lines = Math.max(1, Math.ceil(text.length / maxLineChars));
+  const perLine = Math.ceil(text.length / lines);
+  const swatch = 10 + 6; // swatch + gap
+  const padding = 16; // left + right
+  const width = Math.min(260, swatch + Math.ceil(perLine * charW) + padding);
+  const height = lines * (fontSize + 6) + 6; // line heights + vertical padding
   return { width, height, fontSize };
 }
 
@@ -296,19 +301,21 @@ function findNonOverlappingScreenPoint(lat, lng, w, h){
   if (!map) return [lat, lng];
   const base = map.latLngToContainerPoint([lat, lng]);
   const size = map.getSize();
+  const M = 8; // margin to keep labels separated
   const candidates = [];
-  const rings = [0, 10, 18, 26, 34, 42];
+  const rings = [0, 12, 20, 28, 36, 48, 60];
   for (const r of rings) {
-    candidates.push([0, 0]);
-    candidates.push([r, 0], [-r, 0], [0, r], [0, -r]);
-    candidates.push([r, r], [r, -r], [-r, r], [-r, -r]);
-    candidates.push([r, 2*r], [2*r, r], [-r, 2*r], [2*r, -r], [-2*r, r], [-r, -2*r], [-2*r, -r], [2*r, -r]);
+    if (r === 0) {
+      candidates.push([0, 0]);
+    } else {
+      candidates.push([r, 0], [-r, 0], [0, r], [0, -r], [r, r], [r, -r], [-r, r], [-r, -r]);
+    }
   }
   for (const [dx, dy] of candidates) {
-    const x = base.x + dx - w/2;
-    const y = base.y + dy - h/2;
-    const rect = { x, y, w, h };
-    if (x < 0 || y < 0 || x + w > size.x || y + h > size.y) continue;
+    const x = base.x + dx - (w + M)/2;
+    const y = base.y + dy - (h + M)/2;
+    const rect = { x, y, w: w + M, h: h + M };
+    if (x < 0 || y < 0 || x + rect.w > size.x || y + rect.h > size.y) continue;
     let collides = false;
     for (const r of hoverLabelRects) { if (rectsOverlap(rect, r)) { collides = true; break; } }
     if (!collides) {
