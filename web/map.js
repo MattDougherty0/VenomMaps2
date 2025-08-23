@@ -293,16 +293,20 @@ async function handleHoverMove(latlng){
       const z = map.getZoom();
       const fontSize = z >= 12 ? 14 : (z >= 9 ? 12 : 11);
       const padding = z >= 12 ? '3px 8px' : '2px 6px';
+      const col = colorFor(sci);
+      const labelHtml = `<div style="
+              display:flex; align-items:center; gap:6px;
+              color:#e5e7eb; font-weight:600; font-size:${fontSize}px; text-shadow:0 1px 2px rgba(0,0,0,0.9);
+              background:rgba(17,24,39,0.35); padding:${padding}; border-radius:6px; pointer-events:none;
+              border:1px solid rgba(148,163,184,0.3)">
+              <span style="display:inline-block; width:10px; height:10px; border-radius:2px; background:${col}; border:1px solid rgba(255,255,255,0.6)"></span>
+              ${commonOnly}
+            </div>`;
       const marker = L.marker([lat, lng], {
         interactive: false,
         icon: L.divIcon({
           className: 'species-label',
-          html: `<div style="
-              color:#e5e7eb; font-weight:600; font-size:${fontSize}px; text-shadow:0 1px 2px rgba(0,0,0,0.9);
-              background:rgba(17,24,39,0.35); padding:${padding}; border-radius:6px; pointer-events:none;
-              border:1px solid rgba(148,163,184,0.3)">
-              ${commonOnly}
-            </div>`,
+          html: labelHtml,
           iconSize: null,
           iconAnchor: [0, 0]
         })
@@ -314,8 +318,14 @@ async function handleHoverMove(latlng){
   hoverLabelsGroup.bringToFront();
 
   // Tooltip with species labels at cursor (fallback / multi list)
-  const labels = hits.map(s => (labelOf(s) || '').split(' (')[0]);
-  const html = labels.map(l => `<div>${l}</div>`).join('');
+  const html = hits.map(sci => {
+    const name = (labelOf(sci) || '').split(' (')[0];
+    const col = colorFor(sci);
+    return `<div style="display:flex; align-items:center; gap:6px;">
+              <span style="display:inline-block; width:10px; height:10px; border-radius:2px; background:${col}; border:1px solid rgba(255,255,255,0.6)"></span>
+              ${name}
+            </div>`;
+  }).join('');
   hoverTooltip = L.tooltip({ permanent: false, direction: 'top', className: 'hover-tip', offset: [0, -8] })
                    .setLatLng(latlng)
                    .setContent(html)
