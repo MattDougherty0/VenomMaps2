@@ -32,6 +32,12 @@ export async function initMap() {
   map.on('movestart', () => { if (deferRanges && !hasSelection) clearAllRanges(); });
   map.on('moveend', () => { if (deferRanges && !hasSelection) renderAllRanges(); });
 
+  // Clear hover overlays immediately when toggles change
+  const sToggle = document.getElementById('sightings-toggle');
+  if (sToggle) sToggle.addEventListener('change', clearHoverState);
+  const hToggle = document.getElementById('heat-toggle');
+  if (hToggle) hToggle.addEventListener('change', clearHoverState);
+
   // Hover listeners (throttled)
   map.on('mousemove', (e) => {
     if (hoverThrottle) return;
@@ -273,8 +279,10 @@ function visibleLabelCoordsForGeo(geo) {
 }
 
 async function handleHoverMove(latlng){
-  // Disable hover labels when zoomed in to individual points
-  if (map && map.getZoom && map.getZoom() >= (HOVER_LABELS_MAX_ZOOM + 1)) {
+  // Disable hover overlays when sightings or heat layers are active
+  const sToggle = document.getElementById('sightings-toggle');
+  const hToggle = document.getElementById('heat-toggle');
+  if ((sToggle && sToggle.checked) || (hToggle && hToggle.checked)) {
     clearHoverState();
     return;
   }
