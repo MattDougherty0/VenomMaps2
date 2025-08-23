@@ -138,15 +138,32 @@ export async function toggleHeatLayer(on, m) {
     const res = await fetch(`${DATA_BASE}/heat_all_r6.geojson`);
     if (!res.ok) return;
     const geo = await res.json();
-    heatLayer = L.geoJSON(geo, {
-      style: f => {
-        const c = f.properties?.count || 1;
-        const opacity = Math.min(0.05 + Math.log(1 + c) * 0.05, 0.4);
-        return { color: '#ef4444', weight: 0, fillColor: '#ef4444', fillOpacity: opacity };
-      },
-      interactive: false
+
+    const points = [];
+    if (geo && geo.features && Array.isArray(geo.features)) {
+      const features = geo.features;
+      // Downsample for performance if extremely large
+      const step = features.length > 50000 ? Math.ceil(features.length / 50000) : 1;
+      for (let i = 0; i < features.length; i += step) {
+        const f = features[i];
+        if (!f || !f.geometry || f.geometry.type !== 'Point') continue;
+        const [lng, lat] = f.geometry.coordinates || [];
+        if (typeof lat !== 'number' || typeof lng !== 'number') continue;
+        const intensity = (f.properties && typeof f.properties.count === 'number') ? f.properties.count : 1;
+        // Leaflet.heat expects [lat, lng, intensity]
+        points.push([lat, lng, Math.max(0.2, Math.min(1, Math.log(1 + intensity) / 3))]);
+      }
+    }
+
+    heatLayer = L.heatLayer(points, {
+      radius: 18,
+      blur: 15,
+      maxZoom: 11,
+      minOpacity: 0.25,
+      // Gradient tuned for visibility on dark basemap
+      gradient: { 0.2: '#1e3a8a', 0.4: '#2563eb', 0.6: '#f59e0b', 0.8: '#ef4444', 1.0: '#dc2626' }
     }).addTo(targetMap);
-    heatLayer.bringToBack();
+    if (allRangesGroup && targetMap.hasLayer(allRangesGroup)) allRangesGroup.bringToBack();
   } catch {}
 }
 
