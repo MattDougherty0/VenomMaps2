@@ -259,11 +259,16 @@ async function ensureSpeciesLoaded(sci) {
           ts: ts,
           highlight: false,
           count: 1,
+          // Carry through the species identifier for popup labeling
+          sci: sci,
           // Include additional properties for popup
           date: props.date,
           source: props.source,
           locality: props.locality,
           country: props.country,
+          // Try to carry more granular location fields when present
+          state: props.state || props.stateProvince || props.province || props.admin1 || undefined,
+          county: props.county || props.admin2 || undefined,
           scientificName: props.scientificName
         });
       }
@@ -303,23 +308,43 @@ async function loadViewportData() {
 }
 
 function popupHtml(s){
-  let when = 'Unknown date';
+  let when = 'Date: Unknown';
   if (s.date && s.date.trim()) {
     try {
-      when = new Date(s.date).toISOString().slice(0,10);
+      when = `Date: ${new Date(s.date).toISOString().slice(0,10)}`;
     } catch {
-      when = s.date;
+      when = `Date: ${s.date}`;
     }
   }
-  
+
   const extra = s.count && s.count > 1 ? ` (x${s.count})` : '';
-  const locality = s.locality ? `<div>${s.locality}</div>` : '';
+  // Build a more seamless location line
+  let locationLine = '';
+  const parts = [];
+  if (s.state && String(s.state).trim()) parts.push(String(s.state).trim());
+  if (s.county && String(s.county).trim()) parts.push(`${String(s.county).trim()} County`);
+  if (s.country && String(s.country).trim()) parts.push(String(s.country).trim());
+  if (parts.length) {
+    locationLine = `<div>Location: ${parts.join(', ')}</div>`;
+  } else if (s.locality && String(s.locality).trim()) {
+    // Fallback to raw locality text if structured parts are absent
+    locationLine = `<div>Location: ${s.locality}</div>`;
+  }
   const source = s.source ? `<div><em>Source: ${s.source}</em></div>` : '';
-  
+
+  // Derive names
+  let commonName = 'Sighting';
+  if (s.sci) {
+    const label = labelOf(s.sci); // "Common (Sci pretty)"
+    commonName = label.split(' (')[0];
+  }
+  const sciName = s.sci ? sciPretty(s.sci) : (s.scientificName ? String(s.scientificName).replace(/_/g, ' ') : '');
+
   return `<div>
-    <div style="font-weight:600;">${s.scientificName || 'Sighting'}${extra}</div>
+    <div style="font-weight:600;">${commonName}${extra}</div>
+    ${sciName ? `<div style="font-style:italic;">(${sciName})</div>` : ''}
     <div>${when}</div>
-    ${locality}
+    ${locationLine}
     ${source}
   </div>`;
 }
