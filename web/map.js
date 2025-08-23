@@ -11,6 +11,13 @@ let hasSelection = false;
 let rangeRenderer;
 let heatLayer = null;
 
+// Hover state
+let hoverGroup = null;
+let hoverTooltip = null;
+let bboxMap = null;
+let bboxKeys = null;
+let hoverThrottle = null;
+
 export async function initMap() {
   map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 18, preferCanvas: true })
           .setView([39.5, -98.35], 4);
@@ -18,8 +25,19 @@ export async function initMap() {
               { maxZoom: 19, attribution: '&copy; OpenStreetMap' }).addTo(map);
   rangeRenderer = L.canvas({ padding: 0.5 });
   allRangesGroup = L.layerGroup().addTo(map);
+  hoverGroup = L.layerGroup().addTo(map);
   map.on('movestart', () => { if (deferRanges && !hasSelection) clearAllRanges(); });
   map.on('moveend', () => { if (deferRanges && !hasSelection) renderAllRanges(); });
+
+  // Hover listeners (throttled)
+  map.on('mousemove', (e) => {
+    if (hoverThrottle) return;
+    hoverThrottle = setTimeout(async () => {
+      hoverThrottle = null;
+      await handleHoverMove(e.latlng);
+    }, 120);
+  });
+  map.on('mouseout', clearHoverState);
 }
 
 export function getMap() { return map; }
@@ -165,6 +183,95 @@ export async function toggleHeatLayer(on, m) {
     }).addTo(targetMap);
     if (allRangesGroup && targetMap.hasLayer(allRangesGroup)) allRangesGroup.bringToBack();
   } catch {}
+}
+
+async function ensureBboxesLoaded(){
+  if (bboxMap) return;
+  try {
+    const res = await fetch(`${DATA_BASE}/distributions_bbox.json`);
+    if (res.ok) {
+      bboxMap = await res.json();
+      bboxKeys = Object.keys(bboxMap);
+    } else {
+      bboxMap = {}; bboxKeys = [];
+    }
+  } catch {
+    bboxMap = {}; bboxKeys = [];
+  }
+}
+
+function pointInBbox(lng, lat, bb){
+  // bb = [minX, minY, maxX, maxY]
+  return !(lng < bb[0] || lng > bb[2] || lat < bb[1] || lat > bb[3]);
+}
+
+async function speciesUnderCursor(latlng){
+  await ensureBboxesLoaded();
+  const lng = latlng.lng, lat = latlng.lat;
+  if (!bboxKeys || !bboxKeys.length) return [];
+
+  // Narrow by bbox first
+  const candidates = [];
+  for (const sci of bboxKeys) {
+    const bb = bboxMap[sci];
+    if (!bb) continue;
+    if (pointInBbox(lng, lat, bb)) candidates.push(sci);
+  }
+  if (!candidates.length) return [];
+
+  // Precise test with polygons
+  const p = turf.point([lng, lat]);
+  const hits = [];
+  for (const sci of candidates.slice(0, 40)) { // cap for safety
+    const geo = await loadGeoJSON(sci);
+    if (!geo) continue;
+    try {
+      if (geo.type === 'FeatureCollection') {
+        let matched = false;
+        for (const f of geo.features) {
+          const g = f && f.geometry;
+          if (!g) continue;
+          if (g.type === 'Polygon' || g.type === 'MultiPolygon') {
+            const feature = { type: 'Feature', properties: {}, geometry: g };
+            if (turf.booleanPointInPolygon(p, feature)) { matched = true; break; }
+          }
+        }
+        if (matched) hits.push(sci);
+      }
+    } catch {}
+    if (hits.length >= 6) break; // avoid too many highlights
+  }
+  return hits;
+}
+
+function clearHoverState(){
+  if (hoverGroup) hoverGroup.clearLayers();
+  if (hoverTooltip) { map.removeLayer(hoverTooltip); hoverTooltip = null; }
+}
+
+async function handleHoverMove(latlng){
+  const hits = await speciesUnderCursor(latlng);
+  clearHoverState();
+  if (!hits.length) return;
+
+  // Highlight matching ranges
+  for (const sci of hits) {
+    const geo = await loadGeoJSON(sci);
+    if (!geo) continue;
+    L.geoJSON(geo, {
+      style: { color: colorFor(sci), weight: 2, fillColor: colorFor(sci), fillOpacity: 0.25 },
+      pane: 'overlayPane'
+    }).addTo(hoverGroup);
+  }
+  hoverGroup.bringToFront();
+
+  // Tooltip with species labels
+  const labels = hits.map(s => labelOf(s));
+  const html = labels.map(l => `<div>${l}</div>`).join('');
+  hoverTooltip = L.tooltip({ permanent: false, direction: 'top', className: 'hover-tip', offset: [0, -8] })
+                   .setLatLng(latlng)
+                   .setContent(html)
+                   .addTo(map);
 }
 
 
