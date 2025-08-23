@@ -281,11 +281,8 @@ async function loadViewportData() {
   const bounds = mapRef.getBounds();
   const buffer = PERFORMANCE_CONFIG.VIEWPORT_BUFFER;
   
-  // Expand bounds with buffer for smooth panning
-  const expandedBounds = L.latLngBounds(
-    [bounds.getSouth() - (bounds.getHeight() * buffer), bounds.getWest() - (bounds.getWidth() * buffer)],
-    [bounds.getNorth() + (bounds.getHeight() * buffer), bounds.getEast() + (bounds.getWidth() * buffer)]
-  );
+  // Expand bounds with buffer for smooth panning using Leaflet's pad()
+  const expandedBounds = bounds.pad(buffer);
   
   // Only reload if viewport changed significantly
   if (currentViewport && 
