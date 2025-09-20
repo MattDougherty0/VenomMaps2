@@ -13,6 +13,34 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <div id="welcome-overlay" style="position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:radial-gradient(80% 80% at 50% 50%, rgba(15,23,42,0.94) 0%, rgba(2,6,23,0.98) 100%); z-index:3000;">
+      <div style="background:#0f172a; border:1px solid #1f2937; border-radius:12px; padding:28px 24px; width:min(720px, 94%); box-shadow:0 12px 40px rgba(0,0,0,0.45); text-align:center; color:#e5e7eb;">
+        <div id="welcome-card">
+          <div style="font-size:24px; font-weight:800; letter-spacing:-0.02em; margin-bottom:10px;">Welcome to Venom Maps</div>
+          <div style="color:#94a3b8; margin-bottom:18px;">Explore distributions and sightings of venomous snakes across the United States.</div>
+          <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+            <button id="enter-app" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:10px 16px; border-radius:999px; background:#2563eb; color:white; border:1px solid rgba(255,255,255,0.08); font-weight:600; cursor:pointer; box-shadow:0 6px 20px rgba(37,99,235,0.35);">Enter</button>
+            <button id="about-app" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:10px 16px; border-radius:999px; background:#334155; color:#e5e7eb; border:1px solid #475569; font-weight:600; cursor:pointer;">About</button>
+          </div>
+        </div>
+        <div id="about-card" style="display:none; text-align:left;">
+          <div style="font-size:20px; font-weight:700; margin:4px 0 12px 0;">About Venom Maps</div>
+          <div style="color:#cbd5e1; line-height:1.6;">
+            <p>Venom Maps is an interactive visualization of venomous snake distributions and crowd‑sourced sightings across the United States. It combines curated range polygons with historical observation records to help researchers, educators, and enthusiasts explore where species occur and how people encounter them.</p>
+            <ul style="margin:0 0 12px 18px; padding:0;">
+              <li>Range overlays: species distribution polygons</li>
+              <li>Sightings: clustered points and heat maps by zoom</li>
+              <li>Search: fuzzy search by common/scientific names</li>
+              <li>Filters: recency and occurrence type</li>
+            </ul>
+            <p style="margin:0 0 12px 0;">Data sources credited in <code>web/meta.json</code> and within the app.</p>
+          </div>
+          <div style="display:flex; gap:10px; justify-content:flex-end;">
+            <button id="about-back" class="secondary-btn" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:8px 14px; border-radius:8px; background:#1f2937; color:#e5e7eb; border:1px solid #334155; font-weight:600; cursor:pointer;">Back</button>
+          </div>
+        </div>
+      </div>
+    </div>
     <header class="topbar">
       <div class="brand">VenomMaps (USA)</div>
       <input id="search" class="search" placeholder="Search by common or scientific name…" autocomplete="off" />
@@ -132,81 +160,108 @@ L.heatLayer(points, {
       import { initMap, setSelection, onMapMove, getViewBounds, getMap, setDeferRanges } from './map.js';
       import { initSightings, setSightingsVisible, setRecencyDays, setOccurrenceTypes } from './sightings.js';
 
-      await loadCommon();
-      await initMap();
+      async function boot(){
+        await loadCommon();
+        await initMap();
 
-      initSightings(getMap());
+        initSightings(getMap());
 
-      attachSearch();
-      attachNearby({ onMove: onMapMove, getBounds: getViewBounds });
-      attachSelectedPanel();
-      onSelectionChange(setSelection);
+        attachSearch();
+        attachNearby({ onMove: onMapMove, getBounds: getViewBounds });
+        attachSelectedPanel();
+        onSelectionChange(setSelection);
 
-      selectAllSpecies();
+        selectAllSpecies();
 
-      const toggle = document.getElementById('sightings-toggle');
-      const occTypeSection = document.getElementById('occ-type-section');
-      const occTypeList = document.getElementById('occ-type-list');
-      const DEFAULT_TYPES = ['HUMAN_OBSERVATION','PRESERVED_SPECIMEN','MATERIAL_SAMPLE','MACHINE_OBSERVATION','OBSERVATION','OCCURRENCE'];
+        const toggle = document.getElementById('sightings-toggle');
+        const occTypeSection = document.getElementById('occ-type-section');
+        const occTypeList = document.getElementById('occ-type-list');
+        const DEFAULT_TYPES = ['HUMAN_OBSERVATION','PRESERVED_SPECIMEN','MATERIAL_SAMPLE','MACHINE_OBSERVATION','OBSERVATION','OCCURRENCE'];
 
-      function renderOccurrenceTypeControls(types){
-        occTypeList.innerHTML = '';
-        for (const t of types) {
-          const id = `occ-${t.toLowerCase()}`;
-          const label = document.createElement('label');
-          label.style.display = 'flex';
-          label.style.alignItems = 'center';
-          label.style.gap = '8px';
-          label.innerHTML = `<input type="checkbox" id="${id}" checked> ${t.replace(/_/g,' ')}`;
-          occTypeList.appendChild(label);
-          label.querySelector('input').addEventListener('change', () => {
-            const selected = Array.from(occTypeList.querySelectorAll('input[type="checkbox"]'))
-              .filter(cb => cb.checked)
-              .map(cb => cb.id.replace(/^occ-/, '').toUpperCase().replace(/-/g,'_'));
-            setOccurrenceTypes(selected);
+        function renderOccurrenceTypeControls(types){
+          occTypeList.innerHTML = '';
+          for (const t of types) {
+            const id = `occ-${t.toLowerCase()}`;
+            const label = document.createElement('label');
+            label.style.display = 'flex';
+            label.style.alignItems = 'center';
+            label.style.gap = '8px';
+            label.innerHTML = `<input type="checkbox" id="${id}" checked> ${t.replace(/_/g,' ')}`;
+            occTypeList.appendChild(label);
+            label.querySelector('input').addEventListener('change', () => {
+              const selected = Array.from(occTypeList.querySelectorAll('input[type="checkbox"]'))
+                .filter(cb => cb.checked)
+                .map(cb => cb.id.replace(/^occ-/, '').toUpperCase().replace(/-/g,'_'));
+              setOccurrenceTypes(selected);
+            });
+          }
+          setOccurrenceTypes(types);
+        }
+
+        toggle.addEventListener('change', () => {
+          setSightingsVisible(toggle.checked);
+          occTypeSection.style.display = toggle.checked ? '' : 'none';
+        });
+
+        // Initialize occurrence type UI with defaults
+        renderOccurrenceTypeControls(DEFAULT_TYPES);
+        occTypeSection.style.display = '';
+
+        const defer = document.getElementById('defer-ranges');
+        defer.addEventListener('change', () => setDeferRanges(defer.checked));
+
+        const heatToggle = document.getElementById('heat-toggle');
+        heatToggle.addEventListener('change', async () => {
+          const m = getMap();
+          const { toggleHeatLayer } = await import('./map.js');
+          toggleHeatLayer(heatToggle.checked, m);
+        });
+
+        const heatInfoBtn = document.getElementById('heat-info-btn');
+        const heatInfoModal = document.getElementById('heat-info-modal');
+        const heatInfoClose = document.getElementById('heat-info-close');
+        if (heatInfoBtn && heatInfoModal && heatInfoClose) {
+          heatInfoBtn.addEventListener('click', () => { heatInfoModal.style.display = 'flex'; });
+          heatInfoClose.addEventListener('click', () => { heatInfoModal.style.display = 'none'; });
+          heatInfoModal.addEventListener('click', (e) => { if (e.target === heatInfoModal) heatInfoModal.style.display = 'none'; });
+        }
+
+        // Chip active states
+        for (const btn of document.querySelectorAll('.chip')) {
+          btn.addEventListener('click', () => {
+            document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+            btn.classList.add('active');
+            const v = btn.dataset.days;
+            setRecencyDays(v === 'all' ? null : parseInt(v, 10));
           });
         }
-        setOccurrenceTypes(types);
       }
 
-      toggle.addEventListener('change', () => {
-        setSightingsVisible(toggle.checked);
-        occTypeSection.style.display = toggle.checked ? '' : 'none';
-      });
-
-      // Initialize occurrence type UI with defaults
-      renderOccurrenceTypeControls(DEFAULT_TYPES);
-      occTypeSection.style.display = '';
-
-
-
-      const defer = document.getElementById('defer-ranges');
-      defer.addEventListener('change', () => setDeferRanges(defer.checked));
-
-      const heatToggle = document.getElementById('heat-toggle');
-      heatToggle.addEventListener('change', async () => {
-        const m = getMap();
-        const { toggleHeatLayer } = await import('./map.js');
-        toggleHeatLayer(heatToggle.checked, m);
-      });
-
-      const heatInfoBtn = document.getElementById('heat-info-btn');
-      const heatInfoModal = document.getElementById('heat-info-modal');
-      const heatInfoClose = document.getElementById('heat-info-close');
-      if (heatInfoBtn && heatInfoModal && heatInfoClose) {
-        heatInfoBtn.addEventListener('click', () => { heatInfoModal.style.display = 'flex'; });
-        heatInfoClose.addEventListener('click', () => { heatInfoModal.style.display = 'none'; });
-        heatInfoModal.addEventListener('click', (e) => { if (e.target === heatInfoModal) heatInfoModal.style.display = 'none'; });
+      const overlay = document.getElementById('welcome-overlay');
+      const enterBtn = document.getElementById('enter-app');
+      const aboutBtn = document.getElementById('about-app');
+      const aboutCard = document.getElementById('about-card');
+      const welcomeCard = document.getElementById('welcome-card');
+      const aboutBack = document.getElementById('about-back');
+      if (enterBtn) {
+        enterBtn.addEventListener('click', async () => {
+          enterBtn.disabled = true;
+          enterBtn.textContent = 'Loading…';
+          try { await boot(); } finally {
+            if (overlay) overlay.style.display = 'none';
+          }
+        });
       }
-
-
-      // Chip active states
-      for (const btn of document.querySelectorAll('.chip')) {
-        btn.addEventListener('click', () => {
-          document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-          btn.classList.add('active');
-          const v = btn.dataset.days;
-          setRecencyDays(v === 'all' ? null : parseInt(v, 10));
+      if (aboutBtn && aboutCard && welcomeCard) {
+        aboutBtn.addEventListener('click', () => {
+          welcomeCard.style.display = 'none';
+          aboutCard.style.display = '';
+        });
+      }
+      if (aboutBack && aboutCard && welcomeCard) {
+        aboutBack.addEventListener('click', () => {
+          aboutCard.style.display = 'none';
+          welcomeCard.style.display = '';
         });
       }
     </script>

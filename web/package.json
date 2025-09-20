@@ -2,6 +2,11 @@
   "name": "web",
   "private": true,
   "type": "module",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "python3 -m http.server 8123 --directory ./",
+    "serve:node": "npx --yes http-server -p 8123 -c-1 ./",
+    "open": "open http://localhost:8123"
+  }
 }
 
