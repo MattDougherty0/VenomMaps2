@@ -361,5 +361,26 @@ label {
   outline-offset: 2px;
 }
 
+/* Welcome overlay button hover/focus */
+#enter-app:hover {
+  filter: brightness(1.05);
+}
+#enter-app:disabled {
+  opacity: 0.7;
+  cursor: progress;
+}
+
+/* Secondary button styles (About/Back) */
+.secondary-btn {
+  background: #1f2937;
+  color: #e5e7eb;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 8px 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.secondary-btn:hover { filter: brightness(1.05); }
+
 
 
