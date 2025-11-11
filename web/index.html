@@ -13,8 +13,8 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div id="welcome-overlay" style="position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:radial-gradient(80% 80% at 50% 50%, rgba(15,23,42,0.94) 0%, rgba(2,6,23,0.98) 100%); z-index:3000;">
-      <div style="background:#0f172a; border:1px solid #1f2937; border-radius:12px; padding:28px 24px; width:min(720px, 94%); box-shadow:0 12px 40px rgba(0,0,0,0.45); text-align:center; color:#e5e7eb;">
+    <div id="welcome-overlay" style="position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:radial-gradient(80% 80% at 50% 50%, rgba(15,23,42,0.94) 0%, rgba(2,6,23,0.98) 100%); z-index:3000; overflow:auto;">
+      <div style="background:#0f172a; border:1px solid #1f2937; border-radius:12px; padding:28px 24px; width:min(720px, 94%); max-height:min(86vh, 90dvh); overflow:auto; -webkit-overflow-scrolling:touch; box-shadow:0 12px 40px rgba(0,0,0,0.45); text-align:center; color:#e5e7eb;">
         <div id="welcome-card">
           <div style="font-size:24px; font-weight:800; letter-spacing:-0.02em; margin-bottom:10px;">Welcome to Venom Maps</div>
           <div style="color:#94a3b8; margin-bottom:18px;">Explore distributions and sightings of venomous snakes across the United States.</div>
@@ -23,20 +23,81 @@
             <button id="about-app" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:10px 16px; border-radius:999px; background:#334155; color:#e5e7eb; border:1px solid #475569; font-weight:600; cursor:pointer;">About</button>
           </div>
         </div>
-        <div id="about-card" style="display:none; text-align:left;">
-          <div style="font-size:20px; font-weight:700; margin:4px 0 12px 0;">About Venom Maps</div>
-          <div style="color:#cbd5e1; line-height:1.6;">
-            <p>Venom Maps is an interactive visualization of venomous snake distributions and crowd‑sourced sightings across the United States. It combines curated range polygons with historical observation records to help researchers, educators, and enthusiasts explore where species occur and how people encounter them.</p>
-            <ul style="margin:0 0 12px 18px; padding:0;">
-              <li>Range overlays: species distribution polygons</li>
-              <li>Sightings: clustered points and heat maps by zoom</li>
-              <li>Search: fuzzy search by common/scientific names</li>
-              <li>Filters: recency and occurrence type</li>
-            </ul>
-            <p style="margin:0 0 12px 0;">Data sources credited in <code>web/meta.json</code> and within the app.</p>
+        <div id="about-card" class="about-card" style="display:none;">
+          <div class="about-title">About VenomMaps (USA)</div>
+          <div class="about-body">
+            <p>
+              VenomMaps (USA) is a simple, fast map to help you figure out which venomous snakes are likely
+              around you in the United States. It’s designed for quick, practical use — whether you’ve just
+              arrived somewhere new, you’re planning a trip, or you’re simply curious about your area.
+            </p>
+
+            <div class="about-subsection">
+              <div class="about-heading">What you’ll see</div>
+              <ul class="about-list">
+                <li><strong>Range areas:</strong> shaded regions showing where each species is known to occur.</li>
+                <li><strong>Sightings (optional):</strong> recent reports you can turn on when you want more detail.</li>
+                <li><strong>Nearby (in view):</strong> a quick list of species that likely occur in the map area you’re looking at.</li>
+                <li><strong>Search by name:</strong> find snakes by common or scientific name.</li>
+              </ul>
+            </div>
+
+            <div class="about-subsection">
+              <div class="about-heading">What’s included here</div>
+              <ul class="about-list">
+                <li><strong>Focus on the U.S.:</strong> this map shows venomous snakes native to the United States.</li>
+                <li><strong>Pitvipers only:</strong> we include rattlesnakes, copperheads, and cottonmouths. Coral snakes are not shown here to keep the map focused and simple.</li>
+                <li><strong>Clean, fast data:</strong> ranges are tuned for speed and clarity, and sightings are off by default so the map loads quickly.</li>
+              </ul>
+            </div>
+
+            <div class="about-subsection">
+              <div class="about-heading">How this differs from the original VenomMaps</div>
+              <ul class="about-list">
+                <li><strong>Purpose:</strong> this version is built for quick “what’s around me?” answers with minimal clicks.</li>
+                <li><strong>Scope:</strong> U.S. species only, with a simpler set of layers; the original covers many more species and regions worldwide.</li>
+                <li><strong>Interface:</strong> fewer controls and a cleaner layout so it’s easier to use on the go (works well on phones — rotate to landscape for more room).</li>
+                <li><strong>Sightings:</strong> you choose when to turn them on; when enabled, the map shows broader patterns when zoomed out and individual points as you zoom in.</li>
+              </ul>
+            </div>
+
+            <div class="about-subsection">
+              <div class="about-heading">Tips for getting the most out of the map</div>
+              <ul class="about-list">
+                <li>Pan and zoom to your area, then check the <strong>Nearby (in view)</strong> list.</li>
+                <li>Hover or tap the map to see species names where ranges overlap.</li>
+                <li>Use the <strong>Search</strong> bar to jump to a species you’re interested in.</li>
+                <li>Turn on <strong>Sightings</strong> if you want to see recent reports; use the time chips (7d, 30d, etc.) to narrow it down.</li>
+              </ul>
+            </div>
+
+            <div class="about-subsection">
+              <div class="about-heading">Important note</div>
+              <p>
+                Maps are guides, not guarantees. Snakes can occur outside shaded areas, and data can be incomplete.
+                Always keep a safe distance and follow local guidelines.
+              </p>
+            </div>
+
+            <div class="about-subsection">
+              <div class="about-heading">Credits and more</div>
+              <p>
+                This project builds on the excellent work from the VenomMaps team.
+                For deeper analysis, global coverage, and advanced tools, try the original dashboard:
+                <a href="https://rhettrautsaw.app/shiny/VenomMaps/" target="_blank" rel="noopener noreferrer">VenomMaps Shiny</a>.
+                You can learn more about the broader project on GitHub:
+                <a href="https://github.com/RhettRautsaw/VenomMaps" target="_blank" rel="noopener noreferrer">VenomMaps on GitHub</a>.
+                Data sources and licensing details are listed in <code>web/meta.json</code>.
+              </p>
+            </div>
+
+            <div class="about-links">
+              <a href="https://rhettrautsaw.app/shiny/VenomMaps/" target="_blank" rel="noopener noreferrer">Open VenomMaps Shiny</a>
+              <a href="https://github.com/RhettRautsaw/VenomMaps" target="_blank" rel="noopener noreferrer">View VenomMaps on GitHub</a>
+            </div>
           </div>
           <div style="display:flex; gap:10px; justify-content:flex-end;">
-            <button id="about-back" class="secondary-btn" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:8px 14px; border-radius:8px; background:#1f2937; color:#e5e7eb; border:1px solid #334155; font-weight:600; cursor:pointer;">Back</button>
+            <button id="about-back" class="secondary-btn" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:8px 14px; border-radius:8px; background:#1f2937; color:#e5e7eb; border:1px solid #334155; font-weight:600; cursor:pointer;">Enter</button>
           </div>
         </div>
       </div>
@@ -44,7 +105,7 @@
     <header class="topbar">
       <div class="brand">VenomMaps (USA)</div>
       <input id="search" class="search" placeholder="Search by common or scientific name…" autocomplete="off" />
-
+      <button id="about-top-btn" class="about-btn" title="About Venom Maps">About</button>
     </header>
 
     <div class="layout">
@@ -243,6 +304,7 @@ L.heatLayer(points, {
       const aboutCard = document.getElementById('about-card');
       const welcomeCard = document.getElementById('welcome-card');
       const aboutBack = document.getElementById('about-back');
+      const aboutTopBtn = document.getElementById('about-top-btn');
       if (enterBtn) {
         enterBtn.addEventListener('click', async () => {
           enterBtn.disabled = true;
@@ -258,10 +320,50 @@ L.heatLayer(points, {
           aboutCard.style.display = '';
         });
       }
+      if (aboutTopBtn && overlay && aboutCard && welcomeCard) {
+        aboutTopBtn.addEventListener('click', () => {
+          welcomeCard.style.display = 'none';
+          aboutCard.style.display = '';
+          overlay.style.display = 'flex';
+        });
+      }
       if (aboutBack && aboutCard && welcomeCard) {
-        aboutBack.addEventListener('click', () => {
-          aboutCard.style.display = 'none';
-          welcomeCard.style.display = '';
+        aboutBack.addEventListener('click', async () => {
+          // If app already running, just close overlay; otherwise enter app
+          try {
+            if (typeof getMap === 'function' && getMap()) {
+              if (overlay) overlay.style.display = 'none';
+              return;
+            }
+            // Mimic Enter behavior
+            const btn = aboutBack;
+            const prevText = btn.textContent;
+            btn.disabled = true;
+            btn.textContent = 'Loading…';
+            await boot();
+            if (overlay) overlay.style.display = 'none';
+            btn.textContent = prevText;
+            btn.disabled = false;
+          } catch (e) {
+            if (overlay) overlay.style.display = 'none';
+          }
+        });
+      }
+      // Clicking outside the card (on the overlay background) while viewing About
+      if (overlay && aboutCard && welcomeCard) {
+        overlay.addEventListener('click', async (e) => {
+          if (e.target === overlay && aboutCard.style.display !== 'none') {
+            // If already in app, close overlay; otherwise enter app
+            if (typeof getMap === 'function' && getMap()) {
+              overlay.style.display = 'none';
+              return;
+            }
+            try {
+              await boot();
+            } finally {
+              overlay.style.display = 'none';
+            }
+          }
         });
       }
     </script>
