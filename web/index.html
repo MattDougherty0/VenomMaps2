@@ -329,12 +329,19 @@ L.heatLayer(points, {
       }
       if (aboutBack && aboutCard && welcomeCard) {
         aboutBack.addEventListener('click', () => {
-          if (welcomeCard.style.display === 'none') {
-            aboutCard.style.display = 'none';
-            if (overlay) overlay.style.display = 'none';
-          } else {
+          // Always return to the welcome screen with Enter/About options
+          aboutCard.style.display = 'none';
+          welcomeCard.style.display = '';
+          if (overlay) overlay.style.display = 'flex';
+        });
+      }
+      // Clicking outside the card (on the overlay background) while viewing About
+      if (overlay && aboutCard && welcomeCard) {
+        overlay.addEventListener('click', (e) => {
+          if (e.target === overlay && aboutCard.style.display !== 'none') {
             aboutCard.style.display = 'none';
             welcomeCard.style.display = '';
+            overlay.style.display = 'flex';
           }
         });
       }
