@@ -13,8 +13,8 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div id="welcome-overlay" style="position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:radial-gradient(80% 80% at 50% 50%, rgba(15,23,42,0.94) 0%, rgba(2,6,23,0.98) 100%); z-index:3000;">
-      <div style="background:#0f172a; border:1px solid #1f2937; border-radius:12px; padding:28px 24px; width:min(720px, 94%); box-shadow:0 12px 40px rgba(0,0,0,0.45); text-align:center; color:#e5e7eb;">
+    <div id="welcome-overlay" style="position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:radial-gradient(80% 80% at 50% 50%, rgba(15,23,42,0.94) 0%, rgba(2,6,23,0.98) 100%); z-index:3000; overflow:auto;">
+      <div style="background:#0f172a; border:1px solid #1f2937; border-radius:12px; padding:28px 24px; width:min(720px, 94%); max-height:min(86vh, 90dvh); overflow:auto; -webkit-overflow-scrolling:touch; box-shadow:0 12px 40px rgba(0,0,0,0.45); text-align:center; color:#e5e7eb;">
         <div id="welcome-card">
           <div style="font-size:24px; font-weight:800; letter-spacing:-0.02em; margin-bottom:10px;">Welcome to Venom Maps</div>
           <div style="color:#94a3b8; margin-bottom:18px;">Explore distributions and sightings of venomous snakes across the United States.</div>
