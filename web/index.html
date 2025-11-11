@@ -97,7 +97,7 @@
             </div>
           </div>
           <div style="display:flex; gap:10px; justify-content:flex-end;">
-            <button id="about-back" class="secondary-btn" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:8px 14px; border-radius:8px; background:#1f2937; color:#e5e7eb; border:1px solid #334155; font-weight:600; cursor:pointer;">Back</button>
+            <button id="about-back" class="secondary-btn" style="display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:8px 14px; border-radius:8px; background:#1f2937; color:#e5e7eb; border:1px solid #334155; font-weight:600; cursor:pointer;">Enter</button>
           </div>
         </div>
       </div>
@@ -328,20 +328,41 @@ L.heatLayer(points, {
         });
       }
       if (aboutBack && aboutCard && welcomeCard) {
-        aboutBack.addEventListener('click', () => {
-          // Always return to the welcome screen with Enter/About options
-          aboutCard.style.display = 'none';
-          welcomeCard.style.display = '';
-          if (overlay) overlay.style.display = 'flex';
+        aboutBack.addEventListener('click', async () => {
+          // If app already running, just close overlay; otherwise enter app
+          try {
+            if (typeof getMap === 'function' && getMap()) {
+              if (overlay) overlay.style.display = 'none';
+              return;
+            }
+            // Mimic Enter behavior
+            const btn = aboutBack;
+            const prevText = btn.textContent;
+            btn.disabled = true;
+            btn.textContent = 'Loading…';
+            await boot();
+            if (overlay) overlay.style.display = 'none';
+            btn.textContent = prevText;
+            btn.disabled = false;
+          } catch (e) {
+            if (overlay) overlay.style.display = 'none';
+          }
         });
       }
       // Clicking outside the card (on the overlay background) while viewing About
       if (overlay && aboutCard && welcomeCard) {
-        overlay.addEventListener('click', (e) => {
+        overlay.addEventListener('click', async (e) => {
           if (e.target === overlay && aboutCard.style.display !== 'none') {
-            aboutCard.style.display = 'none';
-            welcomeCard.style.display = '';
-            overlay.style.display = 'flex';
+            // If already in app, close overlay; otherwise enter app
+            if (typeof getMap === 'function' && getMap()) {
+              overlay.style.display = 'none';
+              return;
+            }
+            try {
+              await boot();
+            } finally {
+              overlay.style.display = 'none';
+            }
           }
         });
       }
