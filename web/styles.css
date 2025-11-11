@@ -81,6 +81,22 @@ body {
   color: var(--text-muted);
 }
 
+/* About button in topbar */
+.about-btn {
+  padding: 10px 12px;
+  border: 1px solid var(--border-secondary);
+  border-radius: 8px;
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.about-btn:hover {
+  border-color: var(--accent-primary);
+  color: var(--text-primary);
+}
+
 /* Layout */
 .layout { 
   display: grid; 

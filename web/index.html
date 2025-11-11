@@ -44,7 +44,7 @@
     <header class="topbar">
       <div class="brand">VenomMaps (USA)</div>
       <input id="search" class="search" placeholder="Search by common or scientific name…" autocomplete="off" />
-
+      <button id="about-top-btn" class="about-btn" title="About Venom Maps">About</button>
     </header>
 
     <div class="layout">
@@ -243,6 +243,7 @@ L.heatLayer(points, {
       const aboutCard = document.getElementById('about-card');
       const welcomeCard = document.getElementById('welcome-card');
       const aboutBack = document.getElementById('about-back');
+      const aboutTopBtn = document.getElementById('about-top-btn');
       if (enterBtn) {
         enterBtn.addEventListener('click', async () => {
           enterBtn.disabled = true;
@@ -258,10 +259,22 @@ L.heatLayer(points, {
           aboutCard.style.display = '';
         });
       }
+      if (aboutTopBtn && overlay && aboutCard && welcomeCard) {
+        aboutTopBtn.addEventListener('click', () => {
+          welcomeCard.style.display = 'none';
+          aboutCard.style.display = '';
+          overlay.style.display = 'flex';
+        });
+      }
       if (aboutBack && aboutCard && welcomeCard) {
         aboutBack.addEventListener('click', () => {
-          aboutCard.style.display = 'none';
-          welcomeCard.style.display = '';
+          if (welcomeCard.style.display === 'none') {
+            aboutCard.style.display = 'none';
+            if (overlay) overlay.style.display = 'none';
+          } else {
+            aboutCard.style.display = 'none';
+            welcomeCard.style.display = '';
+          }
         });
       }
     </script>
